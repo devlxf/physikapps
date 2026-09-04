@@ -1,0 +1,3 @@
+Berechnen Sie den Ortsfaktor aus dem Gravitationsgesetz. Die Gewichtskraft lässt sich schreiben als <p>F_G = m \cdot \frac{M \cdot G}{R^2}</p>, wobei der Ortsfaktor <p>g = \frac{M \cdot G}{R^2}</p> ist.
+---HINT---
+Körper verhalten sich so, als wäre die gesamte Masse in ihrem Schwerpunkt vereint. Setzen Sie den Radius des Himmelskörpers als Abstand ein.

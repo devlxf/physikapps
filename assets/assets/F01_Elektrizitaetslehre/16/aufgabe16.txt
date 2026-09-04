@@ -1,0 +1,3 @@
+Die nebenstehende Schaltung besteht aus den Widerständen <T>R_1=</T><p>value1\ \Omega</p>, <T>R_2=</T><p>value2\ \Omega</p>, <T>R_3=</T><p>value3\ \Omega</p>, <T>R_4=</T><p>value4\ \Omega</p> und der von außen angelegten Spannung <T>U_0=</T><p>value5 \text{ V}</p>.
+
+Welche Spannung liegt zwischen den Punkten A und B an?

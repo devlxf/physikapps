@@ -1,0 +1,5 @@
+Eine Masse <T>m_{1}=</T><p>value1 \text{ kg}</p> befindet sich am Ort <T>x_{1}=</T><p>value2 \text{ m}</p>.
+Eine Masse <T>m_{2}=</T><p>value3 \text{ kg}</p> befindet sich am Ort <T>x_{2}=</T><p>value4 \text{ m}</p>.
+Eine Masse <T>m_{3}=</T><p>value5 \text{ kg}</p> befindet sich am Ort <T>x_{3}=</T><p>value6 \text{ m}</p>. Zusätzlich befindet sich diese Masse in einer Höhe <T>y_{3}=</T><p>value7 \text{ m}</p>.
+
+Berechnen Sie den gemeinsamen Masseschwerpunkt und geben Sie dessen y-Abstand zum Ursprung an.

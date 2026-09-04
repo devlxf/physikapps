@@ -1,0 +1,9 @@
+Ein Baukran hat ein Ballastgewicht <T>F_{B}=</T><p>value1 \text{ daN}</p>.
+
+Mast und Betnuss wiegen zusammen <T>F_{M}=</T><p>value2 \text{ daN}</p>.
+
+Der Winddruck wird mit <T>F_{W}=</T><p>value3 \text{ N}</p> angenommen.
+
+Weiterhin ist <T>s_{1}=</T><p>value4 \text{ m}</p>, <T>s_{2}=</T><p>value5 \text{ m}</p> und <T>s_{3}=</T><p>value6 \text{ m}</p>.
+
+Ab welcher Last <T>F_{L}</T> beginnt der Kran zu kippen, wenn die Last in <T>s_{4}=</T><p>value7 \text{ m}</p> Entfernung vom Mast angehängt ist?

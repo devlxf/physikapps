@@ -1,0 +1,11 @@
+Berechnen Sie zuerst die potenzielle Energie der Kiste zu Beginn.
+---HINT---
+Berechnen Sie die Reibungskraft der Kiste. Beachten Sie, dass die Normalenkraft dabei senkrecht auf der Ebene steht und aus der Gewichtskraft mit dem Rampenwinkel berechnet werden kann.
+---HINT---
+Berechnen Sie die Strecke <p>s</p>, die die Kiste auf der Rampe zurücklegt.
+---HINT---
+Mit der Reibungskraft <p>F_R</p> und der Rampenstrecke <p>s</p> kann nun die Reibarbeit berechnet werden.
+---HINT---
+Die kinetische Energie <p>W_\text{kin}</p> am Fuße der Rampe entspricht der potenziellen Energie <p>W_\text{pot}</p> zu Beginn, abzüglich der Reibungsverluste <p>W_\text{reib}</p>.
+---HINT---
+Die Federkompression <p>x</p> kann nun über den Energiesatz berechnet werden. Da auf der Ebene keine Reibungsverluste existieren, entspricht die kinetische Energie <p>W_\text{kin}</p> am Fuße der Rampe der maximalen Spannenergie <p>W_\text{spann}</p> der Feder.

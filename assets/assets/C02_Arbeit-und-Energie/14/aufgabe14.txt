@@ -1,0 +1,1 @@
+Ein Skifahrer gleitet reibungsfrei. Er startet in einer Höhe A von <p>value1 \text{ m}</p> und wiegt <p>value2 \text{ kg}</p>. Berechnen Sie seine Geschwindigkeit an Position C, wenn sich diese in einer Höhe von <p>value3 \text{ m}</p> befindet.

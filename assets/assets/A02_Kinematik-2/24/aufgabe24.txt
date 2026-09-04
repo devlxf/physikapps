@@ -1,0 +1,7 @@
+Ein Fahrzeug startet aus dem Stand und beschleunigt gleichmäßig bis <T>t =</T><p>valueA\text{ s}</p> auf die Höchstgeschwindigkeit <T>v_max =</T><p>value1\text{ m/s}</p>.
+
+Danach fährt es mit konstanter Geschwindigkeit weiter bis <T>t =</T><p>valueB\text{ s}</p>, bevor es gleichmäßig bis zum Stillstand abbremst.
+
+Das v-t-Diagramm ist gegeben. Bestimmen Sie die zurückgelegte Strecke <T>s</T> von <T>t = 0</T> bis zum Zeitpunkt <T>t₁</T> (rote gestrichelte Linie im Diagramm).
+
+Zählen Sie dazu die Kästchen unter der v-t-Kurve bis zur roten Linie.

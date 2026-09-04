@@ -1,0 +1,3 @@
+Berechnen Sie den kritischen Sehwinkel des Teleskops mit dem Rayleigh-Kriterium: <p>\sin(\alpha_{\text{krit}}) = 1,22 \cdot \frac{\lambda}{d}</p>.
+---HINT---
+Bestimmen Sie die Auflösung auf dem Mond mit der geometrischen Beziehung: <p>y = L \cdot \tan(\alpha_{\text{krit}})</p>.

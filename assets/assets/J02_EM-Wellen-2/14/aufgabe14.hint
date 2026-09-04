@@ -1,0 +1,5 @@
+Berechnen Sie zunächst den Pixelabstand aus der Auflösung: <p>Y = \frac{2,54 \text{ cm}}{N \text{ ppi}}</p> (da 1 Inch = 2,54 cm).
+---HINT---
+Verwenden Sie den Strahlensatz für die Abbildung durch das Auge: <p>\frac{y}{l} = \frac{Y}{L}</p>.
+---HINT---
+Lösen Sie nach der minimalen Betrachtungsentfernung auf: <p>L = \frac{Y}{y} \cdot l</p>.

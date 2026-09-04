@@ -1,0 +1,7 @@
+Berechnen Sie zuerst die Fallgeschwindigkeit am Ende der Fallstrecke wie in der Vorgängeraufgabe: <p>v_\text{End} = \sqrt{2 g h}</p>
+---HINT---
+Berechnen Sie die Bremszeit aus dem Zeit-Weg-Gesetz für gleichmäßige Verzögerung: <p>s = \frac{1}{2} v_\text{End} \cdot t_2 \Rightarrow t_2 = \frac{2s}{v_\text{End}}</p>
+---HINT---
+Berechnen Sie die Bremsverzögerung: <p>a = \frac{v_\text{End}}{t_2}</p>
+---HINT---
+Setzen Sie das Ergebnis in Relation zur Erdbeschleunigung: <p>n = \frac{a}{g}</p>

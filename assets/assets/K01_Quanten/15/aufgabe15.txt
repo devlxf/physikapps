@@ -1,0 +1,3 @@
+Ein Elektron durchläuft eine Potenzialdifferenz von <T>U=</T><p>value1  \text{ kV}</p>.
+
+Berechnen Sie die de-Broglie-Wellenlänge <T>\lambda_\text{DB}</T> des Elektrons.

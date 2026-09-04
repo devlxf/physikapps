@@ -1,0 +1,4 @@
+Ein Zug fährt mit einer gleichförmigen Geschwindigkeit <T>v_0=</T><p>value1 \text{ km/h}</p> in <p>x</p>-Richtung. Das Inertialsystem des Zuges ist <p>I‘</p>. Während der Zug an einem Fußballplatz vorbeifährt, schießt ein Spieler einen Ball mit <T>v_B=</T><p>value2 \text{ m/s}</p> senkrecht in die Luft. Der Fußballplatz befindet sich im Inertialsystem <p>I</p>. 
+
+Berechnen Sie den Betrag der Geschwindigkeit <T>|v|</T> des Balles, den ein Reisender im System <p>I‘</p> direkt nach dem Abstoß misst.
+

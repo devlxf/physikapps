@@ -1,0 +1,3 @@
+Das Rad eines Autos dreht sich mit <T>f=</T><p>value1 \text{ Hz}</p>. Bei einer gleichmäßigen Abbremsung dauert es <T>t_B=</T><p>value2 \text{ s}</p>, bis das Auto steht.
+
+Wie viele Umdrehungen <T>n</T> macht das Rad noch, bis es zum Stillstand kommt?

@@ -1,0 +1,5 @@
+Ein Fahrrad habe die folgende Geometrie: Raddurchmesser <T>d=</T><p>value1 \text{ Zoll}</p>, Kurbel <T>l=</T><p>value2 \text{ cm}</p>, Radius der Antriebsscheibe <T>r_{1}=</T><p>value3 \text{ cm}</p>, Radius der Abtriebsscheibe <T>r_{2}=</T><p>value4 \text{ cm}</p>.
+
+Ein Kind tritt mit der Kraft <T>F_{P}=</T><p>value5 \text{ N}</p> auf die Pedale. Das Fahrrad wiegt <T>m_{F}=</T><p>value6 \text{ kg}</p> und das Kind <T>m_{K}=</T><p>value7 \text{ kg}</p>. Wie lange benötigt das Kind, um auf <T>v=</T><p>value8 \text{ km/h}</p> zu beschleunigen?
+
+Anm.: Die mittlere Hebellänge des Drehmoments auf die Antriebsachse entspricht der halben Kurbellänge. Gehen Sie von idealen und reibungsfreien Verhältnissen aus.

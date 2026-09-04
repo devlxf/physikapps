@@ -1,0 +1,25 @@
+Das Ion muss bis zum Ende des Durchfluges durch den Kondensator eine Höhe <p>y(t) > 0</p> haben.
+
+---HINT---
+
+Nutze die Formel für die gleichmäßig beschleunigte Bewegung in <p>y</p>-Richtung. In dieser Formel muss die Beschleunigung <p>a</p> und die Zeit <p>t</p> bestimmt werden.
+
+---HINT---
+
+Die Geschwindigkeit in x-Richtung ist <p>v_e</p> ist gegeben und bleibt konstant, da in horizontaler Richtung keine Beschleunigung existiert. Mit der Länge <p>l</p> des Kondensators kann Flugzeit somit bestimmt werden.
+
+---HINT---
+
+Die Beschleunigung des Ions wird durch die Coulomb-Kraft hervorgerufen mit <p>F_a = F_C</p>.
+
+---HINT---
+
+Die Masse m des Kohlenstoffions entspricht der 12-fachen Masse eines Protons, also
+
+---HINT---
+
+<p>m_{ ^{12}C} = 12 \cdot 1{,}672 \cdot 10^{-27}\ \text{kg}</p>.
+
+---HINT---
+
+Das Ion ist einfach geladen. Es ist also <p>q = 1{,}6 \cdot 10^{-19}\ \text{C}</p>.

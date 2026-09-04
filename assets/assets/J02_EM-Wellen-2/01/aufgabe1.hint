@@ -1,0 +1,7 @@
+Berechnen Sie zunächst den Beugungswinkel aus der Geometrie mit <p>\tan(\alpha) = \frac{y_n}{L}</p>.
+---HINT---
+Beachten Sie, dass der gegebene Abstand <p>2 \cdot y_n</p> der Abstand zwischen zwei Maxima ist. Der Abstand eines Maximums zur Mitte beträgt also <p>y_n = \frac{2 \cdot y_n}{2}</p>.
+---HINT---
+Verwenden Sie die Gitterbedingung für konstruktive Interferenz: <p>\sin(\alpha) = \frac{n \cdot \lambda}{g}</p> und formen Sie nach g um.
+---HINT---
+Für das erste Maximum setzen Sie <p>n = 1</p> und berechnen Sie die Gitterkonstante g.

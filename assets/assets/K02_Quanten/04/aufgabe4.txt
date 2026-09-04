@@ -1,0 +1,3 @@
+Die Energieversorgung einer Sonde erfolgt über die Sonneneinstrahlung.
+
+Begründen Sie, ab welcher Wellenlänge <T>\lambda_\text{max}</T> das Licht aus der Sonnenstrahlung für Solarzellen nutzbar ist, wenn für die Auslösung der Elektronen in den Solarzellen eine Mindestenergie von <T>E_\text{min}=</T><p>value1  \text{ eV}</p> erforderlich ist.

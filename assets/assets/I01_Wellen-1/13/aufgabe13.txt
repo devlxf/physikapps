@@ -1,0 +1,3 @@
+Auf einem Seil werden Wellen erzeugt, indem dieses an der Stelle <T>\,\,x=</T><p>value5\ \text{m}\,\,</p> mit der Frequenz <T>\,\,f=</T><p>value1\ \text{Hz}\,\,</p> und einer Amplitude <T>\,\,\hat{y}=</T><p>value2\ \text{m}\,\,</p> harmonisch bewegt wird. Die Wellenlänge beträgt <T>\,\,\lambda=</T><p>value3\ \text{cm}</p>. Das Seil hat den Durchmesser <T>\,\,d=</T><p>value4\ \text{mm}\,\,</p> und die Dichte <T>\,\,\rho=</T><p>value6\ \text{kg/m}^3</p>.
+
+Berechnen Sie die Spannkraft <T>\,\,F\,\,</T>, mit der das Seil gespannt ist.

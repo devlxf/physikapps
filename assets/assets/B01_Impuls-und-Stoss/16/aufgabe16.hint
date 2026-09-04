@@ -1,0 +1,13 @@
+Berechnen Sie den Gesamtimpuls, der durch ein Drittel des Schwarzpulvers erzeugt wird.
+---HINT---
+Berechnen Sie mit der Impulserhaltung die Startgeschwindigkeit der Rakete.
+---HINT---
+Berechnen Sie die Geschwindigkeit und Höhe der Rakete nach einer Sekunde (Formel für die beschleunigte Bewegung).
+---HINT---
+Berechnen Sie die Geschwindigkeit der Rakete direkt nachdem ein zweites Treibstoffpaket gezündet wurde. Diese Geschwindigkeit besteht aus der vorhergehenden Endgeschwindigkeit plus der durch den Schub erhaltenen Geschwindigkeit.
+---HINT---
+Berechnen Sie die Geschwindigkeit und Höhe, die die Rakete nach 2 Sekunden erreicht hat.
+---HINT---
+Berechnen Sie dann die Geschwindigkeit, die die Rakete nach Zünden des 3. Treibstoffpaketes erhält (Endgeschwindigkeit nach 2 Sekunden plus Schub).
+---HINT---
+Berechnen Sie die maximal erreichbare Höhe. Nutzen Sie dazu aus, dass die Geschwindigkeit der Rakete im höchsten Punkt <p>0\ \text{m/s}</p> ist.

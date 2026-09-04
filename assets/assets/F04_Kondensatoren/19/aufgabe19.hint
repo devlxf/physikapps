@@ -1,0 +1,5 @@
+Die Leistung <p>P</p> zum Zeitpunkt <p>t</p> ist <p>P\left(t\right) = U(t)\cdot I(t)</p>.
+---HINT---
+Weiterhin lässt sich die Spannung durch Strom und Kapazität ausdrücken, sodass nur noch eine zeitabhängige Komponente existiert.
+---HINT---
+Setzen Sie die Formel für den Entladungsstrom ein.

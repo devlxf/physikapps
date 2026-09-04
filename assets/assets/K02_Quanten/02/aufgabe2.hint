@@ -1,0 +1,8 @@
+Berechnen Sie für jede angegebene Wellenlänge die zugehörige Frequenz. 
+---HINT---
+Für den Photoeffekt gilt:
+<p>W_{\text{kin}} = h \cdot f - W_A</p>
+Die Grenzfrequenz ist erreicht, wenn die kinetische Energie gerade verschwindet:
+<p>W_{\text{kin}} = 0</p>
+---HINT---
+Setzen Sie <p>W_{\text{kin}} = 0</p> und lösen Sie die Gleichung nach der Grenzfrequenz <p>f_{\text{gr}}</p> auf.

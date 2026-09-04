@@ -1,0 +1,21 @@
+Die Energie <p>W_{el}</p>, die ein Teilchen beim Durchlaufen einer Spannungsdifferenz erhält, entspricht der kinetischen Energie <p>W_{kin}</p>.
+
+---HINT---
+
+Zum einen kann die Energie des Elektrons direkt in „Elektronenvolt“ (eV) angegeben werden, hier ist aber die Angabe in Joule gefordert.
+
+---HINT---
+
+Über den Zusammenhang <p>W_{el}=W_{kin}</p> kann die Geschwindigkeit des Elektrons berechnet werden.
+
+---HINT---
+
+Mit <p>W_{\text{kin}} = \frac{1}{2}\ \text{m}\cdot v^{2}</p> kann dann die Energie in Joule berechnet werden.
+
+---HINT---
+
+Für die Rechnungen werden die Masse <p>m_(e) = 9{,}1 \cdot 10^{-31}\ \text{kg}</p> und Ladung <p>q = 1{,}6 \cdot 10^{-19}\ \text{C}</p> des Elektrons benötigt.
+
+---HINT---
+
+Das Umrechnungsverhältnis zwischen Joule und Elektronenvolt ist natürlich genauso fix, wie das Verhältnis zwischen Meilen und Kilometer, es soll hier aber einmal explizit hergeleitet werden.

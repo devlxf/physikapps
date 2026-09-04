@@ -1,0 +1,1 @@
+Zwei gleichlange Federn der Härte <T>D_1=</T><p>value1 \text{ N/cm}</p> und <T>D_2=</T><p>value2 \text{ N/cm}</p> werden gemäß Zeichnung parallelgeschaltet. Berechnen Sie die Masse <T>m</T> eines angehängten Gewichtes, wenn die Auslenkung nach Anhängen <T>\Delta s=</T><p>value3 \text{ cm}</p> beträgt.

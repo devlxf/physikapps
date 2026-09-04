@@ -1,0 +1,3 @@
+Ein Laser sendet Licht der Wellenlänge <T>\lambda=</T><p>value1  \text{ nm}</p> aus.
+
+Berechnen Sie den Impuls <T>p</T> eines einzelnen Photons.

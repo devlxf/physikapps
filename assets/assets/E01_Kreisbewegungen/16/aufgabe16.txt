@@ -1,0 +1,3 @@
+Ein Wassereimer wird in einem vertikalen Kreis mit dem Radius <T>r=</T><p>value1 \text{ m}</p> geschwungen.
+
+Wie groß muss die Mindestgeschwindigkeit <T>v</T> im höchsten Punkt sein, damit kein Wasser ausläuft?

@@ -1,0 +1,9 @@
+Zeichnen Sie zuerst ein Schaltbild.
+---HINT---
+Berechnen Sie den Widerstand des Kabels mit der Formel für den spezifischen Widerstand: <p>R = \rho \cdot \frac{l}{A}</p>
+---HINT---
+Beachten Sie, die Kabellänge doppelt zu nehmen (Hinleiter plus Rückleiter).
+---HINT---
+Berechnen Sie den fließenden Strom mit Widerstand und Leistung des Heizstrahlers mit <p>P = U \cdot I</p> und <p>U = R \cdot I</p>.
+---HINT---
+Berechnen Sie die Leistung <p>P</p>, die für das Kabel aufgewendet werden muss.

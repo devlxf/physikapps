@@ -1,0 +1,3 @@
+Am Restaurant Poseidon hängt eine Werbetafel. Die horizontale Kathete der Halterung ist <T>s_x=</T><p>value1 \text{ cm}</p> lang, die vertikale Kathete an der Wand misst <T>s_y=</T><p>value2 \text{ cm}</p>.
+
+Wie groß ist die Kraft in der diagonalen Verstrebung (Strebe 2), wenn das Schild eine Gewichtskraft von <T>F_G=</T><p>value3 \text{ N}</p> hat?

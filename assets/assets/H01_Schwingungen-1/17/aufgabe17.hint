@@ -1,0 +1,11 @@
+Die rücktreibende Kraft der Schwingung wird von der Gewichtskraft der Kette gebildet.
+---HINT---
+Dabei spielt nur der Masseanteil der Kette eine Rolle, der aus der Ruhelage ausgelenkt wird.
+---HINT---
+Über die gegebene Gesamtmasse und Länge der Kette lässt sich die Masse pro Länge berechnen – und damit die wirksame rückstellende Gewichtskraft.
+---HINT---
+Masse pro Länge mal Auslenkung ergibt den Massenüberschuss auf der linken Seite. Da auf der rechten Seite jedoch der gleiche Massenanteil fehlt, muss die Gleichung mit 2 multipliziert werden, um die rückstellende Kraft <p>\,\, F_{\text{Rück}}=\Delta m\cdot g\,\, </p> richtig zu berechnen.
+---HINT---
+Ein Vergleich mit dem Hookeschen Gesetz, <p>\,\, F=D\cdot s</p>, zeigt, welche Größe hier der Federkonstanten entspricht. 
+---HINT---
+Ist dies erkannt, kann das gefundene <p>\,\, D\,\, </p> in die Formel für die Periodendauer eingesetzt werden.

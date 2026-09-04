@@ -1,0 +1,3 @@
+Eine Kugel der Gewichtskraft <T>F_K=</T><p>value1 \text{ N}</p> befindet sich in einem Graben und soll angehoben werden. Zur Verfügung stehen ein Seil mit vernachlässigbarem Gewicht sowie ein homogener Balken mit der Gewichtskraft <T>F_B=</T><p>value2 \text{ N}</p>.
+
+Beide Männer sollen mit der gleichen Kraft ziehen. Wie groß ist diese Kraft jeweils?

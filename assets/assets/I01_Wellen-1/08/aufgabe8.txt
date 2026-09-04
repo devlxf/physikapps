@@ -1,0 +1,3 @@
+Eine über eine Feder laufende Transversalwelle hat die Amplitude von <T>\,\,\hat{y}=</T><p>value1\ \text{cm}\,\,</p> und eine Frequenz von <T>\,\,f=</T><p>value2\ \text{Hz}\,\,</p>. Ein Teilchen bei <T>\,\,x=</T><p>0\ \text{cm}\,\,</p> habe bei <T>\,\,t_0=</T><p>0\ \text{s}\,\,</p> eine Auslenkung von <T>\,\,y=</T><p>0\ \text{cm}\,\,</p>. Nach welcher Zeit <T>\,\,t_1\,\,</T> hat dieses Teilchen die Auslenkung <T>\,\,y_1=</T><p>valueR\ \text{cm}</p>?
+
+

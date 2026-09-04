@@ -1,0 +1,3 @@
+Eine quadratische Leiterschleife mit der Seitenlänge <T>a=</T><p>value1 \text{ m}</p> rotiert in einem homogenen Magnetfeld der Stärke <T>B=</T><p>value2 \text{ T}</p> in der gezeichneten Richtung mit <T>f=</T><p>value5 \text{ }</p> Umdrehungen pro Minute. Die dabei induzierte Spannung <p>U_\text{ind}</p> wird über Schleifringe abgegriffen und an den Klemmen 1 und 2 einem ohmschen Widerstand <T>R=</T><p>value3 \text{ }\Omega</p> zugeführt.
+
+Wie groß ist die Stromstärke zum Zeitpunkt <T>t=</T><p>value4 \text{ ms}</p>?

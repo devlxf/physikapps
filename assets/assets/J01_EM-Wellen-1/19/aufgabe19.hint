@@ -1,0 +1,7 @@
+Verwenden Sie die Definition der Gruppengeschwindigkeit: <p>v_g = \frac{d\omega}{dk}</p>.
+---HINT---
+Lösen Sie die Dispersionsrelation <p>\omega^2 = k \cdot g</p> nach ω auf und leiten Sie nach k ab.
+---HINT---
+Berechnen Sie die Kreisfrequenz aus der gegebenen Frequenz: <p>\omega = 2\pi f</p>.
+---HINT---
+Drücken Sie k durch ω aus der Dispersionsrelation aus und setzen Sie in die abgeleitete Formel ein.

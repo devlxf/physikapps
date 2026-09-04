@@ -1,0 +1,1 @@
+Die Haftzahl von Eisen auf Eisen ist <T>\mu_H=</T><p>value1</p>. Welchen Bruchteil <T>\frac{m_L}{m_Z}</T> an der gesamten Gewichtskraft des Zuges muss die Lokomotive (Antrieb auf allen Achsen) mindestens haben, wenn die Rollwiderstandszahl <T>\mu_R=</T><p>value2</p> ist?

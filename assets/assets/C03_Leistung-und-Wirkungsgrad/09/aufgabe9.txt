@@ -1,0 +1,3 @@
+Das Speicherwerk hat beim Abspeichern der überschüssigen elektrischen Energie einen „Speicherwirkungsgrad" von etwa <T>\eta_{1}=</T><p>value1 \text{ \%}</p>. Für die Rückgewinnung der elektrischen Energie aus der Lageenergie des Wassers kann man ebenfalls einen „Rückgewinnungswirkungsgrad" von <T>\eta_{2}=</T><p>value2 \text{ \%}</p> ansetzen.
+
+Wie groß ist dann der Gesamtwirkungsgrad eines Pumpspeicherwerkes?

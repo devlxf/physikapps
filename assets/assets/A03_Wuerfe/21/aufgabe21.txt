@@ -1,0 +1,3 @@
+Eine Schützin schießt auf eine <T>s_x=</T><p>value1\text{ m}</p> entfernte Scheibe. Sie schießt den Pfeil unter einem Winkel von <T>\alpha=</T><p>value2\text{°}</p> zur Waagerechten ab. Die Abschussgeschwindigkeit beträgt <T>v_0=</T><p>value3\text{ m/s}</p>. Abschuss- und Scheibenmittelpunkt liegen auf gleicher Höhe. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+In welchem Abstand vom Scheibenmittelpunkt trifft der Pfeil auf?

@@ -1,0 +1,7 @@
+Denken Sie daran, dass sich Kepler immer auf punktförmige Massen bezieht. Sie müssen bei den Abständen also den Radius der Erde <p>R_{Erde} = 6371\,\text{km}</p> berücksichtigen.
+---HINT---
+Nutzen Sie das 2. Keplersche Gesetz: Der Fahrstrahl überstreicht in gleichen Zeiten gleiche Flächen <p>\frac{A_1}{t_1} = \frac{A_2}{t_2}</p>.
+---HINT---
+Die überstrichene Fläche <p>A</p> kann durch ein Dreieck angenähert werden: <p>A = \frac{1}{2} \cdot r \cdot s</p>
+---HINT---
+Rechnen Sie zuerst das Geschwindigkeitsverhältnis aus: <p>\frac{v_1}{v_2} = \frac{r_2}{r_1}</p> und rechnen Sie das Ergebnis dann in Prozent um.

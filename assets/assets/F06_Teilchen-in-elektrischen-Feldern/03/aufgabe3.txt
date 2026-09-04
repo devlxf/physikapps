@@ -1,0 +1,6 @@
+Im Experiment misst man bei einem Abstand der Kondensatorplatten von <T>d=</T><p>value1 \text{ cm}</p> und einer Spannung von <T>U=</T><p>value2 \text{ V}</p> eine Tröpfchengeschwindigkeit von <T>v_{1}=</T><p>value3 \text{ m}/\text{s}</p> für ein Öltröpfchen. Berechnen Sie hiermit die Ladung des Öltröpfchens.
+
+Anmerkung:
+Die Dichte von Öl ist <p>\rho_{\text{Öl}} = 875{,}3\ \frac{\text{kg}}{\text{m}^{3}}</p>.
+
+Die Viskosität der Luft ist <p>\eta=1{,}81\cdot 10^{-5}\ \frac{\text{Ns}}{\text{m}^{2}}</p>.

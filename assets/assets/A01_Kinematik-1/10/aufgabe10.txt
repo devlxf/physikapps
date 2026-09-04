@@ -1,0 +1,1 @@
+Ein Auto fährt zunächst <T>s_1=</T><p>value1\text{ km}</p> konstant mit <T>v_1=</T><p>value2\text{ km/h}</p>. Anschließend fährt es <T>s_2=</T><p>value3\text{ km}</p> konstant mit <T>v_2=</T><p>value4\text{ km/h}</p>. Wie hoch ist seine Durchschnittsgeschwindigkeit?

@@ -1,0 +1,3 @@
+Eine Bergbahn hat vollbesetzt die Masse <T>m=</T><p>value1 \text{ t}</p>. Sie fährt in <T>t=</T><p>value2 \text{ min}</p> von der Talstation zur <T>h=</T><p>value3 \text{ m}</p> höher gelegenen Bergstation.
+
+Berechnen Sie die mechanische Hubleistung bei dieser Fahrt.

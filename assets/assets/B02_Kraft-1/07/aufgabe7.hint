@@ -1,0 +1,5 @@
+Beide Massen befinden sich zuerst im Gleichgewicht, das System bewegt sich nicht.
+---HINT---
+Legt man ein kleines Massestück \(m\) auf, so wird das Gesamtsystem mit \(a\) beschleunigt. Die Geschwindigkeit des Systems nach der Zeit \(t\) kann mit <p>s = \frac{v \cdot t}{2}</p> berechnet werden. Die Beschleunigung ergibt sich dann aus <p>v = a \cdot t</p>
+---HINT---
+Das Gesamtsystem wird nun mit <p>F = m_{\text{ges}} \cdot a</p> beschleunigt. \(F\) entspricht dabei der Gewichtskraft des aufgelegten Massestücks \(m\).

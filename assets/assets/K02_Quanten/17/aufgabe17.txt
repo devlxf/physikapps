@@ -1,0 +1,3 @@
+Ein Atom der Ordnungszahl <T>Z=</T><p>value1</p> sendet eine Spektrallinie aus, wenn ein angeregtes Elektron vom Niveau <T>m=</T><p>valueR</p> auf das Niveau <T>n=</T><p>value3</p> übergeht.
+
+Berechnen Sie die emittierte Wellenlänge <T>\lambda</T>.

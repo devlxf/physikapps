@@ -1,0 +1,3 @@
+Ein Auto (<T>m=</T><p>value1 \text{ kg}</p>) wird zuerst von null auf <p>value2 \text{ km/h}</p>, dann von <p>value2 \text{ km/h}</p> auf <p>value3 \text{ km/h}</p> beschleunigt.
+
+Die wieviel fache Menge an Energie des ersten Beschleunigungsvorgangs wird im zweiten Beschleunigungsvorgang aus Benzin in Bewegungsenergie umgesetzt?

@@ -1,0 +1,5 @@
+Da beide LKWs zu Beginn gleich schnell sind, beträgt die Relativgeschwindigkeit zunächst <p>v_\text{rel} = 0</p>. Im Bezugssystem von LKW 1 muss LKW 2 den Abstand <p>s_0</p> aufholen.
+---HINT---
+Bestimmen Sie die Zeit mit: <p>s_0 = \frac{1}{2} a \cdot t^2 \Rightarrow t = \sqrt{\frac{2 s_0}{a}}</p>
+---HINT---
+Berechnen Sie dann die Geschwindigkeit von LKW 2 mit dem Zeit-Geschwindigkeits-Gesetz: <p>v_2 = v_0 + a \cdot t</p>

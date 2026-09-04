@@ -1,0 +1,5 @@
+Zeichnen Sie ein geeignetes Kräfteparallelogramm.
+---HINT---
+Berechnen Sie den notwendigen Neigungswinkel <p>\alpha</p> mit Hilfe des Tangens: <p>\alpha = \tan^{-1}\!\left(\frac{v^2}{r \cdot g}\right)</p>.
+---HINT---
+Berechnen Sie die Normalenkraft des Autos auf die Oberfläche mit Hilfe des Kosinus: <p>F_U = \frac{F_G}{\cos(\alpha)}</p>.

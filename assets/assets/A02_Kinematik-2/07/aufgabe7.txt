@@ -1,0 +1,1 @@
+Bei einer Vollbremsung erreicht ein Sportwagen eine Bremsverzögerung von <T>a=</T><p>value1\text{ m/s}^2</p>. Wie lang ist der Bremsweg bei einer Anfangsgeschwindigkeit von <T>v_0=</T><p>value2\text{ km/h}</p>?

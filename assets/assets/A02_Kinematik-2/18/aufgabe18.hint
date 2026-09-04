@@ -1,0 +1,5 @@
+Sie benötigen das Zeit-Weg-Gesetz und das Zeit-Geschwindigkeits-Gesetz für eine beschleunigte Bewegung.
+---HINT---
+Die Zeit ist nicht direkt gegeben. Formen Sie das Zeit-Weg-Gesetz nach <p>t</p> um: <p>h = \frac{1}{2} g \cdot t^2 \Rightarrow t = \sqrt{\frac{2h}{g}}</p>
+---HINT---
+Setzen Sie in das Zeit-Geschwindigkeits-Gesetz ein: <p>v = g \cdot t = \sqrt{2 g h}</p>

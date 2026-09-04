@@ -1,0 +1,1 @@
+Bestimmen Sie aus dem gegebenen Zeit-Weg-Diagramm die Geschwindigkeit.

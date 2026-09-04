@@ -1,0 +1,7 @@
+Die Bedingung für den Feldfreien Raum ist, dass die Überlagerung beider Felder 0 ergibt.
+---HINT---
+Setze die Felder von Punktladungen in <p>0 = {E}_{1}+{E}_{2}</p> ein.
+---HINT---
+<p>a</p> und <p>b</p> sind jeweils die Abstände der Ladungen vom betrachteten Ort. Sie können Die Relation <p>a+b = r</p> nutzen, um eine Variable zu eliminieren.
+---HINT---
+Nach Umformen erhalten Sie eine quadratische Gleichung f <p>r</p>, die sie lösen können.

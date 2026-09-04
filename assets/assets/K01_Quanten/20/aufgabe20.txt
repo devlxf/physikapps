@@ -1,0 +1,5 @@
+Ein Photon der Wellenlänge <T>\lambda_\text{vor}=</T><p>value1  \text{ pm}</p> trifft auf ein ruhendes freies Elektron.
+
+Das Photon werde genau zurückgestreut, das heißt, nach dem Stoß bewegt es sich entgegengesetzt zu seiner Einfallsrichtung. Nach der Compton-Gleichung besitzt es in diesem Fall nach dem Stoß die Wellenlänge <T>\lambda_\text{nach}=</T><p>value2  \text{ pm}</p>.
+
+Bestimmen Sie den Impuls <T>p_\text{e}</T> des gestoßenen Elektrons mit Hilfe des Impulserhaltungssatzes.

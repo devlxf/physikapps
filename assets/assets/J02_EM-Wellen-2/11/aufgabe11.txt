@@ -1,0 +1,3 @@
+Die Netzhaut ist <T>L=</T> <p>value1 \text{ cm}</p> von der Pupille entfernt. Gehen Sie weiterhin von einem Pupillendurchmesser von <T>d=</T> <p>value2 \text{ mm}</p> aus. 
+
+Berechnen Sie, wie weit <T>(\Delta y)</T> die Intensitätsmaxima bei einer Wellenlänge von <T>\lambda =</T> <p>value3 \text{ nm}</p> auf der Netzhaut entfernt liegen.

@@ -1,0 +1,1 @@
+Berechnen Sie die magnetische Feldstärke, die ein langer gerader Leiter in <T>r=</T><p>value1 \text{ cm}</p> Entfernung erzeugt, wenn eine Stromstärke von <T>I=</T><p>value2 \text{ A}</p> durch ihn hindurchfließt.

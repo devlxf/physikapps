@@ -1,0 +1,3 @@
+Eine Felgenbremse am Hinterrad eines Fahrrades wirkt auf beiden Seiten der Felge. Die Bremsbeläge haben zur Felge eine Reibzahl von <T>\mu=</T><p>value1</p>. Der Durchmesser der Felge beträgt am Ort der Reibung <T>d=</T><p>value2 \text{ cm}</p>. Bei einer Bremsung aus der Geschwindigkeit <T>v=</T><p>value3 \text{ km/h}</p> benutzt der Fahrer nur seine Hinterradbremse. Nach genau <p>value4</p> vollständigen Radumdrehungen kommt er zum Stehen. Die abgebremste Masse (Fahrrad und Fahrer) beträgt <T>m=</T><p>value5 \text{ kg}</p>.
+
+Wie groß war die Anpresskraft der Bremsbacken gegen die Felge?

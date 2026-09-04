@@ -1,0 +1,3 @@
+Ein Gummiseil ist zwischen zwei Wänden eingespannt, die <T>\,\,l=</T><p>value1\ \text{cm}\,\,</p> voneinander entfernt sind. Es wird sinusförmig quer zur Seilrichtung angeregt. Die Erregerfrequenz <T>\,\,f_{\text{err}}\,\,</T> wird langsam von 0 Hz an erhöht. Bei einer bestimmten Eigenschwingung erhält man <T>\,\,n_1=</T><p>value2\,\,</p> Schwingungsbäuche. Erhöht man die Frequenz um <T>\,\,\Delta f=</T><p>valueR\ \text{Hz}\,\,</p>, so kommen <T>\,\,\Delta n=</T><p>value3\,\,</p> Schwingungsbäuche hinzu.
+
+Berechnen Sie die Ausbreitungsgeschwindigkeit <T>\,\,c\,\,</T> im Seil.

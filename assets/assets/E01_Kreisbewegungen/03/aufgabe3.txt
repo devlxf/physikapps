@@ -1,0 +1,3 @@
+Ein Auto fährt mit <T>v_A=</T><p>value1 \text{ km/h}</p>. Ein im Reifen verklemmter Stein löst sich aus dem Profil, als er sich gerade im obersten Punkt befindet.
+
+Welche Geschwindigkeit (Betrag und Richtung) hat der Stein für einen außenstehenden Beobachter direkt nach dem Loslösen vom Reifen?

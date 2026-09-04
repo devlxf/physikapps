@@ -1,0 +1,5 @@
+Der Beschleunigungsweg entspricht dem halben Hub: <p>s = \frac{h}{2}</p>
+---HINT---
+Die Beschleunigungszeit entspricht einem Viertel der Gesamtzeit eines Zyklus: <p>t = \frac{1}{4n}</p>
+---HINT---
+Setzen Sie beide Werte in das Zeit-Weg-Gesetz ein und lösen Sie nach <p>a</p> auf: <p>s = \frac{1}{2} a \cdot t^2 \Rightarrow a = \frac{2s}{t^2}</p>

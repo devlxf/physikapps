@@ -1,0 +1,1 @@
+Die horizontal liegende Feder (Federkonstante <T>D=</T><p>value1 \text{ N/cm}</p>) einer Federpistole ist bereits um <p>value2 \text{ cm}</p> gestaucht. Um eine höhere Bolzengeschwindigkeit zu erreichen, wird die Feder um weitere <p>value3 \text{ cm}</p> gestaucht. Welche Arbeit muss man bei der erneuten Stauchung verrichten?

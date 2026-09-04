@@ -1,0 +1,6 @@
+Mithilfe der dargestellten Versuchsanordnung soll der Photoeffekt näher untersucht werden. Dabei fällt monochromatisches Licht der Wellenlänge <T>\lambda=</T><p>value1  \text{ nm}</p> auf die Kathode der Photozelle.
+
+Bei einem Versuch zur Bestimmung der Planck-Konstanten wird die maximale Geschwindigkeit der Photoelektronen zu <T>v_\text{max}=</T><p>value2  \text{ m/s}</p> bestimmt.
+
+Berechnen Sie mit diesen Angaben die Austrittsarbeit <T>W_\text{A}</T>, die notwendig ist, um Elektronen aus dem Material herauszulösen.
+

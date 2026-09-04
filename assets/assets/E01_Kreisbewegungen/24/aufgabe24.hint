@@ -1,0 +1,9 @@
+Bestimmen Sie zuerst den Radiusvektor, mit dem sich der Schwerpunkt einer Person um das Zentrum bewegt: <p>r = \frac{d}{2} - s</p>.
+---HINT---
+Stellen Sie anschließend das Kräfteparallelogramm auf. Die Reibungskraft muss mindestens so groß sein wie die Gewichtskraft: <p>F_G \leq F_R</p>.
+---HINT---
+Die Normalenkraft entspricht der Zentripetalkraft: <p>F_N = F_z</p>. Damit ergibt sich: <p>F_G \leq \mu \cdot F_z</p>.
+---HINT---
+Nach Einsetzen der Formeln für Gewichtskraft und Zentripetalkraft und Kürzen der Masse ergibt sich: <p>v \geq \sqrt{\frac{g \cdot r}{\mu}}</p>.
+---HINT---
+Ist die Bahngeschwindigkeit ermittelt, berechnen Sie die Frequenz über: <p>f = \frac{v}{2 \cdot \pi \cdot r}</p>.

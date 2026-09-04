@@ -1,0 +1,3 @@
+Der Rotor eines Hubschraubers hat den Radius <T>r=</T><p>value1 \text{ m}</p>. Er rotiert mit der Frequenz <T>f=</T><p>value2 \text{ Hz}</p>.
+
+Welche Umlaufgeschwindigkeit besitzt die Rotorspitze?

@@ -1,0 +1,7 @@
+Eine <T>P=</T><p>value1  \text{ W}</p> Glühbirne emittiert Licht der Wellenlänge <T>\lambda=</T><p>value2  \text{ nm}</p> in alle Richtungen. Dabei gehen allerdings <T>p=</T><p>value3  \text{ \%}</p> der Lampenleistung in Wärme über.
+
+In <T>r=</T><p>value4  \text{ m}</p> Entfernung befindet sich eine quadratische Fotozelle der Kantenlänge <T>k=</T><p>value5  \text{ cm}</p>.
+
+Die Lampe wird für genau <T>t=</T><p>value6  \text{ s}</p> betrieben.
+
+Berechne die Anzahl <T>N</T> der Photonen, die die Fotozelle während der Bestrahlung treffen.

@@ -1,0 +1,3 @@
+Ein ICE erreicht eine Höchstgeschwindigkeit von <T>v=</T><p>value1 \text{ km/h}</p>. Seine größte Zugkraft beträgt <T>F=</T><p>value2 \text{ kN}</p>. Der Zug hat mit Fahrgästen die Masse <T>m=</T><p>value3 \text{ t}</p>.
+
+Berechnen Sie die größte Anfahrbeschleunigung auf horizontaler Strecke (Roll-Reibung vernachlässigen!).

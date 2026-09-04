@@ -1,0 +1,3 @@
+Die Abwurfgeschwindigkeit ist horizontal und hat keinen Einfluss auf die Fallbewegung in <p>y</p>-Richtung.
+---HINT---
+Zur Bestimmung der Flugdauer kann das Gesetz des freien Falls verwendet werden: <p>s_y = \frac{1}{2} g \cdot t^2 \Rightarrow t = \sqrt{\frac{2 s_y}{g}}</p>

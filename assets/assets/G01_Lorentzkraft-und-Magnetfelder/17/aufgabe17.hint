@@ -1,0 +1,9 @@
+Nutzen Sie die Formel für die Magnetische Flussdichte eines stromdurchflossenen Leiters
+---HINT---
+Die Feldstärken überlagern sich linear. Da die Ströme in entgegengesetzte Richtungen fließen, wirken die Feldlinien zwischen den Leitern in entgegengesetzter Richtung.
+---HINT---
+<p>B_{ges} = B_1 - B_2</p>
+---HINT---
+Der Ort mit dem Abstand <p>s</p> von Leiter 1 hat den Abstand <p>|l-s|</p> von Leiter 2.
+---HINT---
+Wenn sich die Felder aufheben, ist <p>B_{ges} = 0</p>. Dies kann ausgenutzt werden, um die Gleichung nach <p>s</p> aufzulösen.

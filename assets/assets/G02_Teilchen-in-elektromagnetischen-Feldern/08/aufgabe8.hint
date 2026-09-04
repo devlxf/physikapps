@@ -1,0 +1,11 @@
+Nutzen Sie die Formel für die gleichmäßig beschleunigte Bewegung in <p>y</p>-Richtung und stellen das Zeit-Weg-Gesetz für diese Bewegung auf.
+---HINT---
+Berechnen Sie die Flugzeit <p>t</p> durch den Kondensator mit <p>v_e</p> mit <p>s = v \cdot t</p>, denn die Flugzeit in <p>x</p>-Richtung ist konstant.
+---HINT---
+Berechnen Sie die Beschleunigung <p>a</p>, indem Sie das Kräftegleichgewicht <p>m \cdot a = q \cdot \frac{U}{d}</p> aufstellen und nach <p>a</p> umformen.
+---HINT---
+Setzen Sie <p>a</p> in die Bewegungsgleichung ein.
+---HINT---
+Damit die Teilchen nicht auf die Kondensatorplatte treffen, muss <p>s(t) > 0</p> sein. Nun können Sie nach <p>U</p> umformen.
+---HINT---
+Sie können <p>U</p> explizit berechnen, indem Sie die gegebenen Werte nun einsetzen. Als Masse verwenden Sie die Masse des <p>^{12}C</p> Kohlenstoffatoms, denn leichtere Teilchen werden stärker beschleunigt. Die Masse entspricht der 12-fachen Masse des Protons <p>m_{^{12}C} = 12 \cdot 1{,}672 \cdot 10^{-27}\ \text{kg}</p>.

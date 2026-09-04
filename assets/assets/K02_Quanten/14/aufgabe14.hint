@@ -1,0 +1,10 @@
+Die potenzielle Energie eines Elektrons in einem elektrostatischen Potenzial einer Kugelladung ist gegeben durch
+<p>E_{\text{pot}} = -\frac{Z \cdot \mathrm{e}^2}{4 \cdot \pi \cdot \varepsilon_0 \cdot r_n}</p>
+Überlegen Sie, welche Werte nicht direkt gegeben sind und erst ermittelt werden müssen.
+---HINT---
+Setzen Sie die Formel für den Bohrschen Radius <p>r_n</p> ein. Sie lautet
+<p>r_n = \frac{n^2 \cdot h^2 \cdot \varepsilon_0}{Z \cdot \mathrm{e}^2 \cdot \pi \cdot m_{\text{e}}}</p>
+---HINT---
+Nach Ausquadrieren und Kürzen bleibt eine Formel für die potenzielle Energie <p>E_{\text{kin}}</p> übrig, die ausschließlich aus Naturkonstanten und gegebenen Werten besteht. Somit kann nach Einsetzen die Energie berechnet werden.
+
+Achten Sie hier auf das richtige Vorzeichen: Die potenzielle Energie ist so definiert, dass der Nullpunkt im Unendlichen liegt und sich das Elektron in einen negativen Potenzialtopf befindet.

@@ -1,0 +1,5 @@
+Zwei kreisförmige Kondensatorplatten haben einen Radius <T>r=</T><p>value1 \text{ cm}</p> und einen Abstand <T>d=</T><p>value2 \text{ mm}</p>.
+
+Die angeschlossene Spannung beträgt <T>U=</T><p>value3 \text{ V}</p>.
+
+Berechnen Sie die im Feld gespeicherte Energie <T>W</T>.

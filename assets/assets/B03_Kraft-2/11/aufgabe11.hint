@@ -1,0 +1,7 @@
+Erstellen Sie eine Kräfteskizze. Zeichnen Sie alle wirkenden Kräfte ein und bilden Sie das Kräfteparallelogramm.
+---HINT---
+Stellen Sie das Kräftegleichgewicht in <p>x</p>-Richtung auf. Die Gewichtskraft wirkt nicht in <p>x</p>-Richtung: <p>F_{1x} = F_{2x}</p>
+---HINT---
+Die <p>y</p>-Komponenten der Kraft im Stützseil ist <p>F_{1y}</p>. Im Stützarm ist dies <p>F_{2y}</p>. Die Länge der Kraft <p>F_{2y}</p> abzüglich <p>F_{1y}</p> ergibt die Gewichtskraft <p>F_{g}</p>.
+---HINT---
+Sie erhalten zwei Gleichungen mit zwei Unbekannten <p>F_{1}</p> und <p>F_{2}</p>. Formen Sie die <p>x</p>-Gleichung nach <p>F_{2}</p> um und setzen Sie dies in die <p>y</p>-Gleichung ein. So können Sie <p>F_{1}</p> berechnen.

@@ -1,0 +1,3 @@
+Auf einer schiefen Ebene liegen zwei Holzkisten mit <T>m_1=</T><p>value1 \text{ kg}</p> und <T>m_2=</T><p>value2 \text{ kg}</p> aufeinander. Die obere Kiste ist an einem Seil parallel zur Ebene befestigt. Die Haftreibzahl beträgt an allen Grenzflächen <T>\mu=</T><p>value3</p>. Die schiefe Ebene wird langsam nach oben gekippt.
+
+Bei welchem Winkel rutscht die untere Kiste los?

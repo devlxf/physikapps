@@ -1,0 +1,10 @@
+Die Gegenspannung liefert die maximale kinetische Energie der Photoelektronen. Diese Energie ist vollständig in Bewegungsenergie umgesetzt.
+---HINT---
+Zwischen kinetischer Energie und Geschwindigkeit gilt:
+<p>W_{\text{kin}} = \frac{1}{2} m v^2</p>
+Die kinetische Energie erhält man aus der Gegenspannung über:
+<p>W_{\text{kin}} = q \cdot U</p>
+---HINT---
+Setzen Sie beide Ausdrücke gleich und lösen Sie nach der Geschwindigkeit auf:
+<p>v = \sqrt{\frac{2 q U}{m}}</p>
+Verwenden Sie für das Elektron die Masse <p>m = 9{,}1 \cdot 10^{-31}\,\text{kg}</p>.

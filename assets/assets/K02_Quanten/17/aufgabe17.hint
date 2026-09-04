@@ -1,0 +1,13 @@
+Nutzen Sie zur Berechnung die Rydberg-Formel und berechnen Sie zuerst die Energie
+<p>\Delta E_{m \to n} = R_H \cdot Z^2 \cdot \left(\frac{1}{n^2} - \frac{1}{m^2}\right)</p>
+---HINT---
+Die Wellenlänge ergibt sich aus
+<p>c=\lambda\cdot f</p>
+---HINT---
+Umformen ergibt
+<p>\lambda=\frac{c}{f}</p>
+Die Frequenz ist wiederum über die die Planck-Beziehung <p>E=h\cdot f</p> gegeben.
+---HINT---
+Die Energie wurde unter Hinweis 1 mit der Rydberg-Formel berechnet und kann in die Gleichung 
+<p>\lambda=\frac{c\cdot h}{E}</p>
+eingesetzt werden. Abschließend kann die Wellenlänge nun berechnet werden.

@@ -1,0 +1,1 @@
+Ein Ruderboot möchte einen Fluss der Breite <T>b=</T><p>value1\text{ m}</p> überqueren. Es hat eine Eigengeschwindigkeit von <T>v_{Boot}=</T><p>value2\text{ m/s}</p>. Der Fluss selbst hat eine Strömungsgeschwindigkeit von <T>v_{Fluss}=</T><p>value3\text{ m/s}</p>. Um welchen Winkel wird das Boot abgelenkt?

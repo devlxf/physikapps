@@ -1,0 +1,3 @@
+Ein Mann hat ein Seil um seine Füße gebunden und kann über drei Rollen daran ziehen (siehe Bild). Der Mann wiegt <T>m=</T><p>value1 \text{ kg}</p>, die Haftzahl ist <T>\mu_H=</T><p>value2</p>.
+
+Mit welcher Kraft <T>F_Z</T> muss er mindestens ziehen, damit ihm die Füße weggezogen werden?

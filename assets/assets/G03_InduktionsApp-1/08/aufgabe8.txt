@@ -1,0 +1,3 @@
+In einem homogenen Magnetfeld mit <T>B=</T><p>value1 \text{ T}</p> befindet sich eine Spule (<T>a=</T><p>value2 \text{ cm}</p>; <T>b=</T><p>value3 \text{ cm}</p>, <T>n=</T><p>100</p> Windungen). Die Spule rotiert mit einer konstanten Frequenz von <T>f=</T><p>value4 \text{ Hz}</p> und eine senkrecht zu den Feldlinien stehende Achse.
+
+Berechnen Sie die induzierte Spannung <T>U</T>.

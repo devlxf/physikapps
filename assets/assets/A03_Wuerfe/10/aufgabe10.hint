@@ -1,0 +1,7 @@
+Die effektive Fallhöhe ist die Steghöhe minus der Bootshöhe: <p>s_y = s_{y,\text{Steg}} - s_{y,\text{Boot}}</p>
+---HINT---
+Berechnen Sie die Fallzeit: <p>t = \sqrt{\frac{2 s_y}{g}}</p>
+---HINT---
+Das Motorrad muss mittig auf dem Boot landen. Die zurückzulegende Strecke ist daher: <p>s_x = s_0 + v_\text{Boot} \cdot t + \frac{s_{x,\text{Boot}}}{2} - \frac{s_{x,M}}{2}</p>
+---HINT---
+Die Mindestgeschwindigkeit des Motorrads: <p>v_M = \frac{s_x}{t}</p>

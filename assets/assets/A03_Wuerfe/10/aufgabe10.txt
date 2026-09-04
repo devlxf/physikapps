@@ -1,0 +1,3 @@
+Ein Motorrad soll auf ein fliehendes Schnellboot springen. Im Moment des Absprungs ist das Boot <T>s_0=</T><p>value1\text{ m}</p> entfernt und fährt mit <T>v_\text{Boot}=</T><p>value2\text{ km/h}</p>. Die Steghöhe beträgt <T>s_{y,\text{Steg}}=</T><p>value3\text{ m}</p>, die Bootshöhe <T>s_{y,\text{Boot}}=</T><p>value4\text{ m}</p>. Das Motorrad ist <T>s_{x,M}=</T><p>value5\text{ m}</p> lang, das Boot <T>s_{x,\text{Boot}}=</T><p>value6\text{ m}</p> lang. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Wie schnell muss das Motorrad mindestens sein, damit es mittig auf dem Boot landet?

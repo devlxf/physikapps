@@ -1,0 +1,5 @@
+Ein Wagen der Masse  <T>m=</T><p>value1\ \text{g}</p> ist zwischen zwei Federn eingespannt und kann durch einen Exzenter zu Schwingungen angeregt werden. Die Härte der linken Feder ist <T>D_1=</T><p>value2\ \text{N/cm}</p>. Die Härte der rechten Feder ist <T>D_2=</T><p>value3\ \text{N/cm}</p>.
+
+
+Berechnen Sie, bei welcher Frequenz <p>f</p> Resonanz auftritt.
+

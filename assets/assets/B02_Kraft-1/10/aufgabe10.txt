@@ -1,0 +1,3 @@
+Ein Gummiseil der Härte <T>D=</T><p>value1 \text{ N/m}</p> hat im ungedehnten Zustand eine Länge von <T>s_1=</T><p>value2 \text{ m}</p>. Springt eine Person der Masse <T>m=</T><p>value3 \text{ kg}</p> von oben in dieses Seil, so dehnt es sich bis auf eine Länge von <T>s_2=</T><p>value4 \text{ m}</p>.
+
+Berechnen Sie, mit welcher Beschleunigung die Person am tiefsten Punkt beschleunigt wird. Geben Sie an, wie oft dies dem Ortsfaktor <T>g</T> entspricht.

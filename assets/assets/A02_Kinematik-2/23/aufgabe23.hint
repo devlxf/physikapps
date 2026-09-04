@@ -1,0 +1,7 @@
+Stellen Sie die Bewegungsgleichungen auf: Für den Stein gilt <p>s = \frac{1}{2} g \cdot t_f^2</p>, für den Schall gilt <p>s = v_s \cdot t_s</p>.
+---HINT---
+Setzen Sie beide Gleichungen gleich (gleiche Strecke). Eliminieren Sie <p>t_s</p> mit <p>t_s = t_\text{ges} - t_f</p>.
+---HINT---
+Es entsteht eine quadratische Gleichung in <p>t_f</p>: <p>\frac{1}{2} g \cdot t_f^2 + v_s \cdot t_f - v_s \cdot t_\text{ges} = 0</p>. Lösen Sie mit der Mitternachtsformel.
+---HINT---
+Berechnen Sie abschließend die Brunnentiefe mit: <p>s = \frac{1}{2} g \cdot t_f^2</p>

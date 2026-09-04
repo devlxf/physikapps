@@ -1,0 +1,5 @@
+Skizzieren Sie den Zug auf den geneigten Schienen mit allen an ihm angreifenden Kräften für den Fall, dass er ohne seitliche Lenkkräfte durch die geneigte Kurve fahren soll.
+---HINT---
+Mit dem Tangens lässt sich der Winkel <p>\alpha</p> aus dem Verhältnis von Gewichtskraft und Zentripetalkraft bestimmen. Die Masse des Zuges kürzt sich dabei heraus: <p>\alpha = \tan^{-1}\!\left(\frac{v^2}{r \cdot g}\right)</p>.
+---HINT---
+Mit dem so erhaltenen Winkel <p>\alpha</p> und der Spurweite als Hypotenuse lässt sich die notwendige Überhöhung berechnen: <p>h = s_W \cdot \tan(\alpha)</p>.

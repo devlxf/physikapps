@@ -1,0 +1,11 @@
+Berechnen Sie zuerst die Kraft in Wegrichtung, denn nur diese ist für die verrichtete Arbeit von Bedeutung.
+---HINT---
+Berechnen Sie mit der <p>x</p>-Komponente der Zugkraft nun die verrichtete Arbeit.
+---HINT---
+Berechnen Sie danach die Reibungskraft <p>F_R</p>. Beachten Sie dabei, dass die Normalenkraft der Kiste ihrer Gewichtskraft abzüglich der <p>y</p>-Komponente der Zugkraft entspricht, da sie durch das Seil leicht angehoben wird.
+---HINT---
+Berechnen Sie mit der Reibungskraft <p>F_R</p> dann die auf der Strecke <p>s</p> verrichtete Reibarbeit.
+---HINT---
+Die kinetische Energie <p>W_\text{kin}</p> des Klotzes entspricht dann der verrichteten Arbeit abzüglich der Reibungsverluste.
+---HINT---
+Mit der kinetischen Energie <p>W_\text{kin}</p> kann dann die Geschwindigkeit <p>v</p> berechnet werden.

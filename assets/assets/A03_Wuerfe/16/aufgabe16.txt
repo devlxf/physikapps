@@ -1,0 +1,3 @@
+Ein Mann wirft einen Schneeball senkrecht nach oben. Er trifft einen Jungen in <T>h=</T><p>value1\text{ m}</p> Höhe mit einer Geschwindigkeit von <T>v(t)=</T><p>value2\text{ m/s}</p> von unten. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Wie schnell hat der Mann den Ball abgeworfen?

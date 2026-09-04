@@ -1,0 +1,1 @@
+Wie groß ist die Feldstärke <T>E</T> in einem Punkt im Raum, wenn dort auf eine elektrische Ladung mit <T>q=</T><p>value1 \text{ μC}</p> eine Kraft von <T>F=</T><p>value2 \text{ N}</p> ausgeübt wird?

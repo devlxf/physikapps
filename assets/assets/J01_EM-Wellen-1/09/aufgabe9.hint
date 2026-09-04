@@ -1,0 +1,5 @@
+Berechnen Sie zunächst die optimale Frequenz aus der Antennenlänge mit <p>l = \frac{\lambda}{2}</p> und <p>f_0 = \frac{c}{\lambda}</p>.
+---HINT---
+Formen Sie die Thomson-Formel <p>f_0 = \frac{1}{2\pi} \cdot \frac{1}{\sqrt{L \cdot C}}</p> nach der Kapazität C um.
+---HINT---
+Setzen Sie die berechnete optimale Frequenz und die gegebene Induktivität in die umgeformte Formel ein.

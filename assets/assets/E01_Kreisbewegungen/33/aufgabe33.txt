@@ -1,0 +1,3 @@
+Bei einem Kettenkarussell beträgt der Radius <T>r_0=</T><p>value1 \text{ m}</p> und die Kettenlänge bis zum Sitz <T>l=</T><p>value2 \text{ m}</p>. Es dreht sich gleichförmig mit einem Auslenkwinkel von <T>\varphi=</T><p>value3 \text{°}</p>.
+
+Berechnen Sie die Bahngeschwindigkeit <T>v</T> des Fahrgastes.

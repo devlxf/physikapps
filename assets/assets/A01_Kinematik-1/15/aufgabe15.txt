@@ -1,0 +1,1 @@
+Ein Ruderboot möchte einen Kanal der Breite <T>b=</T><p>value1\text{ m}</p> überqueren. Das Wasser steht still. Das Boot fährt mit <T>v_{Boot}=</T><p>value2\text{ m/s}</p>, weicht jedoch um <T>\alpha=</T><p>value3\text{°}</p> vom direkten Weg ab. Wie lange benötigt das Boot für die Überquerung?

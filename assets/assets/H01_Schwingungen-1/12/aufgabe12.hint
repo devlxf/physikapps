@@ -1,0 +1,12 @@
+Die rückstellende Kraft <p>\,\, F \,\,</p> der Schwingung setzt sich aus der Masse <p>\,\, m \,\, </p> und der Beschleunigung <p>\,\, a \,\, </p> zusammen. 
+---HINT---
+Die Beschleunigung ist in dem oberen und unteren Umkehrpunkt maximal.
+---HINT---
+Im tiefsten Punkt muss der Faden die Gegenkraft zur Gewichtskraft und die rückstellende Kraft zusammen aufbringen, sodass die Belastung hier maximal wird.
+---HINT---
+Bilden Sie also die Differenz aus Gewichtskraft und maximaler Fadenkraft, um die Kraft zu berechnen, die als Rückstellkraft übrigbleibt, ohne den Faden zu überlasten.
+---HINT---
+Nutzen Sie das Newtonsche Aktionsgesetz (2. Axiom), und setzen die Beschleunigungsfunktion ein. 
+---HINT---
+Im Extremfall wird der Kosinus in der Beschleunigungsfunktion 1 bzw. -1. Dies kann ausgenutzt werden und anschließend nach y_0, der maximalen Auslenkhöhe, umzuformen.
+

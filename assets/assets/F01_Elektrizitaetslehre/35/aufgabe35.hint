@@ -1,0 +1,9 @@
+Zeichnen Sie zuerst ein Schaltbild.
+---HINT---
+Berechnen Sie den Widerstand des Kabels mit der Formel für den spezifischen Widerstand: <p>R = \rho \cdot \frac{l}{A}</p>
+---HINT---
+Beachten Sie, die Kabellänge doppelt zu nehmen (Hinleiter plus Rückleiter).
+---HINT---
+Berechnen Sie mit dem Ohmschen Gesetz und der Leistung <p>P</p> den Strom <p>I_0</p>, der durch die Schaltung fließt.
+---HINT---
+Berechnen Sie die Leistung <p>P</p>, die für das Kabel aufgewendet werden muss, und daraus die Wärmeenergie <p>W = P \cdot t</p>.

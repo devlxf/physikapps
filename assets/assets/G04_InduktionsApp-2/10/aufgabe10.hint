@@ -1,0 +1,11 @@
+Nutzen Sie die Formel für die Induktionsspannung durch Flächenänderung.
+---HINT---
+Zuerst müssen Sie eine Formel für die vom Magnetfeld durchsetzte Fläche finden. Diese ändert sich zeitlich.
+---HINT---
+Zu Beginn ist die Fläche maximal, nach einer viertel Umdrehung ist sie 0. Stellen sie somit die Fläche mit einem Kosinus dar.
+---HINT---
+Leiten Sie die Flächenformel nun ab und setzen das Ergebnis in die Formel für die Induktionsspannung ein.
+---HINT---
+Den Induktionsstrom berechnen Sie aus der Induktionsspannung mit dem Ohm’schen Gesetz.
+---HINT---
+Setzen Sie abschließend die gegebenen Werte ein und berechnen Sie somit den Induktionsstrom zu gegebenem Zeitpunkt.

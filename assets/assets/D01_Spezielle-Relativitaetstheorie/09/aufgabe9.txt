@@ -1,0 +1,2 @@
+Ein <T>l=</T><p>value1 \text{ m}</p> langer Speer fliegt mit einer Geschwindigkeit von <T>v=</T><p>value2\cdot\text{c}</p>. Wie lang ist der Speer im Bezugssystem des Werfers?
+

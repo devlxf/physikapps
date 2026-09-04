@@ -1,0 +1,7 @@
+Berechnen Sie den Gesamtimpuls, der durch das Schwarzpulver erzeugt wird.
+---HINT---
+Beachten Sie, dass die Masse der Rakete nach dem Start der Gesamtmasse ohne der ausgestoßenen Treibstoffladung entspricht.
+---HINT---
+Bestimmen Sie die Geschwindigkeit der Rakete über die Formel für den Impuls. Berücksichtigen Sie, dass der Impuls der Rakete aufgrund der Impulserhaltung dem Betrag des Impulses des Treibstoffs entspricht.
+---HINT---
+Mit der Startgeschwindigkeit der Rakete können Sie nun das Konzept des senkrechten Wurfs anwenden. Nutzen Sie dazu das Zeit-Geschwindigkeitsgesetz einer beschleunigten Bewegung. Nutzen Sie aus, dass die Geschwindigkeit am höchsten Punkt <p>0\ \text{m/s}</p> ist. Formen Sie nach <p>t</p> um und setzen Sie dies in das Zeit-Weg-Gesetz ein. Hiermit errechnen Sie die erreichte Höhe.

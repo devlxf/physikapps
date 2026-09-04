@@ -1,0 +1,3 @@
+Eine Masse mit der Gewichtskraft <T>F_G=</T><p>value1 \text{ N}</p> soll mit dem abgebildeten Potenzflaschenzug gehoben werden. Welche Kraft wirkt dann auf die Deckenhalterung der festen Rolle?
+
+Nehmen Sie dabei zur Vereinfachung an, dass die Konstruktion vollständig reibungsfrei ist und das Seil sowie die Rollen keine Masse besitzen.

@@ -1,0 +1,4 @@
+Bei einem Federpendelversuch wird die Höhe des Pendelkörpers über der Tischplatte zu verschiedenen Zeitpunkten gemessen. Der zeitliche Verlauf kann durch eine verschobene trigonometrische Funktion beschrieben werden.
+
+Geben Sie die Verschiebung <T>s_0</T> der Funktion in <p>y</p>-Richtung an.
+ 

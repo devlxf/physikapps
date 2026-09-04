@@ -1,0 +1,4 @@
+Drei geladene Kugeln bilden ein rechtwinkliges Dreieck mit der Seitenlänge <T>r=</T><p>value4 \text{ cm}</p>.
+Die beiden negativ geladenen Kugeln tragen die Ladungen <T>q_1=</T><p>value1 \text{ nC}</p> und <T>q_2=</T><p>value2 \text{ nC}</p>. Die positiv geladene Kugel trägt die Ladung <T>q_3=</T><p>value3 \text{ nC}</p>.
+
+Berechnen Sie den Betrag der Kraft <T>F_\text{res}</T> auf die positiv geladene Kugel.

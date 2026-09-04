@@ -1,0 +1,5 @@
+Berechnen Sie zuerst den Zeitverlust durch den Bremsvorgang und durch den Beschleunigungsvorgang. Diese sind durch die gegebenen Werte eindeutig bestimmt.
+---HINT---
+Der restliche Zeitverlust entsteht durch die Baustelle selbst: <p>\Delta t_\text{Bau} = \Delta t_\text{ges} - \Delta t_\text{Brems} - \Delta t_\text{Beschl}</p>
+---HINT---
+Die Baustellenlänge ergibt sich aus der Zeitverzögerung in der Baustelle: <p>\Delta t_\text{Bau} = s_\text{Bau} \cdot \left(\frac{1}{v_\text{Bau}} - \frac{1}{v_0}\right)</p>

@@ -1,0 +1,15 @@
+Bei einem Übergang von einer Schale in eine zweite wird nach der Rydberg-Formel die folgende Energie frei
+<p>\Delta E_{m \to n} = R_H \cdot Z^2 \cdot \left(\frac{1}{n^2} - \frac{1}{m^2}\right)</p>
+Formen Sie dies entsprechend um.
+---HINT---
+Nach Umformen folgt
+<p>\frac{1}{m^2} = \frac{1}{n^2} - \frac{\Delta E_{m \to n}}{R_H \cdot Z^2}</p>
+Die Energie ist nicht direkt gegeben. Überlegen Sie, wie man diese mit den gegebenen Werten ermitteln kann.
+---HINT---
+Die Energie kann mit Planck-Beziehung 
+<p>E=h\cdot f</p>
+berechnet werden.
+---HINT---
+Die Frequenz ist nicht gegeben, aber die Wellenlänge. Also nutze 
+<p>\lambda=\frac{c}{f}</p>
+Anschließend kann <p>\frac{1}{m^2}</p> berechnet werden und nach Umformen schließlich das gesuchte <p>m</p>.

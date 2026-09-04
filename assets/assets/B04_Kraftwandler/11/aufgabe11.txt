@@ -1,0 +1,3 @@
+Am abgebildeten abgeknickten Hebel wirkt rechts die Kraft <T>F_2=</T><p>value1 \text{ N}</p> bei <T>a_2=</T><p>value2 \text{ cm}</p>. <T>F_1</T> ist die Gegenkraft auf der anderen Seite, die in einem Abstand <T>a_1=</T><p>value3 \text{ cm}</p> von der Drehachse wirkt. Wie groß ist <T>F_1</T>, wenn der Winkel <T>\alpha=</T><p>value4°</p> ist?
+
+Anm.: Der Hebel selbst ist masselos.

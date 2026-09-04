@@ -1,0 +1,1 @@
+Ein Himmelskörper hat die Masse <T>M=</T><p>value1\cdot 10^{24}\text{ kg}</p> und dreht sich in <T>T=</T><p>value2 \text{ h}</p> um die eigene Achse. Ein Beobachtungssatellit soll so positioniert werden, dass er stets den gleichen Ort beobachten kann. Welchen Abstand muss der Satellit vom Himmelskörper haben?

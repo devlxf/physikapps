@@ -1,0 +1,3 @@
+Ein Fahrrad habe die folgende Geometrie: Raddurchmesser <T>d=</T><p>value1 \text{ Zoll}</p>, Kurbel <T>l=</T><p>value2 \text{ cm}</p>, Radius der Antriebsscheibe <T>r_{1}=</T><p>value3 \text{ cm}</p>.
+
+Ein Kind tritt mit der Gewichtskraft <T>F_{G}=</T><p>value4 \text{ N}</p> auf die Pedale. Wie viel Kraft <T>F_{K}</T> kann es maximal auf die Kette übertragen?

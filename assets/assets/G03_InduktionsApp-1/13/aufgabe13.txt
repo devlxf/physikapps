@@ -1,0 +1,1 @@
+Eine <T>l=</T><p>value3 \text{ cm}</p> lange kreisrunde Spule besitzt die Durchmesser von <T>d=</T><p>value1 \text{ cm}</p>. Die relative Permeabilität beträgt <T>\mu_\text{r}=</T><p>value2</p>. Ermitteln Sie die erforderliche Windungszahl <T>n</T> der Spule, wenn die Induktivität <T>L=</T><p>value4 \text{ mH}</p> betragen soll.

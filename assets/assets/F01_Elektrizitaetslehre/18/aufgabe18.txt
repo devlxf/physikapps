@@ -1,0 +1,3 @@
+Die nebenstehende Schaltung besteht aus den Widerständen <T>R_1=</T><p>value1\ \Omega</p>, <T>R_2=</T><p>value2\ \Omega</p>, <T>R_3=</T><p>value3\ \Omega</p>, <T>R_4=</T><p>value4\ \Omega</p> und <T>R_5=</T><p>value5\ \Omega</p>.
+
+Welche Spannung fällt über <T>R_2</T> ab, wenn von außen eine Spannung von <T>U_0=</T><p>value6 \text{ V}</p> angelegt wird?

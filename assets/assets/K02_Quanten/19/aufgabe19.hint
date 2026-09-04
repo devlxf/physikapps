@@ -1,0 +1,11 @@
+Die Umlauffrequenz des Elektrons <p>f_{\mathrm{e}}</p> berechnet sich zu
+<p>f_{\mathrm{e}} = \frac{v}{2 \cdot \pi \cdot r_n}</p>
+Überlegen Sie, wie sie die Elektronengeschwindigkeit <p>v</p> und den Bahnradius <p>r</p> ersetzen können.
+---HINT---
+Die Elektronengeschwindigkeit <p>v</p> ist
+<p>v = \frac{Z \cdot \mathrm{e}^2}{2 \cdot n \cdot h \cdot \varepsilon_0}</p>
+---HINT---
+Der Radius der Bohrschen Bahn ist
+<p>r_n = \frac{n^2 \cdot h^2 \cdot \varepsilon_0}{Z \cdot \mathrm{e}^2 \cdot \pi \cdot m_0}</p>
+---HINT---
+Beides muss in die Formel für die Umlauffrequenz eingesetzt werden. Nach Kürzen und einsetzen der gegebenen Werte und Naturkonstanten ergibt sich die Umlauffrequenz <p>f_{\mathrm{e}}</p> des Elektrons um den Atomkern.

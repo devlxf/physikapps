@@ -1,0 +1,5 @@
+Eine <T>l=</T><p>value1 \text{ m}</p> lange elektrische Leitung besteht aus Aluminiumdrähten der Gesamtquerschnittsfläche <T>A=</T><p>value2 \text{ mm}^2</p>. Die Stromstärke beträgt <T>I=</T><p>value3 \text{ A}</p>.
+
+Berechnen Sie den Widerstand <T>R</T> der Aluminiumleitung.
+
+Anm.: Der spezifische Widerstand von Aluminium ist <T>\rho=</T><p>value4\ \Omega \cdot \text{mm}^2\text{/m}</p>.

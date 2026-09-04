@@ -1,0 +1,1 @@
+Ein LKW fährt mit der Geschwindigkeit <T>v_{LKW}=</T><p>value1\text{ km/h}</p> über eine Landstraße. Ein PKW nähert sich mit <T>v_{PKW}=</T><p>value2\text{ km/h}</p> von hinten. Um den LKW zu überholen, muss der PKW inklusive Sicherheitsabständen eine Länge von <T>s_L=</T><p>value3\text{ m}</p> überbrücken. Welche Wegstrecke fährt das Auto auf der linken Spur?

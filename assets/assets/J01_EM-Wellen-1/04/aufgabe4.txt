@@ -1,0 +1,3 @@
+Ein Schwingkreis regt einen Dipol <T>\text{der Länge} l</T> in der Grundschwingung <T>\text{mit der Periodendauer } T</T> an. Die auftretende Dipolstrahlung hat die Wellenlänge <T>\lambda=</T><p>value1 \text{ cm}</p>.
+
+Berechnen Sie die Induktivität <T>L</T> des anregenden Schwingkreises, wenn seine Kapazität <T>C=</T> <p>value2 \text{ pF}</p> beträgt.

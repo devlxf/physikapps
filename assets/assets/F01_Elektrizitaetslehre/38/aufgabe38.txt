@@ -1,0 +1,5 @@
+Die Kochplatte eines Elektroherdes besitzt drei Heizwicklungen. Bei Schaltstufe 5 sind die Widerstände <T>R_2=</T><p>value1\ \Omega</p> und <T>R_3</T> beteiligt. In dieser Schaltstufe beträgt die Leistungsaufnahme der Kochplatte <T>P=</T><p>value2 \text{ W}</p> bei einer Versorgungsspannung von 230 V.
+
+Die Heizwicklung mit dem Widerstand <T>R_3</T> besteht aus einem Chrom-Nickel-Draht mit dem Durchmesser <T>d=</T><p>value3 \text{ mm}</p> und dem spezifischen Widerstand <T>\varrho=</T><p>value4 \text{ }\Omega\text{mm}^2\text{/m}</p>.
+
+Berechnen Sie die Länge des Drahts.

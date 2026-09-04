@@ -1,0 +1,5 @@
+Da beide LKWs zu Beginn gleich schnell sind, beträgt die Relativgeschwindigkeit von LKW 2 gegenüber LKW 1 zunächst <p>v_\text{rel} = 0</p>. LKW 2 muss im Bezugssystem von LKW 1 den Abstand <p>s_0</p> aufholen.
+---HINT---
+Im Bezugssystem von LKW 1 gilt für LKW 2 das Zeit-Weg-Gesetz: <p>s_0 = \frac{1}{2} a \cdot t^2</p>. Lösen Sie nach der Zeit <p>t</p> auf.
+---HINT---
+Die von LKW 1 zurückgelegte Strecke berechnet sich dann mit: <p>s_1 = v_0 \cdot t</p>

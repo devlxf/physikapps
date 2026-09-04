@@ -1,0 +1,2 @@
+Ein Raumschiff (<T>m_0=</T><p>value1 \text{ Megatonnen}</p> Ruhemasse) fliegt mit <T>v=</T><p>value2\cdot\text{c}</p> an einem ruhenden Beobachter vorbei. Welche Masse <T>m_{\text{rel}}</T> würde der Beobachter für das Raumschiff messen?
+

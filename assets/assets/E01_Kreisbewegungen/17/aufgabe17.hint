@@ -1,0 +1,9 @@
+Im höchsten Punkt muss die Zentripetalkraft gerade der Gewichtskraft entsprechen. Stellen Sie also das Kräftegleichgewicht auf: <p>F_z = F_G</p>.
+---HINT---
+Setzen Sie die entsprechenden Formeln für <p>F_z</p> und <p>F_G</p> ein und formen Sie nach <p>v_{oben}</p> um.
+---HINT---
+Stellen Sie das Energiegleichgewicht auf: <p>W_{pot,oben} + W_{kin,oben} = W_{kin,unten}</p>.
+---HINT---
+Setzen Sie die Formeln <p>W_{pot} = m \cdot g \cdot h</p> und <p>W_{kin} = \frac{1}{2} \cdot m \cdot v^2</p> ein. Die Höhe beträgt dabei <p>h = 2 \cdot r</p>.
+---HINT---
+Kürzen Sie und formen Sie nach <p>v_{unten}</p> um. Das ergibt: <p>v_{unten} = \sqrt{5 \cdot g \cdot r}</p>.

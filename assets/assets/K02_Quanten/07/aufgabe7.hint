@@ -1,0 +1,11 @@
+Kraft <p>F</p> ist Impulsänderung <p>\Delta p</p> pro Zeit <p>\Delta t</p>
+<p>F=\frac{\Delta p}{\Delta t}</p>
+---HINT---
+Der Impuls <p>p_{\text{Ph}}</p> eines Photons ist gegeben durch
+<p>p=\frac{h}{\lambda}</p>
+---HINT---
+Die gesamte Impulsänderung des Solarpanels entspricht dem Impuls <p>p_{\text{Ph}}</p> eines Photons multipliziert mit der Anzahl der Photonen <p>n_{\text{Ph}}</p>.
+---HINT---
+Kraft <p>F</p> wird nun berechnet, indem der ermittelte Impuls <p>p</p> durch eine Sekunde geteilt wird.
+
+Für die Berechnung der Kraft sind hier die Fläche der Sonde, sowie die Strahlungsintensität nicht von Bedeutung, da die Anzahl der Photonen direkt gegeben ist.  

@@ -1,0 +1,1 @@
+Bei der Wasserfontäne Jet d'eau in Genf wurde eine Wasserpumpe mit der Leistung <T>P=</T><p>value1 \text{ MW}</p> eingebaut. Damit kann Sie Wasser <T>h=</T><p>value2 \text{ m}</p> in die Höhe schießen. Wie viel Liter Wasser kann sie pro Sekunde befördern?

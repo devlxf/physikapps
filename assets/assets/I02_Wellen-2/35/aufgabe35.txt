@@ -1,0 +1,3 @@
+Die Sirene eines Polizeifahrzeuges, das mit der Geschwindigkeit <T>\,\,v_S=</T><p>value1\ \text{km/h}\,\,</p> fährt, erzeugt einen Ton der Frequenz <T>\,\,f_S=</T><p>value2\ \text{Hz}</p>.
+
+Welche Frequenz <T>\,\,f_E\,\,</T> besitzt der Ton, den der Fahrer eines Wagens hört, der mit der Geschwindigkeit <T>\,\,v_E=</T><p>valueR\ \text{km/h}\,\,</p> hinter dem Polizeifahrzeug fährt?

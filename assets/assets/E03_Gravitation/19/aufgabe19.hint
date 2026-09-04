@@ -1,0 +1,7 @@
+Nutzen Sie die Formel für die potenzielle Energie im Radialpotenzial: <p>W_{pot} = G \cdot M \cdot m \cdot \left(\frac{1}{r_1} - \frac{1}{r_0}\right)</p>
+---HINT---
+Bilden Sie den Grenzfall für <p>r_1 \to \infty</p>. Dadurch vereinfacht sich die Formel zu: <p>W_{pot} = G \cdot m \cdot M \cdot \frac{1}{r_0}</p>
+---HINT---
+Setzen Sie kinetische und potenzielle Energie gleich: <p>W_{kin} = W_{pot}</p> und formen Sie nach <p>v</p> um: <p>v = \sqrt{2 \cdot G \cdot M \cdot \frac{1}{r_0}}</p>
+---HINT---
+Die Sonne hat dabei eine Masse von <p>M_{Sonne} = 1{,}989 \cdot 10^{30}\,\text{kg}</p>. Achten Sie auf korrekte Einheiten (Abstand in Metern).

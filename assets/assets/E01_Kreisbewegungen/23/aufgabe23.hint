@@ -1,0 +1,7 @@
+Stellen Sie zuerst das Kräftegleichgewicht auf. Die Zentripetalkraft muss dabei höchstens der zur Oberfläche senkrechten Komponente der Gewichtskraft entsprechen: <p>F_\perp \geq F_z</p>.
+---HINT---
+Nach Einsetzen der Formeln für Gewichtskraft und Zentripetalkraft ergibt sich: <p>g \cdot \cos(\alpha) = \frac{v^2}{r}</p>. Die Geschwindigkeit <p>v</p> muss noch berechnet werden.
+---HINT---
+Nutzen Sie den Energiesatz zur Berechnung der Geschwindigkeit: <p>v_B = \sqrt{2 \cdot g \cdot r \cdot (1 - \cos(\alpha))}</p>.
+---HINT---
+Setzen Sie die erhaltene Geschwindigkeit ins Kräftegleichgewicht ein und lösen Sie nach <p>\alpha</p> auf: <p>\cos(\alpha) = 2 \cdot (1 - \cos(\alpha))</p>, woraus folgt <p>\alpha = \cos^{-1}\!\left(\frac{2}{3}\right)</p>.

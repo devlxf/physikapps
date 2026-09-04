@@ -1,0 +1,1 @@
+Eine Person hat im Supermarkt <p>value1 \text{ kg}</p> Gemüse eingekauft. Berechnen Sie die physikalische Arbeit, die Sie beim Tragen der Tasche verrichten musste, wenn der Weg nach Hause gemäß ihrem Schrittzähler eine Strecke von <p>value2 \text{ m}</p> beträgt. Beachten Sie dabei, dass die Straße eine Steigung von <p>value3\ \%</p> hat.

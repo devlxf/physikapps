@@ -1,0 +1,1 @@
+In einem Kondensator misst man bei abgeschalteter Kondensatorspannung eine konstante Tröpfchengeschwindigkeit von <T>v_{1}=</T><p>value1 \text{m}/\text{s}</p> für ein Öltröpfchen. Berechnen Sie hiermit den Radius des Öltröpfchens.

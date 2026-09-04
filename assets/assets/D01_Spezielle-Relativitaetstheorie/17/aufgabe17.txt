@@ -1,0 +1,2 @@
+In einem Teilchenbeschleuniger werden Elektronen auf eine Geschwindigkeit von <T>v=</T><p>value1\cdot\text{c}</p>  beschleunigt. Wie massiv <T>(\text{relativistische Masse } m_{\text{rel}})</T> werden sie aus Sicht der ruhenden Physikerin im Labor? Die Ruhemasse des Elektrons ist <T>m_{\text{e}}=</T><p>9,109\cdot 10^{-31} \text{ kg}</p>.
+

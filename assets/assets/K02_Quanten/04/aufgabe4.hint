@@ -1,0 +1,13 @@
+Die Gegenspannung liefert die maximale kinetische Energie der Photoelektronen. Diese Energie ist vollständig in Bewegungsenergie umgesetzt.
+---HINT---
+Für den Photoeffekt gilt:
+<p>W_{\text{kin}} = h \cdot f - W_A</p>
+Ist <p>W_{\text{kin}}=0</p>, dann entspricht die Energie <p>h \cdot f</p> der Photonen genau der Austrittsarbeit <p>W_A</p>
+---HINT---
+Es gilt
+<p>h \cdot f_{\text{gr}}=W_A</p>
+Die Wellenlänge <p>\lambda_{\text{gr}}</p> wird über 
+<p>c=\lambda\cdot f</p>
+berechnet.
+---HINT---
+Da die Austrittsarbeit <p>W_A</p> in Elektronenvolt (eV) gegeben ist, muss der gegebene Wert zuerst durch Multiplikation mit der Elementarladung e in Joule umgerechnet werden, bevor die richtige Wellenlänge <p>\lambda</p> ermittelt werden kann.

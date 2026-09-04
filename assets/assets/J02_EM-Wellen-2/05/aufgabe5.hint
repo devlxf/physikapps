@@ -1,0 +1,5 @@
+Verwenden Sie die Bedingung für Minima bei der Einzelspaltbeugung: <p>\sin(\alpha) = n \cdot \frac{\lambda}{d}</p>.
+---HINT---
+Für das erste Nebenminimum setzen Sie <p>n = 1</p> ein.
+---HINT---
+Berechnen Sie den Winkel mit <p>\alpha = \sin^{-1}\left(\frac{\lambda}{d}\right)</p>.

@@ -1,0 +1,9 @@
+Fertigen Sie zuerst ein Ersatzschaltbild an, das aus einer Reihenschaltung zweier Parallelschaltungen besteht.
+---HINT---
+Da die Spannung über <p>R_3</p> gegeben ist, kennen Sie den gesamten Spannungsabfall über die Parallelschaltung der Widerstände <p>R_3</p> und <p>R_4</p>. Dieser ist in Parallelschaltung identisch zum Spannungsabfall über einen Widerstand.
+---HINT---
+Da <p>U_0</p> gegeben ist, kennen Sie somit den Spannungsabfall über <p>R_1</p> und <p>R_2</p>.
+---HINT---
+Berechnen Sie nun den Strom, der durch die erste Parallelschaltung aus den Widerständen <p>R_1</p> und <p>R_2</p> fließt.
+---HINT---
+Der Strom, der durch den ersten Schaltungsteil fließt, fließt auch durch den zweiten Schaltungsteil, da Ströme in Reihenschaltungen immer durch alle Bauteile fließen.

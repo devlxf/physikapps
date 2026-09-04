@@ -1,0 +1,3 @@
+Berechnen Sie die Zeit, die der Pfeil bis zur Scheibe braucht, aus der gleichförmigen Bewegung in <p>x</p>-Richtung: <p>t = \frac{s_x}{v_0 \cdot \cos(\alpha)}</p>
+---HINT---
+Berechnen Sie die <p>y</p>-Position des Pfeils zur Zeit <p>t</p>: <p>s_y(t) = -\frac{1}{2} g \cdot t^2 + v_0 \cdot \sin(\alpha) \cdot t</p>

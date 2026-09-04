@@ -1,0 +1,3 @@
+Im Franck-Hertz-Versuch wird die Beschleunigungsspannung kontinuierlich erhöht und dabei der Stromfluss gemessen. Die beobachteten Stromspitzen treten bei den Beschleunigungsspannungen <T>U_1=</T><p>value1  \text{ V}</p>, <T>U_2=</T><p>valueR  \text{ V}</p> und <T>U_3=</T><p>valueS  \text{ V}</p> auf.
+
+Welche Wellenlänge <T>\lambda</T> hat die dabei emittierte Strahlung?

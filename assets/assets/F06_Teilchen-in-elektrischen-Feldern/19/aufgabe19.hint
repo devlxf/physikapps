@@ -1,0 +1,25 @@
+Berechnen Sie zuerst die Flugzeit <p>t</p> durch den Kondensator. Verwenden Sie dazu die Tatsache, dass die Geschwindigkeit <p>v_a</p> in <p>x</p>-Richtung konstant ist.
+
+---HINT---
+
+Berechnen Sie die maximale Beschleunigung des Tintentröpfchens mit der Coulombkraft.
+
+---HINT---
+
+Nutzen Sie das Zeit-Weg-Gesetz für die gleichmäßig beschleunigte Bewegung in <p>y</p>-Richtung und setzen Sie <p>a</p> und <p>t</p> ein. So erhalten Sie die Ablenkung des Tröpfchens im Kondensator.
+
+---HINT---
+
+Berechnen Sie nun mit <p>v_{y} = a \cdot t</p> die Geschwindigkeit des Tröpfchens bei Austritt aus dem Kondensator. Mit dieser Geschwindigkeit fliegt es von nun an konstant weiter.
+
+---HINT---
+
+Da das Tröpfchen in beiden Richtungen abgelenkt werden kann, muss es insgesamt maximal die halbe Buchstabengröße abgelenkt werden. Berechnen Sie also den <p>y</p>-Anteil, der noch fehlt.
+
+---HINT---
+
+Dieser Restanteil wird mit der konstanten, soeben berechneten Geschwindigkeit <p>v_y</p> zurückgelegt. Daraus lässt sich die benötigte Restflugzeit berechnen.
+
+---HINT---
+
+Der Abstand <p>l</p> des Kondensators vom Papier ergibt sich dann aus der Geschwindigkeit <p>v_e</p> multipliziert mit der soeben berechneten Restflugzeit.

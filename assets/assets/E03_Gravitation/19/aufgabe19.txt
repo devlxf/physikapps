@@ -1,0 +1,1 @@
+Welche Geschwindigkeit hat ein Meteor, der im Unendlichen praktisch ruhte, wenn er im Gravitationsfeld der Sonne einen Abstand von <T>r=</T><p>value1\cdot 10^6\text{ km}</p> erreicht? Die Sonne hat dabei eine Masse von <T>M_\text{Sonne}=1{,}989\cdot 10^{30}\text{ kg}</T>.

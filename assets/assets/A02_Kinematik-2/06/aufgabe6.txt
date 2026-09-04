@@ -1,0 +1,1 @@
+Ein Auto fährt mit <T>v_1=</T><p>value1\text{ km/h}</p>. In einer Entfernung von <T>s=</T><p>value2\text{ m}</p> steht ein Hindernis auf der Fahrbahn. Berechnen Sie die Bremsverzögerung, die mindestens notwendig ist, damit es nicht zur Kollision kommt.

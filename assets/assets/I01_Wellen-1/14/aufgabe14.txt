@@ -1,0 +1,4 @@
+Ein <T>\,\,L=</T><p>value1\ \text{m}\,\,</p> langes Band ist an beiden Enden eingespannt. Eine Querstörung braucht vom einen zum anderen Ende des Bands <T>\,\,t=</T><p>value2\ \text{s}</p>. 
+
+Berechnen Sie die Eigenfrequenzen <p>\,\,f_1</p>, <p>\,\,f_2</p>, <p>\,\,f_3</p>..., bei denen sich jeweils die 1., 2. und 3. Harmonische ausbildet. Tragen Sie die <p>\,\,value3\ \text{Harmonische}\,\,</p>
+ein.

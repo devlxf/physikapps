@@ -1,0 +1,1 @@
+Berechnen Sie die Anzahl der Elementarladungen <T>n</T>, die auf der Platte eines Kondensators sitzen, der eine Kapazität von <T>C=</T><p>value1 \text{ nF}</p> hat und an dem eine Spannung von <T>U=</T><p>value2 \text{ kV}</p> anliegt.

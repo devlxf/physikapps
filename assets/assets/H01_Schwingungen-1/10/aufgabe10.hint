@@ -1,0 +1,7 @@
+Nutzen Sie die Ortsfunktion des Fadenpendels und leiten diesen nach der Zeit ab, um die Geschwindigkeitsfunktion zu erhalten.
+---HINT---
+<p>y_0\,\,</p> ist in dieser Formel die maximale Auslenkhöhe <p>\,\,h\,\,</p> über der Nulllage. Diese kann mit der Kosinusfunktion und dem Auslenkwinkel ermittelt werden. 
+---HINT---
+Im Nulldurchgang ist die Pendelgeschwindigkeit maximal, d.h. dass der Kosinus in der Ortsfunktion 1 wird.
+---HINT---
+Die Resonanzfrequenz kann mit geeigneter Formel aus Fadenlänge und Ortsfaktor ermittelt werden. Dann lässt sich abschließend die Geschwindigkeit ermitteln.

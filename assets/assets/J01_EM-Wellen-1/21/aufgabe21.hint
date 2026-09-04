@@ -1,0 +1,3 @@
+Verwenden Sie das Snelliussche Brechungsgesetz: <p>\frac{\sin(\alpha)}{\sin(\beta)} = \frac{n_2}{n_1}</p>.
+---HINT---
+Setzen Sie für Luft den Brechungsindex <p>n_1 = 1</p> und lösen Sie nach <p>n_2</p> auf.

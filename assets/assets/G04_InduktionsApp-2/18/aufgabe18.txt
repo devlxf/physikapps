@@ -1,0 +1,3 @@
+Der Megacoaster „Blue Fire“ im Europa-Park wird mit einem Linearmotor betrieben. D.h. an der Unterseite des Zuges sind Permanentmagnete der Flussdichte <T>B=</T><p>value3 \text{ T}</p> fest mit den Wagen verbunden. Im Feld dieser Magnete befinden sich fest in der Erde verankerte Spulen mit <T>n=</T><p>value4 \text{ }</p> Windungen, einer Breite von <T>b=</T><p>value1 \text{ cm}</p> und einer Höhe von <T>h=</T><p>value2 \text{ cm}</p>. Die Spulen sind so von Strom durchflossen, dass ein Wagen der Masse <T>m=</T><p>value5 \text{ t}</p> in <T>t=</T><p>value6 \text{ s}</p> nahezu gleichmäßig auf <T>v=</T><p>value7 \text{ km}/\text{h}</p> beschleunigt wird.
+
+Berechnen Sie die zur Beschleunigung <T>a</T> des Wagens erforderliche Stromstärke <T>I</T>.

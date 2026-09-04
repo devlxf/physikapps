@@ -1,0 +1,3 @@
+Sie sitzen täglich ungefähr <T>t=</T><p>value1 	ext{ h}</p> am PC und haben mit einem Leistungsmessgerät festgestellt, dass Ihr Computer <T>P=</T><p>value2 	ext{ W}</p> benötigt.
+
+Welche Energiekosten erzeugt Ihr Computer jährlich, wenn Sie einen Energiepreis von <T>k=</T><p>value3 	ext{ ct/kWh}</p> haben?

@@ -1,0 +1,1 @@
+In einem vertikal gerichteten homogenen elektrischen Feld der Stärke <T>E=</T><p>value1 \text{V}/\text{m}</p> schwebt ein positiv geladenes Öltröpfchen der Masse <p>value2 \text{g}</p>. Berechnen Sie, wie viele Elementarladungen das Tröpfchen trägt.

@@ -1,0 +1,9 @@
+1 daN ist ein Deka-Newton, also 10 N.
+---HINT---
+Berechnen sie die Summe aller Standmomente.
+---HINT---
+Berechnen Sie die Summe aller Kippmomente.
+---HINT---
+Achten Sie bei der Berechnung der Hebelarme darauf, dass ein Hebelarm immer der horizontale Abstand zur Drehachse ist. Beispielsweise ist der Hebelarm des Ballastgewichts <p>a_B = s_1 + s_2</p>.
+---HINT---
+Stellen Sie abschließend das Momentengleichgewicht auf und lösen nach <p>F_L</p> auf.

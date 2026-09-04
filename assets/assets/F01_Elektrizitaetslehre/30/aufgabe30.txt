@@ -1,0 +1,3 @@
+Ein Ofen nimmt bei einer Spannung von <T>U=</T><p>value1 \text{ V}</p> einen Strom von <T>I=</T><p>value2 \text{ A}</p> auf und ist <T>t=</T><p>value3 \text{ h}</p> in Betrieb.
+
+Wie viel kostet der verbrauchte Strom bei einem Preis von <T>p=</T><p>value4 \text{ €/kWh}</p>?

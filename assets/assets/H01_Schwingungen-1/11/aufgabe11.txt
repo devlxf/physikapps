@@ -1,0 +1,5 @@
+Ein Fadenpendel hat auf der Erde eine Schwingungsdauer von <T>T=</T><p>value1\ \text{s}</p>.
+
+Wie groß wäre der Ortsfaktor auf Planet X, wenn dasselbe Pendel dort eine Schwingungsdauer von <T>T=</T><p>value2\ \text{ms}</p> hätte?
+
+

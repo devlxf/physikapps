@@ -1,0 +1,3 @@
+Am Wirtshaus Wilhelms-Eck hängt eine Werbetafel. Nehmen wir an, dass die horizontale Kathete der Halterung <T>s_x=</T><p>value1 \text{ cm}</p> lang ist, während die vertikale Kathete an der Wand <T>s_y=</T><p>value2 \text{ cm}</p> misst.
+
+Wie groß ist die Kraft <T>F_2</T> in der diagonalen Verstrebung, wenn das Schild eine Gewichtskraft von <T>F_g=</T><p>value3 \text{ N}</p> hat?

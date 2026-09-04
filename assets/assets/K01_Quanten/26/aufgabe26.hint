@@ -1,0 +1,8 @@
+Überlegen Sie, wie groß die Impulsunschärfe eines makroskopischen Objekts bei gegebener Ortsunschärfe ist.
+---HINT---
+Verwenden Sie die Heisenbergsche Unschärferelation:
+<p>\Delta x \cdot \Delta p \geq \frac{h}{4\pi}</p>
+---HINT---
+Berechnen Sie zunächst die minimale Impulsunschärfe <p>\Delta p</p>. Bestimmen Sie anschließend den Impuls des Balls mit
+<p>p = m \cdot v</p>
+und bilden Sie das Verhältnis <p>\frac{p}{\Delta p}</p>.

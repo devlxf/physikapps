@@ -1,0 +1,5 @@
+Die Erde hat einen Radius von 6371 km.
+---HINT---
+Die Erde rotiert in 24 Stunden einmal um die eigene Achse. Auf dem Äquator folgt daraus eine Umlaufgeschwindigkeit von 1670 km/h. An den Polen ist die Umlaufgeschwindigkeit 0 km/h.
+---HINT---
+Bestimmen Sie zuerst den Umlaufradius. Betrachten Sie dazu einen Kreis und nutzen Sie den Kosinus: <p>r = R \cdot \cos(\alpha)</p>.

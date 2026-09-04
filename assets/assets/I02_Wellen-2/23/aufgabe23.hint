@@ -1,0 +1,7 @@
+Die Amplitude des Schallausschlags kann mit der Formel
+
+<p>I=\frac{1}{2}\cdot\rho\cdot\hat{y}_0^2\cdot\omega^2\cdot c</p>
+
+bestimmt werden. 
+---HINT---
+Stellen Sie diese nach <p>\,\,\hat{y}\,\,</p> um. Nutzen Sie <p>\,\,\omega=2\cdot\pi\cdot f\,\,</p>, setzen Sie die gegebenen Werte ein und berechnen Sie somit den Schallausschlag.

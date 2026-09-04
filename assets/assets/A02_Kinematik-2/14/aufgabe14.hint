@@ -1,0 +1,7 @@
+Berechnen Sie zuerst die Zeit <p>t_1</p>, die das Auto von der Startposition bis zur Haltelinie benötigt. Nutzen Sie: <p>s_1 = \frac{1}{2}(v_1 + v_2) \cdot t_1</p>
+---HINT---
+Berechnen Sie mit <p>t_1</p> die Beschleunigung des Autos: <p>a = \frac{v_2 - v_1}{t_1}</p>
+---HINT---
+Berechnen Sie mit dem Zeit-Weg-Gesetz die Zeit <p>t_2</p> zum Überqueren der Straße: <p>s_2 = \frac{1}{2} a \cdot t_2^2 + v_2 \cdot t_2</p>
+---HINT---
+Die Mindestdauer der Gelbphase beträgt: <p>t_G = t_1 + t_2</p>

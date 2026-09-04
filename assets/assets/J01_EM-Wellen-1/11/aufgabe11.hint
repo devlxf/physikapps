@@ -1,0 +1,5 @@
+Berechnen Sie zunächst die Wellenlänge aus der gegebenen Frequenz mit <p>\lambda = \frac{c}{f}</p>.
+---HINT---
+Verwenden Sie die Bedingung für konstruktive Interferenz: <p>\sin(\alpha) = \frac{n \cdot \lambda}{g}</p>.
+---HINT---
+Setzen Sie <p>n = 1</p> und die berechnete Wellenlänge sowie den gegebenen Antennenabstand ein und berechnen Sie den Winkel mit <p>\alpha = \sin^{-1}\left(\frac{n \cdot \lambda}{g}\right)</p>.

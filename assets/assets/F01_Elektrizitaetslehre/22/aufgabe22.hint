@@ -1,0 +1,11 @@
+Identifizieren Sie die 3 kleinen Dreiecke als drei Einzelschaltungen.
+---HINT---
+Zeichnen Sie Ersatzschaltbilder für die drei einzelnen Schaltungen.
+---HINT---
+Das obere und das rechte Dreieck ergeben zwei ähnliche Schaltungen, in denen zwei Widerstände in Reihe geschaltet und diese dann mit einem weiteren Widerstand parallelgeschaltet sind.
+---HINT---
+Nutzen Sie die Gesetze zur Addition von Reihen- und Parallelwiderständen, um jeweils einen Ersatzwiderstand zu berechnen.
+---HINT---
+Zeichnen Sie das vereinfachte Ersatzschaltbild. Sie werden sehen, dass ein Widerstand des linken Dreiecks überbrückt ist.
+---HINT---
+Nutzen Sie wieder die Gesetze zur Addition von Reihen- und Parallelwiderständen, um den Gesamtwiderstand nun zu berechnen.

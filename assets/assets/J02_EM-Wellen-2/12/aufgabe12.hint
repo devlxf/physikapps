@@ -1,0 +1,5 @@
+Verwenden Sie das Snelliussche Brechungsgesetz: <p>\frac{\sin(\alpha)}{\sin(\beta)} = n</p>.
+---HINT---
+Berechnen Sie den kritischen Winkel im Glaskörper (Wasser): <p>\sin(\beta_{\text{krit}}) = \frac{\sin(\alpha_{\text{krit}})}{n}</p>.
+---HINT---
+Bestimmen Sie das Verhältnis der kritischen Winkel: <p>\frac{\alpha_{\text{krit}}}{\beta_{\text{krit}}}</p> und daraus die prozentuale Änderung.

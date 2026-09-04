@@ -1,0 +1,3 @@
+Auf einem Zeichenblatt befinden sich zwei Punkte in einem Abstand von <T>Y=</T> <p>value1 \text{ mm}</p>. Bei einem Test kann ein Proband die beiden Punkte in einem Abstand von <T>L=</T> <p>value2 \text{ m}</p> zum Zeichenblatt gerade noch voneinander getrennt wahrnehmen.
+
+Wie groß ist der Abstand <T>y</T> der Projektion der beiden Punkte auf der Netzhaut, wenn angenommen wird, dass der Abstand der Pupille von der Netzhaut <T>l=</T> <p>value3 \text{ cm}</p> beträgt?

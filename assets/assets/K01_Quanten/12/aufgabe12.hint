@@ -1,0 +1,8 @@
+Überlegen Sie, wie der Impuls eines Photons mit seiner Energie bzw. Wellenlänge zusammenhängt.
+---HINT---
+Für ein Photon gilt der Zusammenhang zwischen Energie und Impuls:
+<p>E = p \cdot c</p>
+Die Photonenenergie lässt sich auch ausdrücken als:
+<p>E = h \cdot f = \frac{h c}{\lambda}</p>
+---HINT---
+Setzen Sie beide Ausdrücke für die Energie gleich und lösen Sie nach dem Impuls <p>p</p> auf. Setzen Sie anschließend die gegebene Wellenlänge ein.

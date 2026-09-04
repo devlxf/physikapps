@@ -1,0 +1,9 @@
+Zur Überlagerung von Schallwellen soll ein Demonstrationsexperiment durchgeführt werden. Dazu sind zwei Lautsprecher in einem Abstand von <T>\,\,g=</T><p>value1\ \text{m}\,\,</p> aufgestellt. Beide Lautsprecher werden von einem gemeinsamen Frequenzgenerator versorgt. Der Abstand von Lautsprecher und Stuhlreihe ist <T>\,\,L=</T><p>value2\ \text{m}</p>. Der Mittenabstand zweier Sitze ist <T>\,\,y=</T><p>value3\ \text{m}</p>.
+
+Berechnen Sie eine Frequenz <T>\,\,f\,\,</T>, die am Frequenzgenerator eingestellt werden muss, damit auf dem Sitzplatz B eine minimale Lautstärke wahrgenommen wird.
+
+Anmerkungen:
+* Die Schallgeschwindigkeit beträgt <T>c=</T><p>340\,\, \text{m/s}</p>.
+* Schallreflexionen sind zu vernachlässigen.
+* Der Abstand der Sitze von der Schallquelle ist groß im Vergleich zum Abstand der Schallquellen voneinander. Eine Näherungsrechnung mit parallelen Wellenstrahlen ist erlaubt.
+

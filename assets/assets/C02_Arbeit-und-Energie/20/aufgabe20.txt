@@ -1,0 +1,5 @@
+Ein Spielzeugfrosch mit der Masse <p>value1 \text{ g}</p> wird mit einem Saugnapf unter Spannen einer Feder an einer Tischkante befestigt. Nach kurzer Zeit springt er in die Höhe, weil der Saugnapf nicht mehr hält. Seine Flugbahn ist etwas seitlich, so dass er beim Herabfallen die Tischkante verfehlt und bis zum Boden fällt.
+
+Die Feder mit der Federkonstante <p>value2 \text{ N/cm}</p> wird vor dem Start um <p>value3 \text{ cm}</p> eingedrückt.
+
+Die Tischkante ist <p>value4 \text{ cm}</p> über dem Fußboden. Berechnen Sie die Geschwindigkeit, mit der der Frosch am Fußboden ankommt.

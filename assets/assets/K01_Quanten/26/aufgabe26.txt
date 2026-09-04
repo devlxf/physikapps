@@ -1,0 +1,3 @@
+Ein Fußballspieler schießt einen Ball zwischen zwei gegnerischen Verteidigern hindurch. Die Masse des Balls beträgt <T>m=</T><p>value1  \text{ kg}</p>, seine Geschwindigkeit <T>v=</T><p>value2  \text{ m/s}</p> und der Abstand der beiden Verteidiger <T>\Delta x=</T><p>value3  \text{ m}</p>.
+
+Berechnen Sie die Impulsunschärfe <T>\Delta p</T> und weisen Sie über das Verhältnis <T>p/\Delta p</T> nach, dass die Aussage des Torwarts, er habe den Ball nicht fangen können, weil er den Impuls nicht genau abschätzen konnte, nur eine faule Ausrede ist.

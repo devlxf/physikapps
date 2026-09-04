@@ -1,0 +1,7 @@
+Vier geladene Kugeln befinden sich ortsfest in der abgebildeten Konfiguration (siehe Bild).
+
+Kugel 1 trägt die Ladung <T>q_1=</T><p>value1  \text{ nC}</p>, Kugel 2 die Ladung <T>q_2=</T><p>value2  \text{ nC}</p>, Kugel 3 die Ladung <T>q_3=</T><p>value3  \text{ nC}</p> und Kugel 4 die Ladung <T>q_4=</T><p>value4  \text{ nC}</p>.
+
+Berechnen Sie die Richtung der Gesamtraft auf Kugel 4.
+
+Anm.: Gemeint ist der Winkel <T>\alpha</T>, den der Kraftpfeil mit der x-Achse einschließt.

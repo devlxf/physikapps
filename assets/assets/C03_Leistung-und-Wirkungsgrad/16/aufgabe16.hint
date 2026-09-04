@@ -1,0 +1,9 @@
+Berechnen Sie zuerst das Volumen des Speichersees.
+---HINT---
+Berechnen Sie über Volumen mal Dichte die Masse des Speichersees. Nutzen Sie dazu aus, dass Wasser eine Dichte von <p>\rho = 10^3\ \text{kg/m}^3</p> hat.
+---HINT---
+Sie dürfen annehmen, dass sich die Gesamtmenge des Wassers auf halber Seehöhe befindet. Dies entspricht genau der mittleren Höhe.
+---HINT---
+Damit können Sie die potenzielle Energie des Wassers berechnen.
+---HINT---
+Abschließend können Sie mit dem Wirkungsgrad noch die daraus gewinnbare elektrische Energie berechnen.

@@ -1,0 +1,5 @@
+Erstellen Sie eine Kräfteskizze. Zeichnen Sie alle wirkenden Kräfte ein und bilden Sie das Kräfteparallelogramm.
+---HINT---
+Stellen Sie das Kräftegleichgewicht in <p>y</p>-Richtung auf: <p>F_{1y} + F_{2y} = -F_{g}</p>. Jede Seite trägt die Hälfte der Gewichtskraft: <p>F_{1y} = -\frac{1}{2} F_{g}</p>
+---HINT---
+<p>F_{1}</p> ergibt sich mit <p>F_{1y} = F_{1} \cdot \cos(\alpha)</p>

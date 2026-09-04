@@ -1,0 +1,5 @@
+Wählen Sie ein Koordinatensystem entlang der Rampe (<p>x</p>) und senkrecht dazu (<p>y</p>).
+---HINT---
+Die Kugel wird senkrecht zur Rampe abgeschossen (<p>v_{0y} = v_0</p>), der Wagen bewegt sich entlang der Rampe (<p>a_\text{Wagen} = g \cdot \sin(\alpha)</p>).
+---HINT---
+Berechnen Sie die Zeit, bis die Kugel wieder auf Rampenebene zurückfällt: <p>t = \frac{2 v_0}{g \cdot \cos(\alpha)}</p>. Die zurückgelegte Wagenstrecke ergibt sich dann aus dem Zeit-Weg-Gesetz.

@@ -1,0 +1,9 @@
+Nutzen Sie die Exponentialfunktion der Ladekurve bzw. des Strom-/Spannungsverlaufs eines <p>RC</p>-Glieds.
+---HINT---
+Schreiben Sie die Gleichung in der Form <p>\frac{I(t)}{I_0} = e^{-\frac{t}{\tau}}</p> bzw. <p>\frac{U(t)}{U_0} = e^{-\frac{t}{\tau}}</p> (je nachdem, was gegeben ist).
+---HINT---
+Bilden Sie den Logarithmus und lösen Sie nach der Zeitkonstante <p>\tau</p> auf: <p>\tau = -\frac{t}{\ln(\frac{I(t)}{I_0})}</p> (analog mit <p>U</p>).
+---HINT---
+Wenn zusätzlich <p>R</p> und <p>C</p> vorkommen: Verwenden Sie <p>\tau = R\cdot C</p> zur Umrechnung.
+---HINT---
+Achten Sie auch hier auf konsistente Einheiten (Sekunden, Ohm, Farad).

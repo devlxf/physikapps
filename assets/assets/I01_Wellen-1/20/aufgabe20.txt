@@ -1,0 +1,6 @@
+Zwei im Abstand <T>\,\,g=</T><p>value1\ \text{m}\,\,</p> nebeneinanderstehende Lautsprecher senden phasengleich Frequenzen im Hörbereich aus, die von einem Mikrofon, das im Abstand <T>\,\,e_1=</T><p>value2\ \text{m}\,\,</p> genau senkrecht vor dem ersten Lautsprecher steht, aufgenommen werden. Ermitteln Sie allgemein die Frequenzen, die sich maximal verstärken.
+
+Berechnen Sie die <p>\,\,value3\ \text{. kleinste dieser Frequenzen}</p> <p>\,\,f_{value3}</p>.
+
+Anm.:
+Die Schallgeschwindigkeit in Luft ist <T>\,\,c=</T><p>340\, \text{m/s}</p>.

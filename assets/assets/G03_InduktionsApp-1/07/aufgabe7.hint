@@ -1,0 +1,15 @@
+Die Grundfläche <p>A</p> ist hier Breite <p>b</p> mal Länge <p>2 \cdot a</p>
+---HINT---
+<p>A = b \cdot 2 \cdot a</p>
+---HINT---
+Für die vom Magnetfeld durchsetzte Fläche ist die senkrechte Komponente relevant
+---HINT---
+<p>A(\varphi) = b \cdot 2 \cdot a \cdot sin(\varphi)</p>
+---HINT---
+Der momentane Winkel \varphi(t) ergibt sich aus der konstanten Kreisfrequenz multipliziert mit der Zeit
+---HINT---
+<p>\varphi(t) = \omega \cdot t</p>
+---HINT---
+Die Kreisfrequenz \omega ist definiert als
+---HINT---
+<p>\omega = 2\pi \cdot f</p>

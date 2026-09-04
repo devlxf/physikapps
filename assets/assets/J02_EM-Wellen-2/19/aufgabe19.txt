@@ -1,0 +1,6 @@
+Der Abstand <T>L</T> zwischen Lichtquelle und Drehspiegel sowie  der Abstand <T>s</T> zwischen Hohlspiegel und Drehspiegel beträgt <T>L=s=</T> <p>value1 \text{ m}</p>. Bei einer Frequenz von <T>f=</T> <p>value2 \text{ Hz}</p> wird eine Strahlabweichung von <T>x=</T> <p>valueR \text{ mm}</p> gemessen. 
+
+Berechnen Sie hieraus die gemessene Lichtgeschwindigkeit <T>c</T>.
+
+Anmerkung: Gefragt ist hier der exakte Messwert. Er weicht aufgrund von Messunsicherheiten von der Naturkonstanten 
+<T>c=</T> <p>299.792 \text{ km/s}</p> ab. 

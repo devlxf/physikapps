@@ -1,0 +1,13 @@
+Nutzen Sie das Schaubild. Die Seite <p>\,\,\overline{AB}\,\,</p> hat die Länge 
+
+<p>\,\,\overline{AB}=c\cdot t_1</p>
+---HINT---
+Die Geschwindigkeit des Flugzeugs ergibt sich mit der Geschwindigkeit 
+
+<p>\,\,v\,\,</p> zu <p>\,\,s=v\cdot t_1</p>
+---HINT---
+Für den Beobachtungswinkel <p>\,\,\gamma\,\,</p> gilt
+
+       <p>\text{sin}(\gamma)=\frac{c\cdot t_1}{v\cdot t_1}</p> 
+
+Umstellen nach <p>\,\,v\,\,</p> liefert die Geschwindigkeit des Flugzeuges.

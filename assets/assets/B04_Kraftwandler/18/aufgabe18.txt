@@ -1,0 +1,3 @@
+Am Winkelhebel greift auf der linken Seite die Kraft <T>F_1=</T><p>value1 \text{ N}</p> mit dem Hebelarm <T>a_1=</T><p>value2 \text{ m}</p> an. Auf der rechten Seite soll eine Kraft <T>F_2=</T><p>value3 \text{ N}</p> parallel zu <T>F_1</T> so angreifen, dass der Winkelhebel im Gleichgewicht ist.
+
+Berechnen Sie die Länge des Hebelarms <T>a_2</T>.

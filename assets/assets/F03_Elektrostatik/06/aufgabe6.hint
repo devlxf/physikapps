@@ -1,0 +1,9 @@
+Zeichnen Sie ein Kräfteparallelogramm.
+---HINT---
+Berechnen Sie mit der Fadenlänge und dem Abstand der Kugeln den Auslenkwinkel <p>\alpha</p>.
+---HINT---
+Beachten Sie dabei, dass eine Kathete die Länge <p>\frac{d}{2}</p> hat, da nur die Hälfte des Abstandes zur anderen Kugel den Abstand zum Lot darstellt.
+---HINT---
+Die Gewichtskraft und die Coulombkraft stehen im Verhältnis zueinander. Mit Hilfe des Kräfteparallelogramms lässt sich dieses Verhältnis aufstellen..
+---HINT---
+Mit der nun erhaltenen Coulombkraft können Sie nach <p>q</p> umformen und erhalten somit die gesuchte Ladung.

@@ -1,0 +1,15 @@
+Die Geschwindigkeit <p>\,\,v\,\,</p> des Flugzeugs hängt mit der Strecke <p>\,\,s\,\,</p>  über <p>\,\,s=v\cdot t_1\,\,</p> zusammen.
+---HINT---
+Die Flughöhe <p>\,\,h\,\,</p> lässt sich mit Hilfe des Beobachtungswinkels <p>\,\,\gamma\,\,</p> und der Formel
+
+       <p>\text{tan}(\gamma)=\frac{h}{v\cdot t_1}</p> 
+
+ermitteln. Die Geschwindigkeit <p>\,\,v\,\,</p> des Flugzeugs ist unbekannt. Überlegen Sie sich, wie man diese eliminieren kann.
+---HINT---
+Nutzen Sie das Ergebnis zur Ermitterlung der Geschwindigkeit des Überschallflugzeuges mit
+
+       <p>\text{sin}(\gamma)=\frac{c\cdot t_1}{v\cdot t_1}</p> 
+---HINT---
+Formen Sie die obige Gleichung nach <p>v</p> um und ersetzen Sie so <p>\,\,v\,\,</p> in der Tangensgleichung.
+---HINT---
+Formen Sie abschließend zur Flughöhe <p>\,\,h\,\,</p> um, setzen Sie die gegebenen Werte ein und berechnen Sie das Ergebnis.

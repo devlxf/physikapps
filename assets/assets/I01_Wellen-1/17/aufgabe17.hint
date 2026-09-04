@@ -1,0 +1,17 @@
+Mit der Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> kann die Frequenz über <p>\,\,f=c/\lambda\,\,</p> ermittelt werden.
+---HINT---
+Die Harmonische der Ordnung <p>\,\,n\,\,</p> hat die Frequenz über <p>\,\,f_n=c/\lambda_n</p>.
+---HINT---
+Die Wellenlänge <p>\,\,\lambda_n\,\,</p> der <p>\,\,n.</p> Harmonischen ergibt sich mit der Gesamtlänge <p>\,\,l\,\,</p> des eingespannten Bandes zu
+
+<p>l=\frac{n}{2}\cdot\lambda_n</p>
+---HINT---
+Einsetzen ergibt
+
+<p>f_{n_1}=c\cdot\frac{n_1}{2\cdot l}</p>
+
+Um nun die Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> bei gegebener Frequenz zu berechnen, forme nach <p>\,\,c\,\,</p> um.
+---HINT---
+Mit nun bekannter Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> kann nun die Frequenz berechnet werden, bei der sich <p>\,\,n_2\,\,</p> Bäuche bilden. Dies geschieht nun mit
+
+<p>f_{n_2}=c\cdot\frac{n_2}{2\cdot l}</p>

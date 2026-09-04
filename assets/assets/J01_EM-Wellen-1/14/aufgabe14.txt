@@ -1,0 +1,3 @@
+Ein Mikrowellensender sendet elektromagnetische Wellen mit einer Frequenz von <T>f=</T> <p>value1 \text{ GHz}</p>. Als Empfänger wird ein Empfangsdipol verwendet. Sender und Empfangsdipol sind in einer Linie mit einer Metallplatte aufgestellt. Verschiebt man den Empfangsdipol zwischen Sender und Metallplatte, so stellt man abwechselnd maximalen und minimalen Empfang am Dipol fest.
+
+Berechnen Sie den Abstand <T>x</T> zweier benachbarter Orte mit maximalem Empfang.

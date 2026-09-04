@@ -1,0 +1,7 @@
+Stellen Sie den Energieerhaltungssatz auf: Die kinetische Energie unten im Looping muss der potenziellen Energie oben plus der kinetischen Energie oben entsprechen: <p>W_{kin}^{unten} = W_{pot}^{oben} + W_{kin}^{oben}</p>.
+---HINT---
+Das Auto benötigt oben im Looping kinetische Energie, damit es aufgrund seiner Gewichtskraft nicht herunterfällt.
+---HINT---
+Stellen Sie das Gleichgewicht zwischen Zentripetalkraft und Gewichtskraft auf und ermitteln Sie damit die notwendige Geschwindigkeit oben im Looping: <p>v_B = \sqrt{g \cdot r}</p>.
+---HINT---
+Setzen Sie die potenzielle Energie sowie die notwendige kinetische Energie oben in den Energiesatz ein und ermitteln Sie somit die notwendige Geschwindigkeit unten im Looping: <p>v_A = \sqrt{5 \cdot g \cdot r}</p>.

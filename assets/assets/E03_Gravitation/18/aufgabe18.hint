@@ -1,0 +1,5 @@
+Nutzen Sie die Formel für die potenzielle Energie im Radialpotenzial: <p>W_{pot} = G \cdot M \cdot m \cdot \left(\frac{1}{r_0} - \frac{1}{r_1}\right)</p>
+---HINT---
+Bilden Sie den Grenzfall für <p>r_1 \to \infty</p>. Dadurch wird der Term <p>\frac{1}{r_1} \to 0</p> eliminiert, und es vereinfacht sich zu: <p>W_{pot} = G \cdot m \cdot M \cdot \frac{1}{r_0}</p>
+---HINT---
+Setzen Sie kinetische und potenzielle Energie gleich und formen Sie zur 2. Kosmischen Geschwindigkeit um: <p>v_2 = \sqrt{2 \cdot G \cdot \frac{M}{r_0}}</p>

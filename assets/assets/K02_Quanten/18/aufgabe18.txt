@@ -1,0 +1,3 @@
+Ein Atom der Ordnungszahl <T>Z=</T><p>value1</p> sendet beim Übergang eines Elektrons auf die Bahn <T>n=</T><p>value3</p> ein Photon der Wellenlänge <T>\lambda=</T><p>valueR  \text{ nm}</p> aus.
+
+Aus welchem angeregten Zustand <T>m</T> stammt das Elektron?

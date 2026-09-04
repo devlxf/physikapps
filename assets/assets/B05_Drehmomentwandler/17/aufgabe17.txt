@@ -1,0 +1,4 @@
+Eine Masse <T>m_{1}=</T><p>value1 \text{ kg}</p> befindet sich am Ort <T>x_{1}=</T><p>value2 \text{ m}</p>.
+Eine Masse <T>m_{2}=</T><p>value3 \text{ kg}</p> befindet sich am Ort <T>x_{2}=</T><p>value4 \text{ m}</p>.
+
+Berechnen Sie den gemeinsamen Masseschwerpunkt.

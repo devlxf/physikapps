@@ -1,0 +1,3 @@
+Der Schwingkreiskondensator eines Hochfrequenzgenerators besitzt die Kapazität <T>C=</T> <p>value1 \text{ pF}</p>, die Schwingkreisspule die Induktivität <T>L=</T> <p>value2\ \mu\text{H}</p>. Mit diesem Sender werden elektromagnetische Welle in einen Trog gestrahlt, der mit Alkohol gefüllt ist. Die Länge eines in die Flüssigkeit getauchten Empfangsdipols kann durch übergeschobene Metallhülsen verändert werden. Die kleinste Länge, bei der Resonanz auftritt, ist <T>l=</T> <p>valueR \text{ cm}</p>.
+
+Wie groß ist demnach die Ausbreitungsgeschwindigkeit <T>c_{\text{Alk}}</T> der elektromagnetischen Welle in Alkohol?

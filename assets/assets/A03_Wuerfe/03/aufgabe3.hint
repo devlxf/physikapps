@@ -1,0 +1,5 @@
+Berechnen Sie zuerst die Flugdauer: <p>t = \sqrt{\frac{2 s_y}{g}}</p>
+---HINT---
+Berechnen Sie damit die <p>y</p>-Komponente der Geschwindigkeit beim Auftreffen: <p>v_y = g \cdot t</p>
+---HINT---
+Die Bahngeschwindigkeit ergibt sich mit dem Satz von Pythagoras: <p>v_\text{ges} = \sqrt{v_x^2 + v_y^2}</p>

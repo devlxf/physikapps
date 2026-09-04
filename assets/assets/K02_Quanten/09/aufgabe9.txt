@@ -1,0 +1,3 @@
+Eine Röntgenröhre wird mit der Beschleunigungsspannung <T>U=</T><p>value1  \text{ kV}</p> betrieben.
+
+Wie groß ist die Wellenlänge <T>\lambda_\text{min}</T> der energiereichsten dabei erzeugten Photonen?

@@ -1,0 +1,25 @@
+Bei der Erdölsuche am Nordpol wurde versehentlich ein Bohrloch durch den Mittelpunkt der Erde zum Südpol gebohrt. Ein Geologe fällt zur Zeit <T>t=</T><p>0 \text{ s}</p>  in das Bohrloch.
+
+Wie lange benötigt der Geologe für einen vollständigen Durchlaufzyklus, bis er gerettet werden kann?
+
+Hinweise:
+Vernachlässigen Sie bei Ihren Überlegungen zur Vereinfachung die Luftreibung.
+
+Das Gravitationsgesetz innerhalb der Erde lautet
+
+     <p>F=-\gamma\cdot\frac{M\cdot m}{R^3}\cdot r</p>
+
+Dabei ist <p>\gamma</p> die Gravitationskonstante mit
+
+     <p>\gamma=6,673\cdot 10^{-11} \frac{\text{m}^3}{\text{kg}\cdot\text{s}^2}</p>
+
+<p>M</p> ist die Masse der Erde mit
+
+     <p>M=5,98\cdot 10^{24}\ \text{kg}</p>
+
+<p>R</p> ist der Erdradius mit
+
+     <p>R=6374\ \text{km}</p>
+     
+<p>m</p> ist die Masse des Geologen von <T>m=</T><p>value1\ \text{kg}</p>. <p>r</p> ist der 
+aktuelle Ort des Geologen innerhalb der Erde.

@@ -1,0 +1,9 @@
+Vergleichen Sie die Zentripetalbeschleunigung mit der Bremsverzögerung.
+---HINT---
+Die Formel der Zentripetalbeschleunigung ist aus der Formelsammlung bekannt.
+---HINT---
+Die Bremsverzögerung berechnet sich aus dem Zeit-Geschwindigkeitsgesetz <p>v = a_B \cdot t</p> und dem Zeit-Weg-Gesetz <p>s = \frac{1}{2} \cdot a_B \cdot t^2</p>.
+---HINT---
+Lösen Sie im <p>t</p>-<p>v</p>-Gesetz nach <p>t</p> auf und setzen Sie das Ergebnis in das <p>t</p>-<p>s</p>-Gesetz ein.
+---HINT---
+Lösen Sie nach <p>a</p> auf und vergleichen Sie dann die Beschleunigungen.

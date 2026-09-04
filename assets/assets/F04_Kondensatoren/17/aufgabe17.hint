@@ -1,0 +1,5 @@
+Die Ladungsmenge <p>Q</p> zum Zeitpunkt <p>t</p> ist <p>Q\left(t\right) = C\cdot U(t)</p>.
+---HINT---
+Die Spannung ist gegeben durch <p>U\left(t\right) = R\cdot I(t)</p>.
+---HINT---
+Der Strom beim Entladen verhält sich gemäß <p>I\left(t\right) = {I}_{0}\cdot{e}^{-\frac{1}{R\cdot C}\cdot t}</p>

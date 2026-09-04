@@ -1,0 +1,3 @@
+Verwenden Sie die geometrische Beziehung: <p>\tan(\alpha_{\text{krit}}) = \frac{\Delta y}{L}</p>.
+---HINT---
+Lösen Sie nach dem Abstand auf dem Mond auf: <p>\Delta y = L \cdot \tan(\alpha_{\text{krit}})</p>.

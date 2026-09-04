@@ -1,0 +1,1 @@
+Eine Brücke hat die Höhe <T>h=</T><p>value1\text{ m}</p>. Berechnen Sie, wie schnell ein Stein ist, wenn er nach einem freien Fall auf dem Wasser auftrifft. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.

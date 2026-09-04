@@ -1,0 +1,4 @@
+Ein durch eine Batterie (<T>U_0=</T><p>value1\ \text{V}</p>) geladener Kondensator (<T>C=</T><p>value2\ \text{µF}</p>) ist zum Zeitpunkt <p>t=0\  \text{s}\ </p> ganz aufgeladen. Der Kondensator soll über eine ideale Spule (<T>L=</T><p>value3\ \text{H}</p>) entladen werden.
+
+Berechnen Sie die Gesamtenergie <T>W_{\text{ges}}</T> des Systems.
+

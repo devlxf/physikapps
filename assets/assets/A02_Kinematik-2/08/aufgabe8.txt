@@ -1,0 +1,1 @@
+Der Kolben eines Motors bewegt sich zwischen dem oberen und dem unteren Totpunkt hin und her. Der Hub beträgt <T>h=</T><p>value1\text{ cm}</p>. Der Kolben bewegt sich <T>n=</T><p>value2</p>-mal pro Sekunde auf und ab. Wie groß ist die mittlere Beschleunigung zwischen dem unteren Totpunkt und der Mitte des Hubs?

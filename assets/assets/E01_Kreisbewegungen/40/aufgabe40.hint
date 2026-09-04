@@ -1,0 +1,5 @@
+Stellen Sie eine Formel für die Anfangsgeschwindigkeit des Rades auf. Die Strecke ergibt sich aus der Anzahl der Umdrehungen multipliziert mit dem Umfang: <p>v_0 = \frac{n \cdot 2 \cdot \pi \cdot r}{t_0}</p>.
+---HINT---
+Setzen Sie das Ergebnis in das Zeit-Weg-Gesetz einer gleichmäßig verzögerten Bewegung ein: <p>s = \frac{1}{2} \cdot v_0 \cdot t_B</p>.
+---HINT---
+Der Bremsweg geteilt durch den Radumfang ergibt die Anzahl der Drehungen bis zum Stillstand: <p>n = \frac{s}{2 \cdot \pi \cdot r}</p>.

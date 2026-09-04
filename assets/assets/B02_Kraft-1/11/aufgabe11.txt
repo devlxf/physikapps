@@ -1,0 +1,3 @@
+Eine härtere Feder mit der Federhärte <T>D_1=</T><p>value1 \text{ N/cm}</p> wird mit einer weicheren Feder der Härte <T>D_2=</T><p>value2 \text{ N/cm}</p>, wie in der Zeichnung dargestellt, in Reihe geschaltet. Berechnen Sie, wie weit ein angehängtes Massestück <T>m=</T><p>value3 \text{ g}</p> im Gleichgewicht ausgelenkt wäre.
+
+Anm.: Beide Federn werden idealerweise als masselos angenommen.

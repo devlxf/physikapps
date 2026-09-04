@@ -1,0 +1,5 @@
+Zeichnen Sie zuerst ein Kräfteparallelogramm. Zentripetalkraft und Gewichtskraft bilden zwei Katheten eines rechtwinkligen Dreiecks.
+---HINT---
+Bilden Sie das Verhältnis beider Kräfte mit dem Tangens: <p>\tan(\alpha) = \frac{F_z}{F_G}</p>.
+---HINT---
+Setzen Sie die Formeln für Zentripetalkraft und Gewichtskraft ein und lösen Sie zum Winkel auf: <p>\alpha = \tan^{-1}\!\left(\frac{v^2}{r \cdot g}\right)</p>.

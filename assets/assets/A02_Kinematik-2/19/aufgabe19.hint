@@ -1,0 +1,7 @@
+Berechnen Sie die gesamte Fallzeit der 1. Kugel: <p>t_1 = \sqrt{\frac{2 s_{y1}}{g}}</p>
+---HINT---
+Berechnen Sie die gesamte Fallzeit der 2. Kugel: <p>t_2 = \sqrt{\frac{2 s_{y2}}{g}}</p>
+---HINT---
+Berechnen Sie die Zeit, die Kugel 1 benötigt, um den Auslöseweg <p>\Delta s</p> zurückzulegen: <p>t_3 = \sqrt{\frac{2 \Delta s}{g}}</p>
+---HINT---
+Die 2. Kugel wird nach <p>t_3</p> ausgelöst. Der zeitliche Abstand beim Aufprall ist: <p>\Delta t = (t_3 + t_2) - t_1</p>

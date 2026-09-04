@@ -1,0 +1,5 @@
+In einem Wasserkraftwerk wird die potenzielle Energie des Wassers in elektrische Energie umgewandelt. Durch die Druckrohre fließen bei Volllast <T>\dot{V}=</T><p>value1 \text{ m}^{3}\text{/s}</p>, die Fallhöhe beträgt <T>h=</T><p>value2 \text{ m}</p>. Die elektrische Maximalleistung ist <T>P=</T><p>value3 \text{ MW}</p>.
+
+Berechnen Sie aus den obigen Daten den Wirkungsgrad des Wasserkraftwerks.
+
+Anm.: Ein Kubikmeter Wasser wiegt eine Tonne.

@@ -1,0 +1,3 @@
+Ein Zug durchfährt mit der Geschwindigkeit <T>v=</T><p>value1 \text{ km/h}</p> eine Kurve des Radius <T>r=</T><p>value2 \text{ m}</p>. Die Spurweite beträgt <T>s_W=</T><p>value3 \text{ mm}</p>.
+
+Berechnen Sie den Höhenunterschied <T>h</T>, um den die kurvenäußere Schiene erhöht sein muss, damit beide Schienen gleich stark belastet werden.

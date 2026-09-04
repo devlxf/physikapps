@@ -1,0 +1,7 @@
+Beachten Sie, dass auf einer höheren Bahn kinetische Energie frei wird, da sich der Satellit dort langsamer bewegt. Diese Energie kann für die Hubarbeit verwendet werden.
+---HINT---
+Berechnen Sie zunächst die benötigte Hubarbeit mit: <p>W_{pot} = G \cdot M \cdot m \cdot \left(\frac{1}{r_0} - \frac{1}{r_1}\right)</p>
+---HINT---
+Berechnen Sie die freiwerdende kinetische Energie über das Kräftegleichgewicht: <p>W_{kin} = \frac{1}{2} \cdot G \cdot \frac{M_{Erde} \cdot m}{r}</p>
+---HINT---
+Die insgesamt nötige Energie ergibt sich als Differenz: <p>\Delta W_{ges} = \Delta W_{pot} - \Delta W_{kin}</p>

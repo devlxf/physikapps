@@ -1,0 +1,3 @@
+Ein Pkw der Masse <T>m=</T><p>value1 \text{ kg}</p> fährt auf einer Teststrecke mit <T>v=</T><p>value2 \text{ km/h}</p> durch eine überhöhte Kurve des Radius <T>r=</T><p>value3 \text{ m}</p>.
+
+Mit welcher Kraft <T>F_U</T> belastet der Pkw dabei die Fahrbahn?

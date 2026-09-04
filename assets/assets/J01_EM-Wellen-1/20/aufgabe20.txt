@@ -1,0 +1,3 @@
+Der Schwingkreiskondensator eines Hochfrequenzgenerators besitzt die Kapazität <T>C=</T> <p>value1 \text{ pF}</p>, die Schwingkreisspule die Induktivität <T>L=</T> <p>value2 \mu\text{ H}</p>. Mit diesem Sender werden elektromagnetische Welle in einen Trog gestrahlt, der mit Alkohol gefüllt ist. Die Ausbreitungsgeschwindigkeit in Alkohol ist <T>c_{\text{Alk}}\approx</T> <p>value3 \cdot 10^8 \frac{ \text{m}}{\text{s}}</p>.
+
+Berechnen Sie daraus die Dielektrizitätszahl <T>\varepsilon_r</T> für Alkohol.

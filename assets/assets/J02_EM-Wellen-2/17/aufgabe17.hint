@@ -1,0 +1,7 @@
+Berechnen Sie zunächst die Zeit für den Hin- und Rückweg des Lichts: <p>t = \frac{2s}{c}</p>.
+---HINT---
+Überlegen Sie, um welchen Bruchteil sich das Rad drehen muss, damit das zurückkehrende Licht auf einen Steg trifft: <p>\frac{1}{2n}</p> einer Umdrehung.
+---HINT---
+Die Umlaufzeit des Rades muss so gewählt werden, dass es sich in der Lichtlaufzeit um diesen Bruchteil dreht: <p>T = 2n \cdot t</p>.
+---HINT---
+Berechnen Sie die Frequenz mit <p>f = \frac{1}{T}</p>.

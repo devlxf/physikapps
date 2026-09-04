@@ -1,0 +1,3 @@
+Ein Wassereimer wird in einem vertikalen Kreis mit dem Radius <T>r=</T><p>value1 \text{ m}</p> so langsam geschwungen, dass gerade kein Wasser ausläuft.
+
+Welche Geschwindigkeit <T>v_\text{unten}</T> hat der Eimer im tiefsten Punkt, wenn die schleudernde Person keine Energie zuführt?

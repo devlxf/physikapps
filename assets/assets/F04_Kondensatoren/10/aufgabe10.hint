@@ -1,0 +1,9 @@
+Berechnen Sie zuerst die Kapazität des Kondensators <p>{C}_{K}</p> über seine Bauartparameter.
+---HINT---
+Der Knackpunkt dieser Aufgabe liegt im zweiten Teil:
+---HINT---
+Die Gesamtladungsmenge <p>Q = {C}_{E}\cdot{U}_{1}</p> verteilt sich bei der Spannung <p>{U}_{1}</p> zunächst nur auf dem Kondensator <p>{C}_{E}</p>.
+---HINT---
+Nach Parallelschalten von <p>{C}_{E}</p> und <p>{C}_{K}</p> verteilt sich dieselbe Ladung nun auf beiden Kondensatoren.
+---HINT---
+Also kann man diese beiden Gleichungen für <p>Q</p> gleichsetzen und nach <p>{C}_{E}</p> auflösen.

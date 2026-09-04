@@ -1,0 +1,3 @@
+Ein Werkzeug für Astronauten hat auf der Mondoberfläche die Masse <T>m_1=</T><p>value1 \text{ kg}</p>. Welche Masse <T>m_2</T> müsste ein Übungswerkzeug auf der Erde haben, damit die Astronautenanwärter bei Übungen auf der Erde mit der gleichen Werkzeug-Gewichtskraft <T>F_{G,E}</T> belastet werden?
+
+(<T>g_{\text{Mond}}=</T> 1{,}62 \text{ m/s}^2; <T>g_{\text{Erde}}=</T> 9{,}81 \text{ N/kg})

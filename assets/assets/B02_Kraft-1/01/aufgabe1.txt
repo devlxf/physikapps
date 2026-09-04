@@ -1,0 +1,3 @@
+Ein Auto der Masse <T>m=</T><p>value1 \text{ kg}</p> ist liegen geblieben und muss angeschoben werden. Bereitwillige Helfer schaffen es, das Auto in <T>t=</T><p>value2 \text{ s}</p> auf eine Geschwindigkeit von <T>v=</T><p>value3 \text{ m/s}</p> zu bringen.
+
+Wie viel Kraft <T>F</T> haben sie dazu aufgebracht?

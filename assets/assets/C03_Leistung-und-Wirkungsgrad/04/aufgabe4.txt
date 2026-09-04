@@ -1,0 +1,1 @@
+Eine Wasserturbine hat einen Wirkungsgrad von <T>\eta=</T><p>value1 \text{ \%}</p> und soll eine Leistung <T>P=</T><p>value2 \text{ kW}</p> erbringen. Welcher Wasserstrom in l/min ist dazu erforderlich, wenn das Gefälle <T>h=</T><p>value3 \text{ m}</p> beträgt?

@@ -1,0 +1,7 @@
+An den Ecken eines Quadrates der Kantenlänge <T>a=</T><p>value1 \text{ cm}</p> befinden sich Punktladungen, wobei
+
+<p>q_1=-q,\ q_2=-2\cdot q,\ q_3=+2\cdot q,\ q_4=+q</p>
+
+gilt. <p>q</p> entspricht dabei <T>q=</T><p>value2 \text{ nC}</p>.
+
+Bestimmen Sie den Betrag der Kraft <T>F_\text{res}</T> auf die Ladung <T>q_2</T>.

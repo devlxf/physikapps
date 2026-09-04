@@ -1,0 +1,4 @@
+Das elektrische Gewitterfeld (Feldstärke kurz vor dem Blitzeinschlag <T>E=</T><p>value1 \text{ kN/C}</p>) verläuft vertikal nach unten.
+Ein Regentröpfchen von <T>r=</T><p>value2 \text{ mm}</p> Radius sei negativ geladen.
+
+Wie viele Elektronen <T>N</T> muss es an Überschuss tragen, damit an ihm die elektrische Feldkraft der Gewichtskraft das Gleichgewicht hält?

@@ -1,0 +1,7 @@
+Erstellen Sie eine Kräfteskizze. Zeichnen Sie alle wirkenden Kräfte ein und bilden Sie das Kräfteparallelogramm.
+---HINT---
+Stellen Sie das Kräftegleichgewicht in <p>y</p>-Richtung auf: <p>F_{1y} + F_{2y} = -F_{g}</p>. Die Projektion ergibt: <p>F_{1y} = F_{1} \cdot \sin(\alpha_{1})</p> und <p>F_{2y} = F_{2} \cdot \sin(\alpha_{2})</p>
+---HINT---
+Stellen Sie das Kräftegleichgewicht in <p>x</p>-Richtung auf: <p>F_{1x} = F_{2x}</p>. Die Projektion ergibt: <p>F_{1x} = F_{1} \cdot \cos(\alpha_{1})</p> und <p>F_{2x} = F_{2} \cdot \cos(\alpha_{2})</p>
+---HINT---
+Sie erhalten zwei Gleichungen mit zwei Unbekannten <p>F_{1}</p> und <p>F_{2}</p>. Formen Sie die <p>x</p>-Gleichung nach <p>F_{2}</p> um und setzen Sie dies in die <p>y</p>-Gleichung ein. So können Sie <p>F_{1}</p> berechnen.

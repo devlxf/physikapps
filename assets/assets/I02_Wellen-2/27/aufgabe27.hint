@@ -1,0 +1,29 @@
+Die mittlere Schallenergie <p>\,\,\overline{E}\,\,</p> ist gegeben durch Leistung <p>\,\,P\,\,</p> multipliziert mit der Zeit <p>\,\,t</p>.
+---HINT---
+Die Leistung <p>\,\,P\,\,</p> ist Schallintensität <p>I</p> multipliziert mit der Fläche <p>\,\,A</p>.
+---HINT---
+Die Zeit <p>\,\,t\,\,</p> ergibt sich aus der Schallgeschwindigkeit <p>\,\,c=340\,\text{m/s}\,\,</p> und Raumhöhe <p>\,\,h\,\,</p> zu
+
+<p>c=\frac{h}{c}</p>
+---HINT---
+Die mittlere Schallenergie <p>\,\,\overline{E}\,\,</p> ist Damit gegeben durch
+
+<p>\overline{E}=I\cdot A\cdot \frac{h}{c}</p>
+---HINT---
+Die Schallintensität <p>I</p> ist in der Aufgabenstellung nicht gegeben, kann aber durch Umformen der Formel 
+
+<p>L_I=10\cdot\text{lg}\left(\frac{I}{I_0}\right)</p>
+
+berechnet werden. Die Referenzintensität <p>\,\,I_0\,\,</p> ist <p>\,\,I_0=10^{-12}\,\text{W}/\text{m}^2</p>.
+---HINT---
+Die Intensität <p>\,\,I\,\,</p> stellt sich nach Umformen dar als
+
+<p>I=I_0\cdot 10^{L_I/10\,\text{dB}}</p>
+
+Setzen Sie dies in die Formel für die mittlere Schallenergie <p>\,\,\overline{E}\,\,</p> ein.
+---HINT---
+Abschließend ergibt sich die Formel
+
+<p>\overline{E}=I_0\cdot 10^{L_I/10\,\text{dB}}\cdot A\cdot \frac{h}{c}</p>
+
+Setzen Sie die gegebenen Werte ein und berechnen Sie so die mittlere Schallenergie <p>\,\,\overline{E}</p>.

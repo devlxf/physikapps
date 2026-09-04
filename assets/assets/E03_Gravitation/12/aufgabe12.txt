@@ -1,0 +1,1 @@
+Welche Energie wird benötigt, um einen Satelliten der Masse <T>m=</T><p>value1 \text{ kg}</p> von der Erdoberfläche in eine stabile Umlaufbahn in <T>h=</T><p>value2 \text{ km}</p> Höhe zu bringen? Nutzen Sie die Erdrotation dabei optimal aus, um Energie zu sparen.

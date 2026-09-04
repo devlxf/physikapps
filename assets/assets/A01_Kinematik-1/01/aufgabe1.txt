@@ -1,0 +1,1 @@
+Bestimmen Sie aus dem gegebenen Zeit-Weg-Diagramm, welche Strecke das Fahrzeug nach <T>t=</T><p>value1\text{ s}</p> zurückgelegt hat.

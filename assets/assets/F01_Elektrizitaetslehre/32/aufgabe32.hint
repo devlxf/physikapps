@@ -1,0 +1,5 @@
+Berechnen Sie zuerst den Strom, der maximal durch die Lampe fließen kann.
+---HINT---
+Nutzen Sie dann die Kirchhoffsche Maschenregel, d. h. dass die Speisespannung sich auf die Widerstände aufteilt.
+---HINT---
+Nutzen Sie abschließend das Ohmsche Gesetz zur Berechnung des Vorwiderstandes.

@@ -1,0 +1,1 @@
+Ein Trabant kreist in einem Abstand von <T>r=</T><p>value1 \text{ km}</p> um den Mittelpunkt eines Himmelskörpers. Die Umlaufzeit beträgt <T>T=</T><p>value2 \text{ s}</p>. Berechnen Sie den Ortsfaktor auf der Oberfläche des Himmelskörpers, dessen Radius <T>R=</T><p>value3 \text{ km}</p> ist.

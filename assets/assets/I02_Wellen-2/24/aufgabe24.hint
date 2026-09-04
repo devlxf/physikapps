@@ -1,0 +1,14 @@
+Die Amplitude des Schalldrucks kann mit der Formel
+
+<p>p_{\text{max}}=\rho_0\cdot\omega\cdot c\cdot\hat{y}_0</p>
+
+bestimmt werden. 
+---HINT---
+Der Schallausschlag <p>\,\,\hat{y}\,\,</p>  ist nicht direkt gegeben, kann aber nach Umstellen der Formel
+
+<p>I=\frac{1}{2}\rho\cdot\hat{y}_0^2\cdot\omega^2\cdot c</p>
+
+berechnet werden. 
+---HINT---
+Berechnen Sie <p>\,\,\hat{y}\,\,</p>, setzen Sie das Ergebnis in die Formel für <p>\,\,p_{\text{max}}\,\,</p> ein und berechnen Sie.
+

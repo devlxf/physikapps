@@ -1,0 +1,1 @@
+Die Umlaufzeit des Planeten Erde und eines Asteroiden um die Sonne betragen <T>T_1=</T><p>value1 \text{ d}</p>, bzw. <T>T_2=</T><p>value2 \text{ a}</p>. Berechnen Sie die Länge der großen Halbachse der Asteroidenbahn unter der Annahme, dass die Erdbahn <T>a_1=</T><p>value3\cdot 10^8\text{ km}</p> beträgt.

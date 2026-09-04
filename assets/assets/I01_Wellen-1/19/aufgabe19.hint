@@ -1,0 +1,17 @@
+Der Abstand <p>\,\,l\,\,</p> zweier Knoten im Kolben entspricht einer halben Wellenlänge <p>\,\, \lambda_L/2</p>. Berechnen Sie mit gegebenen Werten die Wellenlänge <p>\,\, \lambda_L</p>.
+---HINT---
+Über
+
+<p>f_0=\frac{c_L}{\lambda_L} </p> 
+
+lässt sich die Frequenz des Schalls in Luft berechnen.
+---HINT---
+Der Messingstab wird mit der Frequenz <p>\,\,f_0\,\,</p> angeregt. Da der Stab einseitig eingespannt und in der Grundschwingung angeregt wird, entspricht dies einer viertel Wellenlänge <p>\,\, \lambda_M/4\,\,</p> auf dem Messingstab.
+---HINT---
+Da die Länge <p>\,\, l\,\,</p> des Messingstabes gegeben ist kann hierüber die Wellenlänge <p>\,\, \lambda_M\,\,</p> auf dem Stab berechnet werden.
+---HINT---
+Die Schallgeschwindigkeit <p>\,\,c_M\,\,</p> in Messing ergibt sich aus der Formel
+
+<p>c_M=f_0\cdot\lambda_M</p> 
+
+

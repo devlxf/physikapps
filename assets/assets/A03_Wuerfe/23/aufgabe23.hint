@@ -1,0 +1,5 @@
+Am Auftreffpunkt ist die Geschwindigkeit null, d.h. die <p>y</p>-Komponente der Geschwindigkeit ist null: <p>v_{0y} = g \cdot t</p>. Außerdem gilt: <p>s_y = \frac{1}{2} g \cdot t^2</p>. Berechnen Sie damit <p>v_{0y}</p> und <p>t</p>.
+---HINT---
+In <p>x</p>-Richtung gilt: <p>v_{0x} = \frac{s_x}{t}</p>
+---HINT---
+Die Abschussgeschwindigkeit ist: <p>v_0 = \sqrt{v_{0x}^2 + v_{0y}^2}</p>

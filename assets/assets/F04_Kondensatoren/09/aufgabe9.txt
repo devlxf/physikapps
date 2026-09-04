@@ -1,0 +1,1 @@
+Welche Kapazität <T>C_2</T> muss man zu <T>C_1=</T><p>value1 \text{ μF}</p> in Reihe schalten, damit eine Gesamtkapazität von <T>C_\text{ges}=</T><p>value2 \text{ μF}</p> entsteht?

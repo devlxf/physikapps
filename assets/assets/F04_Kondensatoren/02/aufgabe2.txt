@@ -1,0 +1,5 @@
+Eine positiv geladene Wolke in <T>h=</T><p>value1 \text{ m}</p> Höhe bildet zusammen mit dem Erdboden einen Plattenkondensator mit der Flächengröße <T>A=</T><p>value2 \text{ km}^2</p>.
+
+Die Feldstärke zwischen Wolke und Erde beträgt <T>E=</T><p>value3 \text{ V/m}</p>. Die Ladung ist so hoch, dass ein Blitz unmittelbar bevorsteht.
+
+Berechnen Sie die Ladung <T>Q</T> der Wolke.

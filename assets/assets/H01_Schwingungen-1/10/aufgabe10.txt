@@ -1,0 +1,4 @@
+Ein Fadenpendel hat die Länge von <T>l=</T><p>value1\ \text{m}</p> und wird um <T>\alpha=</T><p>value2\ ^{\circ}</p>  ausgelenkt. 
+
+Berechnen Sie seine Geschwindigkeit <T>v</T> im Nulldurchgang.
+

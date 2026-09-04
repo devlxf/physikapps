@@ -1,0 +1,3 @@
+Eine Lautsprecherspule wird mit einer Gleichspannungsquelle mit <T>U_{0}=</T><p>value1 \text{ V}</p> verbunden und die Stromstärke in der Spule in Abhängigkeit von der Zeit gemessen (siehe Tabelle).
+
+Berechnen Sie näherungsweise die Induktivität <T>L</T> der Spule, indem Sie die Tangente an die Kurve im Ursprung durch die Sehne im Bereich <p>0 \text{ ms}≤ t ≤ value2 \text{ ms}</p> ersetzen.

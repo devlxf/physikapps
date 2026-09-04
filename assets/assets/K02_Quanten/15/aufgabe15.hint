@@ -1,0 +1,11 @@
+Die Gesamtenergie besteht aus potenzieller und kinetischer Energie
+<p>E_{\text{ges}} = E_{\text{pot}}+E_{\text{kin}}</p>
+---HINT---
+Die potenzielle Energie wurde in der letzten Aufgabe bestimmt zu
+<p>E_{\text{pot}} = -2 \cdot R_H \cdot \frac{Z^2}{n^2} </p>
+Die kinetische Energie wurde in der vorletzten Aufgabe bestimmt zu
+<p>E_{\text{pot}} = +R_H \cdot \frac{Z^2}{n^2}</p>
+Hiermit lässt sich die Gesamtenergie durch Einsetzen berechnen.
+---HINT---
+<p>R_H</p> ist die Rydberg-Konstante mit
+<p>R_H = \frac{\mathrm{e}^4 \cdot m_{\text{e}}}{8 \cdot h^2 \cdot \varepsilon_0^2}=13{,}6\ \text{eV}</p>

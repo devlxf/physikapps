@@ -1,0 +1,1 @@
+Berechnen Sie die Gesamtenergie <T>E_\text{ges}</T> eines Elektrons auf der <T>n=</T><p>value1</p> Bahn eines Atoms mit der Kernladungszahl <T>Z=</T><p>value2</p>.

@@ -1,0 +1,2 @@
+Berechnen Sie die Frequenz, mit der ein Schwingkreis, bestehend aus einem Kondensator mit der Kapazität <T>C=</T><p>value1\ \text{µF}\ </p> und einer Spule mit der Induktivität <T>L=</T><p>value2\ \text{H}\ </p>  schwingt.
+

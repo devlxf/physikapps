@@ -1,0 +1,6 @@
+Eine Gitarrensaite habe eine Massenbelegung von <T>\,\,\mu=</T><p>value1\ \text{g/m}</p>. Der Abstand zwischen Sattel und Steg beträgt <T>\,\,l=</T><p>value2\ \text{mm}\,\,</p> (der Fachbegriff für den frei schwingenden Teil ist „Mensur"). Welchen Grundton <T>\,\,f\,\,</T> erzeugt diese Saite, wenn sie mit einer Masse von <T>\,\,m=</T><p>value3\ \text{kg}\,\,</p> eingespannt und angezupft wird?
+
+Berechnen Sie die Frequenz <p>\,\,f\,\,</p> des Grundtons.
+
+Anm.:
+Die Erdbeschleunigung beträgt <T>\,\,g=</T><p>9{,}81\, \text{m/s}^2\,\,</p>.

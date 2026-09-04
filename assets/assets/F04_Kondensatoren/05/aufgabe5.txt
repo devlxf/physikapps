@@ -1,0 +1,5 @@
+Ein Streifen eines Wickelkondensators hat auf jeder Seite die Fläche <T>A=</T><p>value1 \text{ m}^2</p> und den Abstand <T>d=</T><p>value2 \text{ mm}</p> zum anderen.
+
+Das Dielektrikum hat die relative Permittivität <T>\varepsilon_r=</T><p>value3</p>.
+
+Bei welcher Spannung <T>U</T> ist eine Ladung von <T>Q=</T><p>value4 \text{ μC}</p> auf dem Kondensator?

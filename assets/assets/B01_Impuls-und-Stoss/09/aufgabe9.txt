@@ -1,0 +1,1 @@
+Bei einem Auffahrunfall fährt ein Auto mit <p>value1 \text{ km/h}</p> vor einen Baum. Die Motorhaube wird <p>value2 \text{ cm}</p> eingedrückt, während der Baum keine Knautschzone hat. Welche Bremsverzögerung erfährt das Auto beim Aufprall?

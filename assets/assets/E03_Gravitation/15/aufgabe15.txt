@@ -1,0 +1,1 @@
+Berechnen Sie für das Gravitationsfeld der Erde das Potenzial (Bezugspunkt im Unendlichen) auf den <T>n=</T><p>value1</p>-fachen Abstand zum Erdmittelpunkt.

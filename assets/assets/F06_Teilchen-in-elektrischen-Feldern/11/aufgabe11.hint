@@ -1,0 +1,21 @@
+Die Gesamtenergie nach Durchlaufen der beiden Potenzialdifferenzen kann über den Energiesatz berechnet werden
+
+---HINT---
+
+<p>W_{ges_1} = W_{kin_e} + W_{el_1}</p>
+
+---HINT---
+
+Beim Durchlaufen einer weiteren Potenzialdifferenz ergibt sich entsprechend-
+
+---HINT---
+
+<p>W_{ges_2} = W_{kin_e}+ W_{el_1} + W_{el_2}</p>
+
+---HINT---
+
+Die kinetische Energie des Protons wird zuerst in Joule berechnet. Mit der Umrechnung <p>1\ \text{eV}\widehat{=}1{,}6 \cdot 10^{-19}\text{ J}</p> kann die kinetische Energie dann mit der elektrischen Energie verrechnet werden.
+
+---HINT---
+
+Zur Berechnung benötigen Sie die Masse des Protons <p>m_{P} = 1{,}672 \cdot 10^{-27}\ \text{kg}</p>. Zudem ist das Proton einfach positiv geladen mit <p>q = 1{,}6 \cdot 10^{-19}\ \text{C}</p>.

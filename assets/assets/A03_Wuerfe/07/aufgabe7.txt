@@ -1,0 +1,3 @@
+Ein Pilot lässt einen Versorgungssack aus <T>s_y=</T><p>value1\text{ m}</p> Höhe fallen. Der Sack schlägt <T>s_x=</T><p>value2\text{ m}</p> vom Abwurfpunkt entfernt auf. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Welche Geschwindigkeit hatte das Flugzeug?

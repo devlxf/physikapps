@@ -1,0 +1,7 @@
+Nutzen Sie die Formel für das Gravitationspotenzial auf der Oberfläche: <p>V = -G\cdot M \cdot \frac{1}{r}</p>
+---HINT---
+Die Masse des Planeten ist nicht direkt gegeben. Berechnen Sie sie als Produkt aus Dichte und Volumen: <p>M = \rho \cdot V_{Kugel}</p>
+---HINT---
+Das Volumen des Planeten entspricht dem Volumen einer Kugel: <p>V_{Kugel} = \frac{4}{3} \cdot \pi \cdot r^3</p>
+---HINT---
+Einsetzen und vereinfachen ergibt: <p>V = -G \cdot \rho \cdot \frac{4}{3} \cdot \pi \cdot r^2</p>. Beachten Sie dabei die korrekten Einheiten (Dichte in <p>\text{kg/m}^3</p>, Radius in <p>\text{m}</p>).

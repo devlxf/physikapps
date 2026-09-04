@@ -1,0 +1,9 @@
+Berechnen Sie die Feldstärken für beide Kugeln separat.
+---HINT---
+Die Abstände der beiden Kugeln müssen Sie dabei aus dem Schaubild ermitteln, bzw. berechnen.
+---HINT---
+Zerlegen Sie die Feldstärken jeweils in eine <p>x</p>- und eine <p>y</p>-Komponente.
+---HINT---
+Addieren die jeweils die <p>x</p>-Komponenten und <p>y</p>-Komponenten zu resultierenden Kraftkomponenten.
+---HINT---
+Berechnen Sie die Richtung der wirkenden resultierenden Feldstärke mit dem Tangens.

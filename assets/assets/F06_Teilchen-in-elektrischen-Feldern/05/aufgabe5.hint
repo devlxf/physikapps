@@ -1,0 +1,13 @@
+Berechnen Sie mit <p>W = q \cdot U</p> die Energie, die das Elektron beim Durchlauf der Potenzialdifferenz gewinnt.
+
+---HINT---
+
+Die Geschwindigkeit <p>v</p> kann anschließend mit der Formel <p>W = \frac{1}{2}\ \text{m} \cdot v^{2}</p> berechnet werden.
+
+---HINT---
+
+Dazu ist <p>W_{el} = W_{kin}</p> zu setzen und nach <p>v</p> umzuformen.
+
+---HINT---
+
+Die Masse des Elektrons ist dabei <p>m_{e} = 9{,}1 \cdot 10^{-31}\ \text{kg}</p>, seine Ladung <p>q_{e} = 1{,}6 \cdot 10^{-19}\ \text{C}</p>

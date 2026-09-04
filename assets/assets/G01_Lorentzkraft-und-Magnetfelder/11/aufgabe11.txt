@@ -1,0 +1,1 @@
+Ein waagerechter Draht der Masse <T>m=</T><p>value1 \text{ g}</p> und der Länge <T>l=</T><p>value2 \text{ cm}</p>, durch den ein Strom von <T>I=</T><p>value3 \text{ A}</p> fließt, wird von einem Magnetfeld in der Schwebe gehalten. Berechnen Sie die Stärke des Magnetfeldes <T>B</T>.

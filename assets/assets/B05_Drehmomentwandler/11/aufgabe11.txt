@@ -1,0 +1,1 @@
+In einem Getriebe wirkt eine Kraft <T>F_{1}=</T><p>value1 \text{ N}</p> auf den Riemen. Welche Leistung wird übertragen, wenn der Abtrieb einen Scheibendurchmesser von <T>d=</T><p>value2 \text{ cm}</p> hat und mit <T>n=</T><p>value3 \text{ U/min}</p> rotiert?

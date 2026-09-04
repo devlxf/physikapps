@@ -1,0 +1,5 @@
+Ein Kondensator wird über den Widerstand <T>R=</T><p>value1\ \text{k}\Omega</p> geladen.
+
+Zu Beginn des Ladevorgangs fließt ein Strom von <T>I_0=</T><p>value2 \text{ mA}</p>. Nach der Zeit <T>t=</T><p>value3 \text{ s}</p> ist der Strom auf <T>I=</T><p>value4 \text{ mA}</p> gesunken.
+
+Berechnen Sie die Kapazität <T>C</T> des Kondensators.

@@ -1,0 +1,5 @@
+Ein Wagen 1 der unbekannten Masse <T>m_1</T> stößt zentral auf einen ruhenden Wagen 2 der unbekannten Masse <T>m_2</T>. Nach dem elastischen Stoß bewegt sich der Wagen 1 mit <p>value1 \text{ \%}</p> seiner ursprünglichen Geschwindigkeit weiter.
+
+Um welchen Faktor ist der Wagen 1 schwerer als der Wagen 2?
+
+Anm.: Die Reibung darf hier vernachlässigt werden.

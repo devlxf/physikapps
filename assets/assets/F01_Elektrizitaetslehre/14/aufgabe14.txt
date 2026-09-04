@@ -1,0 +1,5 @@
+Die nebenstehende Schaltung besteht aus den Widerständen
+
+<T>R_{S1}=</T><p>value1\ \Omega</p>, <T>R_{S2}=</T><p>value2\ \Omega</p>, <T>R_{P1}=</T><p>value3\ \Omega</p>, <T>R_{P2}=</T><p>value4\ \Omega</p> und <T>R_{P3}=</T><p>value5\ \Omega</p>.
+
+Welcher Strom fließt durch <T>R_{P1}</T>, wenn von außen eine Spannung von <T>U_0=</T><p>value6 \text{ V}</p> angelegt wird?

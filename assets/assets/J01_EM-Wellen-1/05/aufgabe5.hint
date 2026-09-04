@@ -1,0 +1,5 @@
+Formen Sie die Thomson-Formel <p>f = \frac{1}{2\pi} \cdot \frac{1}{\sqrt{L \cdot C}}</p> nach der Kapazität C um.
+---HINT---
+Berechnen Sie die benötigten Kapazitätswerte für beide Grenzfrequenzen des Empfangsbereichs (<p>f_1 = 530 \text{ kHz}</p> und <p>f_2 = 1600 \text{ kHz}</p>).
+---HINT---
+Der Drehkondensator muss zwischen dem kleinsten und größten berechneten Kapazitätswert variierbar sein, um den gesamten Frequenzbereich abzudecken.

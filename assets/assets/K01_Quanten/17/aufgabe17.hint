@@ -1,0 +1,9 @@
+Überlegen Sie, welcher physikalische Effekt zu einer Änderung der Wellenlänge bei der Streuung von Photonen führt.
+---HINT---
+Die Wellenlängenänderung bei der Streuung von Photonen wird durch den Compton-Effekt beschrieben:
+<p>\Delta \lambda = \lambda_C \cdot (1 - \cos(\beta))</p>
+Dabei ist <p>\lambda_C</p> die Compton-Wellenlänge des Elektrons.
+---HINT---
+Die Compton-Wellenlänge des Elektrons beträgt:
+<p>\lambda_C = \frac{h}{m_e c}</p>
+Setzen Sie den gegebenen Streuwinkel ein und berechnen Sie die Wellenlängenzunahme <p>\Delta \lambda</p>.

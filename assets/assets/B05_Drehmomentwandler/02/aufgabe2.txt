@@ -1,0 +1,3 @@
+Eine Waschmaschine hat die Gewichtskraft <T>F_{W}=</T><p>value1 \text{ N}</p>. Zudem hat sie eine Breite und Höhe von <p>value2 \text{ cm}</p>.
+
+Welche Kraft wird benötigt, um die Waschmaschine umzuwerfen?

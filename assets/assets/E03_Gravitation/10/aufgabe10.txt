@@ -1,0 +1,1 @@
+Die ISS hat eine Masse von <T>m=</T><p>value1 \text{ t}</p>. Berechnen Sie, wie viel kinetische Energie frei wird, wenn die ISS von <T>h_1=</T><p>value2 \text{ km}</p> Höhe über der Erdoberfläche auf eine Höhe von <T>h_2=</T><p>value3 \text{ km}</p> über der Erde angehoben wird.

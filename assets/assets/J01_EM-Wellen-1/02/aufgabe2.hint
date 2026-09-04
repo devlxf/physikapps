@@ -1,0 +1,5 @@
+Berechnen Sie zunächst die Resonanzfrequenz des LC-Schwingkreises mit der Thomson-Formel <p>f = \frac{1}{2\pi} \cdot \frac{1}{\sqrt{L \cdot C}}</p>.
+---HINT---
+Berechnen Sie aus der ermittelten Frequenz die Wellenlänge mit <p>\lambda = \frac{c}{f}</p>.
+---HINT---
+Nutzen Sie die Tatsache, dass ein Sendedipol besonders gut schwingt, wenn seine Länge der halben Wellenlänge entspricht.

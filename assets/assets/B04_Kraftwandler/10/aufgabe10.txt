@@ -1,0 +1,5 @@
+Am abgebildeten Hebel wirken die drei Kräfte <T>F_1=</T><p>value1 \text{ N}</p>, <T>F_2=</T><p>value2 \text{ N}</p> und <T>F_3=</T><p>value3 \text{ N}</p>. <T>F_3</T> greift dabei unter einem Winkel <T>\alpha=</T><p>value4°</p> an.
+
+Berechnen Sie die Länge des Hebelarms <T>a_3</T>.
+
+Anm.: Der Hebel selbst ist masselos.

@@ -1,0 +1,3 @@
+Der Speichersee eines Pumpspeicherkraftwerkes hat eine mittlere Tiefe von <T>d=</T><p>value1 \text{ m}</p> und eine Fläche von <T>A=</T><p>value2 \text{ km}^{2}</p>. Die Höhe der Wasseroberfläche zum Auslauf beträgt <T>h=</T><p>value3 \text{ m}</p>.
+
+Berechnen Sie die gesamte elektrische Energie, die man aus dem Speicherseewasser gewinnen kann, wenn man von einem Wirkungsgrad von <T>\eta=</T><p>value4 \text{ \%}</p> der Turbinen ausgeht.

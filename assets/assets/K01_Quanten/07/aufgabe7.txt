@@ -1,0 +1,3 @@
+In Nachtsichtgeräten löst unsichtbares Infrarotlicht aus einer AgCsO-Schicht Photoelektronen aus. Diese werden durch ein elektrisches Feld beschleunigt und über eine magnetische Linse auf einen Leuchtschirm fokussiert.
+
+Wie groß ist die Austrittsarbeit <T>W_\text{A}</T>, wenn Wellenlängen von <T>\lambda=</T><p>value1  \text{ nm}</p> gerade noch registriert werden?

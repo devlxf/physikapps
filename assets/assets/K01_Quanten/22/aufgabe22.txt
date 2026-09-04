@@ -1,0 +1,3 @@
+Photonen, die sich durch den freien Raum bewegen, können sich nicht spontan in zwei Teilchen aufspalten, da dann die Impulserhaltung verletzt wäre. Treffen sie aber auf einen Stoßkörper, z. B. ein Proton, so können sie einen Teil ihres Impulses abgeben und dann in ein Teilchenpaar aufspalten.
+
+Wie groß ist die Mindestenergie <T>E_\gamma^\text{min}</T> des Photons, um zwei Teilchen der Masse <T>m=</T><p>value1  \text{ kg}</p> erzeugen zu können?

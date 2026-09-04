@@ -1,0 +1,3 @@
+Oberleitungen werden mit sogenannten Gewichtsspannvorrichtungen gespannt. Wie viel Gewicht wird benötigt, wenn die Oberleitung mit <T>F_1=</T><p>value1 \text{ N}</p> gespannt werden soll?
+
+Nehmen Sie dabei zur Vereinfachung an, dass die Konstruktion vollständig reibungsfrei ist und das Seil sowie die Rollen keine Masse besitzen.

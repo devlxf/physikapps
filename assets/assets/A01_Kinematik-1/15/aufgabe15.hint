@@ -1,0 +1,7 @@
+Die Geschwindigkeit senkrecht zum Fluss sei die <p>y</p>-Richtung. Nur diese Komponente ist für die Überquerungszeit relevant.
+---HINT---
+Die Projektion des Geschwindigkeitsvektors <p>v_\text{Boot}</p> auf die <p>y</p>-Richtung ergibt: <p>v_y = v_\text{Boot} \cdot \cos(\alpha)</p>
+---HINT---
+Mit der Quergeschwindigkeit <p>v_y</p> und dem Zeit-Weg-Gesetz folgt die Überquerungszeit: <p>t = \frac{b}{v_y}</p>
+---HINT---
+<insert>aufgabe15_T1.png</insert>

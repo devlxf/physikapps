@@ -1,0 +1,4 @@
+Eine Brücke geriet in besonders starke Schwingungen, als eine Personengruppe im Gleichschritt in der Zeit <T>\Delta t=</T><p>value1\ \text{s}</p> insgesamt <T>n=</T><p>value2</p> Schritte vollzogen. Die Fahrbahn der Brücke ist mit <T>s=</T><p>value3\ \text{m}</p> langen Platten belegt. Fährt ein Auto mit gleichbleibender Geschwindigkeit über die Brücke, so wird diese immer dann zu Schwingungen angeregt, wenn das Auto über eine Stoßstelle der Fahrbahnplatten fährt.
+
+Berechnen Sie die Geschwindigkeit, die auf der Brücke vermieden werden sollte.
+

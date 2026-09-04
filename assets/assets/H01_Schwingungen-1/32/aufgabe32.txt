@@ -1,0 +1,3 @@
+Von zwei Stimmgabeln der Frequenz <T>f=</T><p>value1\ \text{Hz}\ </p> wird die eine durch Erwärmung verstimmt, sodass sich <T>\ n=</T><p>value2\ </p> Schwebungen innerhalb von <T>\ t=</T><p>value3\ </p> Sekunden ergeben.
+
+Berechnen Sie, welche Frequenz <p>\ f </p> die verstimmte Stimmgabel besitzt.

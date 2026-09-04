@@ -1,0 +1,5 @@
+Betrachten Sie die Schaltung als reine Parallelschaltung der Widerstände <p>R_3</p> und einer Blackbox <p>R_{12}</p>.
+---HINT---
+Betrachten Sie die Blackbox <p>R_{12}</p> separat als Reihenschaltung aus <p>R_1</p> und <p>R_2</p> und berechnen den Widerstand <p>R_{12}</p> wie in einer Reihenschaltung üblich.
+---HINT---
+Beachten Sie, dass in einer Parallelschaltung über alle Widerstände die gleiche Spannung abfällt. Hier fällt also die gleiche Spannung über <p>R_3</p> und <p>R_{12}</p> ab.

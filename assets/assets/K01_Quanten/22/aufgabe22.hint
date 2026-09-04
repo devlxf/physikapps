@@ -1,0 +1,6 @@
+Überlegen Sie, welche Energie ein Photon mindestens besitzen muss, um ein Teilchen-Antiteilchen-Paar zu erzeugen.
+---HINT---
+Bei der Paarbildung wird Photonenenergie in Ruheenergie von Teilchen umgewandelt. Für ein Elektron-Positron-Paar gilt:
+<p>E_\gamma^{\text{min}} = 2 m_0 c^2</p>
+---HINT---
+Setzen Sie die Ruhemasse des Elektrons ein und berechnen Sie die Energie zunächst in Joule. Anschließend können Sie die Energie in MeV umrechnen.

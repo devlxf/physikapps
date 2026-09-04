@@ -1,0 +1,3 @@
+Zur Bestimmung der Tiefe eines Brunnens lässt jemand einen Stein fallen. Er hört das Auftreffen auf dem Wasser <T>t_\text{ges}=</T><p>value1\text{ s}</p> nach dem Loslassen. Die Schallgeschwindigkeit beträgt <T>v_s=</T><p>value2\text{ m/s}</p>. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Berechnen Sie die Tiefe des Brunnens.

@@ -1,0 +1,3 @@
+Ein Laser sendet Licht der Wellenlänge <T>\lambda=</T><p>value1  \text{ nm}</p> aus.
+
+Berechnen Sie die relativistische Masse <T>m_\text{rel}</T> eines einzelnen Photons.

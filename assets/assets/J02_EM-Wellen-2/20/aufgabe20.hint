@@ -1,0 +1,11 @@
+Berechne die Schwebefrequenz mit
+
+<p>f_s=|f_1-f_2|</p>
+---HINT---
+Berechnen Sie nun die Periodendauer <p>\, T\, </p> der Schwebung mit <p>\, T=1/f_s</p>
+---HINT---
+Messen Sie die Laufzeitdifferenz <p>\, t_1\, </p>, die durch die Laufzeit <p>\,  \Delta T\text{ }</p> des Lichtes entsteht. Jetzt kommt die zentrale Erkenntnis: Um den prozentualen Anteil, den die Schwebung verschoben wird, wird auch die tatsächliche Frequenz verschoben. 
+
+Entspricht die Periodendauer der Schwebung beispielsweise <p>\, 10\, \mu\text{s}\, </p> und die Verschiebung <p>\, 2\,  \mu\text{s}\, </p>, so wird die Frequenz um 20 Prozent verschoben.
+---HINT---
+Berechne nun die Periodendauer <p>\, T_1\, </p> der Modulationsfrequenz. Der prozentuale Anteil der Änderung dieser Periodendauer entspricht nun der Laufzeit des Lichtes. Zusammen mit der gemessenen Strecke zwischen Laser und Sensor ergibt sich nun die Lichtgeschwindigkeit.

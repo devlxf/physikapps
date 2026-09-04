@@ -1,0 +1,2 @@
+Ein Monochord habe eine Massenbelegung von <T>\,\,\mu_1=</T><p>value1\ \text{g/m}</p>. Es wird ein Grundton von <T>\,\,f_1=</T><p>value2\ \text{Hz}\,\,</p> erzeugt. Wie müsste die Massenbelegung <T>\,\,\mu_2\,\,</T> geändert werden, damit sich bei ansonsten gleichen Bedingungen die Frequenz auf <T>\,\,f_2=</T><p>value3\ \text{Hz}\,\,</p> verändert?
+

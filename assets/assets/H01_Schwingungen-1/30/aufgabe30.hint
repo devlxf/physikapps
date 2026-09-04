@@ -1,0 +1,8 @@
+Das System der beiden Federn kann so vereinfacht werden, dass beide Federn zu einer einzelnen Feder zusammengefasst werden können.
+---HINT---
+Berechnen Sie dazu die Gesamtfederhärte. 
+---HINT---
+In einer Reihenschaltung von Federn entspricht der Kehrwert der Gesamtfederhärte der Summe der Einzelkehrwerte jeder Feder. Die Gesamthärte ist dabei geringer als die geringste Einzelfederhärte.
+---HINT---
+Die Resonanzfrequenz des Systems mit der Gesamtfederhärte kann nun mit der entsprechenden Formel berechnet werden.
+

@@ -1,0 +1,18 @@
+Auf einer stabilen Kreisbahn bilden Coulomb-Kraft und Zentripetalkraft ein Kräftegleichgewicht. Es folgt
+<p>F_C=F_Z</p>
+Setzen Sie anschließend die entsprechenden Formeln ein.
+---HINT---
+Die gegebene Gleichung würde bis hierher auch klassisch gelten. In einem Atom sind die Bahnen jedoch quantisiert
+mit der Quantisierungsbedingung nach Bohr
+<p>2\cdot\pi\cdot r_n = n \cdot \lambda_{\text{DB}} </p>
+Überlegen Sie sich, wie man diese Beziehung in der Formel zu Hinweis 1 einflechten kann.
+---HINT---
+Die Wellenlänge in der Quantisierungsbedingung kann über die de-Broglie-Beziehung ausgedrückt werden als
+<p>\lambda_{\text{DB}}=h/p</p>
+Können Sie die Formel nun einsetzen in die Formel zu Hinweis 1?
+---HINT---
+Mit <p>p=m\cdot v</p> folgt
+<p>\lambda_{\text{DB}}=\frac{h}{m\cdot v}</p>
+Formen Sie diese Gleichung nach <p>v</p> um und setzen Sie das Ergebnis in die Formel für das Kräftegleichgewicht aus dem 1. Hinweis ein.
+---HINT---
+Formen Sie abschließend zu <p>r_n</p> um und berechnen Sie mit den gegebenen Werten den Bahnradius.

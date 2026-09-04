@@ -1,0 +1,1 @@
+Eine Feldspule mit der Länge <T>l=</T><p>value1 \text{ m}</p> und der Windungsanzahl <T>n=</T><p>value5</p> Windungen wird von einem Strom von <p>value3 \text{ A}</p> durchflossen. Welche Kraft wirkt auf eine einfache Leiterschleife der Breite <T>b=</T><p>value2 \text{ cm}</p>, die mit einem Strom von <p>value4 \text{ A}</p> durchflossen ist?

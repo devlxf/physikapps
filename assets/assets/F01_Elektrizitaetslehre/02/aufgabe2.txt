@@ -1,0 +1,1 @@
+Wie viele Elektronen fließen bei <T>I=</T><p>value1 \text{ pA}</p> in <T>t=</T><p>value2 \text{ s}</p> durch den Leitungsquerschnitt?

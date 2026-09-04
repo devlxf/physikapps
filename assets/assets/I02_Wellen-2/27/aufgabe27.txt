@@ -1,0 +1,3 @@
+Wie groß ist die in einem Zimmer (Grundfläche <T>\,\,A=</T><p>value1\ \text{m}^2\,\,</p> und Höhe <T>\,\,h=</T><p>value2\ \text{m}</p>) vorhandene mittlere Schallenergie <p>\,\,\overline{E}\,\,</p>, wenn der diffuse Schallintensitätspegel den Wert <T>\,\,L_I=</T><p>value3\ \text{dB}\,\,</p> hat?
+
+

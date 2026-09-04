@@ -1,0 +1,9 @@
+Überlegen Sie, wie der Impuls beim Compton-Stoß erhalten bleibt.
+---HINT---
+Der Impuls eines Photons ergibt sich aus seiner Wellenlänge:
+<p>p = \frac{h}{\lambda}</p>
+Bei Rückstreuung (\(\beta = 180^\circ\)) wirken die Impulse entgegengesetzt.
+---HINT---
+Der Impuls des Elektrons nach dem Stoß ergibt sich aus der Impulserhaltung als Summe der Beträge von einfallendem und gestreutem Photonenimpuls:
+<p>p_{\text{el}}^{\text{nach}} = p_{\text{ph}}^{\text{vor}} + p_{\text{ph}}^{\text{nach}}</p>
+Setzen Sie die beiden Wellenlängen ein und berechnen Sie den Elektronenimpuls.

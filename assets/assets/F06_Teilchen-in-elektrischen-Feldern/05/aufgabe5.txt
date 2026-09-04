@@ -1,0 +1,1 @@
+Ein Elektron tritt aus einem Heizdraht aus und durchläuft anschließend die Beschleunigungsspannung <T>U_\text{B}=</T><p>value1 \text{ V}</p>. Berechnen Sie die dabei erhaltene Geschwindigkeit.

@@ -1,0 +1,1 @@
+Ein Radfahrer mit der Masse <p>value1 \text{ kg}</p> fährt auf seinem <p>value2 \text{ kg}</p> schweren Fahrrad mit der Geschwindigkeit <p>value3 \text{ km/h}</p> den Hochberg hinunter. Wie groß ist der Gesamtimpuls?

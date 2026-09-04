@@ -1,0 +1,12 @@
+Wie sie bereits wissen, sind Myonen instabile Teilchen. In einem ruhenden Bezugssystem haben sie die Halbwertszeit 1,52 µs. Für Uhren im Erdsystem verstreicht zwischen der Entstehung der Myonen und deren Ankunft auf der Erdoberfläche die Zeit von ca. 33 μs. Im Ruhesystem der Myonen stellt man für diese Zeitspanne jedoch nur ca. 2 μs fest, was durch das Phänomen der Zeitdilatation erklärt wird.
+
+
+Im Erdsystem entsteht ein Myon in ca. <T>s=</T><p>value1 \text{ km}</p> Höhe und bewegen sich z.B. mit <T>v=</T><p>value2\cdot\text{c}</p> auf die Erde zu. Berechnen Sie die Länge <T>l_K</T> seines Weges bis zur Erde aus Sicht des Ruhesystems des Myons.
+
+Überlegen Sie sich, wie die Myonen auch in diesem Bild die Erdoberfläche erreichen können.
+
+
+
+
+
+

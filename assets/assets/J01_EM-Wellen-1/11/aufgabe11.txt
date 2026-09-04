@@ -1,0 +1,3 @@
+Zwei Sendeantennen mit gleicher Länge <T>l</T> werden parallel im Abstand <T>g=</T><p>value1 \text{ cm}</p> aufgestellt (siehe Abbildung, die Stabantennen stehen senkrecht auf der Erde). Beide Sender schwingen mit gleicher Phase <T>\varphi</T> und Amplitude <T>A</T> mit einer Frequenz von <T>f=</T> <p>value2 \cdot 10^8 \text{ Hz}</p>.
+
+Bestimmen Sie für <p>n=1</p> den ersten Winkel <T>\alpha</T> größer Null Grad, in denen das Signal im Fernfeld besonders gut zu empfangen ist.

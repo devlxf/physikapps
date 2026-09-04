@@ -1,0 +1,7 @@
+Die Auslenkung einer Welle wird durch die Gleichung
+
+<p>y(x,t) = value1\ \text{m}\cdot\text{sin}(\pi\text{s}^{-1}\cdot t+\pi\text{m}^{-1}\cdot x)</p>
+
+beschrieben. Wie groß ist die Auslenkung <T>\,\,y(x,t)\,\,</T> für <p>\,\,value2\ \text{s}\,\,</p> und <T>\,\,x=</T><p>value3\ \text{m}\,\,</p>?
+
+Berechnen Sie die Auslenkung <p>\,\,y</p>.

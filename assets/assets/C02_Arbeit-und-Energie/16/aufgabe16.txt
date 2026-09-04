@@ -1,0 +1,3 @@
+Ein Pendel der Länge <p>value1 \text{ m}</p> wird um den Winkel <T>\alpha=</T><p>value2\ ^\circ</p> ausgelenkt. Nachdem der Pendelkörper losgelassen wird, schwingt das Pendel bis zur Position 2, die sich in einer Höhe von <p>value3 \text{ cm}</p> über dem Boden befindet. Dort wird der Faden des Pendels direkt oberhalb des Pendelkörpers durchtrennt.
+
+Berechnen Sie die Wurfweite des Pendelkörpers von Position 2 bis zum Auftreffen auf dem Boden (Position 3).

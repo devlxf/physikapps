@@ -1,0 +1,6 @@
+Bei einem Trick bewegt ein Artist ein Tablett, auf dem 5 Gläser (Gesamtmasse <T>m=</T><p>value1\ \text{g}</p>) stehen, in vertikaler Richtung aus einer Höhe von <T>y_1=</T><p>value2\ \text{m}</p> über dem Erdboden auf eine Höhe von <T>y_2=</T><p>value3\ \text{m}</p> und wieder zurück. Für diese Bewegung, die als harmonisch betrachtet werden kann, benötigt er <T>T=</T><p>value4\ \text{s}</p>
+
+Berechnen Sie die Beschleunigung am oberen Umkehrpunkt.
+
+Zusatzfrage: Denken Sie darüber nach, ob die Gläser bei dieser Bewegung von selbst auf dem Tablett stehen bleiben, oder ob sie zusätzlich befestigt werden müssen.
+

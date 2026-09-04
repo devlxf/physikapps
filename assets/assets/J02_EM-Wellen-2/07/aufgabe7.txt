@@ -1,0 +1,3 @@
+Ein Einzelspalt der Breite <T>d=</T> <p>value1 \text{ mm}</p> wird mit Laserlicht der Wellenlänge <T>\lambda=</T> <p>value2 \text{ nm}</p> beleuchtet. Der Beobachtungsschirm steht in <T>L=</T> <p>value3 \text{ m}</p> Entfernung.
+
+Bestimmen Sie die Breite <T>a=2\cdot y_1</T> des Hauptmaximums.

@@ -1,0 +1,3 @@
+Ein Skilift zieht über eine Schlepplänge von <T>l=</T><p>value1 \text{ m}</p> die Skifahrer nach oben. Er schafft das mit einer Geschwindigkeit von <T>v=</T><p>value2 \text{ m/s}</p>. Nach den Angaben des Liftbetreibers können <T>n=</T><p>value3 \text{ Pers/h}</p> nach oben befördert werden.
+
+Wie viele Personen befinden sich gleichzeitig im Skilift?

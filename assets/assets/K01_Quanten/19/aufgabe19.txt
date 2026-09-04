@@ -1,0 +1,3 @@
+Photonen der Energie <T>E=</T><p>value1  \text{ keV}</p> werden an freien Elektronen unter einem Winkel von <T>\beta=</T><p>value2  \text{ \textdegree}</p> gestreut.
+
+Wie groß ist die kinetische Energie <T>E_\text{kin}</T> der Elektronen nach dem Stoß?

@@ -1,0 +1,5 @@
+Setzen Sie bei einer Kreisbewegung die Zentripetalkraft gleich der Gravitationskraft: <p>F_Z = F_G</p>
+---HINT---
+Die Satellitenmasse kürzt sich heraus. Lösen Sie nach <p>M_{Planet}</p> auf.
+---HINT---
+Ersetzen Sie die Bahngeschwindigkeit mit <p>v = \frac{2\cdot\pi \cdot r}{T}</p> und vereinfachen Sie zu: <p>M_{Planet} = \frac{4\cdot\pi^2 \cdot r^3}{G \cdot T^2}</p>

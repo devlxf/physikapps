@@ -1,0 +1,7 @@
+Auf einer Luftkissenbahn befindet sich ein Gleitkörper der Masse <T>m_{1}=</T><p>value1 \text{ g}</p>, an dem über einen Faden und eine Rolle ein Gewicht der Masse <T>m_{2}=</T><p>value2 \text{ g}</p> befestigt ist. Das Massestück hängt in der Höhe <T>h=</T><p>value3 \text{ m}</p> über dem Boden und wird losgelassen.
+
+Der Gleitkörper stößt nach einer Länge von <T>l=</T><p>value4 \text{ m}</p> am Ende der Bahn auf eine einseitig eingespannte Schraubenfeder, die den Körper bis zum Stillstand abbremst und dabei um <T>s=</T><p>value5 \text{ cm}</p> eingedrückt wird.
+
+Welche Federkonstante hat die Schraubenfeder?
+
+Anm.: Nehmen Sie an, dass die Bewegung vollkommen reibungsfrei verläuft.

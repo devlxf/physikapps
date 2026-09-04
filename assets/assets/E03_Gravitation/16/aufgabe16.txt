@@ -1,0 +1,1 @@
+Ein Planet hat eine Dichte von <T>\rho=</T><p>value1 \text{ g/cm}^3</p>. Sein Radius beträgt <T>R=</T><p>value2 \text{ km}</p>. Berechnen Sie das Potenzial auf seiner Oberfläche.

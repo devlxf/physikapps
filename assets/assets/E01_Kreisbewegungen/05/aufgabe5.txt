@@ -1,0 +1,3 @@
+Um den Lärmpegel eines Flugzeuges möglichst gering zu halten, dürfen sich die Schaufeln einer Turbine am äußersten Rand nicht schneller als die Schallgeschwindigkeit bewegen. Eine Turbinenschaufel hat einen Durchmesser von <T>d=</T><p>value1 \text{ m}</p>. Die Schallgeschwindigkeit beträgt <T>v=</T><p>value2 \text{ m/s}</p>.
+
+Wie hoch ist die maximale Anzahl an Umdrehungen pro Sekunde?

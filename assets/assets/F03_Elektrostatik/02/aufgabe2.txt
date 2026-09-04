@@ -1,0 +1,2 @@
+In einer Taschenlampe fließt ein Strom von <T>I=</T><p>value1 \text{ A}</p> durch das Leuchtmittel.
+Geben Sie die Anzahl der Elektronen <T>N</T> an, die in <T>t=</T><p>value2 \text{ s}</p> die Querschnittsfläche der Zuleitung passieren.

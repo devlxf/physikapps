@@ -1,0 +1,11 @@
+Um die Planck-Konstante zu bestimmen, betrachtet man den Zusammenhang zwischen der Energie der Photonen und der maximalen kinetischen Energie der ausgelösten Elektronen bei unterschiedlichen Wellenlängen.
+---HINT---
+Für jede Messung gilt die Gleichung des Photoeffekts:
+<p>h \cdot f = W_A + q \cdot U</p>
+Dabei ist die Frequenz des Lichts durch
+<p>f = \frac{c}{\lambda}</p>
+gegeben.
+---HINT---
+Da die Austrittsarbeit <p>W_A</p> für beide Messungen gleich ist, kann man sie eliminieren, indem man die beiden Gleichungen voneinander abzieht. Daraus folgt:
+<p>h = \frac{q \cdot (U_1 - U_2)}{f_1 - f_2}</p>
+Berechnen Sie zunächst die Frequenzen aus den gegebenen Wellenlängen und setzen Sie anschließend alle Werte ein.

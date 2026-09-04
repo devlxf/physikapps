@@ -1,0 +1,5 @@
+Nutzen Sie den Zusammenhang zwischen Stromstärke und transportierter Ladung pro Zeit: <p>I = \frac{Q}{t}</p>.
+---HINT---
+Wenn pro Sekunde <p>n</p> Elektronen fließen, ist die transportierte Ladung <p>Q = n \cdot e</p> (mit der Elementarladung <p>e = 1{,}6\cdot 10^{-19}\,\mathrm{C}</p>). Damit gilt: <p>I = \frac{n\cdot e}{t}</p>.
+---HINT---
+Setzen Sie <p>t = 1\,\mathrm{s}</p> und lösen Sie nach <p>n</p> auf: <p>n = \frac{I}{e}</p>. Achten Sie darauf, den Photostrom in Ampere umzurechnen (<p>1{,}3\,\mathrm{nA} = 1{,}3\cdot 10^{-9}\,\mathrm{A}</p>).

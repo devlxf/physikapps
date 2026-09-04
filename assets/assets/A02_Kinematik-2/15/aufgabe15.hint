@@ -1,0 +1,7 @@
+Berechnen Sie im 1. Fall den Reaktionsweg: <p>s_R = v_1 \cdot t_0</p>. Der verbleibende Bremsweg ist: <p>s_B = s_0 - s_R</p>
+---HINT---
+Berechnen Sie aus dem Bremsweg die Bremsverzögerung: <p>a = \frac{v_1^2}{2 \cdot s_B}</p>
+---HINT---
+Berechnen Sie im 2. Fall den Reaktionsweg und den verbleibenden Bremsweg analog.
+---HINT---
+Berechnen Sie die Bremszeit bis zum Hindernis mit dem Zeit-Weg-Gesetz und der Mitternachtsformel, und daraus die Aufprallgeschwindigkeit: <p>v_3 = v_2 - a \cdot t_B</p>

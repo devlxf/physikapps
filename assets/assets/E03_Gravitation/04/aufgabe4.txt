@@ -1,0 +1,1 @@
+Die Länge der großen Halbachse eines Jupitermonds beträgt <T>a=</T><p>value1\cdot 10^7\text{ km}</p>, die numerische Exzentrizität seiner Bahn beträgt <T>\varepsilon=</T><p>value2</p>. Berechnen Sie die Länge der kleinen Halbachse.

@@ -1,0 +1,5 @@
+Bei einer Variante des Tintenstrahldruckverfahrens strömen aus einer Düse kugelförmige Tintentröpfchen mit der Dichte <T>\rho=</T><p>value1 \text{ kg}/\text{m}^{3}</p>, dem Radius <T>r=</T><p>value2\ \mu\text{m}</p> und der Geschwindigkeit <T>v_{0}=</T><p>value3 \text{m}/\text{s}</p>. Zwischen Düse und Ringelektrode liegt eine Spannung <T>U_\text{L}=</T><p>value4 \text{ V}</p>. Beim Ablösen von der Düse erhalten die Tröpfchen eine positive Ladung von <T>q=</T><p>value5 \text{ C}</p>.
+
+Nach der Ringelektrode treten die Tröpfchen in das homogene Querfeld eines Ablenkkondensators mit dem Plattenabstand <T>d=</T><p>value6 \text{ mm}</p> und der Länge <T>s=</T><p>value7 \text{ cm}</p> ein. Am Plattenkondensator kann eine Spannung <T>U_\text{C}</T> zwischen <p>value8 \text{ kV}</p> und <p>value9 \text{ kV}</p> eingestellt werden.
+
+Berechnen Sie die maximale Querbeschleunigung <T>a_\text{y}</T> für ein Tröpfchen im Ablenkkondensator.

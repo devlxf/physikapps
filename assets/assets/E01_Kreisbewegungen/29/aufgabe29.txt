@@ -1,0 +1,3 @@
+Ein Motorrad fährt durch eine nicht überhöhte Kurve mit einem Radius von <T>r=</T><p>value1 \text{ m}</p>. Die Achse des Fahrers schließt mit der Oberfläche einen Winkel von <T>\alpha=</T><p>value2 \text{°}</p> ein.
+
+Wie schnell fährt das Motorrad <T>(\text{Geschwindigkeit }v)</T>?

@@ -1,0 +1,5 @@
+Bestimmen Sie zuerst die Abwurfhöhe wie in der vorherigen Aufgabe: <p>t = \frac{s_x}{v_x}</p>, dann <p>h = \frac{1}{2} g \cdot t^2</p>
+---HINT---
+Berechnen Sie mit der Fallzeit die <p>y</p>-Komponente der Auftreffgeschwindigkeit: <p>v_y = g \cdot t</p>
+---HINT---
+Der Auftreffwinkel zum Lot: <p>\alpha = \arctan\!\left(\frac{v_x}{v_y}\right)</p>

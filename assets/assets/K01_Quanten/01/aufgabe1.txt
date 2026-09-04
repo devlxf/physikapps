@@ -1,0 +1,7 @@
+Mithilfe der dargestellten Versuchsanordnung soll der Photoeffekt näher untersucht werden. Dabei fällt monochromatisches Licht der Wellenlänge
+<T>\lambda=</T><p>value1 \text{ nm}</p> auf die Kathode der Photozelle.
+
+Verdeutlichen Sie sich, wie mit dieser Anordnung der Photostrom <T>I</T> gemessen wird.
+
+Berechnen Sie die Anzahl <T>n</T> der Elektronen, die pro Sekunde aus der Kathode ausgelöst werden, wenn ein Strom von
+<T>I=</T><p>value2 \text{ nA}</p> fließt.

@@ -1,0 +1,10 @@
+Überlegen Sie, wie sich der Impuls eines Photons aus seiner Wellenlänge bestimmen lässt und wie sich diese beim Compton-Effekt ändert.
+---HINT---
+Zunächst muss die neue Wellenlänge des gestreuten Photons bestimmt werden. Für den Compton-Effekt gilt:
+<p>\Delta \lambda = \lambda_C \cdot (1 - \cos(\beta))</p>
+Die neue Wellenlänge ist dann:
+<p>\lambda_{\text{nach}} = \lambda_{\text{vor}} + \Delta \lambda</p>
+---HINT---
+Der Impuls eines Photons ergibt sich aus seiner Wellenlänge:
+<p>p = \frac{h}{\lambda}</p>
+Setzen Sie die berechnete Wellenlänge nach dem Stoß ein und bestimmen Sie den Impuls <p>p_{\text{nach}}</p>.

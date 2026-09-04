@@ -1,0 +1,5 @@
+Eine reale Batterie setzt sich gedanklich aus einer idealen Batterie und einem Innenwiderstand zusammen. Die ideale Batterie liefert dabei immer die Klemmspannung U_KL, unabhängig vom Verbraucher.
+---HINT---
+Betrachten Sie die Aufgabe wie eine „normale“ Reihenschaltung von zwei Widerständen R_i und einem externen Gesamtwiderstand R_ext. Die Klemmspannung ist die Spannung, die über R_ext abfällt.
+---HINT---
+Zeichnen Sie sich zu Beginn ein Schaltbild, um die Verschaltung zu verdeutlichen. Evtl. hilft auch ein Ersatzschaltbild weiter.

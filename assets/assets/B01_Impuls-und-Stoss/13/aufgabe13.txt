@@ -1,0 +1,3 @@
+Eine Silvesterrakete hat eine Gesamtmasse von <p>value1 \text{ g}</p>, wobei <p>value2 \text{ g}</p> auf den enthaltenen Treibstoff, das Schwarzpulver, entfallen. Zur Vereinfachung gehen wir davon aus, dass ein Katapultstart vorliegt, also der gesamte Treibstoff auf einmal verbrannt wird. Welche Geschwindigkeit hat der ausströmende Treibstoff direkt nach dem Start?
+
+Anm.: 1 g Schwarzpulver entwickelt einen Schub von ca. 1 kg\,m/s.

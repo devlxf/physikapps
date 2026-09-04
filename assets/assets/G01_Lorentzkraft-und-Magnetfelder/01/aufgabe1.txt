@@ -1,0 +1,2 @@
+In einer Stadt in der Nähe des Äquators fließen Elektronen in einem Stromkabel in Ost-West-Richtung mit einer Stromstärke von <p>value2 \text{A}</p>. Messungen des örtlichen Magnetfeldes ergab eine Feldstärke von <T>B=</T><p>value1 \mu\text{T}</p>. Wie groß ist die Kraft, die auf die Leitung zwischen zwei Masten im Abstand <p>value3 \text{m}</p> wirkt?
+ Zusatzaufgabe: Machen Sie sich auch Gedanken über die Richtung der Kraft.

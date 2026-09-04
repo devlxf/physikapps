@@ -1,0 +1,3 @@
+Das Solarpanel einer Raumsonde hat die Fläche <T>A=</T><p>value1  \text{ m}^2</p>. Die Strahlungsintensität der Sonne beträgt am Ort der Raumsonde <T>I_\text{S}=</T><p>value2  \text{ kW/m}^2</p>.
+
+Welche Kraft <T>F</T> wirkt auf das Solarpanel einer Raumsonde, wenn man vereinfacht annimmt, dass <T>n_\text{Ph}=</T><p>value3  \text{ }</p> Photonen der Wellenlänge <T>\lambda=</T><p>value4  \text{ nm}</p> pro Sekunde vom Solarpanel absorbiert werden und das Solarpanel vom Licht lotrecht getroffen wird?

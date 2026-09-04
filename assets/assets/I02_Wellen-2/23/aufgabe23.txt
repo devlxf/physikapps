@@ -1,0 +1,3 @@
+Eine Schallwelle hat in einem Gas der Dichte <T>\,\,\rho=</T><p>value1\ \text{kg/m}^3\,\,</p> die Schallgeschwindigkeit <T>\,\,c=</T><p>value2\ \text{m/s}\,\,</p>, die Frequenz <T>\,\,f=</T><p>value3\ \text{Hz}\,\,</p> und die Intensität <T>\,\,I=</T><p>value4\ \text{W/m}^2</p>.
+
+Berechnen Sie die Amplitude <T>\,\,\hat{y}_0\,\,</T> des Schallausschlags.

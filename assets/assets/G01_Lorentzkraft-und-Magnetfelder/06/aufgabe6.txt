@@ -1,0 +1,5 @@
+Berechnen Sie die Kraft zwischen zwei parallelen stromdurchflossenen Leitern (<T>I=</T><p>value1 \text{ A}</p>) der Länge  <T>l=</T><p>value2 \text{ m}</p>, die einen Abstand <T>r=</T><p>value3 \text{ cm}</p> haben.
+
+Zusatzfragen:
+- Handelt es sich bei der Stromrichtung in der Zeichnung um die technische oder physikalische Stromrichtung?
+- Warum wirken die Stromdurchflossenen Leiter anziehend aufeinander?

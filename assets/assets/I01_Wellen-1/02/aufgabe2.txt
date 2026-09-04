@@ -1,0 +1,3 @@
+In einem See beobachten Sie den Wellengang. Die Wellenfrequenz beträgt <T>\,\,f=</T><p>value1\ \text{Hz}</p>.
+
+Berechnen Sie die Periodendauer <T>\,\,T\,\,</T> der Wellen.

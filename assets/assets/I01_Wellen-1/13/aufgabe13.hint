@@ -1,0 +1,17 @@
+Die Spannkraft <p>\,\,F\,\,</p> des Seils berechnet sich über die Formel
+
+<p>c=\sqrt{\frac{F}{\mu}}</p>
+---HINT---
+Formen Sie nach <p>\,\,F\,\,</p> um. Die Massenbelegung <p>\,\,\mu\,\,</p> ist Masse <p>\,\,m\,\,</p> pro Länge <p>\,\,l\,\,</p> oder Fläche <p>\,\,A\,\,</p> multipliziert mit Dichte
+
+<p>\,\,\rho\,\,</p>, 
+
+d.h. <p>\, \mu=A\cdot\rho</p>.
+---HINT---
+Es ergibt sich die Formel 
+
+<p>F=c^2\cdot A\cdot\rho</p>. 
+
+Die Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> ist gegeben durch 
+
+<p>c=\lambda\cdot f</p>.  

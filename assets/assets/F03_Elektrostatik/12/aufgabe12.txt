@@ -1,0 +1,5 @@
+Zwischen zwei geladenen Platten hängt eine geladene Kugel der Masse <T>m=</T><p>value1 \text{ g}</p>
+an einem <T>l=</T><p>value2 \text{ m}</p> langen Faden. Auf der Kugel befindet sich eine Ladung von <T>q=</T><p>value3 \text{ nC}</p>.
+Die Kugel wird um <T>s=</T><p>value4 \text{ mm}</p> aus der Ruhelage ausgelenkt.
+
+Berechnen Sie die anliegende Feldstärke <T>E</T>.

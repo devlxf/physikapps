@@ -1,0 +1,17 @@
+Die Harmonische der Ordnung <p>n</p> hat die Frequenz über <p>f_n=c/\lambda_n</p>.
+---HINT---
+Die Wellenlänge <p>\,\,\lambda_n\,\,</p> der <p>\,\,n.</p> Harmonischen ergibt sich mit der Gesamtlänge <p>\,\,l\,\,</p> des eingespannten Bandes zu
+
+<p>l=\frac{n}{2}\cdot\lambda_n</p>
+---HINT---
+Einsetzen ergibt
+
+<p>f_n=c\cdot\frac{n}{2\cdot l}</p>
+---HINT---
+Bilden Sie die Differenz <p>\,\,\Delta f\,\,</p> zwischen <p>\,\,f_2\,\,</p> und <p>\,\,f_1</p>. Klammern Sie die Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> aus und formen Sie um.
+---HINT---
+Es ergibt sich die Formel 
+
+<p>\Delta f=\left(\frac{n_2}{l}-\frac{n_1}{l}\right)\cdot c</p>
+
+Umstellen nach <p>\,\,c\,\,</p> und Einsetzen der in der Aufgabenstellung gegebenen Werte ergibt die Ausbreitungsgeschwindigkeit.

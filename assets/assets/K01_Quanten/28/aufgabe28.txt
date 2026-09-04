@@ -1,0 +1,9 @@
+Ein Atom besitzt die Energieniveaus
+<T>E_1=</T><p>value1  \text{ eV}</p>,
+<T>E_2=</T><p>value2  \text{ eV}</p>
+und
+<T>E_3=</T><p>value3  \text{ eV}</p>.
+
+Es wird mit Licht angeregt und gelangt in den Zustand <T>n=3</T>. Anschließend kehren die angeregten Atome unter Aussendung elektromagnetischer Strahlung wieder in den Grundzustand zurück.
+
+Berechnen Sie die Wellenlänge <T>\lambda_\text{max}</T> der langwelligsten Strahlung, die dabei ausgesendet wird.

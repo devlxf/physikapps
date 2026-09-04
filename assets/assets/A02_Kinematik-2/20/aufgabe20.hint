@@ -1,0 +1,3 @@
+Berechnen Sie zuerst die Fallzeit mit dem Zeit-Weg-Gesetz des freien Falls: <p>h = \frac{1}{2} g \cdot t^2 \Rightarrow t = \sqrt{\frac{2h}{g}}</p>
+---HINT---
+Berechnen Sie damit die Fallgeschwindigkeit: <p>v_\text{End} = g \cdot t</p>

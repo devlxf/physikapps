@@ -1,0 +1,4 @@
+Das Bild zeigt den idealisierten Verlauf der Schwingung eines Oszillators einer Wasserwelle, die eine Frequenz von <T>\,\,f=</T><p>value3\ \text{Hz}\,\,</p> hat.
+
+Berechnen Sie die Ausbreitungsgeschwindigkeit <T>\,\,c\,\,</T> der Wasserwelle.
+

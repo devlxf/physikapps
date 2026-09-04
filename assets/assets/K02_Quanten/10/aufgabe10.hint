@@ -1,0 +1,23 @@
+Zuerst muss der Winkel <p>\theta</p> bestimmt werden. Er kann aus dem Schirmabstand <p>L</p> zur Graphitschicht und dem Radius des Leuchtschirms bestimmt werden. 
+---HINT---
+Verdeutlichen Sie sich, dass beim Debye-Scherrer-Verfahren das Licht am Kristallgitter reflektiert wird und sich der Winkel verdoppelt. Es gilt daher
+<p>\text{tan}(2\cdot\theta)=\frac{r}{L}</p>
+---HINT---
+Mit dem Winkel <p>\theta</p> kann die de-Broglie-Wellenlänge über die Bragg-Gleichung bestimmt werden über
+<p>n\cdot\lambda=2\cdot g\cdot\text{sin}(\theta)</p>
+---HINT---
+Die Beschleunigungsspannung <p>U_B</p> kann mit Hilfe des Energiesatzes bestimmt werden. Es ist
+<p>E_{\text{pot}}= E_{\text{kin}}</p>
+wobei die potenzielle Energie im elektrischen Feld gegeben ist durch
+<p>E_{\text{pot}}=\mathrm{e}\cdot U_B</p>
+---HINT---
+Die kinetische Energie <p>E_{\text{kin}}</p> lässt sich anstatt mit der Geschwindigkeit <p>v</p> auch mit dem Impuls <p>p=m\cdot v</p> darstellen. Es ist
+<p>E_{\text{kin}}=\frac{p^2}{2\cdot m}</p>
+---HINT---
+Nun können Sie die de-Broglie-Beziehung
+<p>p=\frac{h}{\lambda_{\text{DB}}}</p>
+verwenden, da Sie die de-Broglie-Wellenlänge der Elektronen schon bestimmt haben.
+---HINT---
+Damit wird die kinetische Energie zu
+<p>E_{\text{kin}}=\frac{h^2}{2\cdot m\cdot\lambda_{\text{DB}}}</p>
+Jetzt müssen sie dies nur noch in den Energiesatz einsetzen, zur Beschleunigungsspannung <p>U_B</p> umformen und ausrechnen.

@@ -1,0 +1,3 @@
+Ein Mann mit der Masse <p>value1 \text{ kg}</p> steht in einem Boot mit der Masse <p>value2 \text{ kg}</p>, das im Wasser ruht. Durch einen flachen Sprung springt er dann ans Ufer. Das Boot erhält dadurch einen Geschwindigkeitsbetrag von <p>value3 \text{ m/s}</p> in die zum Sprung entgegengesetzte Richtung.
+
+Berechnen Sie, mit welcher mittleren Kraft der Absprung erfolgte, wenn dieser <p>value4 \text{ s}</p> dauerte.

@@ -1,0 +1,3 @@
+Welche Gewichtskraft <T>F_G</T> kann mit diesem Potenzflaschenzug maximal gehoben werden, wenn eine Person eine Zugkraft von <T>F_z=</T><p>value1 \text{ N}</p> aufbringen kann?
+
+Nehmen Sie dabei zur Vereinfachung an, dass die Konstruktion vollständig reibungsfrei ist und das Seil sowie die Rollen keine Masse besitzen.

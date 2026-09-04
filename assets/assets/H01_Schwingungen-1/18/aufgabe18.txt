@@ -1,0 +1,9 @@
+Ein Reagenzglas hat eine Querschnittsfläche von <T>A=</T><p>value1\ \text{cm}^2</p>. Es ist zur Stabilisierung unten beschwert und wiegt insgesamt <T>m=</T><p>value2\ \text{g}</p>. Es wird in einen sehr viel größeren Standzylinder eingeführt. Das Reagenzglas verdrängt dabei ein bestimmtes Volumen Wasser (in der Darstellung violett) und erfährt daher eine Auftriebskraft <T>F_a</T> nach oben. 
+
+Es taucht so weit ein, bis diese Auftriebskraft <T>F_a</T> gleich groß wie die Gewichtskraft <T>F_g</T> des Reagenzglases ist (Kräftepfeile).
+
+Berechnen Sie die Periodendauer, wenn das Reagenzglas um weitere <T>s=</T><p>value3\ \text{cm}</p> ins Wasser eingetaucht und dann losgelassen wird.
+
+Anmerkung:
+Der Einfachheit halber wird angenommen, dass das Reagenzglas unten nicht gewölbt, sondern eben ist. Nach Archimedes ist die Auftriebskraft gleich groß wie die Gewichtskraft der Flüssigkeitsmenge, die verdrängt wird. Wasser hat dabei eine Dichte von <p>\rho=1\ \text{g/cm}^3</p>.
+

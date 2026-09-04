@@ -1,0 +1,6 @@
+Bei einem Übergang von einer Schale in eine zweite wird nach der Rydberg-Formel die folgende Energie frei
+<p>\Delta E_{m \to n} = R_H \cdot Z^2 \cdot \left(\frac{1}{n^2} - \frac{1}{m^2}\right)</p>
+---HINT---
+Bei Ionisierung geht das Elektron in den Zustand <p>n \to \infty</p> über. Damit wird der erste Bruch 0 und es bleibt
+<p>\Delta E_{m \to n} = R_H \cdot Z^2 \cdot \frac{1}{m^2}/p>
+Da alle Werte gegeben sind, lässt sich das Ergebnis nun berechnen.

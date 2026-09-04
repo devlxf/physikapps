@@ -1,0 +1,3 @@
+Ein Kind der Masse <T>m=</T><p>value1 \text{ kg}</p> rutscht von einem halbkreisförmigen Iglu mit dem Radius <T>r=</T><p>value2 \text{ m}</p>. Es startet aus der Ruhe am höchsten Punkt.
+
+Bei welchem Winkel <T>\alpha</T> löst sich das Kind von der Oberfläche des Iglus?

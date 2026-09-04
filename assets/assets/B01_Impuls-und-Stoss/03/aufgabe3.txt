@@ -1,0 +1,1 @@
+Welche Geschwindigkeit (in km/h) hat ein <p>value1 \text{ t}</p> schwerer LKW, der einen Impuls von <p>value2 \text{ kg\,m/s}</p> hat?

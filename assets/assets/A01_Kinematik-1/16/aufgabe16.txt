@@ -1,0 +1,1 @@
+Ein Ruderboot möchte einen Fluss der Breite <T>b=</T><p>value1\text{ m}</p> überqueren. Es fährt mit <T>v_{Boot}=</T><p>value2\text{ m/s}</p>. Es gibt eine Flussströmung von <T>v_{Fluss}=</T><p>value3\text{ m/s}</p>. Da das Boot einen Steg direkt am gegenüberliegenden Ufer erreichen möchte, muss es gegenlenken. Berechnen Sie den Vorhaltewinkel.

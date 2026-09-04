@@ -1,0 +1,4 @@
+Das Raumschiff hat eine Deckenhöhe von <T>h=</T><p>value1 \text{ m}</p> und fliegt mit <T>v_x=</T><p>value2 \text{ m/s}</p> (aus Sicht des außenstehenden Beobachters) durch den intergalaktischen Weltraum. Ein Astronaut im Raumschiff wirft einen Tennisball mit der Geschwindigkeit <T>w_y=</T><p>value3 \text{ m/s}</p> senkrecht an die Decke des Raumschiffs. Der Ball wird vollkommen elastisch reflektiert und pendelt nun zwischen Boden und Decke des Raumschiffs hin- und her (da keine Anziehungskräfte wirken).
+
+Berechnen Sie aus Sicht des außenstehenden Beobachters den Betrag der Geschwindigkeit <T>|v_{B}|</T> des Tennisballs.
+

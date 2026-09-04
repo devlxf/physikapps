@@ -1,0 +1,3 @@
+Eine Ladestation besteht aus einer Primärspule mit <p>value1 \text{Windungen}</p> sowie einer Sekundärspule mit <p>value2 \text{Windungen}</p>. Das Wechselfeld hat eine Frequenz von <p>value3 \text{kHz}</p>.
+ Welche Leistung kann übertragen werden, wenn eine Spannung von <p>value4 \text{V}</p> nicht überschritten werden soll. (Wirkungsgradverluste sollen hier nicht berücksichtigt werden)
+

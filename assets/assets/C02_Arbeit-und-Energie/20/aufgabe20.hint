@@ -1,0 +1,5 @@
+Berechnen Sie zuerst die Spannenergie <p>W_\text{spann}</p> und die potenzielle Energie <p>W_\text{pot}^\text{Tisch}</p> auf Tischhöhe.
+---HINT---
+Dies ist die Gesamtenergie, die bis zum Boden vollständig in kinetische Energie <p>W_\text{kin}^\text{Boden}</p> verwandelt wurde.
+---HINT---
+Mit der kinetischen Energie <p>W_\text{kin}^\text{Boden}</p> kann dann die Geschwindigkeit <p>v</p> am Boden, kurz vor dem Auftreffen, berechnet werden.

@@ -1,0 +1,9 @@
+Die Atommasse von Uran entspricht 235 u. Bei einer Kernspaltung werden <T>E=</T><p>value1 \text{ MeV}</p> Zerfallsenergie frei. Berechnen Sie den Anteil <T>\Delta m/m</T> der in Energie umgesetzten Masse in Prozent.
+
+
+Hinweise: 
+
+Ein Elektronenvolt (1 eV) entspricht <p>1,6\cdot10^{-19}</p> J.
+
+Die atomare Masseneinheit wird in <p>u</p> (<p>u</p> für Unit) gemessen. Dabei entspricht <p>1\, u</p> gleich <p>1,66\cdot 10^{-27}</p> kg. 
+

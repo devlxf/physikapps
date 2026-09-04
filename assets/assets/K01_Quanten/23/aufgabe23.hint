@@ -1,0 +1,8 @@
+Überlegen Sie, wie die Mindestfrequenz eines Photons mit der zur Paarbildung notwendigen Energie zusammenhängt.
+---HINT---
+Die minimale Energie für die Paarbildung eines Elektron-Positron-Paares beträgt:
+<p>E_\gamma^{\text{min}} = 2 m_0 c^2</p>
+---HINT---
+Zwischen Energie und Frequenz eines Photons gilt:
+<p>E = h \cdot f</p>
+Setzen Sie die minimale Energie ein und lösen Sie die Gleichung nach der Frequenz <p>f_\gamma^{\text{min}}</p> auf.

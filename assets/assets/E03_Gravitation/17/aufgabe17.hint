@@ -1,0 +1,3 @@
+Damit ein Satellit nicht zurück auf den Planeten stürzt, muss die Zentripetalkraft der Gravitationskraft entsprechen: <p>F_z = F_G</p>
+---HINT---
+Setzen Sie die entsprechenden Formeln ein: <p>m \cdot \frac{v_1^2}{r} = G \cdot \frac{m \cdot M}{r^2}</p> und formen Sie zur Bahngeschwindigkeit um: <p>v_1 = \sqrt{\frac{G \cdot M}{r}}</p>

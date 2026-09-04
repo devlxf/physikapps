@@ -1,0 +1,3 @@
+Vor dem Öffnen des Schalters führt die Spule mit der Induktivität <T>L=</T><p>value1 \text{ mH}</p> einen Strom der Stärke <T>I=</T><p>value2 \text{ A}</p>. Nach dem Öffnen des Schalters wird der Kondensator mit der Kapazität <T>C=</T><p>value3 \text{ µF}</p> auf die Spannung <T>U=</T><p>value4 \text{ V}</p> aufgeladen.
+
+Berechnen Sie das Verhältnis der elektrischen Energie des Kondensators nach dem Öffnen des Schalters zur Energie des Magnetfeldes der Spule bei geschlossenem Schalter.

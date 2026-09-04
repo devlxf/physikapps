@@ -1,0 +1,4 @@
+Ein Mikrofon ist ein Lautsprecher „rückwärts gedacht“. Der Magnet hat eine magnetische Flussdichte von <T>B=</T><p>value1 \text{ T}</p>. Die Spule des Mikrophons habe <p>value3 \text{ }</p> Windungen und einen Spulendurchmesser von <p>value4 \text{ mm}</p>. Durch eine äußere Kraft wird die Spule nun in Schwingung versetzt und schwingt mit einer mittleren Geschwindigkeit von <T>v=</T><p>value2 \text{ m}/\text{s}</p>.
+
+Berechnen Sie, welche Spannung <T>U</T> so in die Spule induziert wird.
+

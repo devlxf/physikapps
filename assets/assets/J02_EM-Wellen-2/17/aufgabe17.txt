@@ -1,0 +1,3 @@
+Ein Spiegel hat den Abstand <T>s=</T><p>value1 \text{ km}</p> von einem Zahnrad, das <T>n=</T><p>value2 \text{ Zähne}</p> besitzt. 
+
+Wie hoch muss die Umdrehungsfrequenz <T>f</T> des Rades sein, damit ein durch das Zahnrad geleiteter Lichtstrahl beim Rücklauf vor einen Steg trifft, sodass ein Beobachter kein Licht erkennen kann?

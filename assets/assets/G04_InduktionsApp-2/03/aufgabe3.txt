@@ -1,0 +1,3 @@
+Eine Spule hat eine Induktivität von <T>L=</T><p>value1 \text{ H}</p>. Durch sie fließt ein Strom von <T>I=</T><p>value2 \text{ A}</p>.
+
+Wie viel Energie wird frei, wenn die Stromstärke auf die Hälfte absinkt?

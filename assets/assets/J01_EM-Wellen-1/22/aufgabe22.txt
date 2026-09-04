@@ -1,0 +1,3 @@
+Ein Laser trifft an Seite 1 senkrecht in ein Prisma ein und trifft im Punkt A auf die Grenzfläche Prisma-Luft. Das Prisma hat eine Brechzahl <T>n =</T> <p>value1</p>.
+
+Berechnen Sie die minimale Größe des Winkels <T>\alpha</T>, sodass der Strahl nur an der Seite 1 und parallel zum einfallenden Strahl das Prisma wieder verlassen kann.

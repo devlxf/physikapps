@@ -1,0 +1,3 @@
+Berechnen Sie zuerst die Flugdauer und dann die <p>y</p>-Komponente der Auftreffgeschwindigkeit: <p>v_y = g \cdot t</p>
+---HINT---
+Der Winkel zum Lot ergibt sich aus dem Verhältnis der Geschwindigkeitskomponenten: <p>\tan(\alpha) = \frac{v_x}{v_y} \Rightarrow \alpha = \arctan\!\left(\frac{v_x}{v_y}\right)</p>

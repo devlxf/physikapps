@@ -1,0 +1,7 @@
+Verwenden Sie die Interferenzbedingung für das n-te Maximum: <p>g \cdot \sin(\alpha) = n \cdot \lambda</p>.
+---HINT---
+Nutzen Sie die Kleinwinkelnäherung: <p>\sin(\alpha) \approx \tan(\alpha) = \frac{y_n}{L}</p>.
+---HINT---
+Beachten Sie, dass der gegebene Abstand y die Entfernung zwischen den beiden äußersten (4.) Maxima ist. Der Abstand eines 4. Maximums zur Mitte beträgt daher <p>y_4 = \frac{y}{2}</p>.
+---HINT---
+Formen Sie die Gleichung nach g um: <p>g = \frac{n \cdot L \cdot \lambda}{y_n}</p> und setzen Sie die Werte ein.

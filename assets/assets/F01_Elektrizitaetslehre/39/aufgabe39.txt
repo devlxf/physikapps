@@ -1,0 +1,5 @@
+Die Kochplatte eines Elektroherdes besitzt drei Heizwicklungen mit den Widerständen <T>R_1</T>, <T>R_2</T>, <T>R_3</T>. Mit Hilfe der abgebildeten Schaltung können diese in sieben Leistungsstufen kombiniert werden.
+
+Bei Schaltstufe 3 beträgt die Leistungsaufnahme <T>P_3=</T><p>value1 \text{ W}</p>. Bei Schaltstufe 5 beträgt die Leistungsaufnahme <T>P_5=</T><p>value2 \text{ W}</p>. Bei Schaltstufe 6 beträgt die Leistungsaufnahme <T>P_6=</T><p>value3 \text{ W}</p>. Die Versorgungsspannung beträgt 230 V.
+
+Berechnen Sie den Widerstand <T>R_1</T>.

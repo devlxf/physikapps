@@ -1,0 +1,3 @@
+In einem See beobachten Sie den Wellengang. In einer Minute zählen Sie <T>\,\,n=</T><p>value1\,\,</p> Wellen, die Sie erreichen. Die Ausbreitungsgeschwindigkeit beträgt etwa <T>\,\,c=</T><p>value2\ \text{m/s}</p>.
+
+Berechnen Sie die Wellenzahl <p>\,\,k\,\,</p> der Wellen.

@@ -1,0 +1,3 @@
+Bei einem Doppelspalt für optische Versuche ist die Beschriftung nicht mehr erkennbar. Der Spaltabstand <T>g</T> soll nun experimentell mit Hilfe eines Lasers (Herstellerangabe: <T>\lambda=</T><p>value1 \text{ nm}</p>) ermittelt werden. Der Abstand <T>L</T> zwischen Schirm und Doppelspalt kann auf einer optischen Bank sehr genau eingestellt werden und ist <T>L=</T><p>value2 \text{ m}</p>. Am Schirm kann auf beiden Seiten des 0. Maximums jeweils 4 weitere Maxima beobachtet werden. Den Abstand <T>y</T> der beiden äußersten Maxima zueinander misst er zu <T>y=</T><p>value3 \text{ cm}</p>.
+
+Berechnen Sie den Wert für den Spaltabstand <T>g</T>.

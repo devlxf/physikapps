@@ -1,0 +1,5 @@
+Eine Schülergruppe führt mit einer Quecksilberdampflampe einen Laborversuch zum Photoeffekt durch. Die jeweils mit einer Schlitzblende abgedeckte Photozelle wird unmittelbar vor dem Schirm auf die Stellen der Spektrallinien geschoben. Dabei werden für die einzelnen Linien die in der Tabelle angegebenen Photospannungen gemessen.
+
+Berechnen Sie aus den Daten das Plancksche Wirkungsquantum.
+
+Anmerkung: Der exakte Wert ist <p>h=6{,}626\cdot 10^{-34}\ \text{Js}</p>. Gefragt ist hier aber der Wert des Wirkungsquantums, der sich aus den Messwerten ergibt.

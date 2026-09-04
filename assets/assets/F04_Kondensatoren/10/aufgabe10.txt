@@ -1,0 +1,5 @@
+Ein Elektroskop zeigt die Spannung <T>U_1=</T><p>value1 \text{ kV}</p>. Um die Kapazität <T>C_E</T> dieses Elektrometers zu bestimmen, schaltet man einen Plattenkondensator <T>C_K</T> mit <T>A=</T><p>value2 \text{ m}^2</p> und <T>d=</T><p>value3 \text{ mm}</p> parallel.
+
+Die Spannung sinkt dabei auf <T>U_2=</T><p>value4 \text{ kV}</p>.
+
+Welche Kapazität hat der Kondensator <T>C_E</T>?

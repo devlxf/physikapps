@@ -1,0 +1,3 @@
+Ein Kind der Masse <T>m=</T><p>value1 \text{ kg}</p> rutscht von einem halbkreisförmigen Iglu mit dem Radius <T>r=</T><p>value2 \text{ m}</p>. Es startet aus der Ruhe am höchsten Punkt.
+
+Berechnen Sie die Bahngeschwindigkeit <T>v</T> des Kindes bei einem Winkel von <T>\alpha=</T><p>value3 \text{°}</p>.

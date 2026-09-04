@@ -1,0 +1,30 @@
+Die Spannung  <p>\,\,U(t)\,\,</p>  verhält sich im Schwingkreis wie
+
+       <p>\,\,U(t)=U_0\cdot\cos\left(\omega_0\cdot t\right)\,\,</p> 
+
+---HINT---
+Für die momentane Ladung  <p>\,\,Q(t)\,\,</p>  auf den Kondensatorplatten gilt 
+
+    <p>\,\,Q(t)=C\cdot U(t)</p>. 
+
+Hier muss die Spannung <p>\,\,U(t)\,\,</p> eingesetzt werden.
+
+
+---HINT---
+Der Kondensator ist bei <p>\,\,Q(t)=0\,\,</p> das erste Mal vollkommen entladen. Um dies zu erreichen, muss der Kosinus in  
+
+    <p>\,\,Q(t)=C\cdot U_0\cdot\cos\left(\omega_0\cdot t\right)\,\,</p> 
+
+Null werden.
+
+---HINT---
+Der Kosinus ist bei <p>\,\,\pi/4\,\,</p> erstmalig 0. Aus
+
+       <p>\,\,\cos\left(\omega_0\cdot t\right)=\cos\left(\pi/4\right)=0</p>
+
+---HINT---
+Nach Umformung zu  <p>\,\,t\,\,</p> kann dies berechnet werden. Dabei ist <p>\,\,\omega\,\,</p> gegeben mit
+
+        <p>\,\,\omega_0=\frac{1}{\sqrt{L\cdot C}} </p> 
+
+

@@ -1,0 +1,5 @@
+Berechnen Sie zunächst die Gitterkonstante aus der Strichdichte: <p>g = \frac{1}{N}</p>.
+---HINT---
+Bestimmen Sie den Beugungswinkel für das Maximum zweiter Ordnung mit der Gitterbedingung: <p>\sin(\alpha) = \frac{n \cdot \lambda}{g}</p> für <p>n = 2</p>.
+---HINT---
+Berechnen Sie den Abstand auf dem Schirm mit der geometrischen Beziehung: <p>y_n = L \cdot \tan(\alpha)</p>.

@@ -1,0 +1,9 @@
+Berechnen Sie mit dem Hookeschen Gesetz zuerst die Auslenkung der Feder durch die Gewichtskraft.
+---HINT---
+Berechnen Sie danach mit der Gesamtauslenkung die Federenergie.
+---HINT---
+Im Kräftegleichgewicht, also bei <p>F_G = F_D</p> ist die Geschwindigkeit am größten. Bei größerer Auslenkung wird der Körper noch durch die Feder beschleunigt, bei kleinerer durch die Höhe abgebremst.
+---HINT---
+Berechnen Sie also die Spannenergie und potenzielle Energie der Feder in der Ruhelage.
+---HINT---
+Die Differenz zur Spannenergie bei Vollauslenkung entspricht dann der kinetischen Energie. Über diese kinetische Energie kann nun die Geschwindigkeit berechnet werden.

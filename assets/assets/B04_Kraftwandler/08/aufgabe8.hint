@@ -1,0 +1,9 @@
+Der Korb ist halb so schwer wie das Gewicht des Affen, da die Gewichtskraft des Affen durch die lose Rolle halbiert wird.
+---HINT---
+Durch das Entfernen einer Banane nimmt die Gewichtskraft des Korbes um die Gewichtskraft der Banane ab.
+---HINT---
+Isst der Affe eine Banane, so nimmt seine Gewichtskraft um diesen Betrag zu.
+---HINT---
+Die Zugkraft <p>{F}_{Zug}</p>, mit der der Affe dann am Korb zieht, erhöht die Gesamtkraft auf der rechten Seite um <p>{F}_{Zug}</p> und verringert gleichzeitig die Gesamtkraft auf der linken Seite um <p>{F}_{Zug}</p>.
+---HINT---
+Stellen Sie das entsprechende Kräftegleichgewicht auf und lösen Sie nach <p>{F}_{Zug}</p> auf.

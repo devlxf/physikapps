@@ -1,0 +1,3 @@
+Ein Zyklotron dient zur Beschleunigung geladener <p>\alpha</p>-Teilchen auf nichtrelativistische Geschwindigkeiten. In dem Ihnen zur Verfügung stehenden Zyklotron können Sie Magnetfelder bis zu einer Stärke von <T>B=</T><p>value1 \text{ T}</p> erzeugen. 
+
+Mit welcher Frequenz <p>f</p> müssen Sie die Polschuhe umpolen, wenn Sie das <p>\alpha</p>-Teilchen bei maximaler Geschwindigkeit auf einer Kreisbahn halten wollen?

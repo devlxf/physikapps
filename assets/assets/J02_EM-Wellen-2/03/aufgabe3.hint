@@ -1,0 +1,7 @@
+Berechnen Sie zunächst die Gitterkonstante aus der Strichdichte: <p>g = \frac{1}{N}</p>.
+---HINT---
+Verwenden Sie die Gitterbedingung <p>g \cdot \sin(\alpha) = n \cdot \lambda</p> und beachten Sie, dass der Sinus maximal den Wert 1 annehmen kann.
+---HINT---
+Bestimmen Sie die maximale Ordnung mit <p>n_{\text{max}} = \frac{g}{\lambda}</p> und runden Sie auf die nächste ganze Zahl ab.
+---HINT---
+Die Gesamtzahl der sichtbaren Maxima beträgt <p>2 \cdot n_{\text{max}} + 1</p> (das 0. Maximum plus je <p>n_{\text{max}}</p> Maxima auf beiden Seiten).

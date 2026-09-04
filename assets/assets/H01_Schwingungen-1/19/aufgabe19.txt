@@ -1,0 +1,5 @@
+In einem U-Rohr konstanten Querschnitts befindet sich eine Flüssigkeitssäule der Gesamtlänge <T>l=</T><p>value1\ \text{cm}</p>.  Wenn man kurz in ein Rohrende bläst, so beginnt sie zu schwingen.
+
+Berechnen Sie die Frequenz <T>f</T>, mit der das Wasserpendel schwingt.
+
+Nach Archimedes ist die Auftriebskraft gleich groß wie die Gewichtskraft der Flüssigkeitsmenge, die verdrängt wird.

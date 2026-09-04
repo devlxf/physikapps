@@ -1,0 +1,4 @@
+Gegeben ist die Zeit-Ortsfunktion einer Schwingung (siehe Schaubild).
+
+Bestimmen Sie die Frequenz <T>f</T> der Schwingung.
+

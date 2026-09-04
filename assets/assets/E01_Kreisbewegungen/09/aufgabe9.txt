@@ -1,0 +1,6 @@
+Ein Autofahrer sieht plötzlich eine Mauer vor sich. Er hat zwei Möglichkeiten:
+
+Möglichkeit 1: Vollbremsung mit gleichförmiger Verzögerung auf der Strecke <T>s</T>.
+Möglichkeit 2: Ausweichen auf einer Kreisbahn mit Radius <T>s</T> bei konstanter Geschwindigkeit.
+
+Untersuchen Sie das Verhältnis der Zentripetalbeschleunigung <T>a_z</T> zur Bremsverzögerung <T>a_B</T>. Wer fährt besser?

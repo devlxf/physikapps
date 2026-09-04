@@ -1,0 +1,3 @@
+Berechnen Sie die <p>y</p>-Komponente der Anfangsgeschwindigkeit: <p>v_{0y} = v_0 \cdot \sin(\varphi)</p>
+---HINT---
+Nutzen Sie das Zeit-Geschwindigkeits-Gesetz in <p>y</p>-Richtung und lösen Sie nach <p>t</p> auf: <p>v_y(t) = -g \cdot t + v_{0y} \Rightarrow t = \frac{v_{0y} - v_y}{g}</p>

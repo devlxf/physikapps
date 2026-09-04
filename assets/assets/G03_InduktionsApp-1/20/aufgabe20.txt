@@ -1,0 +1,3 @@
+Eine kreisrunde Aluminiumscheibe (<T>r=</T><p>value1 \text{ cm}</p>) rotiert mit <p>value2</p> Umdrehungen pro Sekunde in einem homogenen Magnetfeld der Stärke <T>B=</T><p>value3 \text{ T}</p>. Die magnetischen Feldlinien verlaufen senkrecht zu der ebenfalls aus Aluminium bestehenden Rotationsachse. 
+
+Berechnen Sie die Bremskraft <T>F_\text{B}</T>, die durch die Induktionsspannung <T>U</T> zwischen der Rotationsachse und dem Rand der Aluminiumscheibe erzeugt wird, wenn der Widerstand <T>R</T> zwischen diesen beiden Punkte <T>R=</T><p>value4 \text{ m}\Omega</p> beträgt.

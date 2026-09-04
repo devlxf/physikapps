@@ -1,0 +1,1 @@
+Eine U-Bahn fährt aus dem Stand los und beschleunigt mit <T>a=</T><p>value1\text{ m/s}^2</p>. Wie lange dauert es, bis sie <T>v=</T><p>value2\text{ km/h}</p> erreicht hat?

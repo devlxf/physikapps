@@ -1,0 +1,5 @@
+Teilen Sie <p>v_0</p> in <p>x</p>- und <p>y</p>-Komponente auf.
+---HINT---
+Bestimmen Sie die Flugzeit aus der <p>y</p>-Bewegung. Die Gesamtflugzeit beträgt das Doppelte der Steigzeit: <p>t_\text{ges} = \frac{2 v_{0y}}{g}</p>
+---HINT---
+Die Schussweite ergibt sich aus: <p>s_x = v_{0x} \cdot t_\text{ges}</p>

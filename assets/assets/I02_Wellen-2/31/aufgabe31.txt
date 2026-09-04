@@ -1,0 +1,4 @@
+Ein Monochord habe eine Massenbelegung von <T>\,\,\mu=</T><p>value1\ \text{g/m}</p>. Der Abstand zwischen Sattel und Steg beträgt <T>\,\,l=</T><p>value2\ \text{mm}\,\,</p> (der Fachbegriff für den frei schwingenden Teil ist „Mensur").
+
+Wie groß muss die Anhängelast <T>\,\,m\,\,</T> gewählt werden, damit der Monochord einen Grundton von <T>\,\,f=</T><p>value3\ \text{Hz}\,\,</p> erzeugt?
+

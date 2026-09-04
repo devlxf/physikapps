@@ -1,0 +1,3 @@
+Ein Fahrbahnwagen der Masse <T>m_1=</T><p>value1 \text{ kg}</p> steht reibungsfrei auf einer waagrechten Unterlage. Über einen Faden beschleunigt ihn ein frei fallender Körper der Masse <T>m_2=</T><p>value2 \text{ g}</p>.
+
+Mit welcher Beschleunigung <T>a</T> bewegt sich die Masse <T>m_1</T>?

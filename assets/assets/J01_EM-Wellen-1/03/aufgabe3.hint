@@ -1,0 +1,5 @@
+Berechnen Sie zunächst die Frequenz des LC-Schwingkreises mit der Thomson-Formel <p>f = \frac{1}{2\pi} \cdot \frac{1}{\sqrt{L \cdot C}}</p>.
+---HINT---
+Nutzen Sie die gegebene Resonanzlänge des Empfangsdipols, um die Wellenlänge in Alkohol zu bestimmen: <p>\lambda_{\text{Alk}} = 2 \cdot l</p>.
+---HINT---
+Berechnen Sie die Ausbreitungsgeschwindigkeit in Alkohol mit <p>c_{\text{Alk}} = \lambda_{\text{Alk}} \cdot f</p>.

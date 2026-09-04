@@ -1,0 +1,3 @@
+Ein Winkelschleifer besitzt eine Trennscheibe mit einem Durchmesser von <T>d=</T><p>value1 \text{ mm}</p>. Die Scheibe macht <T>n=</T><p>value2 \text{ U/min}</p>.
+
+Mit welcher Geschwindigkeit bewegt sich der äußere Rand der Trennscheibe?

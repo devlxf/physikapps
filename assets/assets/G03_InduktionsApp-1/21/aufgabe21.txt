@@ -1,0 +1,1 @@
+Eine Spule besitzt <T>n=</T><p>value1 \text{Windungen}</p>, <T>l=</T><p>value2 \text{cm}</p> Länge und <T>A=</T><p>value4 \text{cm}^2</p> Querschnittsfläche. Sie wird von einem Strom <T>I</T> der Stärke <T>I=</T><p>value3 \text{mA}</p> durchflossen. Ermitteln Sie die in dem magnetischen Feld der Spule gespeicherte Energie <T>W</T>.

@@ -1,0 +1,5 @@
+Ein Teil der Gewichtskraft <p>F_G</p> des Autos wird für die Zentripetalkraft <p>F_z</p> verbraucht, sodass nur die Differenz beider Kräfte für die Kraft auf die Straße <p>F_B</p> zur Verfügung steht: <p>F_B = F_G - F_z</p>.
+---HINT---
+Setzen Sie die Formeln für Zentripetalkraft und Gewichtskraft ein und formen Sie danach zum Radius um.
+---HINT---
+Setzen Sie die gegebenen Werte ein und berechnen Sie den Radius: <p>r = \frac{m \cdot v^2}{m \cdot g - F_B}</p>.

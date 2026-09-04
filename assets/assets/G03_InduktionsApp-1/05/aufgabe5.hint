@@ -1,0 +1,9 @@
+Eine Induktionsspannung kann nur gemessen werden, solange sich der magnetische Fluss ϕ= durch die Spule ändert. Die Spannung ist dann konstant, da die änderungsrate konstant ist.
+---HINT---
+<p>$U_{\text{ind}} = - N \cdot \frac{\mathrm{\Delta}\ \phi}{\mathrm{\Delta}t} = - N \cdot \frac{\mathrm{\Delta}\ (B \cdot A)}{\mathrm{\Delta}t}</p>$
+---HINT---
+Sie können die Tatsache nutzen, dass B konstant ist, und dies vorziehen.
+---HINT---
+Zeichnen Sie sich zur Veranschaulichung zwei Diagramme qualitativ. Einmal ein Diagramm ϕ gegen t sowie ein Diagramm U_(ind) gegen t.
+---HINT---
+Beachten Sie, dass Sie nur solange eine Induktionsspannung messen, wie sich der Fluss ändert. Beachten Sie, dass die Änderung hier konstant ist!

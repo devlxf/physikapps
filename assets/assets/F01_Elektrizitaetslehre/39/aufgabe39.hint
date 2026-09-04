@@ -1,0 +1,7 @@
+In Stufe 3 ist nur Widerstand R_2 im Stromkreis vorhanden. So lässt sich mit der gegebenen Leistung dieser Widerstand berechnen.
+---HINT---
+In Stufe 5 sind die Widerstände R_2 und R_3 parallelgeschaltet. Da R_2 schon berechnet wurde, kann nun mit diesem und der angegebenen Leistung R_3 berechnet werden.
+---HINT---
+In Stufe 6 sind alle Widerstände parallelgeschaltet. Betrachten Sie R_2 und R_3 als einen Gesamtwiderstand R_23. Berechnen Sie seinen Wert mit der Formel für parallelgeschaltete Widerstände.
+---HINT---
+Betrachten Sie schließlich R_23 und R_1 als Parallelschaltung und berechnen Sie auf gleiche Weise wie zuvor mit der gegebenen Leistung den Wert für R_1.

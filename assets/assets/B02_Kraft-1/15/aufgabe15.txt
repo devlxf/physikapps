@@ -1,0 +1,3 @@
+In Häfen werden große Schiffe oft von kleinen Schleppern durch die Fahrrinne geschleppt (getreidelt). Schlepper R zieht mit einer Kraft von <T>F_R=</T><p>value1 \text{ kN}</p> unter einem Winkel von <T>\alpha=</T><p>value2 \text{ }^\circ</p>. Schlepper L zieht mit einer Kraft von <T>F_L=</T><p>value3 \text{ kN}</p>.
+
+Unter welchem Winkel <T>\beta</T> muss Schlepper L fahren, damit der Tanker gerade nach vorne gezogen wird?

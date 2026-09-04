@@ -1,0 +1,1 @@
+Ein Pferd zieht eine Kutsche von <T>F_g=</T><p>value1 \text{ N}</p> Gewicht. Es braucht dazu die Kraft <T>F_{z1}=</T><p>value2 \text{ N}</p>. Mit welcher Kraft muss das Pferd ziehen, wenn man auf die Kutsche zusätzlich eine Last von <T>F_L=</T><p>value3 \text{ N}</p> auflegt?

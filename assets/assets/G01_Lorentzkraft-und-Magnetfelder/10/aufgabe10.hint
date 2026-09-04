@@ -1,0 +1,12 @@
+Mit der Rechten-Faust-Regel wird sofort klar, dass die von den beiden Leitern erzeugten Felder außerhalb des Zwischenbereiches gegeneinander gerichtet sind.
+---HINT---
+Nutzen Sie die Formel für die magnetische Flussdichte eines stromdurchflossenen Leiters.
+---HINT---
+Die Feldstärken überlagern sich. Da die Ströme in entgegengesetzte Richtungen fließen, wirken die Feldlinien im Außenbereich in unterschiedliche Richtungen.
+---HINT---
+<p>B_{ges} = B_1 - B_2</p>
+---HINT---
+<p>\mu_e</p> ist dabei die magnetische Feldkonstante mit
+<p>\mu_{0} = 4\pi \cdot 10^{-7}\frac{\text{V s}}{\text{A m}}</p>
+---HINT---
+Die relative Permeabilität <p>\mu_r</p> ist hier 1.

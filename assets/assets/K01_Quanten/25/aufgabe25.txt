@@ -1,0 +1,3 @@
+Teilchen treffen senkrecht auf einen Spalt der Breite <T>\Delta x=</T><p>value1  \text{ m}</p>.
+
+Berechnen Sie die Impulsunschärfe <T>\Delta p</T>.

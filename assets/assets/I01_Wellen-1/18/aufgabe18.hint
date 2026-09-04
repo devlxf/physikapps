@@ -1,0 +1,17 @@
+Die Schallgeschwindigkeit beträgt <p>\, c=340 \text{m/s}</p>.
+---HINT---
+Bei dem Glasrohr handelt es sich um eine Röhre mit einem offenen und einem geschlossenen Ende. 
+---HINT---
+In einem Rohr mit einem offenen und einem geschlossenen Ende entspricht die 1. Harmonische einer viertel Wellenlänge <p>\,\, \lambda</p>. Also gilt
+
+<p>x_1=\frac{1}{4}\cdot\lambda_1 </p> 
+---HINT---
+Für die <p>n</p>. Harmonische gilt bei einem einseitig offenen Rohr
+
+<p>x_n=\frac{2\cdot n+1}{4}\cdot\lambda_n </p> 
+
+Berechnen Sie <p>\lambda_n</p> und ermitteln Sie darüber die Frequenz <p>\,\,f_n</p>.
+---HINT---
+Die Frequenz <p>f_n</p> ergibt sich mit der Schallgeschwindigkeit <p>\,\,c\,\,</p> zu
+
+<p>f_n=\frac{c}{\lambda_n}</p> 

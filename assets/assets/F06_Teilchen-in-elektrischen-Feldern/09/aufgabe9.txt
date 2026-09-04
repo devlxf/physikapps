@@ -1,0 +1,2 @@
+Die mit vernachlässigbarer Geschwindigkeit aus der Heizwendel H austretenden Elektronen werden in einem als homogen angenommenen Feld zwischen H und der Platte P beschleunigt.
+Welche Geschwindigkeit erhält ein Elektron, zwischen H und P, wenn die Kondensatorspannung <T>U_{1}=</T><p>value1 \text{ kV}</p> und der Plattenabstand <T>d_{1}=</T><p>value2 \text{ cm}</p> ist?

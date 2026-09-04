@@ -1,0 +1,5 @@
+Elektronen erfahren eine Beschleunigungsspannung von <T>U=</T><p>value1  \text{ V}</p>.
+
+Das erste Beugungsmaximum findet sich unter einem Streuwinkel von <T>\theta=</T><p>value2  \text{ \textdegree}</p> (Winkel zwischen einfallendem und gebeugtem Strahl).
+
+Berechnen Sie den Gitterabstand <T>d</T> der Netzebenen.

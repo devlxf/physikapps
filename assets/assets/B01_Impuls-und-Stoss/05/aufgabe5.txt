@@ -1,0 +1,1 @@
+Eine Kugel mit der Masse <p>value1 \text{ g}</p> verlässt eine Pistole der Masse <p>value2 \text{ kg}</p> mit der Geschwindigkeit <p>value3 \text{ m/s}</p>. Berechnen Sie den Betrag der Rückstoßgeschwindigkeit der Pistole.

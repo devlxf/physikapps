@@ -1,0 +1,1 @@
+Ein Himmelskörper hat eine Masse von <T>M=</T><p>value1\cdot 10^{22}\text{ kg}</p>. Sein Radius beträgt <T>R=</T><p>value2 \text{ km}</p>. Berechnen Sie aus diesen Daten den Ortsfaktor des Himmelskörpers.

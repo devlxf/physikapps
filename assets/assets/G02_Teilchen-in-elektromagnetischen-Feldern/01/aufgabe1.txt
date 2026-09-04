@@ -1,0 +1,1 @@
+Ein Hagelkorn mit einer Ladung von <T>q=</T><p>value2 \text{ μC}</p>  fliegt mit Schallgeschwindigkeit senkrecht zu einem Magnetfeld der Stärke von <T>B=</T><<p>value1 \text{ mT}</p>. Ermitteln Sie die auf das Teilchen wirkende Lorentzkraft.

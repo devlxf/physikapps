@@ -1,0 +1,3 @@
+Ein Fallturm hat eine Fallstrecke von <T>h=</T><p>value1\text{ m}</p>. Darunter befindet sich eine <T>s=</T><p>value2\text{ m}</p> lange Bremsstrecke, auf der die Gondel gleichmäßig abgebremst wird. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Welche Bremsverzögerung wirkt auf die Kapsel? Setzen Sie das Ergebnis in Relation zur Erdbeschleunigung.

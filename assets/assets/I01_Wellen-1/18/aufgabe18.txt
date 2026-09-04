@@ -1,0 +1,4 @@
+Ein <T>\,\,l=</T><p>value1\ \text{m}\,\,</p> langes Glasrohr ist rechts von einem verschiebbaren Stempel begrenzt. Der vor dem linken offenen Ende stehende Lautsprecher sendet sinusförmige Schallwellen aus. Von einer Abnahme der Amplitude im Inneren des Rohres ist abzusehen. Der Stempel steht bei <T>\,\,x=</T><p>valueR\ \text{m}</p>. 
+
+Berechnen Sie die Frequenz <T>\,\,f_{value3}\,\,</T> der <p>\,\,value3\ \text{. Harmonischen}</p>.
+

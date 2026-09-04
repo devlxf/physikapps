@@ -1,0 +1,3 @@
+Die am Radlader wirkenden Kräfte sind in zwei Kräften zusammengefasst: Das Maschinengewicht greift an den Hinterrädern an: <T>F_{M}=</T><p>value1 \text{ daN}</p>. Das Auslegergewicht zusammen mit dem Schaufelinhalt <T>F_{G}=</T><p>value2 \text{ daN}</p> wirkt etwa in Schaufelmitte. <T>s_{2}=</T><p>value3 \text{ m}</p> und <T>s_{1}=</T><p>value4 \text{ m}</p>. Der Schaufelschwerpunkt befindet sich in einer Höhe von <T>h=</T><p>value5 \text{ m}</p>. Die Höhe des Maschinenschwerpunkts darf vernachlässigt werden.
+
+Welche Straßenneigung <T>\alpha</T> kann der Radlader gerade noch hinunterfahren, ohne umzukippen?

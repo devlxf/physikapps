@@ -1,0 +1,3 @@
+Die beiden Verstrebungen haben einen Winkel von <T>\alpha=</T><p>value1 \text{ °}</p>. Das Schild hat eine Masse von <T>m=</T><p>value2 \text{ kg}</p>.
+
+Berechnen Sie die Kraft, die das Schild auf Strebe 1 ausübt.

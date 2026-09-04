@@ -1,0 +1,2 @@
+Ein Leiterrahmen hat ein Gewicht von <p>value2 \text{ g}</p>. Wird der Rahmen mit <p>value3 \text{ mA}</p> beschaltet und in einen Hufeisenmagneten verbracht, dessen homogenes Magnetfeld eine Länge von <T>l=</T><p>value1 \text{ cm}</p> hat, so wird es um 20 ° aus der Ruhelage ausgelenkt (siehe Bild).
+ Berechnen Sie die Stärke des homogenen Feldes des Hufeisenmagneten.

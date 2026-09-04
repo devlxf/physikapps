@@ -1,0 +1,5 @@
+Der gegebene Versuch entspricht der Simulation eines Leistungsmessstandes.
+
+Eine Bohrmaschine rotiert mit einer Drehzahl von <T>n=</T><p>value1 \text{ U/min}</p>. Der Bohrkopf hat einen Radius von <T>r_{1}=</T><p>value2 \text{ cm}</p> und überträgt durch Reibung eine unbekannte Kraft <T>F_{1}</T> auf eine Spannvorrichtung. Die Spannvorrichtung überträgt über einen Hebel der Länge <T>r_{2}=</T><p>value3 \text{ cm}</p> eine Kraft <T>F_{2}</T>, deren Messwert <p>value4 \text{ N}</p> beträgt.
+
+Wie hoch ist der Wirkungsgrad, wenn die Bohrmaschine <T>P_\text{zu}=</T><p>value5 \text{ W}</p> elektrische Leistung aus der Steckdose zieht?

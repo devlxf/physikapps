@@ -1,0 +1,3 @@
+Eine Karussellbahn hat einen Radius von <T>r=</T><p>value1 \text{ m}</p> und dreht sich in <T>T=</T><p>value2 \text{ s}</p> einmal um die eigene Achse. Sie möchten Ihrem Vordermann, der im Abstand von <T>s=</T><p>value3 \text{ m}</p> vor Ihnen sitzt, einen Ball mit der Geschwindigkeit <T>v_B=</T><p>value4 \text{ m/s}</p> zuwerfen.
+
+Berechnen Sie den Vorhaltewinkel <T>\alpha</T>, den Sie einhalten müssen, um den Vordermann zu treffen.

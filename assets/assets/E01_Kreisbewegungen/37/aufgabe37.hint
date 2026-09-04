@@ -1,0 +1,5 @@
+Berechnen Sie mit gegebenen Werten die Zentripetalkraft. Der Gesamtradius ist: <p>r_{ges} = r + l \cdot \sin(\alpha)</p>.
+---HINT---
+Berechnen Sie die Gewichtskraft: <p>F_G = m \cdot g</p>.
+---HINT---
+Berechnen Sie mit Zentripetalkraft, Gewichtskraft und dem Satz von Pythagoras die Kraft auf den Boden: <p>F_B = \sqrt{F_G^2 + F_z^2}</p>.

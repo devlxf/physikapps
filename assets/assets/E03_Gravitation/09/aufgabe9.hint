@@ -1,0 +1,3 @@
+Nutzen Sie die Formel für die Hubarbeit im erdfernen Feld: <p>W_{pot} = G\cdot M \cdot m \cdot \left(\frac{1}{r_0} - \frac{1}{r_1}\right)</p>
+---HINT---
+Da es sich bei den einzusetzenden Radien immer um den Abstand zum Rotationszentrum handelt, muss zu den gegebenen Höhen der Erdradius <p>R_{Erde} = 6371\,\text{km}</p> noch hinzuaddiert werden.

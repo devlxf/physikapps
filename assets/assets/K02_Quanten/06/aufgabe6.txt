@@ -1,0 +1,3 @@
+Das Solarpanel einer Raumsonde hat die Fläche <T>A=</T><p>value1  \text{ m}^2</p>. Die Strahlungsintensität der Sonne beträgt am Ort der Raumsonde <T>I_\text{S}=</T><p>value2  \text{ kW/m}^2</p>.
+
+Wie viele Photoelektronen <T>N_\text{e}</T> entstehen jede Sekunde am Solarpanel, wenn man eine mittlere Wellenlänge von <T>\lambda=</T><p>value3  \text{ nm}</p> annimmt? Die Quantenausbeute beträgt <T>\eta=</T><p>value4  \text{ \%}</p>.

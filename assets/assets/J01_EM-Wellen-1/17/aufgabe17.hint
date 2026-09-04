@@ -1,0 +1,7 @@
+Verwenden Sie die Doppelspaltformel für das n-te Maximum: <p>y_n = n \cdot \lambda \cdot \frac{L}{g}</p>.
+---HINT---
+Der Abstand der beiden Maxima 2. Ordnung entspricht dem doppelten Abstand zur Mittenebene: <p>s = 2 \cdot y_2</p>.
+---HINT---
+Stellen Sie für beide Wellenlängen die Gleichung für den Abstand der 2. Maxima auf und bilden Sie den Quotienten <p>\frac{s_1}{s_2} = \frac{\lambda_1}{\lambda_2}</p>.
+---HINT---
+Lösen Sie nach <p>\lambda_2</p> auf: <p>\lambda_2 = \lambda_1 \cdot \frac{s_2}{s_1}</p>.

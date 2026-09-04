@@ -1,0 +1,3 @@
+Von einem Turm der Höhe <T>s_0=</T><p>value1\text{ m}</p> wird ein Stein fallengelassen. Anschließend wird ein zweiter Stein mit <T>v_0=</T><p>value2\text{ m/s}</p> nach unten geworfen und erreicht gleichzeitig mit dem ersten den Boden. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Wie viel später wurde der zweite Stein geworfen?

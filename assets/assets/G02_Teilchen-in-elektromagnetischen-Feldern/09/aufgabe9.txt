@@ -1,0 +1,5 @@
+Der MHD-Generator kann auch als Motor betrieben werden, in dem man durch die Elektroden einen Strom fließen lässt. Eine Anwendung ist z.B. der magnetohydrodynamische Antrieb von Wasserfahrzeugen (MHD steht für Magnetohydrodynamischer Generator).
+
+Im Folgenden wird ein heißes, einfach ionisiertes Gas mit <T>v=</T><p>value1 \text{ m}/\text{s}</p> Geschwindigkeit durch ein Magnetfeld der Stärke <T>B=</T><p>value2 \text{ T}</p> geschickt. Parallel zu dem Gasstrom befinden sich zwei Metallplatten im Abstand <T>b=</T><p>value3 \text{ cm}</p> (vgl. Skizze).
+
+Denken Sie darüber nach, warum sich zwischen den beiden Platten eine Spannung <T>U</T> aufbaut und berechnen Sie diese.

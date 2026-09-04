@@ -1,0 +1,3 @@
+Auf einem Seil werden Wellen mit der Frequenz <T>\,\,f=</T><p>value1\ \text{Hz}\,\,</p> und einer Amplitude <T>\,\,A=</T><p>value2\ \text{cm}\,\,</p> erzeugt.
+
+Berechnen Sie die maximal auftretende Beschleunigung <T>\,\,a_{max}</T>.

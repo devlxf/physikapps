@@ -1,0 +1,5 @@
+Bei einer Mission zu einem fremden Planeten wird mithilfe eines Fadenpendels die Fallbeschleunigung <p>\,\,g_P\,\,</p> auf der Oberfläche bestimmt. Hierfür wird mit einem Fadenpendel mit veränderlicher Fadenlänge <T>\,\,l\,\,</T> und einem Pendelkörper der Masse <T>m=</T><p>value1\ \text{kg}</p> die obige Messreihe aufgenommen.
+
+Bestimmen Sie mithilfe der gegebenen Werte die Fallbeschleunigung <p>\,\,g_P\,\,</p> auf dem fremden Planeten.
+
+

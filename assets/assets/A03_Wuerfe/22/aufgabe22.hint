@@ -1,0 +1,5 @@
+Es gibt zwei verschiedene Abschusswinkel <p>\alpha_1</p> und <p>\alpha_2</p>, die dieselbe Wurfweite ergeben. Es gilt: <p>\alpha_2 = 90° - \alpha_1</p>
+---HINT---
+Berechnen Sie den flachen Winkel <p>\alpha_1</p> aus der Wurfweitenformel: <p>s_x = \frac{v_0^2}{g} \cdot \sin(2\alpha)</p>
+---HINT---
+Berechnen Sie die Flugzeiten für beide Winkel: <p>t = \frac{s_x}{v_0 \cdot \cos(\alpha)}</p>. Der Zeitabstand ist die Differenz der beiden Flugzeiten.

@@ -1,0 +1,9 @@
+Im Punkt B im Looping muss die Zentripetalkraft gerade der Gewichtskraft entsprechen. Stellen Sie das Kräftegleichgewicht auf: <p>F_z = F_G</p>.
+---HINT---
+Setzen Sie die Formeln für <p>F_z</p> und <p>F_G</p> ein und formen Sie nach <p>v_B</p> um: <p>v_B = \sqrt{g \cdot r}</p>.
+---HINT---
+Stellen Sie das Energiegleichgewicht auf: <p>W_{pot,A} = W_{kin,B} + W_{pot,B}</p>.
+---HINT---
+Setzen Sie <p>W_{pot} = m \cdot g \cdot h</p> und <p>W_{kin} = \frac{1}{2} \cdot m \cdot v^2</p> ein. Bedenken Sie, dass die Höhe des Loopings dem zweifachen Radius entspricht: <p>h_{Looping} = 2 \cdot r</p>.
+---HINT---
+Kürzen Sie und formen Sie nach <p>h</p> um. Das ergibt: <p>h = 2{,}5 \cdot r</p>.

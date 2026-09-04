@@ -1,0 +1,3 @@
+Berechnen Sie mit dem Zeit-Geschwindigkeits-Gesetz zuerst die Bremszeit bis zum Stillstand: <p>v(t) = v_0 - a \cdot t \Rightarrow t_B = \frac{v_0}{a}</p>
+---HINT---
+Berechnen Sie anschließend den Bremsweg mit dem Zeit-Weg-Gesetz: <p>s(t) = v_0 \cdot t - \frac{1}{2} a \cdot t^2</p>

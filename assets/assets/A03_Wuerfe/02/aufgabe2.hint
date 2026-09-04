@@ -1,0 +1,5 @@
+Berechnen Sie zuerst die Flugdauer mit dem Gesetz des freien Falls: <p>t = \sqrt{\frac{2 s_y}{g}}</p>
+---HINT---
+In <p>x</p>-Richtung ist die Geschwindigkeit konstant und gleich der Abwurfgeschwindigkeit <p>v_0</p>.
+---HINT---
+Die Wurfweite ergibt sich aus: <p>s_x = v_0 \cdot t</p>

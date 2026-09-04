@@ -1,0 +1,9 @@
+1 daN ist ein Deka-Newton, also 10 N.
+---HINT---
+Bestimmen Sie zuerst die Länge des Hebelarms <p>a_2</p>. Achten Sie darauf, dass der Hebelarm der horizontale Abstand der Wirkungslinie der Gewichtskraft zur Drehachse ist. Beim Kippen wirkt die Gewichtskraft weiterhin senkrecht nach unten.
+---HINT---
+Bestimmen Sie dann die Länge des Hebelarms <p>a_1</p>. Beachten Sie, dass die horizontale Komponente von <p>s_1</p> mit steigender Neigung in gleichem Maße kleiner wird, wie bei <p>s_2</p>, allerdings neigt sich die Schaufel nach vorne und verlängert den Hebel.
+---HINT---
+Wenn Sie die Hebellängen in Abhängigkeit des Winkels <p>\alpha</p> aufgestellt haben, können sie damit Stand- und Kippmomente aufstellen.
+---HINT---
+Setzen Sie Stand- und Kippmomente gleich und lösen Sie dann nach <p>\alpha</p> auf.

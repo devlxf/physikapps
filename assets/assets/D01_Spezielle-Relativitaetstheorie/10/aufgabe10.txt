@@ -1,0 +1,4 @@
+Unter der Annahme, dass Autos in der Zukunft viel schneller als heute fahren können, wäre es dann möglich ein <T>l_0=</T><p>value1 \text{ m}</p> langes Auto in eine <T>l=</T><p>value2 \text{ m}</p> lange Garage zu parken? Berechnen Sie die Geschwindigkeit <T>v</T>, mit der das Auto in die Garage hineinfahren müsste, um ganz darin zu verschwinden.
+
+Überlegen Sie auch, ob diese Vision funktionieren kann.
+

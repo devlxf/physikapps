@@ -1,0 +1,1 @@
+Ein Zug fährt mit einer konstanten Geschwindigkeit von <T>v_{Zug}=</T><p>value1\text{ km/h}</p>. Ein Schaffner geht mit der Geschwindigkeit <T>v_{Schaffner}=</T><p>value2\text{ km/h}</p> durch den Zug, um die Fahrkarten zu kontrollieren. Wie schnell ist der Schaffner bezogen auf einen an der Bahnstrecke stehenden Beobachter?

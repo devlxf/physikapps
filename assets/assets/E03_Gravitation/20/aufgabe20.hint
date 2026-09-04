@@ -1,0 +1,5 @@
+Die Aufgabe lässt sich in zwei Teile aufteilen. Berechnen Sie zuerst die Masse des Himmelskörpers durch Gleichsetzen von Gravitationskraft und Zentripetalkraft: <p>F_Z = F_G</p>
+---HINT---
+Ersetzen Sie die Bahngeschwindigkeit durch <p>v = \frac{2\cdot\pi \cdot r}{T}</p> und lösen Sie nach der Planetenmasse auf: <p>M_{Planet} = \frac{4\pi^2 \cdot r^3}{G \cdot T^2}</p>
+---HINT---
+Berechnen Sie anschließend den Ortsfaktor auf der Oberfläche mit dem Gravitationsgesetz: <p>g_{Planet} = \frac{M_{Planet} \cdot G}{R_{Planet}^2}</p>

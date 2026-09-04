@@ -1,0 +1,1 @@
+Ein künstlicher Satellit bewegt sich auf einer Ellipsenbahn um die Erde. Sein Abstand im erdnächsten Punkt beträgt <T>s_1=</T><p>value1 \text{ km}</p>, sein größter Abstand beträgt <T>s_2=</T><p>value2 \text{ km}</p>. Um wieviel Prozent ist der Satellit im erdnächsten Punkt schneller als im erdfernsten?

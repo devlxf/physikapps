@@ -1,0 +1,5 @@
+Das Ergebnis ist nicht das arithmetische Mittel der Geschwindigkeiten.
+---HINT---
+Berechnen Sie zuerst die Zeitdauer, die für die einzelnen Streckenabschnitte benötigt wird. Nutzen Sie dazu das Zeit-Weg-Gesetz: <p>t = \frac{s}{v}</p>
+---HINT---
+Die Durchschnittsgeschwindigkeit <p>\bar{v}</p> entspricht der Gesamtstrecke pro Gesamtzeit: <p>\bar{v} = \frac{s_\text{ges}}{t_\text{ges}}</p>

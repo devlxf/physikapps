@@ -1,0 +1,16 @@
+Die App speichert Punkte und Einstellungen lokal auf Ihrem Gerät und erhebt keine weiteren Daten.
+
+Über den Schieberegler können Sie zwischen „BK“ und „TG“ wählen. Je nach Auswahl erscheint bei den Aufgaben oben rechts ein Button, mit dem die für die jeweilige Schulart passende Merkhilfe aufgerufen werden kann. Zusätzlich können Aufgaben angezeigt werden, die speziell für die gewählte Schulart relevant sind.
+
+Mit einem Klick auf den Button „Hervorheben“ wird eine Lesehilfe aktiviert: Physikalische Größen erhalten ein Formelzeichen und werden rot markiert. Dadurch reduziert sich jedoch die maximal erreichbare Punktzahl pro Aufgabe um einen Punkt.
+
+Zu einigen Aufgaben sind Tipps verfügbar. Jeder abgeholte Tipp verringert ebenfalls die maximal erreichbare Punktzahl um einen Punkt. Die aktuelle noch erreichbaren Punkte sehen Sie oben rechts zu jeder Aufgabe. 
+
+Die zugelassene Formelsammlung ist im BK die Merkhilfe (M) und im TG die IQB Formelsammlung (F). Das Konsultieren der Formelsammlung ist erwünscht und führt nicht zu einem Punktabzug.
+
+Aufgaben können beliebig oft wiederholt werden. Der Punktescore kann sich dabei verbessern, wenn weniger Hilfen genutzt werden oder die Lesehilfe ausgeschaltet wird. Werden hingegen mehr Tipps oder Hervorhebungen in Anspruch genommen, kann sich der Score entsprechend verringern.
+
+Eingegebene Ergebnisse werden mit einer gewissen Rundungstoleranz akzeptiert. Diese ist abhängig von der Aufgabe und liegt bei Rechenaufgaben in der Regel bei ±1 %. Bei Aufgaben mit Schaubildern kann die Toleranz auch höher sein.
+
+Die Punktzahlen werden für jedes Themas separat berechnet und gespeichert.
+             

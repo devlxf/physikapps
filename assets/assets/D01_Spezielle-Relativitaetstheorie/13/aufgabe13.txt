@@ -1,0 +1,3 @@
+Geben Sie den Energieinhalt <T>E</T> von <T>m=</T><p>value1 \text{ g}</p> Wasser in Joule an.  
+
+

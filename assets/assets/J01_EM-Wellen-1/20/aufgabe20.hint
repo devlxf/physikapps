@@ -1,0 +1,5 @@
+Verwenden Sie die Formel für die Ausbreitungsgeschwindigkeit elektromagnetischer Wellen in einem Medium: <p>c_{\text{Med}} = \frac{1}{\sqrt{\varepsilon_0 \cdot \varepsilon_r \cdot \mu_0 \cdot \mu_r}}</p>.
+---HINT---
+Für Alkohol können Sie die relative Permeabilität <p>\mu_r = 1</p> setzen, da es ein nichtmagnetisches Material ist.
+---HINT---
+Quadrieren Sie die Gleichung und formen Sie nach <p>\varepsilon_r</p> um: <p>\varepsilon_r = \frac{1}{\varepsilon_0 \cdot \mu_0 \cdot \mu_r \cdot c_{\text{Alk}}^2}</p>.

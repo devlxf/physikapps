@@ -1,0 +1,3 @@
+Ein Proton bewegt sich mit der Geschwindigkeit <T>v=</T><p>value1 \text{ km}/\text{s}</p> in einem homogenen Magnetfeld der Stärke <T>B=</T><p>value2 \text{ mT}</p> senkrecht zu den Feldlinien. Das Proton habe dabei eine Masse von <p>value3 \text{ kg}</p>.
+Seine Elementarladung ist <p>value4 \text{ kg}</p>.
+Berechnen Sie den Radius seiner Kreisbahn.

@@ -1,0 +1,3 @@
+In einem RL-Kreis ist ein <T>R=</T><p>value1 \text{ k}\Omega</p>-Widerstand mit einer Spule unbekannter Induktivität in Reihe geschaltet. <T>t=</T><p>value2 \text{ms}</p> nach Einschalten des Stromkreises fließt 50 % des Maximalstromes <T>I_\text{max}</T>.
+
+Wie groß ist die Induktivität <T>L</T> der Spule?

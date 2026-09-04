@@ -1,0 +1,7 @@
+Zeichnen Sie sich ein Kräfteparallelogramm zur Veranschaulichung.
+---HINT---
+Identifizieren Sie den Winkel <p>\alpha</p> im Kräfteparallelogramm.
+---HINT---
+Der Winkel <p>\alpha</p> liegt auch direkt an <p>F_{G}</p> an. Machen Sie sich klar warum.
+---HINT---
+Bestimmen Sie die Hangabtriebskraft <p>F_{H}</p>. Sie ist mit der Gewichtskraft <p>F_{G}</p> über den Sinus verknüpft: <p>F_{H} = F_{G} \cdot \sin(\alpha)</p>

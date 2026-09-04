@@ -1,0 +1,1 @@
+Ein Stein fällt von einer Brücke. Die Flugzeit beträgt <T>t=</T><p>value1\text{ s}</p>. Berechnen Sie die Höhe der Brücke. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.

@@ -1,0 +1,3 @@
+Ein Auto fährt mit <T>v_1=</T><p>value1\text{ km/h}</p>. In <T>s_0=</T><p>value2\text{ m}</p> Entfernung taucht ein Hindernis auf. Die Reaktionszeit beträgt <T>t_0=</T><p>value3\text{ s}</p>. Das Auto kommt genau vor dem Hindernis zum Stehen.
+
+Dasselbe Auto nähert sich mit <T>v_2=</T><p>value4\text{ km/h}</p> derselben Situation. Welche Geschwindigkeit hat es am Hindernis?

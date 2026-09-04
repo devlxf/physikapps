@@ -1,0 +1,3 @@
+Eine Hängeleuchte mit einer Gewichtskraft von <T>F_G=</T><p>value1 \text{ N}</p> wird asymmetrisch von zwei Seilen gehalten. Der Aufhängepunkt der Lampe befindet sich jeweils bei <T>h=</T><p>value2 \text{ m}</p> unterhalb der Befestigungsstellen der Seile an den tragenden Wänden. Der Abstand der Lampe zur linken Wand beträgt <T>l_1=</T><p>value3 \text{ m}</p>, der Abstand zur rechten Wand <T>l_2=</T><p>value4 \text{ m}</p>.
+
+Welche Beträge haben die Kräfte <T>\vec{F}_1</T> und <T>\vec{F}_2</T>, die entlang der Seilstücke auf diese einwirken? Geben Sie <T>\vec{F}_2</T> an.

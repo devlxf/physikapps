@@ -1,0 +1,3 @@
+Eine reale Batterie setzt sich gedanklich aus einer idealen Batterie und einem Innenwiderstand zusammen. Die ideale Batterie liefert dabei immer die Klemmspannung <p>U_{KL}</p>, unabhängig vom Verbraucher.
+---HINT---
+Betrachten Sie die Aufgabe wie eine „normale" Reihenschaltung von zwei Widerständen <p>R_i</p> und <p>R_a</p>. Die Klemmspannung ist die Spannung, die über <p>R_a</p> abfällt.

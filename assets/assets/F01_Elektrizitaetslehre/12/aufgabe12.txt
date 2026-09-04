@@ -1,0 +1,3 @@
+In der abgebildeten Schaltung sei <T>|U_0|=</T><p>value1 \text{ V}</p>, <T>R_1=</T><p>value2\ \Omega</p>, <T>R_2=</T><p>value3\ \Omega</p> und <T>R_3=</T><p>value4\ \Omega</p>.
+
+Berechnen Sie den Strom <T>I_1</T>, der durch den Widerstand <T>R_1</T> fließt.

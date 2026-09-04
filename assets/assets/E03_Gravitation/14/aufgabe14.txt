@@ -1,0 +1,1 @@
+Ein Planet ist <T>n=</T><p>value1</p>-mal so schwer wie sein Mond. Auf der Verbindungslinie der beiden Himmelskörper gibt es einen Punkt, an dem ihre Kraftfelder entgegengesetzt gleich groß sind (Abarischer Punkt). Berechnen Sie, wo sich dieser Punkt zwischen den beiden Objekten befindet, und geben Sie das Ergebnis als Anteil des Gesamtabstandes <T>r_\text{Planet-Mond}</T> an.

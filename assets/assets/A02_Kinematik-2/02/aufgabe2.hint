@@ -1,0 +1,3 @@
+Lesen Sie einen Punkt <p>P(t \mid s)</p> aus dem Diagramm ab und setzen Sie diesen in das Zeit-Weg-Gesetz für eine beschleunigte Bewegung ein.
+---HINT---
+Das Zeit-Weg-Gesetz lautet: <p>s(t) = \frac{1}{2} a \cdot t^2</p>. Formen Sie nach <p>a</p> um: <p>a = \frac{2s}{t^2}</p>

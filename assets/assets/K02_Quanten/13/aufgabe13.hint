@@ -1,0 +1,12 @@
+Die kinetische Energie ist allgemein
+<p>E_{\text{kin}} = \frac{1}{2}\cdot m\cdot v^2</p>
+Setzen sie für die Geschwindigkeit <p>v</p> den Ausdruck für die Elektronengeschwindigkeit aus der de-Broglie-Quantisierungsbedingung ein. Dieser lautet
+<p>v = \frac{n \cdot h}{2 \cdot \pi \cdot m_{\text{e}} \cdot r_n}</p>
+---HINT---
+Anschließend setzen Sie die Formel für den Bohrschen Radius <p>r_n</p> ein. Er lautet
+<p>r_n = \frac{n^2 \cdot h^2 \cdot \varepsilon_0}{Z \cdot \mathrm{e}^2 \cdot \pi \cdot m_{\text{e}}}</p>
+---HINT---
+Nach Ausquadrieren und Kürzen bleibt eine Formel für die kinetische Energie <p>E_{\text{kin}}</p> übrig, die ausschließlich aus Naturkonstanten und gegebenen Werten besteht. Somit kann nach Einsetzen die Energie berechnet werden.
+
+
+

@@ -1,0 +1,10 @@
+Berechnen Sie zuerst den Bruchteil der Leistung, der in Licht umgewandelt wird.
+---HINT---
+Die gesamte Menge des Lichts verteilt sich im Abstand <p>r</p> auf einer Kugeloberfläche <p>A_O=4\cdot\pi\cdot r^2</p>. Setzen Sie dies in das Verhältnis zur Fläche der Fotozelle, um zu ermitteln, welcher Anteil des Lichtes die Zelle erreicht.
+---HINT---
+Die Energiemenge, die in der Zeit <p>t</p> die Fotozelle erreicht, ergibt sich aus 
+<p>E=P\cdot t</p>
+---HINT---
+Die Energie eines Photons ist
+<p>E=\frac{h\cdot c}{\lambda}</p>
+Wenn Sie diesen Wert durch die Energiemenge der Photozelle teilen, erhalten sie die Anzahl der Photonen, die die Zelle erreicht haben.

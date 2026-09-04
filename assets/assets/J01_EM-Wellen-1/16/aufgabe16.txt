@@ -1,0 +1,3 @@
+Eine Metallplatte M wird in einem Abstand <T>a=</T><p>value1 \text{ cm}</p> parallel zu einem Sender S und einem Empfänger E angeordnet. Die ausgesandte elektromagnetische Strahlung hat die Frequenz von <T>f=</T><p>value2 \text{ GHz}</p>. Wird der Empfänger E in <p>x</p>-Richtung verschoben, beobachtet man, dass die von E nachgewiesene Intensität zwischen minimalen und maximalen Werten variiert.
+
+Erklären Sie sich anhand einer Skizze das Zustandekommen dieser Erscheinung und berechnen Sie den Abstand <T>x</T> von Sender und Empfänger, bei dem erstmalig konstruktive Interferenz auftritt.

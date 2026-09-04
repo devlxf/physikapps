@@ -1,0 +1,5 @@
+Sie entdecken während eines Spazierganges ein Kabel. Sie sind nun daran interessiert, welcher Strom durch das Kabel fließt. Leider haben Sie keine Möglichkeit, ein Strommessgerät anzuschließen, denn dazu müssten sie es aufschneiden, Strom wird schließlich in Reihe gemessen.
+
+Eine Sonde zur Messung der magnetischen Flussdichte liefert Ihnen allerdings in Abhängigkeit zum Abstand vom Kabel die nebenstehende Messung.
+
+Schließen Sie aus der Messung auf den Strom im Kabel.

@@ -1,0 +1,9 @@
+Berechnen Sie zuerst aus den gegebenen Distanzen und der Zeit die Geschwindigkeit des Motorrades.
+---HINT---
+Berechnen Sie den Kurvenradius mit den gegebenen Bogenlängen über den Kreisumfang: <p>r = \frac{b}{\pi}</p>.
+---HINT---
+Berechnen Sie nun mit Masse, Geschwindigkeit und Kurvenradius die Zentripetalkraft: <p>F_z = \frac{m \cdot v^2}{r}</p>.
+---HINT---
+Berechnen Sie mit dem Satz von Pythagoras aus Gewichtskraft und Zentripetalkraft die Kraft auf den Boden: <p>F_B = \sqrt{F_z^2 + F_G^2}</p>.
+---HINT---
+Die Kraft je Achse entspricht der halben Gesamtkraft auf den Boden: <p>F_A = \frac{F_B}{2}</p>.

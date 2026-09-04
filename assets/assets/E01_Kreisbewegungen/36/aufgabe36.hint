@@ -1,0 +1,5 @@
+Berechnen Sie den Gesamtradius der Kreisbahn: <p>r_{ges} = r + l \cdot \sin(\alpha)</p>.
+---HINT---
+Berechnen Sie die Zeitdauer für einen Umlauf über Geschwindigkeit und Umfang: <p>T = \frac{2 \cdot \pi \cdot r_{ges}}{v}</p>.
+---HINT---
+Über die Umlaufdauer können Sie dann die Drehzahl berechnen: <p>f = \frac{1}{T}</p>.

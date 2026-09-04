@@ -1,0 +1,9 @@
+Nutzen Sie das Coulombsche Kraftgesetz.
+---HINT---
+Um den Abstand der beiden Kugeln zu berechnen, müssen Sie zuerst den Abstand in <p>x</p>-Richtung und <p>y</p>-Richtung separat berechnen.
+---HINT---
+Mit den Satz von Pythagoras können danach den Abstand der beiden Kugeln bestimmen.
+---HINT---
+Es gilt für den AAbstand <p>r</p>
+
+<p>r=\sqrt{x^2+y^2</p>

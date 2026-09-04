@@ -1,0 +1,4 @@
+Ein Kettenstück der Länge <T>l=</T><p>value1\ \text{cm}</p> und der Masse <T>m=</T><p>value2\ \text{g}</p> ist über einen dünnen Faden über eine reibungsfreie Rolle mit beiden Enden aufgehängt (siehe Zeichnung). Nun wird ein Kettenende um <T> \Delta h=</T><p>value3\ \text{cm}</p> an einer Seite hochgehoben und anschließend losgelassen.
+
+Berechnen Sie die Schwingungsdauer <T>T</T> der Kette.
+

@@ -1,0 +1,5 @@
+Nutzen Sie die Formel für das Gravitationspotenzial: <p>V = G \cdot M \cdot \left(\frac{1}{r_0} - \frac{1}{r_1}\right)</p>
+---HINT---
+Mit dem Bezugspunkt im Unendlichen gilt <p>r_0 \to \infty</p> und damit <p>\frac{1}{r_0} = 0</p>. Die Formel vereinfacht sich zu: <p>V = -G\cdot M \cdot \frac{1}{r}</p>
+---HINT---
+Setzen Sie für <p>r</p> den <p>n</p>-fachen Erdradius ein: <p>r = 4 \cdot R_{Erde}</p> und berechnen Sie das Potenzial.

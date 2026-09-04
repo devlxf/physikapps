@@ -1,0 +1,5 @@
+Bestimmen Sie zunächst den Winkel zum ersten Minimum mit <p>\sin(\alpha) = \frac{\lambda}{d}</p>.
+---HINT---
+Berechnen Sie den Abstand des ersten Minimums von der optischen Achse: <p>y_1 = L \cdot \tan(\alpha)</p>.
+---HINT---
+Die Breite des Hauptmaximums entspricht dem doppelten Abstand zum ersten Minimum: <p>a = 2 \cdot y_1</p>.

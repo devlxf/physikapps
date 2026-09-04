@@ -1,0 +1,9 @@
+Berechnen Sie zuerst die Energie eines Photons aus seiner Wellenlänge. Dazu benötigen Sie den Zusammenhang zwischen Wellenlänge und Photonenenergie.
+---HINT---
+Für ein Photon gilt:
+<p>E = h \cdot f</p>
+und mit <p>f = \frac{c}{\lambda}</p> folgt:
+<p>E = \frac{h c}{\lambda}</p>
+---HINT---
+Setzen Sie <p>h</p> und <p>c</p> sowie die gegebene Wellenlänge (in Meter) ein und berechnen Sie die Energie in Joule. Falls verlangt, können Sie anschließend in Elektronenvolt umrechnen:
+<p>1\,\text{eV} = 1{,}6 \cdot 10^{-19}\,\text{J}</p>

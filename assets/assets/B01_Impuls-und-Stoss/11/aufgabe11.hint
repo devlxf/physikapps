@@ -1,0 +1,11 @@
+Berechnen Sie zuerst die Gesamtgeschwindigkeit <p>v_\text{ges}</p>, mit der sich die verkeilten Autos nach dem Stoß weiterbewegen.
+---HINT---
+Nutzen Sie zur Berechnung von <p>v_\text{ges}</p> die Formel für die Impulserhaltung.
+---HINT---
+Es handelt sich hierbei um einen vollkommen unelastischen Stoß.
+---HINT---
+Denken Sie daran, die Einheiten korrekt umzuwandeln.
+---HINT---
+Der wesentliche Trick zur Berechnung der Bremsbeschleunigung ist die Transformation in das bewegte Bezugssystem, das nach dem Stoß die Geschwindigkeit <p>v_\text{ges}</p> hat. In diesem System wird das Auto über die Strecke der beiden Knautschzonen auf <p>0\ \text{km/h}</p> abgebremst.
+---HINT---
+Berechnen Sie mit der Differenzgeschwindigkeit <p>v_1 - v_\text{ges}</p> und dem Bremsweg, bestehend aus den Knautschzonen beider Autos, die Beschleunigung <p>a</p>.

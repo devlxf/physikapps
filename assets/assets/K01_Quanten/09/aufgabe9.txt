@@ -1,0 +1,8 @@
+Bei einer Messung zum Photoeffekt mit dem Licht einer Hg-Lampe ergibt sich zwischen einer
+Cs-Anode und einem Platinring das folgende Messergebnis für die maximale Gegenspannung:
+
+Bei grünem Licht: <T>\lambda_1=</T><p>value1  \text{ nm}</p>, <T>U_{\text{max},1}=</T><p>value2  \text{ V}</p>
+
+Bei violettem Licht: <T>\lambda_2=</T><p>value3  \text{ nm}</p>, <T>U_{\text{max},2}=</T><p>value4  \text{ V}</p>
+
+Bestimmen Sie aus diesen Messwerten das Plancksche Wirkungsquantum <T>h</T>.

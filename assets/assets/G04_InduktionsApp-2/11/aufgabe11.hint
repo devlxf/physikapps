@@ -1,0 +1,19 @@
+Nutzen Sie die Formel für die Induktionsspannung durch Flächenänderung.
+---HINT---
+Zuerst müssen Sie eine Formel für die vom Magnetfeld durchsetzte Fläche finden. Diese ändert sich zeitlich.
+---HINT---
+Zu Beginn ist die Fläche maximal, nach einer viertel Umdrehung ist sie 0. Stellen sie somit die Fläche mit einem Kosinus dar.
+---HINT---
+Leiten Sie die Flächenformel nun ab und setzen das Ergebnis in die Formel für die Induktionsspannung ein.
+---HINT---
+Den Induktionsstrom berechnen Sie aus der Induktionsspannung mit dem Ohm’schen Gesetz.
+---HINT---
+Nun können Sie das Gesetz für die Leistung P aufstellen.
+---HINT---
+Die maximale Leistung wird bei maximaler Induktionsspannung erzeugt.
+---HINT---
+Überlegen sie deshalb, wie hoch die Induktionsspannung maximal sein kann.
+---HINT---
+Nutzen Sie den Zusammenhang zwischen Kreisfrequenz und Frequenz und ersetzen Sie die Kreisfrequenz in der Leistungsformel mit der Frequenz.
+---HINT---
+Lösen Sie nach f auf und setzen Sie abschließend die gegebenen Werte ein, um die Frequenz zu berechnen.

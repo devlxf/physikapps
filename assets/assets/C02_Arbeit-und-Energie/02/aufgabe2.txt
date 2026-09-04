@@ -1,0 +1,3 @@
+Ein Gewichtheber „reißt" <p>value1 \text{ kg}</p> zur Hochstrecke (<p>value2 \text{ m}</p>) und hält sie dort <p>value3 \text{ s}</p> lang.
+
+Berechnen Sie die verrichtete Arbeit.

@@ -1,0 +1,1 @@
+Uran hat eine Energiedichte von <T>\rho_{U}=</T><p>value1 \cdot 10^{12} \text{ J/kg}</p>. Berechnen Sie, wie vielen Güterwagons voll Steinkohle dies entspricht, wenn Steinkohle eine Energiedichte von <T>\rho_{K}=</T><p>value2 \cdot 10^{6} \text{ J/kg}</p> hat und ein Güterwagon eine Last von <T>m=</T><p>value3 \text{ t}</p> fassen kann.

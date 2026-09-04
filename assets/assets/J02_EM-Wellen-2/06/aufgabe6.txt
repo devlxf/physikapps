@@ -1,0 +1,3 @@
+Licht der Wellenlänge <T>\lambda=</T><p>value1 \text{ nm}</p> geht durch einen Einzelspalt der Breite <T>d=</T><p>value2 \text{ mm}</p>. Der Beobachtungsschirm steht in <T>L=</T><p>value3 \text{ m}</p> Entfernung.
+
+Welchen Abstand <T>y</T> hat das <T>n=</T> <p>value4.</p> Nebenminimum von der optischen Achse?

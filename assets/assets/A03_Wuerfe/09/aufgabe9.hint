@@ -1,0 +1,5 @@
+Berechnen Sie die Fallzeit aus der Sprunghöhe: <p>t = \sqrt{\frac{2 s_\text{Sprung}}{g}}</p>
+---HINT---
+Das Boot hat sich in dieser Zeit um <p>s_\text{Boot} = v_\text{Boot} \cdot t</p> weiterbewegt.
+---HINT---
+Das Motorrad muss die Anfangsentfernung plus die Bootsbewegung in der Fallzeit überbrücken: <p>v_M = \frac{s_0 + s_\text{Boot}}{t}</p>

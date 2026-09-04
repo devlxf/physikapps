@@ -1,0 +1,3 @@
+Jeder der 9 Widerstände hat einen Wert von <T>R=</T><p>value1\ \Omega</p>.
+
+Wie groß ist der Gesamtwiderstand der Schaltung zwischen den Punkten A und B?

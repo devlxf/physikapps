@@ -1,0 +1,3 @@
+An einem regnerischen Wochenende fiel in Heidenheim innerhalb kurzer Zeit so viel Regen, dass in allen Töpfen das Wasser <T>s=</T><p>value1 \text{ mm}</p> hoch stand. Die beregnete Fläche war ca. <T>A=</T><p>value2 \text{ km}^{2}</p> groß, die Wolken befanden sich in einer Höhe von ca. <T>h=</T><p>value3 \text{ km}</p>. Überlegen Sie, wieviel Energie bei diesem Platzregen insgesamt freigesetzt wurde und berechnen Sie die Zeit, in der ein Kraftwerk mit einer Leistung von <T>P=</T><p>value4 \text{ MW}</p> dieselbe Energie wandelt.
+
+Anm.: Ein Kubikmeter Wasser wiegt eine Tonne.

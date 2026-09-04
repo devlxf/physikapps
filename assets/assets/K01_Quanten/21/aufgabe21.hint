@@ -1,0 +1,12 @@
+Überlegen Sie, wie der Impuls beim Compton-Stoß vektoriell erhalten bleibt.
+---HINT---
+Der Impuls des Photons vor und nach dem Stoß ergibt sich aus der Wellenlänge:
+<p>p = \frac{h}{\lambda}</p>
+Zerlegen Sie die Photonenimpulse in x- und y-Komponenten entsprechend dem Streuwinkel.
+---HINT---
+Wenden Sie die Impulserhaltung komponentenweise an:
+<p>p_x^{\text{el}} = p_x^{\text{ph, vor}} - p_x^{\text{ph, nach}}</p>
+<p>p_y^{\text{el}} = - p_y^{\text{ph, nach}}</p>
+---HINT---
+Bestimmen Sie den Betrag des Elektronenimpulses aus seinen Komponenten:
+<p>p_{\text{nach}}^{\text{el}} = \sqrt{(p_x^{\text{el}})^2 + (p_y^{\text{el}})^2}</p>

@@ -1,0 +1,5 @@
+Ein Heizstrahler mit einem Widerstand von <T>R=</T><p>value1\ \Omega</p> und der Leistung <T>P=</T><p>value2 \text{ W}</p> ist über eine Kabeltrommel mit <T>l=</T><p>value3 \text{ m}</p> Kupferleitung (<T>A=</T><p>value4 \text{ mm}^2</p>, spezifischer Widerstand <T>\rho=</T><p>value5\ \Omega \cdot \text{mm}^2\text{/m}</p>) an die Netzspannung <T>U_0=</T><p>value6 \text{ V}</p> angeschlossen.
+
+Berechnen Sie die Leistung, die für die Kupferleitung aufgewendet werden muss.
+
+Anm.: Die Netzspannung ist eine Wechselspannung. Da dies einen Einfluss auf die Rechnung hätte, nehmen Sie zur Vereinfachung eine Gleichspannung mit <T>U_0=</T><p>value6 \text{ V}</p> an.

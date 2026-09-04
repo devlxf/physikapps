@@ -1,0 +1,4 @@
+Gegeben sind die Messwerte der Zeit-Ortsfunktion einer Schwingung (siehe Tabelle).
+
+Bestimmen Sie hieraus die Kreisfrequenz <T>\omega_0</T>.
+

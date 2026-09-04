@@ -1,0 +1,4 @@
+An einen Plattenkondensator wird die Spannung <T>U=</T><p>value1 \text{ kV}</p> gelegt. Eine Platte ist geerdet, der Plattenabstand beträgt <T>d=</T><p>value2 \text{ cm}</p>.
+Die Ladung <T>q=</T><p>value3 \text{ nC}</p> wird im homogenen Feld des Plattenkondensators eine <T>c=</T><p>value4 \text{ cm}</p> lange Strecke unter einem Winkel von <T>\alpha=</T><p>value5 ^\circ</p> gegen die Feldlinie gerichtet transportiert.
+
+Wie groß ist die durchlaufene Potenzialdifferenz <T>\Delta \varphi</T>?

@@ -1,0 +1,8 @@
+Die Problemstellung dieser Aufgabe ist im Wesentlichen identisch zur vorhergehenden Aufgabe, allerdings muss hier relativistisch gerechnet werden. 
+
+Das Raumschiff hat eine Deckenhöhe von <T>h=</T><p>value1 \text{ m}</p> und fliegt mit <T> v=</T><p>value2\cdot\text{c} </p> (aus Sicht des außenstehenden Beobachters) durch den intergalaktischen Weltraum. Ein Astronaut im Raumschiff leuchtet mit einer Taschenlampe senkrecht an die Decke des Raumschiffs. Die Photonen der Taschenlampe werden an der Decke durch einen Spiegel reflektiert und pendeln nun zwischen Boden und Decke des Raumschiffs hin- und her. 
+
+Berechnen Sie aus Sicht des außenstehenden Beobachters, wie viel Zeit <T>t_B</T> für einen Durchlauf des Lichtes von unten nach oben und zurück vergeht.
+
+Anm.: Diese Aufgabe ist übrigens nicht auf Licht beschränkt und könnte auch für einen Tennisball durchgeführt werden. Da Tennisbälle aber in der Regel langsam gegenüber der Lichtgeschwindigkeit sind, ist der Zeitunterschied zwischen außenstehendem Beobachter und Astronaut vernachlässigbar gering.
+

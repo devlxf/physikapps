@@ -1,0 +1,1 @@
+Eine Spule mit der Länge <T>l=</T><p>value1 \text{ m}</p> und der Windungsanzahl <T>n=</T><p>value3</p> Windungen wird von einem Strom von <p>value2 \text{ A}</p> durchflossen. Wie groß ist das Magnetfeld im Inneren der Spule?

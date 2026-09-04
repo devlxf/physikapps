@@ -1,0 +1,2 @@
+Bei einer Variante des Tintenstrahldruckverfahrens strömen aus einer Düse Tintentröpfchen der Masse <T>m=</T><p>value1 \text{ kg}</p> mit einer Geschwindigkeit <T>v_{0}=</T><p>value2 \text{ m}/\text{s}</p> aus. Eine Ringelektrode dient zur Fokussierung des Tröpfchenstrahls.
+Berechnen Sie die vertikale Ablenkung der Farbtröpfchen durch die Gravitation bei einer waagerechten Flugweite von <p>value3 \text{ cm}</p>.

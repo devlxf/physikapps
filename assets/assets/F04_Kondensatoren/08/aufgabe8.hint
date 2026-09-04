@@ -1,0 +1,7 @@
+Berechnen Sie die Gesamtkapazität <p>{C}_{ges}</p> der Schaltung über den Kehrwert.
+---HINT---
+Berechnen Sie dann die Gesamtladung <p>{Q}_{ges}</p> mit <p>{Q}_{ges} = {C}_{ges}\cdot U</p>.
+---HINT---
+Berechnen Sie die Ladung auf den einzelnen Kondensatoren mit <p>{Q}_{ges} = {Q}_{1} = {Q}_{2} = {Q}_{3}</p>
+---HINT---
+Berechnen Sie abschließend den Spannungsabfall <p>{U}_{2}</p> über <p>{C}_{2}</p>.

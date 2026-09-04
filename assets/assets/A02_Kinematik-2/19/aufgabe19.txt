@@ -1,0 +1,3 @@
+Bei einem Experiment fällt eine Stahlkugel aus <T>s_{y1}=</T><p>value1\text{ m}</p> Höhe. Nach einem Fallweg von <T>\Delta s=</T><p>value2\text{ m}</p> löst sie über eine Lichtschranke eine zweite Kugel aus, die sich in <T>s_{y2}=</T><p>value3\text{ m}</p> Höhe befindet (<T>s_{y2} = s_{y1} - \Delta s</T>). Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+In welchem zeitlichen Abstand schlagen die Kugeln am Boden auf?

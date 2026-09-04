@@ -1,0 +1,4 @@
+Bei der Untersuchung einer harmonischen Schwingung eines Körpers der Masse <T>m=</T><p>value1\ \text{kg}</p> wurde das nebenstehende <p>s(t)</p>-Diagramm aufgenommen.
+
+Bestimmen Sie die Geschwindigkeitsbetrag <T>|v|</T> im Nulldurchgang.
+

@@ -1,0 +1,5 @@
+Berechnen Sie die lineare Exzentrizität über die Formel <p>e = \varepsilon \cdot a</p>, mit der diese mit der numerischen Exzentrizität und der großen Halbachse verknüpft wird.
+---HINT---
+Verwenden Sie anschließend die Ellipsengleichung: <p>\frac{x^2}{a^2} + \frac{y^2}{a^2 - e^2} = 1</p>
+---HINT---
+Auf Höhe des Mittelpunkts der Ellipse gilt <p>x = 0</p> und <p>y = b</p>. Damit vereinfacht sich die Ellipsengleichung zu <p>b = \sqrt{a^2 - e^2}</p>.

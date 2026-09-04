@@ -1,0 +1,3 @@
+Mit dem folgenden Experiment soll das Grundprinzip der kabellosen Stromübertragung erörtert werden. Dazu wird eine lange stromdurchflossenen Zylinderspule mit <T>n_F=</T><p>value1 \text{ }</p> Windungen und einer Länge von <T>l_F=</T><p>value2 \text{ cm}</p> verwendet. Durch diese fließt sinusförmig mit einer Frequenz von <T>f=</T><p>value3 \text{ Hz}</p> ein Strom von <T>I_0=</T><p>value4 \text{ A}</p>. In dieser befindet sich eine kleine Induktionsspule mit <T>n_I=</T><p>value5 \text{ }</p>Windungen und der Fläche <T>A_I=</T><p>value6 \text{ cm}^{2}</p>. An den Enden der Induktionsspule ist ein Verbraucher mit dem Widerstand <T>R_1=</T><p>value7\ \Omega</p>.
+
+Berechnen Sie die Leistung <p>P</p>, die vom Verbraucher maximal abgegriffen wird.

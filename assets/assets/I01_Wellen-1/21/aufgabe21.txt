@@ -1,0 +1,6 @@
+Zwei im Abstand <T>\,\,g=</T><p>value1\ \text{m}\,\,</p> nebeneinanderstehende Lautsprecher senden phasengleich Frequenzen im Hörbereich aus, die von einem Mikrofon, das im Abstand <T>\,\,e_1=</T><p>value2\ \text{m}\,\,</p> genau senkrecht vor dem ersten Lautsprecher steht, aufgenommen werden. Ermitteln Sie allgemein die Frequenzen, die sich im Bereich von <T>\,\,f_{\text{min}}=</T><p>20\,\, \text{Hz}\,\,</p> bis <T>\,\,f_{\text{max}}=</T><p>20\,\, \text{kHz}\,\,</p> maximal abschwächen.
+
+Berechnen Sie die Ordnung <p>\,\,n\,\,</p> der größten dieser Frequenzen <p>\,\,f_n</p>.
+
+Anm.:
+Die Schallgeschwindigkeit in Luft ist <T>\,\,c=</T><p>340\, \text{m/s}</p>.

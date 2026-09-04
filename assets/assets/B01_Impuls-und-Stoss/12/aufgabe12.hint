@@ -1,0 +1,5 @@
+Berechnen Sie zuerst die Gesamtgeschwindigkeit <p>v_\text{ges}</p>, mit der sich die verkeilten Autos nach dem Stoß weiterbewegen. Nutzen Sie dazu die Formel für die Impulserhaltung. Es handelt sich hierbei um einen vollkommen unelastischen Stoß.
+---HINT---
+Führen Sie eine Transformation in das Bezugssystem mit der Geschwindigkeit <p>v_\text{ges}</p> durch. In diesem System wird das Auto über die Strecke der beiden Knautschzonen auf <p>0\ \text{km/h}</p> abgebremst. Berechnen Sie mit der Differenzgeschwindigkeit <p>v_1 - v_\text{ges}</p> und dem Bremsweg, bestehend aus den Knautschzonen beider Autos, die Beschleunigung <p>a</p>.
+---HINT---
+Berechnen Sie abschließend mit der Beschleunigung <p>a</p> die auf den Körper der Masse <p>m_k</p> wirkende Kraft.

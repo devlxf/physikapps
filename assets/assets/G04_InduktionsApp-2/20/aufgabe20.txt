@@ -1,0 +1,3 @@
+Eine Induktionsspule besitzt eine Induktivität von <T>L=</T><p>value1 \text{ µH}</p>. Durch sie fließt ein Wechselstrom der Stärke <T>I=</T><p>value2 \text{ A}</p> mit der Frequenz <T>f=</T><p>value3 \text{ kHz}</p>. Das Kochgefäß hat einen Widerstand von <T>R=</T><p>value4 \text{ }\Omega</p> und eine Induktivität von <T>L=</T><p>value5 \text{ µH}</p>.
+
+Berechnen Sie die Zeitdauer <T>t</T>, die Sie benötigen um 1 Liter Wasser von Raumtemperatur (<T>T=</T><p>value6 ^\circ\text{C}</p>) zum Kochen zu bringen.

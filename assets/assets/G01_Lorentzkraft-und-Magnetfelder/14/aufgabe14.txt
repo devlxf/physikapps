@@ -1,0 +1,4 @@
+Wie groß ist die magnetische Flussdichte in einer <T>l=</T><p>value1 \text{ cm}</p> langen, mit Eisen gefüllten Spule mit <T>n=</T><p>value3</p> Windungen beim Erregerstrom <T>I=</T><p>value2 \text{A}</p>?
+
+Anm.:
+Verwenden Sie eine relative Permittivität für Eisen von 1000.

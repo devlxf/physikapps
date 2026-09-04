@@ -1,0 +1,5 @@
+Nutzen Sie die Bedingung für den Grenzwinkel der Totalreflexion: <p>\sin(\alpha_{\text{max}}) = \frac{n_2}{n_1}</p>.
+---HINT---
+Setzen Sie für das Prisma <p>n_1 = 1,5</p> und für Luft <p>n_2 = 1</p> ein.
+---HINT---
+Berechnen Sie den Grenzwinkel mit <p>\alpha_{\text{max}} = \sin^{-1}\left(\frac{n_2}{n_1}\right)</p>. Für Totalreflexion muss der Einfallswinkel größer als dieser Grenzwinkel sein.

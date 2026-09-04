@@ -1,0 +1,3 @@
+Eine quadratische Spule mit der Windungszahl n=120 und der Kantenlänge <T>a=</T><p>value1 \text{ cm}</p> wird mit der konstanten Geschwindigkeit <T>v=</T><p>value2 \text{ cm}/\text{s}</p> vom Punkt P bis zum Punkt Q bewegt. Das Magnetfeld hat eine Stärke von <T>B=</T><p>value3 \text{ T}</p>, das senkrecht in die Blattebene gerichtet ist. Verdeutlichen Sie sich den Sachverhalt, indem Sie ein Diagramm zeichnen und dort den Fluss durch die Spule gegen die Zeit auftragen. Danach tragen Sie die Induktionsspannung gegen die Zeit auf.
+
+Wann ist die Induktionsspannung nicht 0? Berechnen Sie dort den Wert von <p>U</p>.

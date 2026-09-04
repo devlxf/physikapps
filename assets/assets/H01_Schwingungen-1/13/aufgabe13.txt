@@ -1,0 +1,4 @@
+Eine an einer Feder angehängte Kugel  hat eine Masse von <T>m=</T><p>value1\ \text{kg}</p>. Nachdem sie um <T>s_0=</T><p>value2\ \text{cm}</p> nach unten ausgelenkt wurde, schwingt sie mit einer Frequenz <T>f=</T><p>value3\ \text{Hz}</p>.
+
+Berechnen Sie die Federkonstante <p>D</p> der Feder.
+

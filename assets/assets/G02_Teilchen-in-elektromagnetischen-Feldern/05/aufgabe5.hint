@@ -1,0 +1,9 @@
+Zuerst muss die Geschwindigkeit der Teilchen berechnet werden, die sie nach Durchlaufen des Wien-Filters erreichen. Im Gleichgewicht gilt
+---HINT---
+Nutze den Ansatz
+<p>F_L = F_{el}</p>
+---HINT---
+Im zweiten Teil stellt sich folgendes Gleichgewicht ein
+<p>F_L = F_Z</p>
+---HINT---
+Stellen Sie nach <p>m</p> um und berechnen Sie damit die Masse der Teilchen.

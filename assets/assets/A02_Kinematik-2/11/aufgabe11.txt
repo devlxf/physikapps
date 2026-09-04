@@ -1,0 +1,3 @@
+Ein Zug verspätet sich, weil er eine <T>s_\text{Bau}=</T><p>value1\text{ m}</p> lange Baustelle nur mit <T>v_\text{Bau}=</T><p>value2\text{ km/h}</p> durchfahren darf. Normalerweise fährt er mit <T>v_0=</T><p>value3\text{ km/h}</p>. Er bremst gleichmäßig mit <T>a_\text{Brems}=</T><p>value4\text{ m/s}^2</p> ab und beschleunigt danach mit <T>a_\text{Beschl}=</T><p>value5\text{ m/s}^2</p> wieder auf seine ursprüngliche Geschwindigkeit.
+
+Berechnen Sie, um wie viel sich der Zug verspätet.

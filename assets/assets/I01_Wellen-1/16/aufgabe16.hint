@@ -1,0 +1,13 @@
+Mit der Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> kann die Frequenz über <p>\,\,f=c/\lambda\,\,</p> ermittelt werden.
+---HINT---
+Die Harmonische der Ordnung <p>\,\,n\,\,</p> hat die Frequenz über <p>\,\,f_n=c/\lambda_n</p>.
+---HINT---
+Die Wellenlänge <p>\,\,\lambda_n\,\,</p> der <p>\,\,n.</p> Harmonischen ergibt sich mit der Gesamtlänge <p>\,\,l\,\,</p> des eingespannten Bandes zu
+
+<p>l=\frac{n}{2}\cdot\lambda_n</p>
+---HINT---
+Einsetzen ergibt
+
+<p>f_n=c\cdot\frac{n}{2\cdot l}</p>
+
+Einsetzen der gegebenen Werte liefert das gewünschte Ergebnis.

@@ -1,0 +1,7 @@
+Nutzen Sie für den Dopplereffekt die Formel
+
+       <p>f_E=f_S\cdot\frac{1+\frac{v_E}{c}}{1+\frac{v_S}{c}}</p> 
+
+Beachten Sie das Vorzeichen der Geschwindigkeit, da sich beide Fahrzeuge in entgegengesetze Richtung bewegen.
+
+Rechnen Sie mit einer Schallgeschwindigkeit von  <p>c=340\ \text{m/s}</p>

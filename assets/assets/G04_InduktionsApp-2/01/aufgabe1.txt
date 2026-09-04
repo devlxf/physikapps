@@ -1,0 +1,1 @@
+Vor dem Öffnen des Schalters führt die Spule mit der Induktivität <T>L=</T><p>value1 \text{ mH}</p> einen Strom der Stärke <T>I=</T><p>value2 \text{ A}</p>. Berechnen Sie die Energie des Magnetfeldes der Spule bei geschlossenem Schalter.

@@ -1,0 +1,2 @@
+Ein Raumschiff ist <T>l_0=</T><p>value1 \text{ m}</p> lang. Mittig im Raumschiff ist ein Blitzlicht angebracht. Wird nun nach vorne und hinten gleichzeitig ein Lichtstrahl ausgesendet, so erreichen für den mitbewegten Beobachter beide Lichtstrahlen gleichzeitig die Spiegel. Wie groß ist für einen Beobachter, an dem das Raumschiff mit <T>v=</T><p>value2\cdot\text{c}</p> vorbeifliegt, die Zeitdifferenz<T>\,\,\Delta t</T>, mit der die Lichtstrahlen auf die Spiegel eintreffen? 
+

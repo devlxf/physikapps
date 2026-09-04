@@ -1,0 +1,1 @@
+Ein Elektron tritt aus einer Glühkathode aus und durchläuft eine Beschleunigungsspannung von <T>U=</T><p>value1 \text{ V}</p>. Welche Kraft erfährt es, wenn es anschließend ein Magnetfeld der Stärke <T>B=</T><p>value2 \text{ T}</p> durchläuft?

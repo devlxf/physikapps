@@ -1,0 +1,6 @@
+Mithilfe der dargestellten Versuchsanordnung soll der Photoeffekt näher untersucht werden. Dabei fällt monochromatisches Licht der Wellenlänge <T>\lambda=</T><p>value1 \text{ nm}</p> auf die Kathode der Photozelle.
+
+Wird eine Gegenspannung angelegt, so wird der zu messende Photostrom mit zunehmender Spannung kleiner.
+Bei einer Spannung von <T>U_\text{g}=</T><p>value2 \text{ V}</p> ist schließlich kein Photostrom mehr zu messen.
+
+Bestimmen Sie hiermit die maximale Energie <T>E_\text{max}</T> der Elektronen in Joule.

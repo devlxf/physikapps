@@ -1,0 +1,3 @@
+Ein elektrischer Wasserkocher mit einer Nennleistung von <T>P=</T><p>value1 \text{ kW}</p> wird an eine Spannung <T>U=</T><p>value2 \text{ V}</p> angeschlossen.
+
+Berechnen Sie die Stromstärke <T>I</T>. Geben Sie den Widerstand <T>R</T> der Heizwicklung an.

@@ -1,0 +1,3 @@
+Drei Kondensatoren mit <p>C_1=value1 \text{ μF}</p>, <p>C_2=value2 \text{ μF}</p> und <p>C_3=value3 \text{ μF}</p> liegen in Reihe an der Spannung <T>U_0=</T><p>value4 \text{ V}</p>.
+
+Welche Ladung <T>Q</T> trägt jeder Kondensator?

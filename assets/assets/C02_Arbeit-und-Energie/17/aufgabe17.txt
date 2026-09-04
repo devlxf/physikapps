@@ -1,0 +1,1 @@
+Wie viel Arbeit wurde an der Kiste der Masse <p>value1 \text{ kg}</p> nach <p>value2 \text{ m}</p> Zugweg verrichtet, wenn sie mit einer Kraft von <p>value3 \text{ N}</p> in einem Winkel von <T>\alpha=</T><p>value4\ ^\circ</p> gezogen wird?

@@ -1,0 +1,9 @@
+Nutzen Sie die Formel für die Wellenfunktion <p>\,\,y(t, x)=\hat{y}\cdot\text{sin}(\omega_0\cdot t-k\cdot x)</p>.
+---HINT---
+Leiten Sie die Funktion zur Berechnung der Beschleunigung zweimal ab.
+---HINT---
+Die zweite Ableitung der Ortsfunktion ist <p>\,\,\ddot{y}(t, x)=-\hat{y}\omega_0^2\cdot\text{sin}(\omega_0\cdot t-k\cdot x)</p>.
+---HINT---
+Der Maximalwert der Beschleunigung ist gerade die Amplitude <p>\,\,\ddot{y}_{\text{max}}=\hat{y}\omega_0^2</p>. Setzen Sie die gegebenen Werte ein und berechnen Sie <p>\,\,\ddot{y}_{\text{max}}=a</p>.
+
+

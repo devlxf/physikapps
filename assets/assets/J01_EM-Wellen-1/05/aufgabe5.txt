@@ -1,0 +1,3 @@
+Ein Mittelwellenempfänger soll Radiosignale im Frequenzbereich von <T>f_1=</T><p>526,5 \text{ kHz}</p> bis <T>f_2=</T><p>1606,5 \text{ kHz}</p> empfangen. Statt eines Empfangsdipols verwendet man im Mittelwellenbereich sogenannte Ferritantennen. Diese sind im Wesentlichen Spulen mit Ferritkern, die mit einem Kondensator einen Schwingkreis bilden. Der Schwingkreis wird in Resonanz mit der zu empfangenden elektromagnetischen Welle abgestimmt. Die im Empfänger benutzte Ferritantenne hat eine Induktivität von <T>L=</T><p>value3 \text{ mH}</p>. Die Kapazität ist ein Drehkondensator und damit variabel.
+
+Wie hoch muss die Kapazität <T>C</T> sein, wenn die zu empfangende Frequenz <T>f=</T><p>value4 \text{ kHz}</p> betragen soll?

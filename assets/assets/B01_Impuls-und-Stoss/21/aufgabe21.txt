@@ -1,0 +1,1 @@
+Zwei Spielzeugwagen (<T>m_1=</T><p>value1 \text{ g}</p> und <T>m_2=</T><p>value2 \text{ g}</p>) fahren mit den Geschwindigkeiten <T>v_1=</T><p>value3 \text{ m/s}</p> und <T>v_2=</T><p>-value4 \text{ m/s}</p> aufeinander zu. Welche Geschwindigkeit hat Wagen 2 nach dem Stoß, wenn der Stoß vollkommen elastisch ist?

@@ -1,0 +1,3 @@
+In einem elektrischen Stromkreis ist ein ohmscher Widerstand und eine Spule mit der Induktivität <T>L=</T><p>value2 \text{ H}</p> parallelgeschaltet. Nach Schließen des Schalters springt die Stromstärke durch den Widerstand <T>I_\text{R}</T> sofort auf den maximalen Wert (<T>I_\text{max}=</T><p>value3 \text{ mA}</p>). Die Stromstärke durch die Spule <T>I_\text{L}</T> steigt verzögert an. Beim Einschalten ergeben sich die Messwerte gemäß der Tabelle.
+
+Bestimmen Sie den Betrag der Induktionsspannung <T>U</T> zum Zeitpunkt <T>t=</T><p>value4 \text{ s}</p>, die über der Spule abfällt.

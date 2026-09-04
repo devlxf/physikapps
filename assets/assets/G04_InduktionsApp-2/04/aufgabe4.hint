@@ -1,0 +1,8 @@
+In Parallelschaltungen fällt über alle parallelen Abschnitte die gleiche Spannung ab.
+---HINT---
+Mit dem Ohm’schen Gesetz kann der Strom der Spule berechnet werden.
+---HINT---
+Mit dem Strom, der durch die Spule fließt und, sowie ihrer Induktivität, kann die Feldenergie berechnet werden.
+---HINT---
+Jede Spule besitzt einen Innenwiderstand, da sie aus Drahtwicklungen besteht. In der Regel ist deren Widerstand nicht vernachlässigbar. Um die reale Spule berechenbar zu machen, wird sie logisch in zwei Bauteile aufgetrennt: Eine ideale Spule ohne Innenwiderstand, sowie einen idealen Widerstand.
+

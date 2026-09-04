@@ -1,0 +1,7 @@
+Berechnen Sie für jede angegebene Wellenlänge die zugehörige Frequenz. 
+---HINT---
+Für den Photoeffekt gilt:
+<p>W_{\text{kin}} = h \cdot f - W_A</p>
+Ist <p>W_{\text{kin}}=0</p>, dann entspricht die Energie <p>h \cdot f</p> der Photonen genau der Austrittsarbeit <p>W_A</p>
+---HINT---
+Die Austrittsarbeit kann grafisch ermittelt werden, als Schnittpunkt der Geraden mit der <p>y</p>-Achse (ungenau), oder rechnerisch mit einer Regressionsanalyse (genauer im Rahmen der Messunsicherheit).

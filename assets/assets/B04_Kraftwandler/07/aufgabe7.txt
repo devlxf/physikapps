@@ -1,0 +1,3 @@
+Wie groß ist <T>F_1</T>, wenn <T>F_G=</T><p>value1 \text{ N}</p> entspricht?
+
+Nehmen Sie dabei zur Vereinfachung an, dass die Konstruktion vollständig reibungsfrei ist und das Seil sowie die Rollen keine Masse besitzen.

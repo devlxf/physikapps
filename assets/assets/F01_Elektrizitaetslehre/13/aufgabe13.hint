@@ -1,0 +1,3 @@
+Betrachten Sie die Schaltung als reine Reihenschaltung aus <p>R_1</p> und einem Widerstand <p>R_{23}</p>, den Sie als „Black Box" betrachten.
+---HINT---
+Betrachten Sie den Widerstand <p>R_{23}</p> separat als reine Parallelschaltung aus <p>R_2</p> und <p>R_3</p> und berechnen den Widerstand <p>R_{23}</p> durch Addition der Kehrwerte der Widerstände.

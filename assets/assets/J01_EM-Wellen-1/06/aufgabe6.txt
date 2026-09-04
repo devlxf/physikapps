@@ -1,0 +1,3 @@
+Ein UKW-Sender wird mit einem Schwingkreis betrieben, dessen Drehkondensator im Bereich <T>C_1=</T><p>value1 \text{ pF}</p> bis <T>C_2=</T><p>valueR \text{ pF}</p> eingestellt werden kann und dessen Induktivität <T>L=</T><p>value3 \text{ µH}</p> beträgt. Die Abstrahlung der elektromagnetischen Wellen erfolgt über eine Stabantenne, die senkrecht zur Erdoberfläche steht.
+
+Berechnen Sie die kleinste Frequenz <T>f</T>, die die Antenne sendet.

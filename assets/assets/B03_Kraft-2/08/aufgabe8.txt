@@ -1,0 +1,3 @@
+Ein Schwenkgrill wurde etwas schief aufgebaut. Der Grill habe mit aufgelegtem Fleisch eine Gesamtgewichtskraft von <T>F_G=</T><p>value1 \text{ N}</p>. Der Winkel <T>\alpha=</T><p>value2 \text{ °}</p> und der Winkel <T>\beta=</T><p>value3 \text{ °}</p>.
+
+Berechnen Sie die Kräfte in den Verstrebungen und geben Sie die Kraft in der linken Verstrebung an.

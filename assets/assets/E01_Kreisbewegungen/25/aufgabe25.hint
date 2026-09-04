@@ -1,0 +1,5 @@
+Skizzieren Sie den Pkw auf der geneigten Fahrbahn mit allen an ihm angreifenden Kräften für den Fall, dass er ohne seitliche Lenkkräfte durch die Steilkurve fahren soll.
+---HINT---
+Der Neigungswinkel der Ebene findet sich auch im Kräfteparallelogramm wieder. Die Seiten des Kräfteparallelogramms stehen senkrecht auf dem Dreieck der schiefen Ebene – es handelt sich um ein ähnliches, lediglich um 90° gedrehtes Dreieck.
+---HINT---
+Mit dem Tangens lässt sich der Winkel <p>\alpha</p> aus dem Verhältnis der Katheten bestimmen: <p>\alpha = \tan^{-1}\!\left(\frac{F_z}{F_G}\right)</p>.

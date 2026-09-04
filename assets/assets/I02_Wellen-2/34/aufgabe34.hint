@@ -1,0 +1,44 @@
+Die Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> auf der Saite berechnet sich zu
+
+<p>c=\sqrt{\frac{\sigma}{\mu}}</p>
+
+Anm.: Hier wird das Formelzeichen <p>\,\,\sigma\,\,</p> für die Spannkraft benutzt. Es handelt sich um eine Kraft <p>\,\,F</p>. 
+
+---HINT---
+Die Frequenz berechnet sich über
+
+<p>f=\frac{c}{\lambda}</p>
+
+Die Wellenlänge <p>\,\,\lambda\,\,</p> ist dabei doppelt so lang wie die Mensur  <p>\,\,l</p>.   
+---HINT---
+Einsetzen und Umformen ergibt für die Spannkraft
+
+<p>\sigma=4\cdot l^2\cdot f^2\cdot\mu</p>
+---HINT---
+Die Massenbelegung <p>\,\,\mu\,\,</p> ergibt sich als Quotient aus Masse <p>\,\,m\,\,</p> der Saite und ihrer Länge <p>\,\,l</p>.
+
+<p>\mu=\frac{m}{l}</p>
+
+Für die Stahlseite gilt
+
+<p>\mu_S=\frac{m_S}{l_1}</p>
+
+Für die mit Kupfer ummantelte Saite gilt
+
+<p>\mu_K=\frac{m_S+m_K}{l_0}</p>
+---HINT---
+Laut Aufgabenstellung sollen die Zugspannungen gleich sein. Deshalb ist
+
+<p>\sigma_S=\sigma_K</p>
+
+gleichzusetzen und für <p>\,\,\sigma_S\,\,</p> bzw. <p>\,\,\sigma_K\,\,</p> die jeweilige Formel einzusetzen.
+---HINT---
+Es ergibt sich
+
+<p>4\cdot l^2\cdot f_1^2\cdot\frac{m_S}{l_1}=4\cdot l^2\cdot f_0^2\cdot\frac{m_S+m_K}{l_0}</p>
+---HINT---
+Für <p>\,\,7\,\,</p> Oktaven ergibt sich die Frequenz
+
+<p>f_1=2^7\cdot f_0</p>
+
+Formen Sie abschließend zum Massenverhältnis <p>\,\,\frac{m_K}{m_S}\,\,</p> um und setzen Sie ein.

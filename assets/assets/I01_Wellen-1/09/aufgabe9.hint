@@ -1,0 +1,31 @@
+Nutzen Sie die Formel für die Wellenfunktion 
+
+<p>s(x, t_1) = \hat{y} \cdot \sin\left(2\cdot\pi\cdot f\cdot t_1 - \frac{2\cdot\pi\cdot x}{\lambda}\right)</p>
+---HINT---
+
+Betrachtet wird ein Oszillator bei <p>\, x=0</p>. Das bedeutet, dass sich das Argument des Sinus vereinfacht zu 
+
+<p>s(x, t_1)=\hat{y}\cdot\text{sin}(2\cdot\pi\cdot f\cdot t_1</p>.
+---HINT---
+
+Setzen Sie die gegebene Amplitude <p>\, \hat{y}</p> und die gegebene Frequenz <p>\, f\, </p> ein. 
+---HINT---
+Lösen Sie anschließend nach <p>\, t_1\, </p> auf. Verwenden Sie dazu die Umkehrfunktion des Sinus: <p>\, \text{sin}^{-1}(...)</p>. Diese ist identisch zum Arkussinus <p>\, \text{arcsin}(...)</p>.
+---HINT---
+Sie haben nun ermittelt, nach welcher Zeit <p>\, t_1\, </p> die gegebene Elongation <p>\, y(t_1)\, </p> erstmals erreicht wird. Jetzt kommt der entscheidende Schritt: Machen sie sich mithilfe des Einheitskreises klar, dass 
+
+<p>\text{sin}(\alpha)=\text{sin}(180^{\circ}-\alpha)</p>
+
+ist. Der Wert des Sinus ist also für <p>\,\, \alpha\,\, </p> und <p>\,\, 180^{\circ}-\alpha\,\, </p> identisch.
+---HINT---
+Der Sinus ist mit 
+
+<p>\omega_0=2\cdot\pi\cdot f</p> 
+
+gestreckt. Verwenden Sie daher die Formel 
+
+<p>t_2=\frac{\pi}{2\cdot\pi\cdot f}-t_1</p>
+
+zur Berechnung der Zeit <p>\, t_2\, </p>, zu der die Auslenkung <p>\, y(t_1)\, </p> zum zweiten Mal erreicht wird.
+---HINT---
+Bilden Sie die Differenz <p>\, \Delta t=t_2-t_1\, </p> und tragen Sie das Ergebnis ein.

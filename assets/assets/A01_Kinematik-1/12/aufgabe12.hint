@@ -1,0 +1,9 @@
+Die Schallgeschwindigkeit beträgt 330 m/s, d.h. die Gesamtlaufstrecke jedes Signals ist bekannt: <p>s_T = v_S \cdot t</p>
+---HINT---
+Vom Aussenden des Tons läuft der Schall die Strecke <p>s_{1,\text{hin}}</p> zum Boden, wird dort reflektiert und läuft dann die Strecke <p>s_{1,\text{hin}} - v_\text{Fall} \cdot t_1</p> zurück. Die Rücklaufstrecke ist geringer, da der Fallschirm in der Zwischenzeit weiter abgesunken ist.
+---HINT---
+Die gleiche Überlegung lässt sich für Ton 2 durchführen.
+---HINT---
+Da Ton 2 nach der Zeitdauer <p>\Delta t</p> nach Ton 1 ausgesendet wurde, gilt: <p>s_{2,\text{hin}} = s_{1,\text{hin}} - v_\text{Fall} \cdot \Delta t</p>. Damit lässt sich eine Unbekannte eliminieren.
+---HINT---
+Eliminieren Sie <p>s_{1,\text{hin}}</p> durch Gleichsetzen der beiden Gleichungen und lösen Sie nach <p>v_\text{Fall}</p> auf.

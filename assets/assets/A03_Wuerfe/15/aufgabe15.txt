@@ -1,0 +1,3 @@
+Ein Junge wirft einen Schneeball mit <T>v_0=</T><p>value1\text{ m/s}</p> nach oben. Der Schneeball entgleitet ihm beim Auffangen und fällt weitere <T>h=</T><p>value2\text{ m}</p> tiefer, bevor er einen Mann trifft. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Mit welcher Geschwindigkeit wird der Mann getroffen?

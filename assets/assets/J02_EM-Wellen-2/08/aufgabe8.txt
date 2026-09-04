@@ -1,0 +1,3 @@
+Das Licht eines Lasers der Wellenlänge <T>\lambda=</T> <p>value1 \text{ nm}</p> wird an einem Einzelspalt gebeugt. Der Einzelspalt befindet sich in einem Abstand <T>L=</T> <p>value2 \text{ m}</p> von einem Schirm. Der Abstand <T>\Delta y</T> zwischen zwei Maxima beträgt <T>\Delta y=</T> <p>value3 \text{ cm}</p>. 
+
+Berechnen Sie mit diesen Werten die Spaltbreite <T>d</T> des Einzelspaltes.

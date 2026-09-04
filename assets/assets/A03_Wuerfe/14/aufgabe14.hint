@@ -1,0 +1,5 @@
+Berechnen Sie die Fallzeit des 1. Steins (freier Fall): <p>t_1 = \sqrt{\frac{2 s_0}{g}}</p>
+---HINT---
+Berechnen Sie die Fallzeit des 2. Steins mit dem Zeit-Weg-Gesetz mit Anfangsgeschwindigkeit. Lösen Sie mit der Mitternachtsformel.
+---HINT---
+Die Zeitdifferenz zwischen den Abwürfen ist: <p>\Delta t = t_1 - t_2</p>

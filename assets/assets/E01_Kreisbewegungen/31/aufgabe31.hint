@@ -1,0 +1,5 @@
+Bilden Sie das Kräftegleichgewicht zwischen Reibungskraft und Zentripetalkraft: <p>F_z = F_R</p>.
+---HINT---
+Setzen Sie die Formeln für Reibungskraft <p>F_R = \mu \cdot F_G</p> und Zentripetalkraft ein.
+---HINT---
+Lösen Sie nach <p>\mu</p> auf und berechnen Sie nach Einsetzen der gegebenen Werte den Reibbeiwert: <p>\mu = \frac{v^2}{r \cdot g}</p>.

@@ -1,0 +1,10 @@
+Überlegen Sie, wie die de-Broglie-Wellenlänge eines Elektrons mit seiner kinetischen Energie zusammenhängt.
+---HINT---
+Die de-Broglie-Wellenlänge ist gegeben durch:
+<p>\lambda_{\text{DB}} = \frac{h}{p}</p>
+Der Impuls des Elektrons kann aus seiner kinetischen Energie bestimmt werden:
+<p>p = \sqrt{2 m W_{\text{kin}}}</p>
+---HINT---
+Die kinetische Energie eines Elektrons, das durch eine Spannung beschleunigt wird, ergibt sich aus:
+<p>W_{\text{kin}} = q \cdot U</p>
+Setzen Sie diesen Ausdruck in die Impulsformel ein und berechnen Sie anschließend die de-Broglie-Wellenlänge.

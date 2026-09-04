@@ -1,0 +1,4 @@
+Ein Auto fährt mit <T>v_E=</T><p>value1\ \text{km/h}</p> auf einen Krankenwagen zu, der sich mit <T>v_S=</T><p>value2\ \text{km/h}</p> in die entgegengesetzte Richtung bewegt. Der Sirenenton des Krankenwagens ist <T>f_S=</T><p>value3\ \text{Hz}</p>.
+
+Mit welcher Frequenz <p>f_E</p> nimmt der Autofahrer die Sirene wahr?
+

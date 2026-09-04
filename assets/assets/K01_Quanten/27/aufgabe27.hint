@@ -1,0 +1,8 @@
+Überlegen Sie, welche Energie ein Photon besitzen muss, um einen Elektronenübergang zwischen zwei Energieniveaus zu ermöglichen.
+---HINT---
+Die benötigte Photonenenergie ergibt sich aus der Energiedifferenz der beiden Niveaus:
+<p>E = E_3 - E_1</p>
+---HINT---
+Zwischen Energie und Frequenz eines Photons gilt:
+<p>E = h \cdot f</p>
+Setzen Sie die Energiedifferenz ein, wandeln Sie diese gegebenenfalls in Joule um und berechnen Sie die Frequenz <p>f</p>.

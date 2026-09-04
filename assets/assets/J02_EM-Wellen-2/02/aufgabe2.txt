@@ -1,0 +1,3 @@
+Eine Lichtquelle enthält leuchtendes Gas, das Licht unterschiedlicher, aber genau definierter Wellenlängen aussendet. Das Linienspektrum soll mit Hilfe eines Gitters und dieser Lichtquelle abgebildet werden. Das verwendete Gitter hat einen Spaltabstand von <T>g=</T> <p>value1 \text{ mm}</p>. Der Schirm ist <T>L=</T> <p>value2 \text{ m}</p> vom Gitter entfernt. 
+
+Bestimmen Sie die Wellenlänge <T>\lambda</T> der Linie, die sich im Abstand <T>y_1=</T><p>value3 \text{ cm}</p> von der Achse befindet.

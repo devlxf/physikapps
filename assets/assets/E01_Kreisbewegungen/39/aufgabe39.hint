@@ -1,0 +1,5 @@
+Berechnen Sie die Zeit, die der Ball benötigt, um die Strecke <p>s</p> zurückzulegen: <p>t = \frac{s}{v_B}</p>.
+---HINT---
+Berechnen Sie, um wie viel Grad sich das Karussell in dieser Zeit weitergedreht hat (Dreisatz mit der Umlaufdauer).
+---HINT---
+Dieser Winkel entspricht dem Vorhaltewinkel <p>\alpha</p>, mit dem weiter nach innen gezielt werden muss.

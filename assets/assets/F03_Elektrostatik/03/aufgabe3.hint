@@ -1,0 +1,9 @@
+Die von der Spannungsquelle gelieferte Spannung teilt sich auf Widerstand und Verbraucher auf.
+---HINT---
+Durch die Kenntnis der Quellspannung <p>U_0</p> und der Maximalspannung <p>U_L</p> der Glühbirne ist direkt ersichtlich, wie hoch der Spannungsabfall über dem Vorwiderstand sein muss.
+---HINT---
+Dadurch, dass auch die maximale Leistung der Glühbirne gegeben ist, kann berechnet werden, wie hoch der maximale Strom ist, der durch die Lampe fließen darf.
+---HINT---
+Da der Vorwiderstand zur Lampe in Reihe geschaltet wird, fließt durch ihn der gleiche Strom, wie durch die Lampe.
+---HINT---
+Mit dem Ohm’schen Gesetz kann abschließen der Wert des Vorwiderstandes berechnet werden.

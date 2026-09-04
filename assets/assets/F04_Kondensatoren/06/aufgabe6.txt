@@ -1,0 +1,5 @@
+Ein Streifen eines Wickelkondensators hat auf jeder Seite den Abstand <T>d=</T><p>value1 \text{ mm}</p> zum anderen.
+
+Das Dielektrikum hat die relative Permittivität <T>\varepsilon_r=</T><p>value2</p>. Die Streifenbreite beträgt <T>b=</T><p>value3 \text{ cm}</p>.
+
+Wie lang müssten die Streifen sein, damit die Kapazität <T>C=</T><p>value4 \text{ μF}</p> wird?

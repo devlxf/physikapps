@@ -1,0 +1,7 @@
+Die Gravitationsfeldstärke ist genau dort null, wo sich beide Felder genau aufheben. Stellen Sie eine Gleichung auf: <p>G \cdot \frac{M_{Planet}}{r_{Planet}^2} - G \cdot \frac{M_{Mond}}{r_{Mond}^2} = 0</p>
+---HINT---
+Setzen Sie das Massenverhältnis <p>M_{Planet} = 81 \cdot M_{Mond}</p> ein, um anschließend die Masse herauszukürzen.
+---HINT---
+Eliminieren Sie eine Variable mit der Beziehung <p>r_{Mond} = r_{Planet\text{-}Mond} - r_{Planet}</p> und lösen Sie nach <p>r_{Planet}</p> auf.
+---HINT---
+Durch Wurzelziehen erhält man zwei Lösungen. Die richtige liegt zwischen den beiden Himmelskörpern. Geben Sie das Ergebnis in der Form <p>x \cdot r_{Planet\text{-}Mond}</p> an.

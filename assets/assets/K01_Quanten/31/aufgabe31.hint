@@ -1,0 +1,10 @@
+Überlegen Sie, welche maximale kinetische Energie die Elektronen nach Beschleunigung und Abbremsung besitzen.
+---HINT---
+Die maximale kinetische Energie ergibt sich aus der effektiven Beschleunigungsspannung:
+<p>W_{\text{kin}} = q \cdot (U_b - U_g)</p>
+---HINT---
+Der Impuls der Elektronen ergibt sich aus der kinetischen Energie:
+<p>p = \sqrt{2 m W_{\text{kin}}}</p>
+Die de-Broglie-Wellenlänge ist dann:
+<p>\lambda = \frac{h}{p}</p>
+Setzen Sie alle Größen ein und berechnen Sie die kleinste de-Broglie-Wellenlänge <p>\lambda_{\text{min}}</p>.

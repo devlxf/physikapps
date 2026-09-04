@@ -1,0 +1,9 @@
+Betrachten Sie drei Teilabschnitte getrennt: Bremsabschnitt, Baustellenabschnitt und Beschleunigungsabschnitt.
+---HINT---
+Berechnen Sie für den Bremsabschnitt: Bremszeit mit <p>t_a = \frac{v_0 - v_\text{Bau}}{a_\text{Brems}}</p>, Bremsweg, und die dadurch entstehende Zeitverzögerung (Differenz zur Normalfahrt).
+---HINT---
+Berechnen Sie für den Baustellenabschnitt die Zeitverzögerung als Differenz zwischen der Zeit mit reduzierter und normaler Geschwindigkeit.
+---HINT---
+Berechnen Sie für den Beschleunigungsabschnitt analog zum Bremsabschnitt die Zeitverzögerung.
+---HINT---
+Addieren Sie die drei Zeitverzögerungen zur Gesamtverspätung.

@@ -1,0 +1,3 @@
+Ein Sattelschlepper hat ein Gewicht von <T>m=</T><p>value1 \text{ t}</p>. Seine Länge beträgt <p>value2 \text{ m}</p>, seine Höhe beträgt <p>value3 \text{ m}</p> und seine Breite beträgt <p>value4 \text{ m}</p>. Es wird erwartet, dass auftreffender Wind eine Maximalkraft von <p>value5 \text{ daN}</p> hat.
+
+Berechnen Sie den Standsicherheitsfaktor des LKW.

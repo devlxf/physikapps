@@ -1,0 +1,3 @@
+Eine Brücke hat die Höhe <T>h=</T><p>value1\text{ m}</p>. Jemand wirft einen Stein mit einer Anfangsgeschwindigkeit von <T>v_0=</T><p>value2\text{ m/s}</p> nach unten. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Berechnen Sie, wann der Stein auf dem Wasser auftrifft.

@@ -1,0 +1,3 @@
+Ein Kondensator der Kapazität <T>C=</T><p>value1 \text{ μF}</p> wird über einen Widerstand <T>R=</T><p>value2\ \Omega</p> entladen.
+
+Zu Beginn des Entladevorgangs fließt ein Strom von <T>I_0=</T><p>value3 \text{ mA}</p>. Berechnen Sie die Ladungsmenge <T>Q</T> im Kondensator nach <T>t=</T><p>value4 \text{ ms}</p>.

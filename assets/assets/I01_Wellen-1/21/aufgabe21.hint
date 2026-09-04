@@ -1,0 +1,29 @@
+Optimale Auslöschung tritt bei einem Gangunterschied 
+
+<p>\delta=\frac{2\cdot n-1}{2}\cdot\lambda_n</p> 
+
+auf. 
+---HINT---
+Der Gangunterschied <p>\delta=</p> ergibt sich aus den Unterschieden der Streckenlängen <p>e_1</p> und <p>e_2</p>, d.h.
+
+<p>\delta=e_2-e_1</p>
+ ---HINT---
+<p>e_2</p> kann über den Satz von Pythagoras aus <p>e_1</p> und dem Lautsprecherabstand <p>d</p> berechnet werden.
+
+ ---HINT---
+Insgesamt ergibt sich
+
+<p>e_2-e_1=\frac{2\cdot n-1}{2}\cdot\lambda_n</p>
+ ---HINT---
+Setze <p>\,\,f_n=c/\lambda_n</p>. Dann folgt
+
+<p>e_2-e_1=\frac{2\cdot n-1}{2}\cdot\frac{c}{f_n}</p>
+
+Durch Umformen lässt sich <p>\,\,f_n\,\,</p> berechnen. 
+ ---HINT---
+ Es ist
+ 
+ <p>f_n=\frac{(e_2-e_1)\cdot 2}{(2\cdot n-1)\cdot c}</p>
+ 
+ Nun muss Abschließend das <p>n</p> ermittelt werden, sodass <p>\,\,f_n\,\,</p> gerade noch kleiner als die maximale Frequenz ist.
+ 

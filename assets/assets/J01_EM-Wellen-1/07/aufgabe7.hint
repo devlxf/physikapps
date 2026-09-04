@@ -1,0 +1,5 @@
+Überlegen Sie, bei welcher Kapazität die kleinste Wellenlänge auftritt. Beachten Sie den Zusammenhang zwischen Wellenlänge und Frequenz.
+---HINT---
+Berechnen Sie die größte Frequenz mit der Thomson-Formel <p>f = \frac{1}{2\pi} \cdot \frac{1}{\sqrt{L \cdot C}}</p>.
+---HINT---
+Berechnen Sie aus der größten Frequenz die kleinste Wellenlänge mit <p>\lambda = \frac{c}{f}</p>.

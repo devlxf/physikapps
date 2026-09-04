@@ -1,0 +1,3 @@
+Die Bremsverzögerung entspricht wie die Beschleunigung der Geschwindigkeitsänderung pro Zeit: <p>a = \frac{\Delta v}{\Delta t} = \frac{v_2 - v_1}{t}</p>
+---HINT---
+Da der Zug zum Stillstand kommt, gilt <p>v_2 = 0</p>. Setzen Sie die Werte ein und achten Sie auf das Vorzeichen.

@@ -1,0 +1,3 @@
+Ein Spielzeugwagen mit Antriebsmotor bewegt sich gleichförmig auf einer langen geraden horizontalen Schiene. Die eine Achse ist aus Metall und über Räder mit den Schienen leitend verbunden. Die andere Achse ist aus nichtleitendem Material. Der Schienenabstand beträgt <T>v=</T><p>value1 \text{cm}</p>. Die Anordnung wird senkrecht von einem homogenen Magnetfeld der magnetischen Flussdichte <T>B=</T><p>value2 \text{T}</p> durchsetzt. Die vom Amperemeter angezeigte Stromstärke beträgt <T>I=</T><p>value3 \text{mA}</p>. Der Innenwiderstand des Strommessgerätes beträgt <T>R=</T><p>value4\ \Omega</p>, der Leitungswiderstand der Schienen und der Achse wird vernachlässigt.
+
+Berechnen Sie betragsmäßig die Geschwindigkeit <T>v</T>, mit der sich der Wagen bewegt.

@@ -1,0 +1,11 @@
+Der Fusionsprozess in zukünftigen Reaktoren besteht aus der Kernreaktion eines Deuteriumkernes mit einem Tritiumkern. Insgesamt werden dabei <T>E=</T><p>value1 \text{ MeV}</p> Energie freigesetzt.
+Berechnen Sie den Anteil der in Energie umgesetzten Masse in Prozent.
+
+
+Hinweise: 
+
+Deuterium ist sogenannter „schwerer Wasserstoff“. Er besteht aus einem Proton und einem Neutron. Tritium ist „superschwerer Wasserstoff“ und besteht aus einem Proton und zwei Neutronen. Es gibt verschiedene Fusionsprozesse. In der Sonne herrscht z.B. primär ein Vier-Proton-Prozess vor.
+
+Ein Elektronenvolt (1 eV) entspricht <p>1,6\cdot10^{-19}</p> J.
+
+Die atomare Masseneinheit wird in <p>u</p> (<p>u</p> für Unit) gemessen. Dabei entspricht <p>1\, u</p> gleich <p>1,66\cdot 10^{-27}</p> kg.

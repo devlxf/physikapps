@@ -1,0 +1,5 @@
+Sie benötigen zwei Gleichungen: eine für die Strecke und eine für die Geschwindigkeit.
+---HINT---
+Nutzen Sie das Zeit-Weg-Gesetz: <p>s = \frac{1}{2} v \cdot t</p> und das Zeit-Geschwindigkeits-Gesetz: <p>v = a \cdot t</p>
+---HINT---
+Formen Sie das Zeit-Geschwindigkeits-Gesetz nach <p>t</p> um und setzen Sie es in das Zeit-Weg-Gesetz ein, um <p>t</p> zu eliminieren. Es ergibt sich: <p>a = \frac{v^2}{2 \cdot s}</p>

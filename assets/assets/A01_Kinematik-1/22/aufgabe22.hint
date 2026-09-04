@@ -1,0 +1,5 @@
+Addieren Sie die zurückgelegten Strecken abschnittsweise pro Intervall auf. Für jeden Abschnitt gilt: <p>s_i = v_i \cdot \Delta t</p>
+---HINT---
+Berechnen Sie parallel dazu, welche Strecke der Radfahrer in der gleichen Zeit zurücklegt.
+---HINT---
+Vergleichen Sie die kumulierten Strecken am Ende jedes Intervalls, um den Punkt zu finden, an dem die Läuferin den Radfahrer wieder einholt.

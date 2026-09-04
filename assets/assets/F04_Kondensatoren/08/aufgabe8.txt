@@ -1,0 +1,3 @@
+Drei Kondensatoren mit <T>C_1=</T><p>value1 \text{ μF}</p>, <T>C_2=</T><p>value2 \text{ μF}</p> und <T>C_3=</T><p>value3 \text{ μF}</p> liegen in Reihe an der Spannung <T>U_0=</T><p>value4 \text{ V}</p>.
+
+Welche Spannung <T>U_2</T> liegt am 2. Kondensator an?

@@ -1,0 +1,6 @@
+Ein einseitig festgespannter Metallstab der Länge <T>\,\,l=</T><p>value1\ \text{cm}\,\,</p>, dessen freies Ende (mit Stempel) in eine Kundtsche Röhre gesteckt ist, wird zu Längsschwingungen in seiner Grundfrequenz angeregt. Mit einem Abstimmkolben wird die Luftsäulenlänge in der Röhre verschoben bis maximale Lautstärke erklingt. Die Korkfiguren in der Röhre haben einen Knotenabstand von <T>\,\,s_K=</T><p>value2\ \text{cm}</p>.
+
+Berechnen Sie die Schallgeschwindigkeit in dem Metall.
+
+Anm.:
+Die Schallgeschwindigkeit in Luft ist <T>\,\,c_L=</T><p>340 \text{m/s}</p>.

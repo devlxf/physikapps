@@ -1,0 +1,19 @@
+Der Schalldruckpegel kann mit der Formel
+
+<p>L_p=20\cdot\text{lg}\left(\frac{p}{p_0}\right)</p>
+
+berechnet werden. Dabei ist <p>\,\,p\,\,</p> der mittlere Schalldruck und <p>\,\,p_0\,\,</p> der Bezugsdruck. 
+---HINT---
+Der Bezugsdruck <p>\,\,p_0\,\,</p> ist <p>\,\,p_0=2\cdot 10^{-5}\,\text{Pa}</p>.
+---HINT---
+Der maximale Schalldruck ist
+
+<p>p_{\text{max}}=\rho_0\cdot\omega\cdot c\cdot\hat{y}_0</p>
+
+Nutze dies, um den mittleren Schalldruck <p>\,\,p<\,\,/p> zu berechnen.
+---HINT---
+Der mittlere Schalldruck <p>\,\,p\,\,</p> kann mit dem maximalen Schalldruck <p>\,\,p_{\text{max}}\,\,</p> über
+
+<p>p=\frac{p_{\text{max}}}{\sqrt{2}}</p>
+
+berechnet werden. Setzen Sie abschließend den mittleren Schalldruck <p>\,\,p\,\,</p> und den Bezugsdruck <p>\,\,p_0\,\,</p> in die Formel für den Schalldruckpegel <p>\,\,L_0\,\,</p> ein und berechnen Sie das Ergebnis.

@@ -1,0 +1,4 @@
+Der Reibungskoeffizient zwischen Skiern und Schnee ist <p>value1</p>. Ein Skifahrer der Masse <p>value2 \text{ kg}</p> startet an Position A. Berechnen Sie seine Geschwindigkeit an Position B (Höhe 0 m), wenn die Strecke <T>\overline{AB}</T> eine Länge von <p>value3 \text{ m}</p> und eine Steigung von <T>\alpha=</T><p>value4\ ^\circ</p> hat.
+
+Anm.:
+Für die Berechnung der Reibung betrachten Sie die Piste als idealisierte gerade Rampe ohne weiche Kurven.

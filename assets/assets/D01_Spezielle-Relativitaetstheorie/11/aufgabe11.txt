@@ -1,0 +1,4 @@
+Ein Asteroid mit wertvollen Rohstoffen befindet sich in einer Entfernung von <T>l_0=</T><p>value1 \text{ Lichtjahren}</p> zur Erde.
+
+Wie schnell <T>(v \text{ als Vielfaches von c})</T> müsste eine Rakete fliegen, damit sie aus Sicht der mitfliegenden Astronauten insgesamt <T>t=</T><p>value2 \text{ Monate}</p> für Hin- und Rückreise benötigt?
+

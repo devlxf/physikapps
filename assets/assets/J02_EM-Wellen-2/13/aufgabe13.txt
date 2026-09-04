@@ -1,0 +1,3 @@
+Der kritische Sehwinkel <T>\alpha_{krit}</T> des Auges beträgt unter Normverhältnissen <T>\alpha_{krit}=</T> <p>valueR ^{\circ}</p> bei <T>\lambda=</T> <p>value2 \text{ nm}</p>. Die Pupillenweite variiert mit der Helligkeit. 
+
+Um wie viel Prozent verbessert sich die Sehschärfe, wenn die Pupille in Dämmerung auf <T>d=</T> <p>value3 \text{ mm}</p> geweitet ist?

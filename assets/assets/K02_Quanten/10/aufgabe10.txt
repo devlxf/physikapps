@@ -1,0 +1,3 @@
+Bei einem Kristall sei der Netzebenenabstand <T>g=</T><p>value1  \text{ m}</p> gegeben. Der kreisförmige Leuchtschirm hat einen Radius von <T>r=</T><p>value2  \text{ cm}</p> und der Abstand zur Graphitpulverschicht beträgt <T>L=</T><p>value3  \text{ cm}</p>.
+
+Berechnen Sie die anzulegende Beschleunigungsspannung <T>U</T>, sodass gerade noch <T>n=</T><p>value4</p> Kreisring(e) zu sehen ist/sind.

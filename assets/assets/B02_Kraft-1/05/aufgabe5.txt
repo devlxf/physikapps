@@ -1,0 +1,3 @@
+Ein Wasserstrahl trifft auf die ruhende Schaufel einer Turbine. Der ankommende Strahl hat eine Geschwindigkeit von <T>v=</T><p>value1 \text{ m/s}</p>, während der zurücklaufende Strahl die Geschwindigkeit <T>-v=</T><p>-value1 \text{ m/s}</p> hat. Die Masse des Wassers, das pro Sekunde auf die Schaufel trifft, beträgt <T>\dot{m}=</T><p>value2 \text{ kg}</p>.
+
+Berechnen Sie den Betrag der durchschnittlichen Kraft <T>F</T>, die auf die Turbinenschaufel wirkt.

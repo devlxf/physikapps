@@ -1,0 +1,6 @@
+Überlegen Sie, welcher grundlegende Zusammenhang zwischen Orts- und Impulsunschärfe besteht.
+---HINT---
+Die Heisenbergsche Unschärferelation lautet:
+<p>\Delta x \cdot \Delta p \geq \frac{h}{4\pi}</p>
+---HINT---
+Setzen Sie die gegebene Ortsunschärfe <p>\Delta x</p> in die Unschärferelation ein und lösen Sie die Ungleichung nach der Impulsunschärfe <p>\Delta p</p> auf.

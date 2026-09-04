@@ -1,0 +1,5 @@
+Zeichnen Sie zuerst ein Ersatzschaltbild und erkennen Sie, dass es sich um eine mit einer Parallelschaltung in Reihe geschaltete Reihenschaltung handelt.
+---HINT---
+Berechnen Sie die Widerstände der beiden Lampen mit der Leistung und dem Ohmschen Gesetz.
+---HINT---
+Benutzen Sie die Kirchhoffsche Maschenregel, bzw. die Tatsache, dass die Spannung U_0 über alle Widerstände abfällt, um mit den Nennspannungen der Lampen den Widerstand R_1 zu berechnen.

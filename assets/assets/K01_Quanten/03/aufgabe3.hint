@@ -1,0 +1,7 @@
+Überlegen Sie, welche physikalische Bedeutung die Gegenspannung im Photoeffekt hat. Sie gibt an, welche maximale kinetische Energie die ausgelösten Elektronen besitzen.
+---HINT---
+Zwischen elektrischer Spannung und Energie gilt der Zusammenhang:
+<p>W = q \cdot U</p>
+Dabei ist <p>q</p> die Ladung des Elektrons und <p>U</p> die Gegenspannung.
+---HINT---
+Setzen Sie für die Elementarladung <p>q = e = 1{,}6 \cdot 10^{-19}\,\text{C}</p> und für die Spannung den gegebenen Wert ein. Achten Sie auf die Einheit Joule.

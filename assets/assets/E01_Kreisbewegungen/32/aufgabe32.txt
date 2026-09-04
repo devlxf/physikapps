@@ -1,0 +1,3 @@
+Eine Rennbahn besteht aus zwei Halbkreisen mit der Bogenlänge <T>b=</T><p>value1 \text{ m}</p> und zwei geraden Strecken von je <T>l=</T><p>value2 \text{ m}</p>. Ein Motorradfahrer samt Motorrad hat die Masse <T>m=</T><p>value3 \text{ kg}</p> und erreicht eine Rundenzeit von <T>t=</T><p>value4 \text{ s}</p>.
+
+Berechnen Sie die Kraft <T>F_A</T>, die in den Kurven jeweils auf eine Achse wirkt. Gehen Sie von konstanter Geschwindigkeit und symmetrischer Lastverteilung aus.

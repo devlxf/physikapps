@@ -1,0 +1,4 @@
+Gegeben ist die Zeit-Ortsfunktion einer Schwingung (siehe Schaubild)
+
+Bestimmen Sie die Periodendauer <T>T</T>.
+

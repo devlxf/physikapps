@@ -1,0 +1,6 @@
+Ein Körper der Masse <T>m=</T><p>value1\ \text{kg}</p> führt Schwingungen der Form 
+
+     <p>s(t)= value2 \text{ cm}\cdot\text{cos}\left(value3\text{ s}^{-1}\cdot t\right)</p>
+
+Berechnen Sie die maximale kinetische Energie des Körpers.
+

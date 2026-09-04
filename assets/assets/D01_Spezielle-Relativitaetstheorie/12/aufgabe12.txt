@@ -1,0 +1,4 @@
+Der Radius einer Galaxie beträgt etwa <T>r_0=</T><p>value1 \text{ m}</p>. Ein Raumschiff soll die gesamte Galaxie aus Sicht der mitfliegenden Astronauten innerhalb von <T>t=</T><p>value2 \text{ Jahre}</p> durchqueren.
+
+Wie viel Jahre <T>(t \text{ in a})</T> vergeht währenddessen auf der Erde?
+

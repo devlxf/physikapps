@@ -1,0 +1,9 @@
+Bestimmen Sie zunächst die Energiedifferenz zwischen den beiden angegebenen Energieniveaus des Atoms.
+---HINT---
+Die zur Anregung notwendige Energie ergibt sich aus der Differenz der Energieniveaus:
+<p>\Delta E = W_3 - W_1</p>
+Achten Sie darauf, dass die Energien in Elektronenvolt gegeben sind.
+---HINT---
+Die minimale kinetische Energie des Elektrons muss dieser Energiedifferenz entsprechen:
+<p>W_{\text{kin}} = \frac{1}{2} m v^2</p>
+Setzen Sie <p>W_{\text{kin}} = \Delta E</p>, wandeln Sie die Energie gegebenenfalls in Joule um und lösen Sie nach der Mindestgeschwindigkeit <p>v_{\text{min}}</p> auf.

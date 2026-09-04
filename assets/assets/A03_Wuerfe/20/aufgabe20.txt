@@ -1,0 +1,3 @@
+Ein Ball wird mit <T>v_0=</T><p>value1\text{ m/s}</p> unter einem Winkel von <T>\varphi=</T><p>value2\text{°}</p> abgeschossen. Start- und Landepunkt liegen auf gleicher Höhe. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Wie weit fliegt der Ball?

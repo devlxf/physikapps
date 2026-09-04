@@ -1,0 +1,11 @@
+Zeichnen Sie zur Veranschaulichung ein Kräfteparallelogramm.
+---HINT---
+Bilden Sie das Kräfteverhältnis von <p>F_G</p> zu <p>F_Z</p>: <p>\tan(\alpha) = \frac{F_G}{F_Z}</p>.
+---HINT---
+Sie können das Verhältnis nicht direkt berechnen, da der Bahnradius nicht der Fadenlänge entspricht (der Faden steht schräg). Sie benötigen eine weitere Gleichung, um Parameter eliminieren zu können.
+---HINT---
+Bilden Sie das geometrische Seitenverhältnis: <p>\tan(\alpha) = \frac{s}{r}</p>.
+---HINT---
+Setzen Sie beide Verhältnisse gleich und verwenden Sie <p>v = 2 \cdot \pi \cdot r \cdot f</p>. Nach dem Kürzen ergibt sich: <p>s = \frac{g}{4 \cdot \pi^2 \cdot f^2}</p>.
+---HINT---
+Damit lässt sich der Ablenkwinkel und schließlich die Fadenkraft berechnen.

@@ -1,0 +1,5 @@
+In einem Stromkreis befindet sich eine Spule der Induktivität <T>L=</T><p>value3 \text{ H}</p>. Durch sie fließt ein Wechselstrom mit der Frequenz <T>f=</T><p>value1 \text{ Hz}</p>.
+
+Berechnen Sie den Betrag der in ihr induzierten Spannung <T>|U|</T> zum Zeitpunkt <T>t=</T><p>value2 \text{ s}</p>, wenn im Stromkreis ein veränderlicher Strom der folgenden Stromstärke fließt:
+
+<p>I(t)=value4 \text{ A}\cdot sin(2\cdot\pi\cdot value1\text{ Hz}\cdot t)</p> 

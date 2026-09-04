@@ -1,0 +1,5 @@
+Teilen Sie die Bewegung in <p>x</p>- und <p>y</p>-Komponente auf.
+---HINT---
+Berechnen Sie die Fallzeit aus der Fallhöhe: <p>t = \sqrt{\frac{2 s_y}{g}}</p>
+---HINT---
+In <p>x</p>-Richtung bewegt sich der Sack mit der Flugzeuggeschwindigkeit: <p>v_\text{Flugzeug} = \frac{s_x}{t}</p>

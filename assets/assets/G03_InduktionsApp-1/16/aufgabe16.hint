@@ -1,0 +1,7 @@
+Nutzen Sie die Formel für die Induktionsspannung einer Spule.
+---HINT---
+Die Wechselstromfunktion lässt sich darstellen als <p>I(t) = I_(max) \cdot sin(\omegat)</p>.
+---HINT---
+Die Kreisfrequenz \omega kann zusammen mit der Kreiszahl <p>\pi</p> und der Frequenz <p>f</p> dargestellt werden.
+---HINT---
+Um die Induktionsspannung zu berechnen, muss die Wechselstromfunktion abgeleitet werden. Der Sinus ergibt dabei abgeleitet den Kosinus. Vergessen Sie dabei die innere Ableitung nicht.

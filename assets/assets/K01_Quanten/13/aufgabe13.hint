@@ -1,0 +1,10 @@
+Überlegen Sie, welche Impulsbeiträge beim Photoeffekt auftreten und wie diese zusammenhängen.
+---HINT---
+Der Impuls des Photons ergibt sich aus seiner Wellenlänge:
+<p>p_{\text{Photon}} = \frac{h}{\lambda}</p>
+Der Impuls des Elektrons folgt aus seiner kinetischen Energie:
+<p>p_e = \sqrt{2 m W_{\text{kin}}}</p>
+---HINT---
+Die kinetische Energie des Elektrons ergibt sich aus der Gegenspannung:
+<p>W_{\text{kin}} = q \cdot U</p>
+Der Impulsbeitrag des Atoms ergibt sich aus der Impulserhaltung als Summe der beteiligten Impulse.

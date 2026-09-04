@@ -1,0 +1,10 @@
+Die abgegebene Spannung der Fotozelle hängt von der maximalen kinetischen Energie der ausgelösten Elektronen ab.
+---HINT---
+Für den Photoeffekt gilt die Energiebilanz:
+<p>E_{\text{Photon}} = W_A + W_{\text{kin}}</p>
+Die Photonenenergie berechnet sich über die Wellenlänge:
+<p>E_{\text{Photon}} = \frac{h c}{\lambda}</p>
+---HINT---
+Die kinetische Energie der Elektronen steht im Zusammenhang mit der Spannung der Fotozelle:
+<p>W_{\text{kin}} = q \cdot U</p>
+Setzen Sie die Energien in die Gleichung ein und lösen Sie nach der Spannung <p>U</p> auf. Achten Sie darauf, die Austrittsarbeit zunächst in Joule umzurechnen.

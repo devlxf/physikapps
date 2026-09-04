@@ -1,0 +1,7 @@
+Ermitteln Sie zuerst eine Formel für die Reibung der 2. Kiste: <p>F_{R2} = \mu \cdot F_{U2}</p>. Die Unterlagskraft ist über den Kosinus mit der Gewichtskraft verbunden.
+---HINT---
+Ermitteln Sie eine Formel für die Reibung der 1. Kiste auf der Rampe. Beachten Sie, dass zur Normalkraft der Kiste 1 die Normalkraft der Kiste 2 hinzuaddiert werden muss.
+---HINT---
+Die gesamte zu überwindende Reibung ist die Reibung, die die Kiste von oben und unten erfährt.
+---HINT---
+Setzen Sie die Gesamtreibung <p>F_{R}</p> mit der Hangabtriebskraft <p>F_{H} = F_{G} \cdot \sin(\alpha)</p> gleich und lösen Sie nach <p>\alpha</p> auf. Nutzen Sie dabei <p>\tan(\alpha) = \frac{\cos(\alpha)}{\sin(\alpha)}</p>

@@ -1,0 +1,36 @@
+Die Spannung  <p>\,\, U(t)\,\, </p>  verhält sich im Schwingkreis wie
+
+       <p>\,\, U(t)=U_0\cdot\cos\left(\omega_0\cdot t\right)\,\,</p> 
+
+---HINT---
+Für die momentane Ladung  <p>\,\, Q(t)\,\, </p>  auf den Kondensatorplatten gilt <p>\,\, Q(t)=C\cdot U(t)\,\, </p>. Der Strom <p>\,\, I(t)\,\, </p> ist die Ladungsänderung pro Zeit
+
+       <p>\,\, I(t)=\frac{\Delta Q}{\Delta t}\,\, </p> 
+
+Leiten sie also die Spannungsfunktion <p>\,\, U(t)\,\, </p> zur Bestimmung der Stromfunktion <p>\,\, I(t)\,\, </p> ab. 
+
+
+---HINT---
+Der Strom <p>\,\, I(t)\,\, </p> ergibt sich zu
+
+       <p>\,\, I(t)=\frac{\Delta Q}{\Delta t}=C\cdot\frac{\Delta U}{\Delta t}</p> 
+
+---HINT---
+Einsetzen der Spannung <p>\,\, U(t)\,\, </p>  und Ableíten ergibt
+
+<p>\,\, I(t)=C\cdot\frac{\Delta }{\Delta t}U_0\cdot\cos\left(\omega_0\cdot t\right)=-C\cdot U_0\cdot\omega_0\cdot\sin\left(\omega_0\cdot t\right)\,\, </p>
+
+---HINT---
+Der Strom <p>\,\, I(t)\,\, </p> wird maximal, wenn der Sinus -1 ist. Es gilt
+
+<p>\,\, I_{\text{max}}=C\cdot U_0\cdot\omega_0\,\, </p>
+
+
+---HINT---
+<p>\,\, \omega_0 \,\, </p> berechnet sich über
+
+       <p>\,\, \omega_0=\frac{1}{\sqrt{L\cdot C}}\,\,  </p> 
+
+Das Ergebnis erhält man dann schließlich nach Einsetzen der gegebenen Werte.
+
+

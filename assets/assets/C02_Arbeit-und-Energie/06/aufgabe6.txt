@@ -1,0 +1,8 @@
+Vor ca. 15 Millionen Jahren schlug ein Meteorit auf der Stelle, auf der heute der Ort Steinheim steht, ein. Aufgrund der Größe des Kraters konnte die freigesetzte Energie beim Einschlag auf <T>W_\text{kin}=</T><p>value1 \cdot 10^{18} \text{ J}</p> bestimmt werden.
+
+Die Geschwindigkeit lässt sich aufgrund der Herkunft des Gesteinsbrockens auf <p>value2 \text{ km/h}</p> abschätzen.
+
+Welchen Durchmesser hatte der Meteorit?
+
+Anm.:
+Die Dichte seines Gesteins betrug <T>\rho=</T><p>value3 \text{ kg/m}^3</p> und es wird angenommen, dass er eine kugelförmige Gestalt hatte.

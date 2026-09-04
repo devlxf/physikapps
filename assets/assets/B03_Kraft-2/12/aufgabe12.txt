@@ -1,0 +1,3 @@
+Der abgebildete Ausschnitt einer Tragkonstruktion muss die Kräfte <T>F_1=</T><p>value1 \text{ kN}</p>, <T>F_2=</T><p>value2 \text{ kN}</p> und <T>F_3=</T><p>value3 \text{ kN}</p> aufnehmen. Die Träger 1 und 3 stehen jeweils in einem Winkel von <T>\alpha=</T><p>value4 \text{ °}</p> ab.
+
+Wie groß ist die resultierende Belastung des oberen Längsträgers?

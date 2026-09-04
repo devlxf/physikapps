@@ -1,0 +1,1 @@
+Berechnen Sie den Gesamtwiderstand der nebenstehenden Schaltung, die aus den jeweils gleichen Einzelwiderständen <T>R_1=</T><p>value1\ \Omega</p> besteht.

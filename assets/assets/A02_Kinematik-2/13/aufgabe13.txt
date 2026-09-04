@@ -1,0 +1,3 @@
+Ein Auto fährt mit <T>v_0=</T><p>value1\text{ km/h}</p>. Der Fahrer bemerkt in <T>s_\text{ges}=</T><p>value2\text{ m}</p> Entfernung eine Radarfalle. Nach einer Reaktionszeit von <T>t_0=</T><p>value3\text{ s}</p> bremst das Auto mit <T>a=</T><p>value4\text{ m/s}^2</p>.
+
+Welche Geschwindigkeit registriert die Radarfalle?

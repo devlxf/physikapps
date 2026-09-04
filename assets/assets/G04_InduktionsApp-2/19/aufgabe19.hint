@@ -1,0 +1,9 @@
+Geben Sie die magnetische Flussdichte <p>B(t)</p> einer langgezogenen Spule an. Setzen Sie dabei für den Strom eine sinusförmige Funktion ein, deren Amplitude <p>I_0</p> ist. Das Argument des Sinus ist dabei <p>2\cdot\pi \cdot f \cdot t</p>.
+---HINT---
+Bestimmen Sie die Induktionsspannung <p>U_{\text{ind}}(t)</p>. Nutzen Sie die Formel für die Induktionsspannung durch Magnetfeldänderung. Setzen Sie dazu die magnetische Flussdichte <p>B(t)</p> ein. Achten Sie bei der Ableitung des Sinus auch auf die innere Ableitung.
+---HINT---
+Der Kosinus nimmt Werte zwischen -1 und 1 an. Damit kann die maximale Induktionsspannung <p>I_{\text{max}}</p> errechnet werden.
+---HINT---
+Der Induktionsstrom <p>I_{\text{ind}}</p> ergibt sich aus der Induktionsspannung <p>U_{\text{ind}}</p> mit dem ohmschen Gesetz <p>U=R\cdot I</p>.
+---HINT---
+Die übertragene Leistung <p>U</p> ergibt sich als Produkt aus Induktionsstrom und Induktionsspannung <p>P=U\cdot I</p>. Sie ist bei diesem Aufbau sehr klein.

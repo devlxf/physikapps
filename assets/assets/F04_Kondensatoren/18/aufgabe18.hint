@@ -1,0 +1,7 @@
+Die Energiemenge <p>W</p> zum Zeitpunkt <p>t</p> ist <p>W\left(t\right) = \frac{1}{2}\cdot Q(t)\cdot U(t)</p>.
+---HINT---
+Weiterhin lässt sich die Ladungsmenge durch Spannung und Kapazität ausdrücken, sodass nur noch eine zeitabhängige Komponente existiert.
+---HINT---
+Die Spannung ist gegeben durch <p>U\left(t\right) = R\cdot I(t)</p>.
+---HINT---
+Der Strom beim Entladen verhält sich gemäß <p>I\left(t\right) = {I}_{0}\cdot{e}^{-\frac{1}{R\cdot C}\cdot t}</p>

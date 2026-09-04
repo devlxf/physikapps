@@ -1,0 +1,3 @@
+Untersuchen Sie, welche Kraft der Kopf auf die Wirbelsäule ausübt, wenn unter einem Winkel von <T>\alpha=</T><p>value1 \text{ °}</p> auf das Smartphone geschaut wird. Nehmen Sie dabei an, dass der Kopf eines Erwachsenen durchschnittlich <p>value2 \text{ Pfund}</p> wiegt.
+
+Berechnen Sie die Kraft auf die Wirbelsäule.

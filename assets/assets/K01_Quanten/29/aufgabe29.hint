@@ -1,0 +1,9 @@
+Bestimmen Sie zunächst die Energiedifferenz zwischen den beiden beteiligten Energieniveaus des Wasserstoffatoms.
+---HINT---
+Die Energieniveaus des Wasserstoffatoms sind gegeben durch:
+<p>E_n = 13{,}59\,\text{eV} \cdot \left(1 - \frac{1}{n^2}\right)</p>
+Berechnen Sie daraus die Energien für <p>n_1</p> und <p>n_2</p> und bilden Sie die Differenz <p>\Delta E</p>.
+---HINT---
+Zwischen Energie und Wellenlänge eines Photons gilt:
+<p>E = \frac{h c}{\lambda}</p>
+Setzen Sie die Energiedifferenz ein (gegebenenfalls in Joule umrechnen) und lösen Sie die Gleichung nach der Wellenlänge <p>\lambda</p> auf.

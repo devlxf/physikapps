@@ -1,0 +1,7 @@
+Bestimmen Sie den Winkel des Motorrades durch eine Messung mit dem Geodreieck.
+---HINT---
+Zeichnen Sie zuerst ein Kräfteparallelogramm. Zentripetalkraft und Gewichtskraft bilden zwei Katheten eines rechtwinkligen Dreiecks.
+---HINT---
+Bilden Sie das Verhältnis beider Kräfte mit dem Tangens: <p>\tan(\alpha) = \frac{F_z}{F_G}</p>.
+---HINT---
+Setzen Sie die Formeln für Zentripetalkraft und Gewichtskraft ein, lösen Sie nach <p>v</p> auf: <p>v = \sqrt{r \cdot g \cdot \tan(\alpha)}</p>.

@@ -1,0 +1,5 @@
+Um einen Liter Wasser um ein Grad zu erwärmen, benötigt man 4,19 kJ Wärme.
+
+Wie viele Minuten benötigt ein Wasserkocher mit einer Leistung von <T>P=</T><p>value1 \text{ W}</p>, um <T>m=</T><p>value2 \text{ l}</p> Wasser zu erwärmen?
+
+Anmerkung: Gehen Sie von einer Wassertemperatur von 20 °C aus (Raumtemperatur). Der Wirkungsgrad bleibe hier unberücksichtigt.

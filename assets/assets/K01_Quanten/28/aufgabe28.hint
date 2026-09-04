@@ -1,0 +1,8 @@
+Überlegen Sie, welcher Elektronenübergang die geringste Photonenenergie liefert.
+---HINT---
+Die langwelligste Strahlung entspricht der kleinsten Energiedifferenz zwischen zwei Energieniveaus:
+<p>\Delta E = E_2 - E_1</p>
+---HINT---
+Zwischen Energie und Wellenlänge eines Photons gilt:
+<p>E = \frac{h c}{\lambda}</p>
+Setzen Sie die kleinste Energiedifferenz ein und lösen Sie die Gleichung nach der maximalen Wellenlänge <p>\lambda_{\text{max}}</p> auf.

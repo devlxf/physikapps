@@ -1,0 +1,5 @@
+Diese Aufgabe baut auf dem Überholvorgang I auf. Berechnen Sie zunächst die Dauer des Überholvorgangs wie in der vorherigen Aufgabe.
+---HINT---
+Die Relativgeschwindigkeit der beiden PKWs zueinander beträgt: <p>v_\text{rel} = v_A + v_B</p> (da sie sich entgegenkommen).
+---HINT---
+Der Mindestabstand ergibt sich aus dem Zeit-Weg-Gesetz mit der Relativgeschwindigkeit: <p>s_{AB} = v_\text{rel} \cdot t</p>

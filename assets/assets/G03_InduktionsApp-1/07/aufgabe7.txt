@@ -1,0 +1,4 @@
+In einem homogenen Magnetfeld befindet sich eine Spule (<T>a=</T><p>value1 \text{ cm}</p>, <T>b=</T><p>value2 \text{ cm}</p>).
+• Geben Sie an, wie groß die vom Magnetfeld durchsetzte Fläche in Abhängigkeit des Winkels <T>\phi</T> ist.
+• Drücken Sie anschließend den Winkel <T>\phi</T> durch die Kreisfrequenz <T>\omega</T> aus.
+• Die Spule dreht sich langsam mit 3 Umdrehungen pro Minute. Wie groß ist die durchsetze Fläche nach <p>4</p> Sekunden, wenn die Spule in horizontaler Richtung startet?

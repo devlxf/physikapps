@@ -1,0 +1,5 @@
+Nutzen Sie das Zeit-Geschwindigkeits-Gesetz: <p>v(t) = -g \cdot t + v_0</p>. Formen Sie nach <p>t</p> um.
+---HINT---
+Setzen Sie <p>t</p> in das Zeit-Weg-Gesetz ein: <p>h = -\frac{1}{2} g \cdot t^2 + v_0 \cdot t</p> und lösen Sie nach <p>v_0</p> auf.
+---HINT---
+Es gilt: <p>v_0 = \sqrt{2 g h + v(t)^2}</p>

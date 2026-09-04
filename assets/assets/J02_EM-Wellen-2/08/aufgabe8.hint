@@ -1,0 +1,7 @@
+Verwenden Sie die Bedingung für Nebenmaxima beim Einzelspalt: <p>\sin(\alpha) = \left(n + \frac{1}{2}\right) \cdot \frac{\lambda}{d}</p>.
+---HINT---
+Berechnen Sie die Winkeldifferenz zwischen dem ersten und zweiten Nebenmaximum: <p>\sin(\Delta\alpha) = \frac{\lambda}{d}</p>.
+---HINT---
+Nutzen Sie die Kleinwinkelnäherung: <p>\sin(\Delta\alpha) \approx \frac{\Delta y}{L}</p>.
+---HINT---
+Setzen Sie die Ausdrücke gleich und lösen Sie nach der Spaltbreite auf: <p>d = \frac{L \cdot \lambda}{\Delta y}</p>.

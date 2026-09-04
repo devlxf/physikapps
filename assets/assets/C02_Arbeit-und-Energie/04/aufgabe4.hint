@@ -1,0 +1,5 @@
+Berechnen Sie über die verrichtete Arbeit die abgeflossene Wassermenge.
+---HINT---
+Eine Tonne Wasser (1000 kg) entsprechen einem Kubikmeter.
+---HINT---
+Das abgeflossene Wasservolumen fehlt dem Oberbecken. Da das Volumen <p>V</p> die Fläche <p>A</p> multipliziert mit der Höhe <p>h</p> ist, folgt <p>V = A \cdot h</p>. Damit kann berechnet werden, um welche Höhe <p>h</p> sich der See absenkt.

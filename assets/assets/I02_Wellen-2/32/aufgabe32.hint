@@ -1,0 +1,29 @@
+Die Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> auf der Saite berechnet sich zu
+
+<p>c=\sqrt{\frac{F}{\mu}}</p>
+---HINT---
+Die Frequenz <p>\,\,f_1\,\,</p> berechnet sich über
+
+<p>f_1=\frac{c}{\lambda_1}</p>
+
+Die Wellenlänge <p>\,\,\lambda_1\,\,</p> ist dabei doppelt so lang wie die Mensur <p>\,\,l</p>.   
+---HINT---
+Einsetzen ergibt
+
+<p>2\cdot l\cdot f_1=\sqrt{\frac{F}{\mu_1}}</p>
+---HINT---
+Die Massenbelegung <p>\,\,\mu_1\,\,</p> kann nun durch Umstellen der Formel berechnet werden. Es ist
+
+<p>\mu_1=\frac{F}{4\cdot l^2\cdot f_1^2}</p>.
+---HINT---
+Die Massenbelegung <p>\,\,\mu_2\,\,</p> ergibt sich nun, indem die neue Frequenz 
+
+<p>f_2=x\cdot f_1</p>
+
+eingesetzt wird.
+---HINT---
+Es ergibt sich die Formel
+
+<p>\mu_2=\frac{F}{4\cdot l^2\cdot (x\cdot f_1)^2}=\frac{\mu_1}{x^2}</p>
+
+

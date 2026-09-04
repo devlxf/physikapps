@@ -1,0 +1,5 @@
+Der Ablenkwinkel kann mit dem Tangens berechnet werden. Die Strömungsgeschwindigkeit <p>v_\text{Fluss}</p> bildet die Gegenkathete, die Eigengeschwindigkeit <p>v_\text{Boot}</p> die Ankathete.
+---HINT---
+Es gilt: <p>\tan(\alpha) = \frac{v_\text{Fluss}}{v_\text{Boot}}</p>, also <p>\alpha = \arctan\!\left(\frac{v_\text{Fluss}}{v_\text{Boot}}\right)</p>
+---HINT---
+<insert>aufgabe14_T1.png</insert>

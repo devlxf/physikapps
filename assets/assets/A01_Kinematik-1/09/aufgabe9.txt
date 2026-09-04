@@ -1,0 +1,1 @@
+Sie sehen einen Blitz und hören <T>t=</T><p>value1\text{ s}</p> später einen Donner. Die Schallgeschwindigkeit beträgt <T>v_S=</T><p>value2\text{ m/s}</p>. Berechnen Sie, wie weit das Gewitter entfernt ist.

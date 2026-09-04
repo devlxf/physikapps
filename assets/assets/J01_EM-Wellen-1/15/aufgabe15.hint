@@ -1,0 +1,7 @@
+Berechnen Sie zunächst die Wellenlänge aus der gegebenen Frequenz mit <p>\lambda = \frac{c}{f}</p>.
+---HINT---
+Für konstruktive Interferenz muss der Gangunterschied ein ganzzahliges Vielfaches der Wellenlänge sein: <p>\delta = n \cdot \lambda</p>. Für die erstmalige konstruktive Interferenz gilt <p>n = 1</p>.
+---HINT---
+Bestimmen Sie den Gangunterschied geometrisch: <p>\delta = \sqrt{a^2 + x^2} - x</p> und setzen Sie diesen gleich der Wellenlänge.
+---HINT---
+Lösen Sie die Gleichung <p>\sqrt{a^2 + x^2} - x = \lambda</p> nach x auf.

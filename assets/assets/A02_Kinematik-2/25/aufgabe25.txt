@@ -1,0 +1,9 @@
+Ein Fahrzeug beschleunigt gleichmäßig von <T>v = 0</T> bis <T>t =</T><p>valueA\text{ s}</p> auf die Höchstgeschwindigkeit <T>v_1 =</T><p>value1\text{ m/s}</p>.
+
+Es fährt mit dieser Geschwindigkeit bis <T>t =</T><p>valueB\text{ s}</p>, bremst danach gleichmäßig auf <T>v_2 =</T><p>value2\text{ m/s}</p> ab (erreicht bei <T>t =</T><p>valueC\text{ s}</p>) und hält diese Geschwindigkeit bis <T>t =</T><p>valueD\text{ s}</p>.
+
+Anschließend bremst das Fahrzeug gleichmäßig bis zum Stillstand.
+
+Das v-t-Diagramm ist gegeben. Bestimmen Sie die zurückgelegte Strecke <T>s</T> von <T>t = 0</T> bis zum Zeitpunkt <T>t₁</T> (rote gestrichelte Linie im Diagramm).
+
+Zählen Sie dazu die Kästchen unter der v-t-Kurve bis zur roten Linie.

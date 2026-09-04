@@ -1,0 +1,5 @@
+In einer Parallelschaltung fällt über beiden Widerständen die gleiche Spannung ab.
+---HINT---
+Der Strom, den die Spannungsquelle liefert, berechnet sich mit dem Ohmschen Gesetz: <p>U_0 = R_{\text{ges}} \cdot I_0</p>
+---HINT---
+In einer Parallelschaltung addieren sich die Kehrwerte der Widerstände.

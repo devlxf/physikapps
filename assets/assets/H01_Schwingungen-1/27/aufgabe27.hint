@@ -1,0 +1,11 @@
+Modellieren Sie die Einhüllende der Schwingung durch eine Exponentialfunktion.
+---HINT---
+In Ihrer Funktion gibt es nun zwei zu bestimmende Parameter, nämlich die Anfangsauslenkung sowie die Abklingkonstante.
+---HINT---
+Die Anfangsauslenkung kann mit der Auslenkung zum Zeitpunkt <p>\,\, t=0\,\,</p> s bestimmt werden.
+---HINT---
+Nun wird noch ein weiterer, möglichst gut ablesbarer Punkt benötigt.
+---HINT---
+Durch Einsetzen der Werte dieses Punktes in die Exponentialfunktion kann diese nun nach <p>\,\, \delta\,\,</p> aufgelöst werden und so die Abklingkonstante bestimmt werden.
+---HINT---
+Mit gegebenem <p>\,\, \delta\,\,</p> kann die Halbwertszeit bestimmt werden. Dazu wird als Funktionswert die halbe Amplitude eingesetzt und nach der Zeit aufgelöst.

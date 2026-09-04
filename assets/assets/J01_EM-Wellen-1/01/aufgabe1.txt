@@ -1,0 +1,3 @@
+Ein Handy sendet im 5G-Netz mit der Frequenz f = <p>value1 \text{ GHz}</p>.
+
+Welche Länge müsste ein Empfangsdipol haben, der in Resonanz schwingt?

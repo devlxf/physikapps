@@ -1,0 +1,3 @@
+Ein Elektron befindet sich in einem elektrischen Feld der Stärke <T>E=</T><p>value1 \text{ kN/C}</p>.
+Berechnen Sie seine Beschleunigung und vergleichen Sie diese mit dem Einfluss der Gravitation.
+Setzen Sie <T>\frac{F_\text{G}}{F_\text{el}}</T> ins Verhältnis und tragen diesen Wert ein.

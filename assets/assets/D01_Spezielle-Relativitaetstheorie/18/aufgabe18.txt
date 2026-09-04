@@ -1,0 +1,2 @@
+Auf welche Geschwindigkeit <T>v</T> müsste man einen (beliebigen) Körper beschleunigen, damit seine beobachtete Masse um <p>value1 \text{ \%}</p> der Ruhemasse zunimmt?
+

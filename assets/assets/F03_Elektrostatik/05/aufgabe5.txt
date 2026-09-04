@@ -1,0 +1,2 @@
+Bestimmen Sie den Betrag der elektrischen Kraft, die auf eine Punktladung <T>q=</T><p>value1 \text{ nC}</p> im elektrischen Feld der <T>r=</T><p>value3 \text{ cm}</p> entfernten Punktladung <T>Q=</T><p>value2 \text{ nC}</p> wirkt.
+

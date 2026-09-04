@@ -1,0 +1,3 @@
+Ein Motorrad fährt durch eine Kurve mit einem Radius von <T>r=</T><p>value1 \text{ m}</p>. Der Neigungswinkel des Motorrades beträgt <T>\alpha=</T><p>value2 \text{°}</p>.
+
+Wie schnell fährt das Motorrad <T>(\text{Geschwindigkeit }v)</T>?

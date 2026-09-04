@@ -1,0 +1,1 @@
+Bei einem Auffahrunfall fahren Sie mit <p>value1 \text{ km/h}</p> auf ein mit <p>value2 \text{ km/h}</p> vor Ihnen fahrendes Auto auf. Ihr Auto hat eine Masse von <p>value3 \text{ kg}</p>, während das vorausfahrende Auto eine Masse von <p>value4 \text{ kg}</p> besitzt. Wie schnell bewegen sich die verkeilten Autos nach dem Aufprall weiter?

@@ -1,0 +1,4 @@
+Für die Induktionsspannung U₂ gilt
+<p>U_{\text{2}} = - n_{2} \cdot \frac{\mathrm{\Delta}\phi_{2}}{\Delta t}</p>
+---HINT---
+Der magnetische Fluss ϕ ist jedoch in beiden Spulen gleich, da es sich hierbei um einen idealen Transformator ohne Verluste handelt.

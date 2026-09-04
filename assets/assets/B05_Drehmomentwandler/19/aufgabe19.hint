@@ -1,0 +1,9 @@
+Der Radius des Rades <p>z</p> ist <p>d/2</p>. 1 Zoll entspricht 2,54 cm.
+---HINT---
+Den Umfang des Hinterrades berechnen Sie mit <p>U = 2\pi \cdot r</p> (hier ist der Radius <p>z</p>).
+---HINT---
+Mit der Geschwindigkeit <p>v</p> in Metern pro Sekunde und dem Umfang in Metern können Sie die Umdrehungen pro Sekunde ausrechnen.
+---HINT---
+Die Abtriebsscheibe, also das Ritzel auf der Hinterradachse ist fest mit der Achse verbunden und hat die gleiche Drehzahl wie das Rad.
+---HINT---
+Mit dem Übersetzungsverhältnis von Hinterradritzel zur Antriebsscheibe können Sie die Drehzahl berechnen, mit der der Fahrradfahrer treten muss, denn die Kurbel ist wiederum fest mit der Antriebsscheibe verbunden.

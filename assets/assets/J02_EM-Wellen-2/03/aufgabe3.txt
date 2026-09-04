@@ -1,0 +1,3 @@
+Ein Gitter mit <T>N=</T> <p>value1 \text{ Strichen pro Zentimeter}</p> wird senkrecht mit dem Licht eines Lasers der Wellenlänge <T>\lambda=</T> <p>value2 \text{ nm}</p> beleuchtet.
+
+Wie viele Hauptmaxima <T>n</T> der Intensität sind höchstens zu erwarten?

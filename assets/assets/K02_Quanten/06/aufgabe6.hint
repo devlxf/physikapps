@@ -1,0 +1,9 @@
+Man erhält die Strahlungsleistung <p>P</p> durch Multiplikation der Strahlungsintensität <p>I</p> mit der Fläche <p>A</p>.
+---HINT---
+Die Energiemenge <p>E</p> ergibt sich anschließend durch Multiplikation der Leistung <p>P</p> mit der Zeitdauer <p>t</p> (z.B. 1 s).
+---HINT---
+Die Energie eines Photons ist
+<p>E=\frac{h\cdot c}{\lambda}</p>
+Wenn Sie diesen Wert durch die Gesamtenergie teilen, erhalten sie die Anzahl der Photonen, die die Zelle erreicht haben.
+---HINT---
+Das Produkt mit der Quantenausbeute <p>\eta</p> ergibt die Anzahl der Photoelektronen.

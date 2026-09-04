@@ -1,0 +1,3 @@
+Zwei Kugeln mit der Ladung <T>q_1=</T><p>value1  \text{ μC}</p> und <T>q_2=</T><p>value2  \text{ μC}</p> befinden sich auf einer Geraden im Abstand <T>r=</T><p>value3  \text{ cm}</p>.
+
+Bestimmen Sie (bezogen auf Kugel 1) den Ort, an dem sich die Feldstärken beider Ladungen gegenseitig aufheben (feldfreier Punkt zwischen den Kugeln).

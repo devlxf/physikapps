@@ -1,0 +1,1 @@
+Ein <p>value1 \text{ g}</p> schweres Hagelkorn fällt mit der Geschwindigkeit <p>value2 \text{ m/s}</p> auf die Erde. Wie groß war sein Impuls vor dem Aufschlag?

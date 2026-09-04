@@ -1,0 +1,5 @@
+In einem Versuch wird die Lichtgeschwindigkeit <T>c</T> mithilfe eines modulierten Lichtsignals gemessen. Der Lichtsender sendet ein Signal mit einer Frequenz von <T>f_1=</T> <p>value1 \text{ MHz}</p>. Dieses Signal kann nicht direkt mit einem normalen Oszilloskop dargestellt werden, da die Frequenz zu hoch ist. Deshalb wird das Signal im Empfänger mit einem zweiten Signal von <T>f_2=</T> <p>valueS \text{ MHz}</p> gemischt. Dadurch ist am Oszilloskop eine Schwebung erkennbar.
+
+Wenn der Lichtsender um <T>\Delta s=</T> <p>value4 \text{ m}</p> in Richtung des Empfängers verschoben wird, beobachtet man auf dem Oszilloskop eine Zeitverschiebung (scheinbare Laufzeitdifferenz) von <T>t_1=</T> <p>valueR\ \mu\text{s}</p> zwischen dem Referenz- und dem Empfängersignal.
+
+Berechnen Sie mit den gegebenen Werten die Lichtgeschwindigkeit <T>c</T> in Luft.

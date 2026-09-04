@@ -1,0 +1,3 @@
+Eine Rampe habe einen Winkel von <T>\alpha=</T><p>value1 \text{ °}</p> und einen Reibbeiwert von <T>\mu=</T><p>value2</p>. Eine Kiste der Masse <T>m_1=</T><p>value3 \text{ kg}</p> befindet sich auf der Rampe.
+
+Berechnen Sie, wie groß die Masse <T>m_2</T> sein muss, damit die Kiste nicht rutscht.

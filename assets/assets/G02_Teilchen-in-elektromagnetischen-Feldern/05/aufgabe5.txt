@@ -1,0 +1,1 @@
+Positive Ionen mit q=+e durchlaufen ein gekreuztes E- und B-Feld unabgelenkt wobei <T>E=</T><p>value1 \text{ kV}/\text{m}</p> ist und beide B-Felder die Stärke <T>B=</T><p>value2 \text{ T}</p> haben. Auf der Fotoplatte kommt das Teilchen mit <p>value3 \text{ cm}</p> Abstand zum Durchtrittspunkt an. Wie groß ist seine Masse?

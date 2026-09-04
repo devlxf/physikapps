@@ -1,0 +1,7 @@
+Berechnen Sie die Strecke, die das Auto während der Reaktionszeit zurücklegt: <p>s_0 = v_0 \cdot t_0</p>
+---HINT---
+Die verbleibende Bremsstrecke bis zur Radarfalle ist: <p>s_B = s_\text{ges} - s_0</p>
+---HINT---
+Berechnen Sie die Bremszeit bis zur Radarfalle mit dem Zeit-Weg-Gesetz für eine verzögerte Bewegung: <p>s_B = v_0 \cdot t_B - \frac{1}{2} a \cdot t_B^2</p>. Lösen Sie mit der Mitternachtsformel.
+---HINT---
+Berechnen Sie abschließend die Geschwindigkeit an der Radarfalle: <p>v = v_0 - a \cdot t_B</p>

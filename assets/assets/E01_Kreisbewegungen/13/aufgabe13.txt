@@ -1,0 +1,3 @@
+Eine Kurve hat einen Radius von <T>r=</T><p>value1 \text{ m}</p>. Ein Motorradfahrer wiegt samt Motorrad <T>m_M=</T><p>value2 \text{ kg}</p>, ein Autofahrer zusammen mit seinem Auto <T>m_A=</T><p>value3 \text{ kg}</p>. Beide Fahrzeuge verwenden die gleichen Reifenmischungen. Es handelt sich um flache, nicht überhöhte Kurven.
+
+Geben Sie das Geschwindigkeitsverhältnis <T>\frac{v_M}{v_A}</T> von Motorradfahrer zu Autofahrer an.

@@ -1,0 +1,1 @@
+Bestimmen Sie die kleinstmögliche Kreisbahngeschwindigkeit (1. Kosmische Geschwindigkeit), die ein Satellit haben muss, damit er nicht zurück auf den Planeten fällt, wenn dieser eine Masse von <T>M=</T><p>value1\cdot 10^{24}\text{ kg}</p> und einen Radius von <T>R=</T><p>value2 \text{ km}</p> hat.

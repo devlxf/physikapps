@@ -1,0 +1,4 @@
+Zwei Wellen mit <T>\,\,f_1=</T><p>value1\ \text{Hz}\,\,</p> und <T>\,\,f_2=</T><p>valueR\ \text{Hz}\,\,</p> werden überlagert.
+
+Berechnen Sie die Periodendauer <p>\,\,T_s\,\,</p> der Schwebung.
+

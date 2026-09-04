@@ -1,0 +1,7 @@
+Berechnen Sie zunächst die Wellenlänge aus der gegebenen Frequenz mit <p>\lambda = \frac{c}{f}</p>.
+---HINT---
+Beachten Sie, dass bei der Reflexion an einer leitenden Metalloberfläche ein Phasensprung von π auftritt. Konstruktive Interferenz tritt daher bei <p>\delta = \left(n + \frac{1}{2}\right) \cdot \lambda</p> auf.
+---HINT---
+Für die erstmalige konstruktive Interferenz setzen Sie <p>n = 0</p>, sodass <p>\delta = \frac{\lambda}{2}</p> gilt.
+---HINT---
+Bestimmen Sie den Gangunterschied geometrisch: <p>\delta = 2 \cdot \sqrt{a^2 + \left(\frac{x}{2}\right)^2} - x</p> und lösen Sie nach x auf.

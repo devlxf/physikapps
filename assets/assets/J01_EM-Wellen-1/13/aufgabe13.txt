@@ -1,0 +1,3 @@
+Ein Sender strahlt eine elektromagnetische Welle aus, die in einiger Entfernung senkrecht auf eine Metallplatte trifft. Ein Detektor wird entlang der Verbindungslinie zwischen Sender und Metallplatte verschoben. Dabei misst er die Stärke des empfangenen Signals in Abhängigkeit vom Abstand <T>x</T> zur Metallplatte. Die Abbildung zeigt das zugehörige Messdiagramm.
+
+Bestimmen Sie anhand des Diagramms die Frequenz <T>f</T> der elektromagnetischen Welle.

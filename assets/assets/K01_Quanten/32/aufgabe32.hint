@@ -1,0 +1,9 @@
+Überlegen Sie, welche Bedeutung die gemessenen Stromspitzen bei bestimmten Spannungen haben.
+---HINT---
+Die Stromspitzen entsprechen diskreten Anregungsenergien der Atome. Die Energie eines angeregten Zustands ergibt sich aus:
+<p>E = q \cdot U</p>
+Die Energiedifferenz zwischen zwei Anregungen ist die Energie des emittierten Photons.
+---HINT---
+Zwischen Energie und Wellenlänge eines Photons gilt:
+<p>E = \frac{h c}{\lambda}</p>
+Bestimmen Sie aus der Differenz der beiden Spannungen die Photonenenergie und berechnen Sie daraus die Wellenlänge <p>\lambda</p>.

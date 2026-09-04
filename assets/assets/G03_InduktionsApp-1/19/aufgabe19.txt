@@ -1,0 +1,3 @@
+Eine kreisrunde Aluminiumscheibe (<T>r=</T><p>value1 \text{ cm}</p>) rotiert mit <T>f=</T><p>value2</p> Umdrehungen pro Sekunde in einem homogenen Magnetfeld der Stärke <T>B=</T><p>value3 \text{ T}</p>. Die magnetischen Feldlinien verlaufen senkrecht zu der ebenfalls aus Aluminium bestehenden Rotationsachse. 
+
+Berechnen Sie die Spannung <T>U</T>, die zwischen der Rotationsachse und dem Rand der Aluminiumscheibe entsteht.

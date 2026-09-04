@@ -1,0 +1,3 @@
+Ein Gummiseil gehorcht im verwendeten Bereich dem Gesetz von Hooke. Das Gummiseil hat im ungedehnten Zustand eine Länge von <T>s_1=</T><p>value1 \text{ m}</p>. Hängt sich eine <T>m=</T><p>value2 \text{ kg}</p> schwere Person an das Gummiseil, so verlängert es sich auf <T>s_2=</T><p>value3 \text{ m}</p>.
+
+Berechnen Sie daraus die „Gummihärte" <T>D</T>.

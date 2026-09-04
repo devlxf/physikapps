@@ -1,0 +1,3 @@
+Gegeben ist eine Spule mit <p>value1 </p> Windungen, <p>value2 \text{ cm}</p> Länge und <p>value3 \text{ cm}^{2}</p> Querschnittsfläche. 
+
+Berechnen Sie die Induktivität der Spule.

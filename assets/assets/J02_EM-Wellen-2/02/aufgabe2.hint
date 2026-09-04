@@ -1,0 +1,5 @@
+Berechnen Sie zunächst den Beugungswinkel aus der Geometrie mit <p>\tan(\alpha) = \frac{y_n}{L}</p>.
+---HINT---
+Verwenden Sie die Gitterbedingung für konstruktive Interferenz: <p>\sin(\alpha) = \frac{n \cdot \lambda}{g}</p> und formen Sie nach λ um.
+---HINT---
+Für das erste Maximum setzen Sie <p>n = 1</p> und berechnen Sie die Wellenlänge.

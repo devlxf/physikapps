@@ -1,0 +1,7 @@
+Für die zeichnerische Lösung empfiehlt sich ein Maßstab von 200 kN je cm.
+---HINT---
+Für die rechnerische Lösung addieren Sie die Kräfte komponentenweise: <p>F_{res,y} = F_{1y} + F_{2y} + F_{3y}</p> für die vertikale <p>y</p>-Komponente.
+---HINT---
+Bei der <p>x</p>-Komponente müssen Sie darauf achten, dass sie in Träger 1 und 3 unterschiedliche Richtungen haben.
+---HINT---
+Die resultierende Kraft berechnen Sie mit <p>F_{res} = \sqrt{F_{res,x}^{2} + F_{res,y}^{2}}</p>

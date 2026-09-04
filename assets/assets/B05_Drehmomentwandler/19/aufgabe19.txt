@@ -1,0 +1,3 @@
+Ein Fahrrad habe die folgende Geometrie: Raddurchmesser <T>d=</T><p>value1 \text{ Zoll}</p>, Radius der Antriebsscheibe <T>r_{1}=</T><p>value2 \text{ cm}</p>, Radius der Abtriebsscheibe <T>r_{2}=</T><p>value3 \text{ cm}</p>.
+
+Das Fahrrad besitzt keinen Leerlauf. Ein Fahrradfahrer fährt <T>v=</T><p>value4 \text{ km/h}</p> schnell. Mit welcher Drehzahl muss er treten?

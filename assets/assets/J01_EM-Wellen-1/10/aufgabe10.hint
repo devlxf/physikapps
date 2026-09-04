@@ -1,0 +1,5 @@
+Verwenden Sie die Bedingung für konstruktive Interferenz (Maxima) bei zwei Antennen: <p>g \cdot |\sin(\alpha)| = n \cdot \lambda_0</p>.
+---HINT---
+Setzen Sie den gegebenen Antennenabstand <p>g = \lambda_0</p> in die Maximabedingung ein und vereinfachen Sie.
+---HINT---
+Bestimmen Sie die möglichen Werte für n, wobei <p>|\sin(\alpha)| \leq 1</p> gelten muss, und berechnen Sie den kleinsten Winkel ungleich Null.

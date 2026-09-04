@@ -1,0 +1,15 @@
+Nutzen Sie die Quantisierungsbedingung nach Bohr
+<p>2\cdot\pi\cdot r_n = n \cdot \lambda_{\text{DB}} </p>
+Überlegen Sie sich, wie man diese Beziehung nutzen kann, um die Geschwindigkeit <p>v</p> zu berechnen.
+---HINT---
+Die Wellenlänge in der Quantisierungsbedingung kann über die de-Broglie-Beziehung ausgedrückt werden als
+<p>\lambda_{\text{DB}}=h/p</p>
+Können Sie nun <p>v</p> berechnen?
+---HINT---
+Mit <p>p=m\cdot v</p> folgt
+<p>\lambda_{\text{DB}}=\frac{h}{m\cdot v}</p>
+Setzen Sie dies in die Gleichung aus 1. Hinweis ein  und formen sie nach <p>v</p> um. Was fehlt ihnen noch, um <p>v</p> zu berechnen?
+---HINT---
+Verwenden Sie den Bohrschen Radius <p>r_n</p>, der in der vorangegangenen Aufgabe aus dem Kräftegleichgewicht aus Coulomb-Kraft und Zentripetalkraft hergeleitet wurde
+<p>r_n = \frac{n^2\cdot h^2\cdot \varepsilon_0}{Z\cdot \mathrm{e} ^2\cdot \pi\cdot m_{\text{e}}}</p>
+Setzen Sie diesen Radius für <p>r_n</p> ein. Setzen Sie anschließend die gegebenen Werte, sowie Naturkonstanten ein und berechnen Sie das Ergebnis.

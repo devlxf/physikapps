@@ -1,0 +1,5 @@
+Ein Photon der Wellenlänge <T>\lambda_\text{vor}=</T><p>value1  \text{ pm}</p> trifft auf ein ruhendes freies Elektron.
+
+Das Photon werde unter einem Winkel von <T>\beta=</T><p>value2  \text{ \textdegree}</p> gestreut.
+
+Bestimmen Sie den Impuls <T>p_\text{nach}^\text{el}</T> des gestoßenen Elektrons mit Hilfe des Impulserhaltungssatzes.

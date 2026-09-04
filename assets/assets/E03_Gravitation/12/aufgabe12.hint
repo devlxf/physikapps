@@ -1,0 +1,7 @@
+Berechnen Sie die hinzuzufügende potenzielle Energie mit der Formel für die Hubarbeit: <p>W_{pot} = G\cdot M \cdot m \cdot \left(\frac{1}{r_0} - \frac{1}{r_1}\right)</p>
+---HINT---
+Berechnen Sie die kinetische Energie aufgrund der Erdrotation auf der Erdoberfläche. Nutzen Sie dazu die Bahngeschwindigkeit am Äquator mit der Umlaufzeit <p>T = 86400\,\text{s}</p>: <p>W_{kin,0} = \frac{2 \cdot m \cdot \pi^2 \cdot r^2}{T^2}</p>
+---HINT---
+Berechnen Sie die kinetische Energie auf der Umlaufbahn aus dem Kräftegleichgewicht: <p>W_{kin,1} = \frac{1}{2} \cdot G\cdot \frac{M_{Erde} \cdot m}{r_1}</p>
+---HINT---
+Die insgesamt hinzuzuführende Energie ist die Summe aus Hubarbeit und der Differenz der kinetischen Energien: <p>\Delta W_{ges} = \Delta W_{pot} + (W_{kin,1} - W_{kin,0})</p>

@@ -1,0 +1,6 @@
+Eine Kugel soll so abgeschossen werden, dass sie auf einer <T>s_y=</T><p>value1\text{ m}</p> hohen Lampe in <T>s_x=</T><p>value2\text{ m}</p> Entfernung liegen bleibt (Geschwindigkeit beim Auftreffen = 0). Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Wie schnell muss die Kugel abgeschossen werden?
+
+Zusatzfrage zum Nachdenken: In welchem Winkel muss die Abschussvorrichtung aufgestellt
+werden?

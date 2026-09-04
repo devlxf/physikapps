@@ -1,0 +1,10 @@
+Nutzen Sie die Formel für die Wellenfunktion <p>\,\,y(t, x)=\hat{y}\cdot\text{sin}(\omega_0\cdot t-k\cdot x)\,\,</p>, bzw. mit <p>\,\,\omega_0=2\cdot\pi\cdot f\,\,</p>
+und <p>\,\,k=2\cdot\pi/\lambda)\,\,</p> die Formel <p>\,\,s(x, t_1)=\hat{y}\cdot\text{sin}(2\cdot\pi\cdot f\cdot t_1-2\cdot\pi\cdot x/\lambda)</p>.
+---HINT---
+Betrachtet wird ein Oszillator bei <p>\,\,x=0\,\,</p>. Das bedeutet, dass sich das Argument des Sinus vereinfacht zu <p>\,\,s(x, t_1)=\hat{y}\cdot\text{sin}(2\cdot\pi\cdot f\cdot t_1</p>.
+---HINT---
+Setzen Sie die gegebene Amplitude <p>\,\,\hat{y}\,\,</p> und die gegebene Frequenz <p>\,\,f\,\,</p> ein. 
+---HINT---
+Lösen Sie abschließend nach <p>\,\,t_1\,\,</p> auf. Bilden sie dazu die Umkehrfunktion des Sinus <p>\,\,\text{sin}^{-1}</p>. Dies ist identisch zum Arkussinus <p>\,\,\text{arcsin}</p>.
+
+

@@ -1,0 +1,5 @@
+Konstruieren Sie zuerst ein Kräfteparallelogramm.
+---HINT---
+Der Neigungswinkel wird über den Tangens aus Gewichtskraft und Zentripetalkraft berechnet: <p>\tan(\alpha) = \frac{F_G}{F_z}</p>.
+---HINT---
+Setzen Sie die Formeln für Zentripetalkraft und Gewichtskraft ein und lösen Sie nach <p>v</p> auf: <p>v = \sqrt{\frac{g \cdot r}{\tan(\alpha)}}</p>.

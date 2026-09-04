@@ -1,0 +1,7 @@
+Nutzen Sie den Energiesatz zur Berechnung der Geschwindigkeit.
+---HINT---
+Die potenzielle Energie am oberen Punkt entspricht der potenziellen Energie unter dem betrachteten Winkel <p>\alpha</p> plus der kinetischen Energie an diesem Punkt: <p>W_{pot}^A = W_{pot}^B + W_{kin}^B</p>.
+---HINT---
+In der Formel für die kinetische Energie ist die Geschwindigkeit <p>v</p> enthalten. Beachten Sie: <p>W_{pot}^A = m \cdot g \cdot r</p> und <p>W_{pot}^B = m \cdot g \cdot r \cdot \cos(\alpha)</p>.
+---HINT---
+Nachdem nach <p>v</p> umgeformt wurde, können die gegebenen Werte eingesetzt werden: <p>v_B = \sqrt{2 \cdot g \cdot r \cdot (1 - \cos(\alpha))}</p>.

@@ -1,0 +1,5 @@
+Ein Wasserspringer mit der Gewichtskraft <T>F_2=</T><p>value1 \text{ N}</p> steht ganz am Ende des Sprungbrettes, das zwischen die Lager A und B eingespannt ist. Der Abstand zwischen den Lagern beträgt <T>a_1=</T><p>value2 \text{ cm}</p>. Die Gesamtlänge des Brettes beträgt 2 m. Es hat eine homogene Massenverteilung mit einer Gewichtskraft von <T>F_{Brett}=</T><p>value3 \text{ N}</p>.
+
+Welche Kraft drückt auf Lager B?
+
+Anm.: Die Masse des Brettes darf hier nicht vernachlässigt werden.

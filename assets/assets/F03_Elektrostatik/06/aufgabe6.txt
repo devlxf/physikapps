@@ -1,0 +1,4 @@
+Zwei Kugeln mit jeweils der Masse <T>m=</T><p>value1 \text{ g}</p> hängen an zwei isolierenden Fäden mit je <T>l=</T><p>value2 \text{ m}</p> Länge.
+Der Abstand beider Kugeln beträgt <T>d=</T><p>value3 \text{ cm}</p>. Beide Kugeln sind mit der Ladung <T>q</T> aufgeladen.
+
+Bestimmen Sie die Ladung <T>q</T>.

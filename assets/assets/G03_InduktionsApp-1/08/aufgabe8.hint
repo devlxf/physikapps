@@ -1,0 +1,17 @@
+Diese Aufgabe baut auf der Aufgabe zur Flächenberechnung auf. Die senkrecht durchsetzte Fläche A(t) variiert mit der Zeit
+---HINT---
+<p>A(t) = b \cdot 2 \cdot a \cdot sin(2\pi\cdot f\cdot t)</p>
+---HINT---
+Die Induktionsspannung U_(ind) berechnet sich über
+---HINT---
+<p>$U_{\text{ind}} = - N \cdot \frac{\mathrm{\Delta}\phi}{\Delta t}</p>$
+---HINT---
+Hier ist ϕ der magnetische Fluss als Produkt aus der magnetischen Flussdichte B und der durchsetzten Fläche A(t)
+---HINT---
+ϕ = B \cdot A(t)
+---HINT---
+(Anm.: Flussdichte B multipliziert mich Fläche A(t) ergibt den Fluss ϕ)
+---HINT---
+Da B in diesem Fall konstant ist, folgt
+---HINT---
+<p>$U_{\text{ind}} = - N \cdot B \cdot \frac{\mathrm{\Delta}\ \text{A}(t)}{\Delta t}</p>$

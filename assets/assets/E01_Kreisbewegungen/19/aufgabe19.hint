@@ -1,0 +1,5 @@
+Rechnen Sie die gegebene Geschwindigkeit in <p>\frac{m}{s}</p> um.
+---HINT---
+Berechnen Sie aus dem gegebenen Durchmesser den Kurvenradius.
+---HINT---
+Berechnen Sie anschließend die Zentripetalbeschleunigung: <p>a_z = \frac{v^2}{r}</p>.

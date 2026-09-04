@@ -1,0 +1,4 @@
+Auf einem Akku steht „<T>Q_\text{max}=</T><p>value1 \text{ mAh}</p>“.
+Was bedeutet diese Angabe? Im Stand-by-Betrieb fließen <T>I=</T><p>value2 \text{ mA}</p>.
+
+Schätzen Sie ab, wie viele Stunden <T>t</T> das Handy in diesem Modus betrieben werden kann, wenn der Akku zu Beginn voll aufgeladen ist.

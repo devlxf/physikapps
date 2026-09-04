@@ -1,0 +1,5 @@
+Ein Meister wiegt <T>m_{M}=</T><p>value1 \text{ kg}</p> und zieht einen Kartoffelsack der Masse <T>m_{K}=</T><p>value2 \text{ kg}</p> über eine feste Rolle auf eine Höhe von <T>h=</T><p>value3 \text{ m}</p>. Um den Kartoffelsack dort entgegennehmen zu können, bittet er seinen Lehrling mit der Masse <T>m_{L}=</T><p>value4 \text{ kg}</p>, das Seil festzuhalten.
+
+Der weitere Verlauf des Geschehens ist im Bild dargestellt.
+
+Mit welcher Geschwindigkeit trifft der Kartoffelsack auf dem Boden auf?

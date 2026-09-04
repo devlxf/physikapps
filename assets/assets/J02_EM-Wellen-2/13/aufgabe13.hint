@@ -1,0 +1,5 @@
+Berechnen Sie den kritischen Sehwinkel bei geweiteter Pupille mit dem Rayleigh-Kriterium: <p>\sin(\alpha'_{\text{krit}}) = 1,22 \cdot \frac{\lambda}{d'}</p>.
+---HINT---
+Bilden Sie das Verhältnis der kritischen Sehwinkel: <p>\frac{\alpha_{\text{krit}}}{\alpha'_{\text{krit}}}</p>.
+---HINT---
+Die prozentuale Verbesserung der Sehschärfe entspricht <p>(\text{Verhältnis} - 1) \times 100\%</p>.

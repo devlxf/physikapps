@@ -1,0 +1,3 @@
+Ein Fußball wird mit <T>v_0=</T><p>value1\text{ m/s}</p> senkrecht nach oben geschossen. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Welche Höhe erreicht er maximal?

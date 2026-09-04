@@ -1,0 +1,4 @@
+Eine quadratische Leiterschleife mit der Seitenlänge <T>a=</T><p>value1 \text{ m}</p> rotiert in einem homogenen Magnetfeld der Stärke <T>B=</T><p>value2 \text{ T}</p> in der gezeichneten Richtung. Die dabei induzierte Spannung <T>U_\text{ind}</T> wird über Schleifringe abgegriffen und an den Klemmen 1 und 2 einem ohmschen Widerstand <T>R=</T><p>value3 \text{ }\Omega</p> zugeführt.
+
+Berechnen Sie die maximale Induktionsspannung <T>U_\text{ind}</T>, wenn die Leiterschleife mit <T>f=</T><p>value4 \text{ U}/\text{min}</p> rotiert.
+

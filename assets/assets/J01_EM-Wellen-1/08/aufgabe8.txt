@@ -1,0 +1,3 @@
+Die Stabantenne hat eine Länge von <T>l=</T><p>value1 \text{ m}</p>. 
+
+Bei welcher Frequenz <T>f_0</T> ist die Energieübertragung vom Sendeschwingkreis auf die Antenne optimal?

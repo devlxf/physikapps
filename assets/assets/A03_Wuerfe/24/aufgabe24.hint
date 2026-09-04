@@ -1,0 +1,5 @@
+Stellen Sie die Bewegungsgleichungen auf. In <p>x</p>-Richtung: <p>s_x = v_0 \cdot \sin(\alpha) \cdot t</p>. In <p>y</p>-Richtung: <p>s_y = -\frac{1}{2} g \cdot t^2 + v_0 \cdot \cos(\alpha) \cdot t</p>
+---HINT---
+Lösen Sie die <p>x</p>-Gleichung nach <p>t</p> auf und setzen Sie es in die <p>y</p>-Gleichung ein, um eine Gleichung nur in <p>\alpha</p> zu erhalten.
+---HINT---
+Lösen Sie die resultierende Gleichung numerisch oder mit der ABC-Formel nach <p>\alpha</p> auf.

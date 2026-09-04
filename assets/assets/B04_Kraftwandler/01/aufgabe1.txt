@@ -1,0 +1,3 @@
+Eine Lampe soll höhenverstellbar aufgehängt werden. Berechnen Sie das Gegengewicht der goldenen, losen Rolle, wenn die Lampe eine Gewichtskraft von <T>F_G=</T><p>value1 \text{ N}</p> hat.
+
+Nehmen Sie dabei zur Vereinfachung an, dass die Konstruktion vollständig reibungsfrei ist und das Kabel keine Masse besitzt.

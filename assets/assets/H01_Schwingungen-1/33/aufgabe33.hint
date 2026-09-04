@@ -1,0 +1,9 @@
+Die Resonanzfrequenz <p>\,\,\omega_0\,\, </p> des elektromagnetischen Schwingkreis berechnet sich zu
+
+      <p>\,\,\begin{aligned}\\
+\omega_0=\frac{1}{\sqrt{L\cdot C}}
+\end{aligned}\,\,</p>
+
+---HINT---
+Weiterhin ist <p>\,\,\omega_0=2\cdot\pi\cdot f</p>. Formen Sie zur Frequenz <p>f</p> um setzen sie die gegebenen Werte ein.
+

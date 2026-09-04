@@ -1,0 +1,4 @@
+Die Spule eines Lautsprechers aus dünnem Draht befindet sich in einem Magnetfeld zwischen einem zylinderförmigen inneren Polschuh (Nordpol) und einem äußeren Polschuh in der Form eines Hohlzylinders (Südpol). Die Flussdichte im Spalt zwischen den Polschuhen ist als konstant anzusehen.
+Die Spule ist fest mit der Lautsprechermembran verbunden und berührt die Polschuhe nicht. Wird die Spule von einem Strom durchflossen, so erfährt sie eine Kraft in Richtung der Spulenachse und bewegt die Membran. Die Verformung der Membran geschieht so, dass die Verschiebung der Spule und die wirkende Kraft zueinander proportional sind. Im gegebenen Fall hat die Spule <T>n=</T><p>value1 \text{ }</p> Windungen und einen Durchmesser von <T>d=</T><p>value2 \text{ mm}</p>.
+
+Welche Kraft wird auf die Membran ausgeübt, wenn ein Strom von <T>I=</T><p>value3 \text{ mA}</p> durch die Spule fließt und der Magnet eine magnetische Flussdichte von <p>value4 \text{ T}</p> liefert?

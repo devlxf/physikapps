@@ -1,0 +1,3 @@
+Ein Plattenkondensator mit der Kapazität <T>C=</T><p>value1 \text{ nF}</p> wird an ein Netzgerät mit der Gleichspannung <T>U=</T><p>value2 \text{ kV}</p> angeschlossen.
+
+Berechnen Sie für einen Plattenabstand von <T>d=</T><p>value3 \text{ cm}</p> die Anzahl von Elementarladungen pro Quadratzentimeter Plattenfläche, wenn der Kondensator voll aufgeladen ist.

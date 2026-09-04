@@ -1,0 +1,3 @@
+Ein Rotor auf einem Jahrmarkt hat einen Innendurchmesser von <T>d=</T><p>value1 \text{ m}</p>. Der Schwerpunkt der Mitfahrer liegt <T>s=</T><p>value2 \text{ cm}</p> vor der Wand. Der minimale Reibbeiwert zwischen Körper und Wand beträgt <T>\mu=</T><p>value3</p>.
+
+Bei welcher Mindest-Drehfrequenz <T>f</T> ist gewährleistet, dass kein Mitfahrer abrutscht?

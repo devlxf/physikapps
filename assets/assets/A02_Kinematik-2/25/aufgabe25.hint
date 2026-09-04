@@ -1,0 +1,15 @@
+Zerlegen Sie die Fläche in fünf einfache Figuren:
+
+<p>\textbf{Abschnitt 1 – Beschleunigung (Dreieck):}</p> <p>s_1 = \tfrac{1}{2} \cdot t_A \cdot v_1</p>
+
+<p>\textbf{Abschnitt 2 – konstant bei } v_1 \textbf{ (Rechteck):}</p> <p>s_2 = (t_B - t_A) \cdot v_1</p>
+
+<p>\textbf{Abschnitt 3 – Teilabbremsung auf } v_2 \textbf{ (Trapez):}</p> <p>s_3 = \tfrac{v_1 + v_2}{2} \cdot (t_C - t_B)</p>
+
+<p>\textbf{Abschnitt 4 – konstant bei } v_2 \textbf{ (Rechteck):}</p> <p>s_4 = (t_D - t_C) \cdot v_2</p>
+
+<p>\textbf{Abschnitt 5 – Vollabbremsung bis Stillstand (Dreieck):}</p> <p>s_5 = \tfrac{1}{2} \cdot (t_E - t_D) \cdot v_2</p>
+
+Gesamtstrecke bis <p>t_1</p>: addieren Sie nur die Flächen der Abschnitte, die vor der roten Linie liegen (ggf. letzten Abschnitt anteilig).
+
+Jedes Kästchen entspricht <p>1\,\text{s} \times 5\,\text{m/s} = 5\,\text{m}</p>.

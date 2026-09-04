@@ -1,0 +1,2 @@
+Zwei Spulen mit <T>n_{1}=</T><p>value1 \text{ Windungen}</p> und <T>n_{2}=</T><p>value2 \text{ Windungen}</p> werden auf einen geschlossenen Eisenkern gesetzt. Wie groß ist die Spannung <T>U_{2}</T>, wenn <T>U_{1}</T> der typischen Netzspannung von <T>U_{0}=</T><p>value3 \text{ V}</p> entspricht?
+ Wir nehmen an, dass es sich hierbei um einen idealen Transformator handelt.

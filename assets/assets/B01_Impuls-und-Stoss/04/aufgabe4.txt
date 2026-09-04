@@ -1,0 +1,1 @@
+Eine Billardkugel wiegt <p>value1 \text{ g}</p>. Sie wird in <p>value2 \text{ s}</p> auf eine Geschwindigkeit von <p>value3 \text{ m/s}</p> beschleunigt. Wie groß ist die durchschnittliche Kraft, die in der Stoßzeit auf die Kugel einwirkt?

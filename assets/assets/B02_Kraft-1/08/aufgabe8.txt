@@ -1,0 +1,10 @@
+Um die Höhe der obersten Etage abzuschätzen, stellt sich eine Person im Aufzug auf eine Personenwaage.
+
+\begin{itemize}
+  \item Vor dem Anfahren zeigt die Waage <T>F_0=</T><p>value1 \text{ N}</p> an.
+  \item Beim Anfahren zeigt die Waage <T>\Delta t_1=</T><p>value2 \text{ s}</p> lang die Kraft <T>F_1=</T><p>value3 \text{ N}</p>.
+  \item Anschließend zeigt die Waage für <T>\Delta t_2=</T><p>value4 \text{ s}</p> lang die <T>F_2=</T><p>value1 \text{ N}</p>.
+  \item Schließlich zeigt die Waage für <T>\Delta t_3=</T><p>value5 \text{ s}</p> lang nur noch die Kraft <T>F_3=</T><p>value6 \text{ N}</p> an. Dann hält der Aufzug.
+\end{itemize}
+
+In welcher Höhe <T>h</T> befindet sich die oberste Etage?

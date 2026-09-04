@@ -1,0 +1,10 @@
+Überlegen Sie zunächst, wie die Wellenlänge der Elektronen aus der Beschleunigungsspannung bestimmt werden kann.
+---HINT---
+Für Elektronen gilt die de-Broglie-Beziehung:
+<p>\lambda = \frac{h}{p}</p>
+Der Impuls ergibt sich aus der kinetischen Energie:
+<p>p = \sqrt{2 m q U}</p>
+---HINT---
+Die Beugung am Kristallgitter wird durch die Bragg-Bedingung beschrieben:
+<p>2 g \cdot \sin(\theta_B) = \lambda</p>
+Setzen Sie die berechnete Wellenlänge ein und lösen Sie die Gleichung nach dem Gitterabstand <p>g</p> auf.

@@ -1,0 +1,17 @@
+Der Hin- und Rückweg vom Drehspiegel zum Hohlspiegel beträgt insgesamt <p>2\cdot s=c\cdot\Delta t</p>.
+---HINT---
+Der Winkel <p>\Delta\varphi</p>  des Drehspiegels ändert sich in der Zeit <p>\Delta t</p> um <p>\Delta\varphi=\omega\cdot\Delta t</p>
+---HINT---
+Die Winkeländerung <p>\Delta\varphi</p> führt zu einer Strahlabweichung um den Winkel <p>\alpha=2\cdot\Delta\varphi</p> zwischen Drehspiegel und Skala. Der Faktor 2 ergibt sich dadurch, dass die  Winkeländerung sowohl für den einfallenden als auch für den reflektierten rücklaufenden Strahl gilt.
+---HINT---
+Der Winkel <p>\alpha</p>, bzw- <p>2\cdot\Delta\varphi</p> kann mit dem Tangens berechnet werden. Dabei gilt 
+
+<p>\text{tan}(\alpha)=\frac{x}{L}</p>
+---HINT---
+Nutze die Kleinwinkelnäherung
+
+<p>\text{tan}(\alpha)\sim\alpha =2\cdot\varphi=\frac{x}{L}</p>
+
+und setze <p>\varphi</p> in <p>\Delta\varphi=\omega\cdot\Delta t</p> ein.
+---HINT---
+Forme <p>\Delta\varphi=\omega\cdot\Delta t</p> abschließend nach <p>\Delta t</p> um und setze in <p>2\cdot s=c\cdot\Delta t</p> ein, um <p>c</p> zu berechnen.

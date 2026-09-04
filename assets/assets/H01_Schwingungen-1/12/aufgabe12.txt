@@ -1,0 +1,4 @@
+Ein Fadenpendel hat auf der Erde eine Schwingungsdauer von <T>T=</T><p>value1\ \text{s}</p>. Der Pendelkörper dieses Fadenpendels hat die Masse <T>m=</T><p>value2\ \text{kg}</p>. Der Faden hält eine maximale Spannkraft von <T>F_{\text{max}}=</T><p>valueR\ \text{N}</p> aus.
+
+Wie groß ist die maximal zulässige Auslenkhöhe <T>y_0</T> ohne dass die Belastung des Fadens beim Durchgang durch die Gleichgewichtslage zu hoch wird und dieser reißt?
+

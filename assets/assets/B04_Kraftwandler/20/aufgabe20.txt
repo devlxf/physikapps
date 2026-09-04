@@ -1,0 +1,5 @@
+In der Autowerkstatt will Azubi Hans ein volles Ölfass mit einem Leergewicht von <T>F_{leer}=</T><p>value1 \text{ N}</p>, einem Volumen von <T>V=</T><p>value2 \text{ L}</p> und einem Durchmesser von <T>d=</T><p>value3 \text{ cm}</p> am Werkstatteingang über eine <T>s=</T><p>value4 \text{ cm}</p> hohe Schwelle rollen.
+
+Berechnen Sie die Kraft, die Hans mindestens aufwenden muss, um das Fass über die Schwelle zu rollen.
+
+Gehen Sie von einer Öldichte von <T>\rho_{Öl}=</T><p>9 \text{ N/L}</p> aus.

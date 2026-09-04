@@ -1,0 +1,3 @@
+Am 20. Mai 1990 stellte Randy Barnes den Weltrekord im Kugelstoßen auf. Die <T>m=</T><p>7{,}257\text{ kg}</p> schwere Kugel erreichte eine Weite von <T>d=</T><p>value1\text{ m}</p>. Der Abwurfpunkt lag <T>h_0=</T><p>value2\text{ m}</p> über dem Erdboden. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Leiten Sie ausgehend von der Wurfparabel eine Gleichung zur Berechnung der Abwurfgeschwindigkeit her und berechnen Sie diese für einen Abwurfwinkel von <T>\alpha=</T><p>45\text{°}</p>.

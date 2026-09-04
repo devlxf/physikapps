@@ -1,0 +1,12 @@
+Bestimmen Sie zunächst die Energie des Photons aus seiner Wellenlänge. Nutzen Sie dazu den Zusammenhang zwischen Wellenlänge und Photonenenergie.
+---HINT---
+Für ein Photon gilt:
+<p>E = h \cdot f</p>
+mit
+<p>f = \frac{c}{\lambda}</p>
+Daraus folgt:
+<p>E = \frac{h c}{\lambda}</p>
+---HINT---
+Zwischen Energie und relativistischer Masse besteht der Zusammenhang:
+<p>E = m_{\text{rel}} \cdot c^2</p>
+Setzen Sie die berechnete Energie ein und lösen Sie die Gleichung nach der relativistischen Masse <p>m_{\text{rel}}</p> auf.

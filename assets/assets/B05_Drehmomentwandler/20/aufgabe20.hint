@@ -1,0 +1,5 @@
+Der Radius des Rades <p>z</p> ist <p>d/2</p>. 1 Zoll entspricht 2,54 cm.
+---HINT---
+Bestimmen Sie zuerst die Reibungskraft auf die Straße mit dem Gesetz für die Reibungskraft. Beachten Sie dabei, dass die Unterlagskraft sich aus der Gewichtskraft des Radfahrers und des Fahrradgewichtes zusammensetzt.
+---HINT---
+Haben Sie die Rollreibung berechnet, können Sie das Moment auf die Hinterachse, dann die Kraft auf die Kette, dann das Moment auf die Vorderachse und schließlich die benötigte Tretkraft berechnen. Hier ist es also am sinnvollsten, die Physik des Fahrrades von hinten nach vorne abzuarbeiten.

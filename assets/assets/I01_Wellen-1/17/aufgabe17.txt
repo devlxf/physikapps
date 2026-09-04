@@ -1,0 +1,3 @@
+Wenn man einen <T>\,\,l=</T><p>value1\ \text{m}\,\,</p> langen, beidseitig eingespannten Gummischlauch mit <T>\,\,f_1=</T><p>value2\ \text{Hz}\,\,</p> anregt, bildet sich eine stehende Querwelle mit <T>\,\,n_1=</T><p>value3\,\,</p> Bäuchen aus. 
+
+Berechnen Sie die Eigenfrequenz <T>\,\,f_2\,\,</T>, bei der <T>\,\,n_2=</T><p>value4\,\,</p> Bäuche entstehen.

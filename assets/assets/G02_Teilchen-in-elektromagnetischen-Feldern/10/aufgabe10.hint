@@ -1,0 +1,9 @@
+Als Ansatz wählen Sie das Kräftegleichgewicht <p>F_L = F_Z</p>.
+---HINT---
+Setzen Sie die entsprechenden Formeln für Zentripetalkraft und Lorentz-Kraft ein und lösen Sie nach <p>r</p> auf.
+---HINT---
+Die erhaltene Gleichung hängt von der Teilchenmasse <p>m</p> ab. Die Masse von <p>^{12}C</p> bzw. <p>^{14}C</p> entspricht der 12-fachen, bzw. 14-fachen Masse des Protons.
+---HINT---
+Den Abstand, in dem beide Teilchen auf der Schiene auftreffen, erhalten Sie mit
+
+<p>\Delta y = 2 \cdot r_{^{14}\ \text{C}} - 2 \cdot r_{^{12}\ \text{C}}</p>.

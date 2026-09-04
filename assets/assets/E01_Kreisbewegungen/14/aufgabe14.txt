@@ -1,0 +1,3 @@
+Ein Typ schleudert eine Kugel mit der Masse <T>m=</T><p>value1 \text{ g}</p> horizontal über seinem Kopf. Die Länge des Fadens beträgt <T>l=</T><p>value2 \text{ cm}</p> und er macht <T>n=</T><p>value3 \text{ U/min}</p>.
+
+Berechnen Sie, wie groß der Betrag der Fadenspannung <T>F_S</T> ist.

@@ -1,0 +1,5 @@
+Konstruieren Sie zur Visualisierung ein Kräfteparallelogramm.
+---HINT---
+Der Auslenkwinkel der Kugeln wird über den Tangens aus Zentripetalkraft und Gewichtskraft berechnet: <p>\tan(\alpha) = \frac{F_G}{F_z} = \frac{g}{\omega^2 \cdot r}</p>.
+---HINT---
+Mit dem Auslenkwinkel lässt sich die von den Kugeln erreichte Höhe berechnen. Aus den Längenverhältnissen folgt: <p>h = R - \frac{g}{\omega^2}</p>.

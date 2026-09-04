@@ -1,0 +1,5 @@
+Ein Affe mit einer Masse von <T>m_{Affe}=</T><p>value1 \text{ kg}</p> hängt an einer losen Rolle, die über zwei feste Rollen mit einem Obstkorb verbunden ist. Das System befindet sich im Gleichgewicht. Der Affe nimmt 3 Bananen (je <T>m_{Banane}=</T><p>value2 \text{ g}</p>) aus dem Korb, die ihm herunterfallen. Als der Korb daraufhin beginnt, sich nach oben zu bewegen, hält der Affe ihn fest und nimmt sich noch eine Banane. Diesmal gelingt es ihm, sie zu essen.
+
+Berechnen Sie den Betrag der Kraft, mit der der Affe den Korb festhalten muss.
+
+Nehmen Sie dabei zur Vereinfachung an, dass die Konstruktion vollständig reibungsfrei ist und das Seil sowie die Rollen keine Masse besitzen.

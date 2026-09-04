@@ -1,0 +1,6 @@
+Das Magnetron einer Mikrowelle erzeugt eine Frequenz von <T>f=</T> <p>value1 \text{ GHz}</p>. Ein Stück Schokolade, dass in der Mikrowelle erhitzt wird, erhält in einem Abstand von <T>l=</T> <p>valueR \text{ cm}</p> sichtbare Schmelzstreifen.
+
+Berechnen Sie mit den gegebenen Werten die Lichtgeschwindigkeit <T>c</T>.
+
+Anmerkung: Gefragt ist hier der exakte Messwert. Er weicht aufgrund von Messunsicherheiten von der Naturkonstanten 
+<T>c=</T> <p>299.792 \text{ km/s}</p> ab. 

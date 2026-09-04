@@ -1,0 +1,1 @@
+Eine Kugel wird aus der Ruhelage fallengelassen. Mit einer Stroboskoplampe werden im zeitlichen Abstand von <T>\Delta t=</T><p>value1\text{ s}</p> Positionen festgehalten. Berechnen Sie mit Hilfe der Aufnahme die Beschleunigung der Kugel.

@@ -1,0 +1,5 @@
+Ein Heizstrahler mit der Leistung <T>P=</T><p>value1 \text{ W}</p> ist über eine Kabeltrommel mit <T>l=</T><p>value2 \text{ m}</p> Kupferleitung (<T>A=</T><p>value3 \text{ mm}^2</p>, spezifischer Widerstand <T>\rho=</T><p>value4\ \Omega \cdot \text{mm}^2\text{/m}</p>) an die Netzspannung <T>U_0=</T><p>value5 \text{ V}</p> angeschlossen.
+
+Berechnen Sie die in der Vergleichsleitung bei <T>t=</T><p>value6 \text{ h}</p> Betrieb des Strahlers entstehende Wärmeenergie.
+
+Anm.: Die Netzspannung ist eine Wechselspannung. Da dies einen Einfluss auf die Rechnung hätte, nehmen Sie zur Vereinfachung eine Gleichspannung mit <T>U_0=</T><p>value5 \text{ V}</p> an.

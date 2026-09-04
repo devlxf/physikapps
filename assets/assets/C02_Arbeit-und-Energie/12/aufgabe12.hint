@@ -1,0 +1,9 @@
+Berechnen Sie mit dem Hookeschen Gesetz zuerst die Auslenkung <p>s_1</p> der Feder durch die Gewichtskraft.
+---HINT---
+Berechnen Sie die Spannenergie der Feder bei maximaler Auslenkung.
+---HINT---
+Stellen Sie den Energieerhaltungssatz auf. D.h. die Spannenergie am tiefsten Punkt entspricht der Summe aus potenzieller Energie und Spannenergie am oberen Umkehrpunkt.
+---HINT---
+Sie erhalten eine quadratische Gleichung, mit der Sie die Höhe des oberen Umkehrpunktes berechnen können.
+---HINT---
+Dann kennen Sie auch die Federauslenkung an diesem Umkehrpunkt und können schließlich die Spannenergie der Feder berechnen.

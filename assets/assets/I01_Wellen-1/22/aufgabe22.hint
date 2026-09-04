@@ -1,0 +1,39 @@
+Der Gangunterschied <p>\delta</p> beider Wellen entspricht dem Unterschied der Längen der beiden Strecken <p>\,\,\overline{PS}\,\,</p> und <p>\,\,\overline{QS}\,\,</p>. Dieser Längenunterschied sei <p>\,\,\overline{QT}\,\,</p>.
+---HINT---
+Die Strecke <p>\,\,\overline{QT}\,\,</p> ergibt sich mit dem Winkel <p>\,\,\alpha\,\,</p> aus
+
+<p>\text{sin}(\alpha)=\frac{\overline{QT}}{\overline{PT}}</p>
+---HINT---
+Der Winkel Winkel <p>\,\,\alpha\,\,</p> ist über den Sinus in dem gegebenem Messaufbau nur schwer zu bestimmen. Jedoch können die Strecken <p>\,\,y=\overline{SR}\,\,</p> und <p>\,\,L=\overline{PR}\,\,</p>  leicht bestimmt werden. Es gilt
+
+<p>\text{tan}(\alpha)=\frac{\overline{SR}}{\overline{PR}}</p>
+---HINT---
+In Kleinwinkelnäherung gilt
+
+<p>\text{sin}(\alpha)\sim\text{tan}(\alpha)</p>
+
+Mit den gegebenen Streckenverhältnissen lässt sich damit der Gangunterschied <p>\,\,\delta\,\,</p> ermitteln.
+---HINT---
+Aus
+
+<p>\text{sin}(\alpha)\sim\text{tan}(\alpha)</p>
+
+folgt
+
+<p>\frac{\overline{QT}}{\overline{PT}}=\frac{\overline{SR}}{\overline{PR}}</p>
+
+Der Gangunterschied ist <p>\,\,\overline{QT}</p>
+---HINT---
+Um die Frequenz ermitteln zu können, wird nun zuerst die Wellenlänge benötigt. Die Minimumsbedingung lautet
+
+<p>\delta=\frac{2\cdot n+1}{2}\cdot\lambda</p>
+---HINT---
+Für <p>\,\,n=0\,\,</p> folgt
+
+<p>\delta=\frac{1}{2}\cdot\lambda</p>
+
+Hierüber lässt sich <p>\,\,\lambda\,\,</p> berechnen. 
+---HINT---
+Die Frequenz <p>\,\,f\,\,</p> ergibt sich nun zu
+
+<p>f=\frac{c}{\lambda}</p>

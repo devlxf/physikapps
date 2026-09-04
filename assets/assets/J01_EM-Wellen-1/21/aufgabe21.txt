@@ -1,0 +1,3 @@
+Licht der Wellenlänge <T>\lambda=</T><p>value1 \text{ nm}</p> wird in ein unbekanntes Medium gebrochen. Der Einfallswinkel wird zu <T>\alpha=</T> <p>value2 ^{\circ}</p> gemessen, der Ausfallswinkel wird zu <T>\beta=</T><p>value3 ^{\circ}</p> gemessen.
+
+Bestimmen Sie den Brechungsindex <T>n</T> des Mediums.

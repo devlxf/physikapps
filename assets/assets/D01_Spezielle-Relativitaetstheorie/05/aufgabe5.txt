@@ -1,0 +1,4 @@
+Myonen entstehen durch Wechselwirkungen von kosmischer Höhenstrahlung mit Protonen in der Erdatmosphäre in ca. <T> s=</T><p>value1 \text{ km}</p> Höhe. Myonen sind instabile Elementarteilchen mit einer Halbwertszeit von 1,52 µs. Von 1000 Teilchen sind nach 1,52 µs also nur noch 500 Teilchen übrig. Nach 3,04 µs nur noch 250 Teilchen, und so weiter. Ein Myon bewegt sich nun mit einer Geschwindigkeit von <T> v=</T><p>value2\cdot\text{c}</p>. 
+
+Berechnen Sie, wie viel Zeit <T>t</T> das Myon mit klassischer Rechnung bis zur Erdoberfläche benötigen würden.
+

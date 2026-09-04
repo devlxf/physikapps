@@ -1,0 +1,3 @@
+Die Normalkraft \(F_N\) auf den Boden ist die Gewichtskraft \(F_G\) der Person abzüglich der Zugkraft \(F_Z\): <p>F_N = F_G - F_Z</p>
+---HINT---
+Das Rutschen beginnt, sobald die Zugkraft \(F_Z\) größer als \(\mu_H \cdot F_N\) wird: <p>F_Z \geq \mu_H \cdot F_N</p>

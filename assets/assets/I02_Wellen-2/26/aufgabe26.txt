@@ -1,0 +1,4 @@
+Eine Schallwelle hat in Luft (Dichte <T>\rho=</T><p>1,25\ \text{kg/m}^3</p>) die Schallgeschwindigkeit <T>c=</T><p>value2\ \text{m/s}</p>, die Frequenz <T>f=</T><p>value3\ \text{Hz}</p> und die Intensität <T>I=</T><p>valueR\ \text{W/m}^2</p>.
+
+Berechnen Sie den Schalldruckpegel <p>L_p</p>.
+

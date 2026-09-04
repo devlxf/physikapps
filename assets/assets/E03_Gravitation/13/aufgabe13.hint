@@ -1,0 +1,3 @@
+Die Gravitationsfeldstärke ist definiert als <p>g = \frac{F_G}{m}</p>. Kombiniert mit dem Gravitationsgesetz ergibt sich: <p>G = G \cdot \frac{M}{r^2}</p>
+---HINT---
+Setzen Sie den Planetenradius als Abstand <p>r</p> ein, um die Gravitationsfeldstärke auf der Oberfläche zu berechnen.

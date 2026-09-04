@@ -1,0 +1,11 @@
+Betrachten Sie diese gemischte Schaltung als Zusammensetzung aus einer reinen Serienschaltung und einer reinen Parallelschaltung.
+---HINT---
+Berechnen Sie zuerst den Widerstand der Parallelschaltung separat.
+---HINT---
+Berechnen Sie dann den Gesamtwiderstand der Schaltung.
+---HINT---
+Mit dem Ohm’schen Gesetz können Sie danach den Strom berechnen, der durch die gesamte Schaltung fließt.
+---HINT---
+Dieser Strom fließt auch vollständig durch den zweiten Teil der Schaltung. Damit kann dann wiederum mit dem Ohm’schen Gesetz die Spannung berechnet werden, die über dem parallelen Teil abfällt.
+---HINT---
+Die Spannung, die insgesamt über dem parallelen Teil der Schaltung abfällt, entspricht der Spannung, die über jeden Widerstand der Parallelschaltung abfällt.

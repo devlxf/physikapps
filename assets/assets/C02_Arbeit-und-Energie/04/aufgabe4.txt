@@ -1,0 +1,1 @@
+Ein Stausee (Oberbecken) hat die Fläche <p>value1 \text{ km}^2</p>. Das ausströmende Wasser fließt durch Rohre in das <p>value2 \text{ m}</p> tiefer liegenden Unterbecken. Um welche Höhe <T>d</T> senkt sich der Wasserspiegel des Oberbeckens, wenn durch das Ausströmen des Wassers in das Unterbecken die Energie <p>value3 \cdot 10^8 \text{ kJ}</p> frei wird?

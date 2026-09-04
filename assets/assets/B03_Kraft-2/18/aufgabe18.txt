@@ -1,0 +1,3 @@
+Eine Kiste wiegt <T>m=</T><p>value1 \text{ kg}</p>. Die Haftreibung <T>\mu_H</T> der Kiste beträgt <p>value2</p>. Die Kiste wird unter einem Winkel von <T>\alpha=</T><p>value3 \text{ °}</p> geschoben.
+
+Wie viel Kraft muss aufgewendet werden, um die Kiste anzuschieben?

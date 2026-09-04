@@ -1,0 +1,9 @@
+Ein Skilift zieht über eine Schlepplänge von <T>l=</T><p>value1 \text{ m}</p> die Skifahrer nach oben. Er schafft das mit einer Geschwindigkeit von <T>v=</T><p>value2 \text{ m/s}</p>. Nach den Angaben des Liftbetreibers können <T>n=</T><p>value3 \text{ Pers/h}</p> nach oben befördert werden. Der Höhenunterschied beträgt <T>h=</T><p>value4 \text{ m}</p>.
+
+Welche Leistung <T>P</T> muss der Antrieb aufbringen, wenn man mit maximaler Belastung rechnet?
+
+Anmerkung: Die maximale Belastung würde dann vorliegen, wenn an jedem Bügel 2 Erwachsene Personen hängen, deren Ski nicht besonders gut gewachst sind. Der Reibbeiwert von Ski und Schnee beträgt dann <T>\mu=</T><p>value5</p>.
+
+Für den Extremfall nehmen wir weiterhin an, dass die Personen sehr schwer sind und im Mittel alle <T>m=</T><p>value6 \text{ kg}</p> wiegen.
+
+Denken Sie zusätzlich darüber nach, warum das Gewicht der Bügel und des Seils für den Betrieb keine Rolle spielt.

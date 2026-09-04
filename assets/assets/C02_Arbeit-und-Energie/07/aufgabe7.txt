@@ -1,0 +1,1 @@
+Während ein Auto mit der Geschwindigkeit <p>value1 \text{ km/h}</p> eine Straße mit <p>value2\ ^\circ</p> Steigung aufwärts fährt, kuppelt der Fahrer den Motor aus. Wie weit kommt das Auto dann noch (ohne Reibung)?

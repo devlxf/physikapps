@@ -1,0 +1,16 @@
+Verstärkung tritt beim Gangunterschied <p>\,\,\delta=n\cdot\lambda\,\,</p> auf. 
+---HINT---
+Der Gangunterschied <p>\,\,\delta\,\,</p> ergibt sich aus den Unterschieden der Streckenlängen <p>\,\,e_1\,\,</p> und <p>\,\,e_2\,\,</p>, d.h.
+
+<p>\delta=e_2-e_1</p>
+ ---HINT---
+<p>e_2\,\,</p> kann über den Satz von Pythagoras aus <p>\,\,e_1\,\,</p> und dem Lautsprecherabstand <p>\,\,g\,\,</p> berechnet werden.
+
+ ---HINT---
+Für die Wellenlänge ergibt sich dann
+
+<p>\lambda_n=\frac{\delta}{n}=\frac{e_2-e_1}{n}</p>
+ ---HINT---
+ Die Frequenz <p>\,\,f_n\,\,</p> ergibt sich  mit <p>\,\,\lambda_n\,\,</p> zu
+ 
+ <p>f_n=\frac{c}{\lambda_n}

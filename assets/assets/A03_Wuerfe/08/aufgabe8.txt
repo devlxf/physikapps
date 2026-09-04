@@ -1,0 +1,3 @@
+Ein Stein wird mit <T>v_x=</T><p>value1\text{ m/s}</p> horizontal abgeworfen und erreicht eine Wurfweite von <T>s_x=</T><p>value2\text{ m}</p>. Der Ortsfaktor beträgt <T>g=</T><p>9{,}81\text{ m/s}^2</p>.
+
+Berechnen Sie den Winkel zum Lot, unter dem der Stein auftrifft.

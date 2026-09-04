@@ -1,0 +1,7 @@
+Die senkrecht nach unten wirkende Kraft ist die Gewichtskraft <p>{F}_{G}</p>.
+---HINT---
+Die elektrischen Kräfte wirken horizontal und bilden einen rechten Winkel mit der Gewichtskraft.
+---HINT---
+Die Katheten <p>{F}_{G}</p> und <p>F'</p> bilden mit der Kraft im Faden als Hypotenuse ein rechtwinkliges Dreieck.
+---HINT---
+Mit dem Winkel <p>\frac{\beta}{2}</p> und der Gewichtskraft <p>{F}_{G}</p> kann die Fadenkraft über den Kosinus berechnet werden: <p>{F}_{F} = \frac{{F}_{G}}{\tan\!\left(\frac{\beta}{2}\right)}</p>

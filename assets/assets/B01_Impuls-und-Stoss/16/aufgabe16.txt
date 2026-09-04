@@ -1,0 +1,5 @@
+Eine Silvesterrakete hat eine Gesamtmasse von <p>value1 \text{ g}</p>, wobei <p>value2 \text{ g}</p> auf den enthaltenen Treibstoff, das Schwarzpulver, entfallen. Es soll angenommen werden, dass die Rakete 3 Sekunden lang in jeder Sekunde in etwa ein Drittel des Treibstoffs verbrennt.
+
+Wie hoch fliegt die Rakete maximal?
+
+Anm.: 1 g Schwarzpulver entwickelt einen Schub von ca. 1 kg\,m/s.

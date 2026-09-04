@@ -1,0 +1,9 @@
+Nutzen Sie die exponentielle Abklingfunktion des Entladestroms <p>I(t) = I_0 \cdot e^{-\frac{t}{R\cdot C}}</p>.
+---HINT---
+Setzen Sie die gegebenen Werte für <p>I_0</p>, <p>I(t)</p> und <p>t</p> ein und lösen Sie nach <p>C</p> auf.
+---HINT---
+Bilden Sie dazu den Logarithmus: <p>\ln\left(\frac{I(t)}{I_0}\right) = -\frac{t}{R\cdot C}</p>.
+---HINT---
+Formen Sie nach <p>C</p> um: <p>C = -\frac{t}{R\cdot \ln(\frac{I(t)}{I_0})}</p>.
+---HINT---
+Achten Sie auf konsistente Einheiten (z. B. <p>k\Omega</p> in <p>\Omega</p>, mA in A).

@@ -1,0 +1,3 @@
+Ein Bastler möchte in den Lampenfassungen 1 und 2 eine Birne <T>L_1</T> (<T>U_{L1}=</T><p>value1 \text{ V}</p>/<T>P_{L1}=</T><p>value2 \text{ W}</p>) und <T>L_2</T> (<T>U_{L2}=</T><p>value3 \text{ V}</p>/<T>P_{L2}=</T><p>value4 \text{ W}</p>) mit ihren Nenndaten betreiben. Die Spannungsquelle liefert eine konstante Gleichspannung von <T>U_0=</T><p>value5 \text{ V}</p>.
+
+Berechnen Sie, wie groß der Widerstand <T>R_1</T> gewählt werden muss, damit beide Lampen mit Nenndaten betrieben werden.

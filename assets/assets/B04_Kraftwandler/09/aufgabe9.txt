@@ -1,0 +1,3 @@
+Berechnen Sie den Betrag <T>F_3</T> der Kraft, die nötig ist, damit der Hebel mit den Kräften <T>F_1=</T><p>value1 \text{ N}</p> und <T>F_2=</T><p>value2 \text{ N}</p> im Gleichgewicht ist.
+
+Anm.: Der Hebel selbst ist masselos.

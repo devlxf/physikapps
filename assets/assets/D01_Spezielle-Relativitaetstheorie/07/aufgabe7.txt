@@ -1,0 +1,2 @@
+Wie sie bereits wissen, sind Myonen instabile Teilchen. Berechnen Sie, welche Strecke <T>l_K</T> es zurücklegt, wenn es sich mit <T>v=</T><p>value1\cdot\text{c}</p> auf den Beobachter zubewegt und nach <p> 1,52 μs</p> zerfällt.
+

@@ -1,0 +1,3 @@
+Mit welcher Kraft muss am Seilende des nebenstehenden Flaschenzugs gezogen werden, wenn eine Last von <T>F_G=</T><p>value1 \text{ N}</p> gehoben werden soll?
+
+Nehmen Sie dabei zur Vereinfachung an, dass die Konstruktion vollständig reibungsfrei ist und das Seil sowie Rollen und Steg keine Masse besitzen.

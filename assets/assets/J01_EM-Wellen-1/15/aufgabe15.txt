@@ -1,0 +1,3 @@
+Zwei Sender S und S' haben einen Abstand <T>a=</T> <p>value1 \text{ cm}</p> und senden phasengleich mit einer Frequenz von <T>f=</T> <p>value2 \text{ GHz}</p> elektromagnetische Wellen aus. Ein Empfänger E befindet sich auf Höhe des Senders S. Wird dieser in <T>x</T>-Richtung verschoben, beobachtet man, dass die von E nachgewiesene Intensität zwischen minimalen und maximalen Werten variiert.
+
+Erklären Sie sich anhand einer Skizze das Zustandekommen dieser Erscheinung und berechnen Sie den Abstand <T>x</T> von Sender S und Empfänger E, bei dem erstmalig konstruktive Interferenz auftritt.

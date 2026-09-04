@@ -1,0 +1,3 @@
+Ein ICE erreicht eine Höchstgeschwindigkeit von <T>v_{\max}=</T><p>value1 \text{ km/h}</p>. Seine größte Zugkraft beträgt <T>F=</T><p>value2 \text{ kN}</p>. Der vollbesetzte Zug hat die Masse <T>m=</T><p>value3 \text{ t}</p>.
+
+Welche Geschwindigkeit (in km/h) hat der Zug nach <T>t=</T><p>value4 \text{ s}</p> erreicht, wenn er aus dem Stillstand heraus beschleunigt?

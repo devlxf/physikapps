@@ -1,0 +1,5 @@
+Teilen Sie <p>v_0</p> in <p>x</p>- und <p>y</p>-Komponente auf. Die <p>x</p>-Komponente ist konstant: <p>v_{0x} = v_0 \cdot \cos(\varphi)</p>
+---HINT---
+Die Bahngeschwindigkeit setzt sich zusammen aus: <p>v_B^2 = v_{0x}^2 + v_y(t)^2</p>. Lösen Sie nach <p>v_y(t)</p> auf.
+---HINT---
+Berechnen Sie daraus mit dem Zeit-Geschwindigkeits-Gesetz die Zeit: <p>t = \frac{v_{0y} - v_y}{g}</p>

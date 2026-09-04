@@ -1,0 +1,3 @@
+In der abgebildeten Schaltung sei <T>|U_0|=</T><p>value1 \text{ V}</p>, <T>R_1=</T><p>value2\ \Omega</p>, <T>R_2=</T><p>value3\ \Omega</p> und <T>R_3=</T><p>value4\ \Omega</p>.
+
+Berechnen Sie die Spannung <T>U_1</T>, die über dem ersten Widerstand abfällt.

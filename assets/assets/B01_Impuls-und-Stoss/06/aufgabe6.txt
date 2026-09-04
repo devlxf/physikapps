@@ -1,0 +1,3 @@
+Eine Kugel der Masse <p>value1 \text{ g}</p> trifft mit der Geschwindigkeit <p>value2 \text{ m/s}</p> auf einen Holzklotz der Masse <p>value3 \text{ g}</p> und bleibt darin stecken. Berechnen Sie den Betrag der Geschwindigkeit, mit der sich der Klotz samt Geschoss nach der Wechselwirkung bewegt.
+
+Nehmen Sie an, dass die Oberfläche, auf der sich der Klotz befindet, reibungsfrei ist.

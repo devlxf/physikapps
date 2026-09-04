@@ -1,0 +1,3 @@
+Der Tonumfang eines Klaviers beträgt <T>n=</T><p>7</p> Oktaven. Für den höchsten Ton beträgt die Saitenlänge <T>l_1=</T><p>value2\ \text{cm}</p>, für den tiefsten <T>l_0=</T><p>value3\ \text{cm}</p>. In welchem Verhältnis <p>\sigma_1/\sigma_0</p> müssten die Zugspannungen dieser Saiten stehen, wenn beide aus Stahl sind?
+
+

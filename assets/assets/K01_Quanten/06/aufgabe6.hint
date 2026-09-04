@@ -1,0 +1,10 @@
+Bei der maximalen Wellenlänge handelt es sich um die Grenzwellenlänge des Photoeffekts. In diesem Fall besitzen die ausgelösten Elektronen gerade keine kinetische Energie mehr.
+---HINT---
+Für die Grenzbedingung des Photoeffekts gilt:
+<p>E_{\text{Photon}} = W_A</p>
+Die Energie eines Photons lässt sich über seine Wellenlänge berechnen:
+<p>E_{\text{Photon}} = \frac{h c}{\lambda}</p>
+---HINT---
+Setzen Sie beide Ausdrücke gleich und lösen Sie nach der Wellenlänge auf:
+<p>\lambda_{\text{max}} = \frac{h c}{W_A}</p>
+Achten Sie darauf, die Austrittsarbeit zunächst von Elektronenvolt in Joule umzurechnen.

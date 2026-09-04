@@ -1,0 +1,1 @@
+resultValue = value2*9.81+value2*value3*pow(2*pi/value1,2)/100;

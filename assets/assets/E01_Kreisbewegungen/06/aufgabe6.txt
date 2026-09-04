@@ -1,0 +1,3 @@
+Eine Rakete wird von einem Ort der geographischen Breite <T>\alpha=</T><p>value1 \text{°}</p> in Richtung der Erdrotation (Osten) abgeschossen. Der Erdradius beträgt <T>R=</T><p>value2 \text{ km}</p> und die Erde rotiert einmal in <T>T=</T><p>value3 \text{ h}</p>.
+
+Wie groß ist die maximale zusätzliche Geschwindigkeit, die die Rakete durch die Erdrotation erhält?

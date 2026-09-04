@@ -1,0 +1,6 @@
+Das Retina-Display eines Smartphones hat eine Auflösung von <T>N=</T> <p>value1 \text{ ppi}</p>. 
+
+In welcher Entfernung <T>L</T> vom Auge sind keine unterschiedlichen Pixel mehr wahrnehmbar?
+
+Anmerkung:
+Die Netzhaut ist <T>y=</T> <p>2,5 \text{ cm}</p> von der Pupille entfernt. Der minimale Abstand zweier Maxima auf der Netzhaut ist <T>y=</T>  <p>3,66\cdot 10^{-6} \text{ m}</p>.

@@ -1,0 +1,3 @@
+Ein Käfer der Masse <T>m=</T><p>value1 \text{ g}</p> sitzt ganz außen am Rotorblatt einer Windkraftanlage. Das Rotorblatt misst von der Drehachse bis zur Blattspitze <T>r=</T><p>value2 \text{ m}</p>. Die Umlaufdauer des Rotors beträgt <T>T=</T><p>value3 \text{ s}</p>.
+
+Mit welcher Kraft <T>F_K</T> muss sich der Käfer im tiefsten Punkt der Rotorbahn festhalten?

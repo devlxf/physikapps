@@ -1,0 +1,6 @@
+
+Berechnen Sie zunächst die Frequenz aus der gegebenen Wellenlänge mit <p>f = \frac{c}{\lambda}</p>.
+---HINT---
+Formen Sie die Thomson-Formel <p>f = \frac{1}{2\pi} \cdot \frac{1}{\sqrt{L \cdot C}}</p> nach der Induktivität L um.
+---HINT---
+Setzen Sie die berechnete Frequenz und die gegebene Kapazität in die umgeformte Formel ein.

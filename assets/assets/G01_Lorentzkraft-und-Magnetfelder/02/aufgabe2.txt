@@ -1,0 +1,3 @@
+Mit einem Inklinatorium wird ein Inklinationswinkel von 70 ° gemessen. Die Stärke des Erdmagnetfeldes beträgt 50 <T>\mu</T> T. Ein <p>value1 \text{m}</p> langer Leiter wird so ausgerichtet, dass er sich parallel zur Erdoberfläche befindet und die technische Stromrichtung genau in Nord-Süd Richtung verläuft.
+ Berechnen Sie die Lorentzkraft, die der Leiter erfährt, wenn er mit einem Strom von <p>value2 \text{A}</p> beschaltet wird.
+ Zusatzaufgabe: Machen Sie sich auch Gedanken über die Richtung der Kraft.

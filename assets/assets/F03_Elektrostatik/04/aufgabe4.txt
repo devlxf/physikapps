@@ -1,0 +1,9 @@
+Die Schaltung besteht aus den Widerständen
+
+<p>R_\text{S1}=value1 \ \Omega</p>
+<p>R_\text{S2}=value2 \ \Omega</p>
+<p>R_\text{P1}=value3 \ \Omega</p>
+<p>R_\text{P2}=value4 \ \Omega</p>
+<p>R_\text{P3}=value5 \ \Omega</p>
+
+Welche Spannung fällt über <p>R_\text{Pges}</p> ab, wenn von außen eine Spannung von <T>U_0=</T><p>value6 \text{ V}</p> angelegt wird?

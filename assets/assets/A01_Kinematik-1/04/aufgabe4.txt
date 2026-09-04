@@ -1,0 +1,5 @@
+Ein Fahrzeug bewegt sich gleichförmig mit der Geschwindigkeit <T>v =</T><p>value1\text{ m/s}</p>.
+
+Das v-t-Diagramm ist gegeben. Bestimmen Sie die zurückgelegte Strecke <T>s</T> von <T>t = 0</T> bis zum Zeitpunkt <T>t₁</T> (rote gestrichelte Linie im Diagramm).
+
+Zählen Sie dazu die Kästchen unter der v-t-Kurve bis zur roten Linie.

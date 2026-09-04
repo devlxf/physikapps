@@ -1,0 +1,4 @@
+Eine an einer Feder angehängte Kugel (<T>m=</T><p>value1\ \text{kg}</p>), die um  <T>y_0=</T><p>value2\ \text{cm}</p> nach unten ausgelenkt und dann sich selbst überlassen wurde, schwingt mit einer Frequenz <T>f=</T><p>value3\ \text{Hz}</p>.
+
+
+Mit welchem Geschwindigkeitsbetrag <p>|v|</p> schwingt die Kugel durch die Ruhelage?

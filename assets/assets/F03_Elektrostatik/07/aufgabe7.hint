@@ -1,0 +1,13 @@
+Berechnen Sie die Coulombkraft von <p>{q}_{1}</p> auf <p>{q}_{3}</p>
+---HINT---
+Zerlegen Sie diese Kraft in eine <p>x-</p> und eine <p>y-</p>Komponente.
+---HINT---
+Berechnen Sie nun den Abstand <p>a</p> von von <p>{q}_{2}</p> und <p>{q}_{3}</p>. Hierzu können Sie den Satz von Pythagoras verwenden.
+---HINT---
+Mit dem Abstand <p>a</p> können Sie nun die Coulombkraft von <p>{q}_{2}</p> auf <p>{q}_{3}</p> berechnen.
+---HINT---
+Zerlegen Sie auch diese Kraft komponentenweise.
+---HINT---
+Addieren Sie anschließend jeweils die beiden <p>x-</p> und <p>y-</p>Komponenten zu resultierenden Komponenten.
+---HINT---
+Bilden Sie abschließend mit dem Satz von Pythagoras aus der resultierenden Kraftkomponente in <p>x-</p> und <p>y-</p>Komponente die resultierende Kraft auf Ladung 3.

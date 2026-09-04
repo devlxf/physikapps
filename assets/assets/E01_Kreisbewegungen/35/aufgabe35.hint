@@ -1,0 +1,5 @@
+Konstruieren Sie ein Kräfteparallelogramm und bestimmen Sie die Zentripetalkraft mit Hilfe des Tangens des Auslenkwinkels: <p>F_z = F_G \cdot \tan(\alpha)</p>.
+---HINT---
+Beachten Sie, dass <p>r</p> nicht der einzusetzende Radius ist. Der Gesamtradius ergibt sich zu: <p>r_{ges} = r + l \cdot \sin(\alpha)</p>.
+---HINT---
+Formen Sie die Zentripetalkraft zur Bahngeschwindigkeit um und setzen Sie die Werte ein: <p>v = \sqrt{r_{ges} \cdot g \cdot \tan(\alpha)}</p>.

@@ -1,0 +1,1 @@
+Berechnen Sie den Radius der Elektronenbahn <T>r_n</T> für das Energieniveau <T>n=</T><p>value1</p> eines Atoms mit der Ordnungszahl <T>Z=</T><p>value2</p>.

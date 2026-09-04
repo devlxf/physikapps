@@ -1,0 +1,5 @@
+Konstruieren Sie zur Visualisierung ein Kräfteparallelogramm. An der Aufhängung greift die Seilkraft <p>F_S</p> an.
+---HINT---
+Berechnen Sie zuerst <p>F_G</p> und <p>F_z</p>. Der Gesamtradius für die Zentripetalkraft ist: <p>r_{ges} = r_0 + l \cdot \sin(\varphi)</p>.
+---HINT---
+Nutzen Sie den Satz von Pythagoras zur Berechnung der Seilkraft: <p>F_S = \sqrt{F_G^2 + F_z^2}</p>.

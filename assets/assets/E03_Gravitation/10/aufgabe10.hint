@@ -1,0 +1,5 @@
+Leiten Sie die kinetische Energie auf einer Kreisbahn aus dem Kräftegleichgewicht her. Setzen Sie <p>F_Z = F_G</p> und multiplizieren Sie mit <p>r</p> und dem Faktor <p>\frac{1}{2}</p>, um zu erhalten: <p>W_{kin} = \frac{1}{2} \cdot G \cdot \frac{M_{Erde} \cdot m}{r}</p>
+---HINT---
+Da es sich bei den einzusetzenden Radien immer um den Abstand zum Rotationszentrum handelt, muss zu den gegebenen Höhen der Erdradius <p>R_{Erde} = 6374\,\text{km}</p> noch hinzuaddiert werden.
+---HINT---
+Speichern Sie die exakten Zwischenwerte im Taschenrechner ab. Bilden Sie die Differenz der kinetischen Energie auf der niedrigen Bahn und der hohen Bahn: <p>\Delta W_{kin} = W_{kin,1} - W_{kin,2}</p>

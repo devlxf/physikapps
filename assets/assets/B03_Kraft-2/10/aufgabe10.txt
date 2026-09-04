@@ -1,0 +1,3 @@
+Eine Werbetafel wird asymmetrisch von zwei Streben gehalten. Der Winkel <T>\alpha=</T><p>value1 \text{ °}</p> und <T>\beta=</T><p>value2 \text{ °}</p>.
+
+Wie groß ist die Kraft in Strebe 1, wenn das Schild eine Gewichtskraft von <T>F_G=</T><p>value3 \text{ N}</p> hat?

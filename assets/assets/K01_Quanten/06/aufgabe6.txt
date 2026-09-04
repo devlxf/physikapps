@@ -1,0 +1,3 @@
+Ein Material hat eine Grenzenergie von <T>E_\text{g}=</T><p>value1  \text{ eV}</p>.
+
+Bestimmen Sie die maximale Wellenlänge <T>\lambda_\text{max}</T>, die Photonen haben dürfen, damit sie noch Elektronen aus dem Material auslösen können.

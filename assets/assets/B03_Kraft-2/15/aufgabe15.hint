@@ -1,0 +1,7 @@
+Zeichnen Sie sich ein Kräfteparallelogramm zur Veranschaulichung und identifizieren Sie den Winkel <p>\alpha</p> im Kräfteparallelogramm.
+---HINT---
+Bestimmen Sie die Hangabtriebskraft <p>F_{H}</p> mit <p>F_{H} = F_{G1} \cdot \sin(\alpha)</p> und die Normalenkraft <p>F_{N}</p> auf die Ebene mit dem Kosinus.
+---HINT---
+Berechnen Sie die Reibungskraft aus der Unterlagskraft mit <p>F_{R} = \mu \cdot F_{U}</p>
+---HINT---
+Die Gewichtskraft <p>F_{G2}</p> der Masse <p>m_{2}</p> muss gerade der Hangabtriebskraft abzüglich der Reibungskraft entsprechen: <p>F_{G2} = F_{H} - F_{R}</p>

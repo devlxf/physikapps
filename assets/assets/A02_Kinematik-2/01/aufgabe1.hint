@@ -1,0 +1,3 @@
+In einem <p>t</p>-<p>v</p>-Diagramm entspricht die Steigung des Graphen der Beschleunigung.
+---HINT---
+Bilden Sie ein Steigungsdreieck: <p>a = \frac{\Delta v}{\Delta t} = \frac{v_2 - v_1}{t_2 - t_1}</p>

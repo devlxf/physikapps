@@ -1,0 +1,5 @@
+Berechnen Sie den beim Bremsvorgang zurückgelegten Weg. Nutzen Sie dazu die Formel für den Kreisumfang.
+---HINT---
+Nutzen Sie die Bewegungsgleichungen für eine beschleunigte Bewegung zur Berechnung der Beschleunigung <p>a</p>.
+---HINT---
+Wenn Sie <p>a</p> berechnet haben, können Sie das Reibungsgesetz anwenden. Beachten Sie jedoch, dass eine Fahrradbremse 2 Seiten hat, die Kraft also doppelt wirkt.

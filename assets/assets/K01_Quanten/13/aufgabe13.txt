@@ -1,0 +1,9 @@
+Bei einer Messung zum Photoeffekt mit dem Licht einer Quecksilberdampflampe ergibt sich zwischen einer Caesiumanode und einem Platinring das folgende Messergebnis für die maximale Gegenspannung:
+
+Bei grünem Licht: <T>\lambda_1=</T><p>value1  \text{ nm}</p>, <T>U_{\text{max},1}=</T><p>value2  \text{ V}</p>
+
+Bei violettem Licht: <T>\lambda_2=</T><p>value3  \text{ nm}</p>, <T>U_{\text{max},2}=</T><p>value4  \text{ V}</p>
+
+Beim Photoeffekt kann man nicht einfach im Newtonschen Sinne sagen, das Photon stoße das Elektron aus dem Atom. Das Photon liefert allerdings die nötige Energie hierzu.
+
+Wie groß ist der Impulsbetrag <T>p_{\text{A,min}}</T>, den das Atom für das „violette“ Photoelektron mindestens beisteuern muss?

@@ -1,0 +1,9 @@
+Nutzen Sie die Definition der Halbwertszeit: Nach <p>T_H</p> ist der Strom bzw. die Spannung auf die Hälfte gefallen.
+---HINT---
+Setzen Sie daher <p>I(T_H) = \frac{I_0}{2}</p> (bzw. <p>U(T_H) = \frac{U_0}{2}</p>) in die Exponentialfunktion ein: <p>\frac{1}{2} = e^{-\frac{T_H}{\tau}}</p>.
+---HINT---
+Bilden Sie den Logarithmus und lösen Sie nach <p>T_H</p> auf: <p>T_H = \tau \cdot \ln 2</p>.
+---HINT---
+Falls benötigt: Ersetzen Sie <p>\tau</p> durch <p>R\cdot C</p>.
+---HINT---
+Achten Sie auf das Vorzeichen: <p>\ln\left(\frac{1}{2}\right)</p> ist negativ, daher ergibt sich ein positives <p>T_H</p>.

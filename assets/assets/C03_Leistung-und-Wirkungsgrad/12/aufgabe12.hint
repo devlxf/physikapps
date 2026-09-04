@@ -1,0 +1,15 @@
+Nutzen Sie die Formel für den Wirkungsgrad <p>\eta</p>.
+---HINT---
+In dieser Formel ist hier die Nutzleistung <p>P_\text{ab}</p> nicht gegeben und muss berechnet werden.
+---HINT---
+Dabei ist Leistung gleich Arbeit pro Zeit.
+---HINT---
+Die verrichtete Arbeit ist die Arbeit, die der Bohrkopf an der Spannvorrichtung ausübt.
+---HINT---
+Arbeit ist Kraft mal Weg.
+---HINT---
+Der in der Zeit <p>t</p> zurückgelegte Weg <p>s</p> entspricht dem Umfang des Bohrkopfes multipliziert mit der Drehzahl, also der Anzahl an Umdrehungen in einem gegebenen Zeitintervall.
+---HINT---
+Die Kraft <p>F_1</p> ist nicht direkt gegeben, kann aber über das Hebelgesetz aus <p>F_2</p> indirekt ermittelt werden.
+---HINT---
+Damit erhält man nach Einsetzen eine Formel, in der alle Werte gegeben sind, sodass <p>\eta</p> berechnet werden kann.

@@ -1,0 +1,3 @@
+Auf einer Powerbank finden Sie die Angabe <T>Q=</T><p>value1 \text{ mAh}</p>.
+
+Wie vielen Elementarladungsträgern entspricht dies?

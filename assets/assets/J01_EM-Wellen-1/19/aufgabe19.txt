@@ -1,0 +1,3 @@
+Die Dispersionsrelation für Wasser heißt <p>\omega^2=k\cdot g</p> mit der Wellenzahl <p>k</p> und dem Ortsfaktor <p>g</p>. 
+
+Bestimmen Sie die Gruppengeschwindigkeit <T>v_g</T> für Wellen der Frequenz <T>f=</T><p>value1 \text{ Hz}</p>.

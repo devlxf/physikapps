@@ -1,0 +1,3 @@
+Durch eine Glühlampe fließt bei einer Spannung von <T>U=</T><p>value1 \text{ V}</p> ein Strom von <T>I=</T><p>value2 \text{ mA}</p>.
+
+Wie groß ist der Widerstand <T>R</T> der Glühlampe?

@@ -1,0 +1,3 @@
+Zwei parallele, im Abstand von <T>a=</T><p>value3 \text{ cm}</p> verlaufende gerade Leiter werden in entgegengesetzter Richtung von den Strömen <T>I_{1}=</T><p>value1 \text{ A}</p> und <T>I_{2}=</T><p>value2 \text{ A}</p> durchflossen.
+
+Berechnen Sie den Abstand <T>r_{1}</T> von Leiter 1 in der von Leiter 1 und 2 aufgespannten Ebene, wo sich die Felder der beiden Leiter aufheben.

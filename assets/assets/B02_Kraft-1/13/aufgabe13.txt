@@ -1,0 +1,3 @@
+Jemand möchte die verklemmte Schiebetür eines Kleiderschrankes öffnen. Da er schräg zum Kleiderschrank steht, zieht er unter einem Winkel von <T>\beta=</T><p>value1 \text{ }^\circ</p> mit <T>F_1=</T><p>value2 \text{ N}</p>.
+
+Wie viel Kraft <T>F_x</T> übt er in Schubrichtung des Kleiderschrankes (in <T>x</T>-Richtung) aus?

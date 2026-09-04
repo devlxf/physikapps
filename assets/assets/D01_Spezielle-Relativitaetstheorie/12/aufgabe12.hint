@@ -1,0 +1,11 @@
+Berechnen Sie wie in der Vorgängeraufgabe zuerst die Geschwindigkeit, mit der das Raumschiff fliegen muss, damit es in der gegebenen Zeit die Galaxie durchqueren kann.
+---HINT---
+Nutzen Sie dazu das Zeit-Weg-Gesetz.
+---HINT---
+Aus Sicht des Raumschiffs bewegt sich die Umgebung an ihm vorbei. D.h. die zurückzulegende Strecke ist verkürzt.
+---HINT---
+Nutzen Sie also im Zeit-Weg-Gesetz die kontrahierte Strecke als zurückzulegende Weglänge.
+---HINT---
+Mit der nun berechneten Geschwindigkeit <p>v</p> kann mit dem Zeit-Weg-Gesetz die auf der Erde inzwischen vergangenen Zeit berechnet werden.
+
+

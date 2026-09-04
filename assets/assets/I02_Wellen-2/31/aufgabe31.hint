@@ -1,0 +1,15 @@
+Die Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> auf der Saite berechnet sich zu
+
+<p>c=\sqrt{\frac{F}{\mu}}</p>
+---HINT---
+Die Frequenz berechnet sich über
+
+<p>f=\frac{c}{\lambda}</p>
+
+Die Wellenlänge <p>\,\,\lambda\,\,</p> ist dabei doppelt so lang wie die Mensur  <p>\,\,l</p>.   
+---HINT---
+Einsetzen ergibt
+
+<p>2\cdot l\cdot f=\sqrt{\frac{F}{\mu}}</p>
+---HINT---
+Die Anhängelast <p>\,\,m\,\,</p> kann nun berechnet werden, indem <p>\,\,F=m\cdot g\,\,</p> eingesetzt wird und nach <p>\,\,m\,\,</p> aufgelöst wird.

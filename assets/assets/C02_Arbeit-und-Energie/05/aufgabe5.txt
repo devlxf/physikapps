@@ -1,0 +1,1 @@
+Bei welcher Geschwindigkeit hat ein PKW (<T>m=</T><p>value1 \text{ kg}</p>) die Bewegungsenergie <T>W_\text{kin}=</T><p>value2 \text{ MJ}</p>?

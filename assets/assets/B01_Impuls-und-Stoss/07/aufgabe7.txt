@@ -1,0 +1,5 @@
+In der Pelton-Turbine strömt das Triebwasser in einem Strahl mit sehr hoher Geschwindigkeit aus einer oder mehreren tangential zum Umfang des Laufrades angeordneten Düsen auf die Schaufeln des Laufrades. Jedes der bis zu 40 Schaufelblätter ist durch eine scharfe Kante, die so genannte Mittelschneide, in zwei annähernd halbkugelförmige Halbschaufeln geteilt, so genannte Becher. In der Mitte der Schneide trifft der Wasserstrahl aus den Düsen tangential auf. Die Becher haben die Funktion, das Wasser in die entgegengesetzte Richtung umzulenken, damit die kinetische Energie nach dem Prinzip von Actio und Reactio an das Laufrad abgegeben werden kann.
+
+Ein Wasserstrahl trifft auf die ruhende Schaufel einer Pelton-Turbine. Der ankommende Strahl hat eine Geschwindigkeit von <p>value1 \text{ m/s}</p>, während der zurücklaufende Strahl die Geschwindigkeit <p>-value1 \text{ m/s}</p> hat. Die Masse des Wassers, das pro Sekunde auf die Schaufel trifft, beträgt <p>value2 \text{ kg}</p>.
+
+Berechnen Sie den Betrag des durchschnittlichen Impulses, der pro Sekunde auf die Turbinenschaufel wirkt.

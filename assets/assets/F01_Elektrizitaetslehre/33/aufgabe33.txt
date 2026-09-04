@@ -1,0 +1,3 @@
+Die Kochplatte wird mit der Spannung <T>U=</T><p>value1 \text{ V}</p> betrieben. Bei Schaltstufe 3 beträgt die Leistungsaufnahme der Kochplatte <T>P=</T><p>value2 \text{ W}</p>.
+
+Ermitteln Sie mithilfe dieser Angaben den Widerstand für diese Schaltstufe.

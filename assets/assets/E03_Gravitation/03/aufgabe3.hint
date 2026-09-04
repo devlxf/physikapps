@@ -1,0 +1,3 @@
+Berechnen Sie zuerst die lineare Exzentrizität über die Formel <p>e = \varepsilon \cdot a</p>, mit der diese mit der numerischen Exzentrizität und der großen Halbachse verknüpft wird.
+---HINT---
+Verdeutlichen Sie sich an der Ellipse, dass der weiteste Abstand des Jupitermondes vom Jupiter der Addition der großen Halbachse und der linearen Exzentrizität entspricht: <p>r_{max} = a + e</p>

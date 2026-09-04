@@ -1,0 +1,4 @@
+Ein Teleskop hat einen Öffnungsdurchmesser von <T>d=</T> <p>value1 \text{ mm}</p>. 
+Wie weit  sind die mit dem Teleskop gerade noch getrennt erkennbaren Orte <T>\Delta y</T> auf dem Mond voneinander entfernt?
+
+Die Lichtwellenlänge sei <T>\lambda=</T> <p>value2 \text{ nm}</p>, der Abstand Erde-Mond ist <p>384.000 \text{ km}</p>.

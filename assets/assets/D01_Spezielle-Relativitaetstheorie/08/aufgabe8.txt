@@ -1,0 +1,2 @@
+Eine Physikerin möchte eine Verjüngungskur machen, indem sie in einem Raumschiff eine Rundreise macht. Die Geschwindigkeit des Raumschiffs beträgt <T>v=</T><p>value1\cdot\text{c}</p>. Aus Sicht der Zurückgebliebenen auf der Erde verbringt sie <T>t_E=</T><p>value2 \text{ Jahre}</p> im Raumschiff. Wie viele Tage <T>t_P</T> sind, aus Sicht der Physikerin, bei ihrer Rückkehr weniger als auf der Erde verstrichen?
+

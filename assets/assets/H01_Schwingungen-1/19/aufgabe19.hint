@@ -1,0 +1,11 @@
+Genau wie bei der schwingenden Kette entspricht die Rückstellkraft <p>\,\, F_{\text{Rück}}\,\, </p> der Masse des verdrängten Wassers.
+---HINT---
+Die Masse des verdrängten Wassers entspricht seiner Dichte mal dem Volumen, wobei das Volumen wiederum der Fläche des U-Rohres multipliziert mit der Höhe entspricht.
+---HINT---
+Dabei ist darauf zu achten, dass die Höhe der zweifachen Auslenkung entspricht, wie aus dem Bild sofort ersichtlich wird.
+---HINT---
+Es zeigt sich dann, dass die Rückstellkraft proportional zur Auslenkung ist und somit lässt sich auch die Schwingungskonstante bestimmen.
+---HINT---
+Diese kann nun in die Formel für die Frequenz <p>\,\, f\,\, </p> eingesetzt werden. Die Masse in dieser Formel entspricht der Gesamtpendelmasse.
+---HINT---
+Die Gesamtpendelmasse kann wieder über Dichte und Volumen angegeben werden, wobei sich dann insgesamt einige Terme herauskürzen und die Frequenz mit den gegebenen Werten berechnet werden kann.

@@ -1,0 +1,26 @@
+Die Ausbreitungsgeschwindigkeit <p>\,\,c\,\,</p> auf der Saite berechnet sich zu
+
+<p>c=\sqrt{\frac{\sigma}{\mu}}</p>
+
+Anm.: Hier wird das Formelzeichen <p>\sigma</p> für die Spannkraft benutzt. Es handelt sich um eine Kraft <p>\,\,F</p>. 
+
+---HINT---
+Die Frequenz berechnet sich über
+
+<p>f=\frac{c}{\lambda}</p>
+
+Die Wellenlänge <p>\,\,\lambda\,\,</p> ist dabei doppelt so lang wie die Mensur  <p>\,\,l</p>.   
+---HINT---
+Einsetzen und Umformen ergibt für die Spannkraft
+
+<p>\sigma=4\cdot l^2\cdot f^2\cdot\mu</p>
+---HINT---
+Das Verhältnis der Spannkräfte <p>\,\,\sigma_1\,\,</p> und <p>\,\,\sigma_0\,\,</p> ist
+
+<p>\frac{\sigma_1}{\sigma_0}=\left(\frac{l_1\cdot f_1}{l_0\cdot f_0}\right)^2</p>
+---HINT---
+Für <p>\,\,n\,\,</p> Oktaven ergibt sich die Frequenz
+
+<p>f_1=2^n\cdot f_0</p>
+
+Durch Einsetzen von <p>\,\,f_1\,\,</p> und den gegebenen Längen <p>\,\,l_0\,\,</p> und <p>\,\,l_1\,\,</p> kann das Verhältnis der Zugspannungen berechnet werden.

@@ -1,0 +1,3 @@
+Eine Festplatte macht <T>n=</T><p>value1 \text{ U/min}</p>. Der äußere Rand hat einen Abstand von <T>r=</T><p>value2 \text{ cm}</p> von der Mitte.
+
+Berechnen Sie die Zentripetalbeschleunigung <T>a_z</T>, die ein Punkt auf dem Scheibenrand bei Betrieb erfährt, und geben Sie Ihr Ergebnis in Vielfachen der Erdbeschleunigung an.

@@ -1,0 +1,10 @@
+Überlegen Sie, wie der Photoeffekt energetisch beschrieben wird. Die Energie des einfallenden Photons verteilt sich auf Austrittsarbeit und kinetische Energie der Elektronen.
+---HINT---
+Für den Photoeffekt gilt die Energiegleichung:
+<p>E_{\text{Photon}} = W_A + W_{\text{kin}}</p>
+Die Photonenenergie berechnet sich aus der Wellenlänge:
+<p>E_{\text{Photon}} = \frac{h c}{\lambda}</p>
+---HINT---
+Die kinetische Energie der Elektronen ergibt sich aus ihrer Geschwindigkeit:
+<p>W_{\text{kin}} = \frac{1}{2} m v^2</p>
+Setzen Sie beide Energien in die Gleichung ein und lösen Sie nach der Austrittsarbeit <p>W_A</p> auf. Achten Sie anschließend auf die Umrechnung von Joule in Elektronenvolt.

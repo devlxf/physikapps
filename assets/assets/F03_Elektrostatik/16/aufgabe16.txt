@@ -1,0 +1,2 @@
+An einem Plattenkondensator liegt die Spannung <T>U=</T><p>value1 \text{ V}</p> an.
+Berechnen Sie die Energie <T>W</T>, die erforderlich ist, um die Ladung <T>q=</T><p>value2 \text{ nC}</p> von einer Platte zur anderen zu transportieren.

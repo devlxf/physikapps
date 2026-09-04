@@ -1,0 +1,5 @@
+Der Franck-Hertz-Versuch wird mit den Spannungen <T>U_\text{b}=</T><p>value1  \text{ V}</p> und <T>U_\text{g}=</T><p>value2  \text{ V}</p> durchgeführt.
+
+Welche kleinste de-Broglie-Wellenlänge <T>\lambda_\text{DB,min}</T> weisen die Elektronen auf, die die Anode erreichen?
+
+Die kinetische Energie der Elektronen beim Austritt aus dem Kathodenmaterial sei vernachlässigbar klein.

@@ -1,0 +1,3 @@
+Stellen Sie die Bewegungsgleichungen für <p>x</p>- und <p>y</p>-Richtung auf. Beachten Sie, dass der Abwurfpunkt bei <p>h_0</p> liegt und der Auftreffpunkt bei <p>y = 0</p>.
+---HINT---
+Eliminieren Sie die Zeit <p>t</p> durch Einsetzen der <p>x</p>-Gleichung in die <p>y</p>-Gleichung und lösen Sie nach <p>v_0</p> auf.

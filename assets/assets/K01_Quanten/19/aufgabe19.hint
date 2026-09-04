@@ -1,0 +1,8 @@
+Überlegen Sie, wie Energieerhaltung beim Compton-Effekt angewendet wird.
+---HINT---
+Beim Compton-Effekt gilt die Energieerhaltung:
+<p>E_{\text{ph}}^{\text{vor}} = E_{\text{ph}}^{\text{nach}} + E_{\text{el}}^{\text{nach}}</p>
+Die Energie des gestreuten Photons ist kleiner als die des einfallenden Photons.
+---HINT---
+Bestimmen Sie zunächst die Energie des gestreuten Photons aus seiner vergrößerten Wellenlänge. Anschließend erhalten Sie die kinetische Energie des Elektrons als Differenz:
+<p>E_{\text{el}}^{\text{nach}} = E_{\text{ph}}^{\text{vor}} - E_{\text{ph}}^{\text{nach}}</p>

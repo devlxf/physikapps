@@ -1,0 +1,4 @@
+In der abgebildeten Schaltung ist die Kapazität  <T>C=</T><p>value1\ \text{mF}\ </p> und die Spannung <T>U_0=</T><p>value2\ \text{V}</p>. Die Resonanzfrequenz des Schwingkreises beträgt  <T>f_0=</T><p>value3\ \text{Hz}</p>.
+
+Berechnen Sie die Induktivität <T>L</T>. Die ohmschen Widerstände von Messgerät und Spule können dabei vernachlässigt werden.
+

@@ -1,0 +1,3 @@
+Ein leerer Güterwagen A mit der Masse <T>m_A=</T><p>value1 \text{ t}</p> rollt auf einer horizontalen Strecke mit <T>v_A=</T><p>value2 \text{ m/s}</p> gegen einen stehenden Wagen B mit der Masse <T>m_B=</T><p>value3 \text{ t}</p>. Beide Wagen sind sogleich gekoppelt. Berechnen Sie die Energiedifferenz vor und nach dem Stoß.
+
+Anm.: Die Reibung bleibe unberücksichtigt. Denken Sie darüber nach, was mit der fehlenden Energie passiert ist.

@@ -1,0 +1,3 @@
+Ein Kondensator der Breite <T>b=</T><p>value1 \text{ cm}</p>, der Höhe <T>l=</T><p>value2 \text{ cm}</p> und dem Plattenabstand <T>d=</T><p>value3 \text{ cm}</p> ist bis zu einer Füllhöhe von <T>h=</T><p>value4 \text{ cm}</p> mit Wasser gefüllt.
+
+Wie groß ist seine Kapazität <T>C</T>?

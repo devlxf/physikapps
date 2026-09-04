@@ -1,0 +1,9 @@
+Der Radius des Rades <p>z</p> ist <p>d/2</p>. 1 Zoll entspricht 2,54 cm.
+---HINT---
+Berechnen Sie zuerst das Drehmoment <p>M_1</p>, dass das Kind über die Kurbel auf die Antriebsachse ausübt.
+---HINT---
+Berechnen Sie dann die Kraft <p>F_1</p>, die durch <p>M_1</p> von der Antriebsscheibe auf die Kette übertragen wird.
+---HINT---
+Berechnen Sie danach das Drehmoment <p>M_2</p>, das durch die Kette auf die Hinterachse wirkt.
+---HINT---
+Berechnen Sie zum Schluss mit <p>M_2</p> die Kraft <p>F_S</p>, die auf die Straße übertragen wird.

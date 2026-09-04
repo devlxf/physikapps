@@ -1,0 +1,3 @@
+Die Geschwindigkeit von Zug und Schaffner überlagern sich: Die Werte müssen addiert bzw. voneinander subtrahiert werden.
+---HINT---
+Achten Sie darauf, dass die Einheiten übereinstimmen: <p>1\,\frac{\text{km}}{\text{h}} = \frac{1}{3{,}6}\,\frac{\text{m}}{\text{s}}</p>

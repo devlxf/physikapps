@@ -1,0 +1,5 @@
+Nutzen Sie das Kräftegleichgewicht zwischen Gravitationskraft und Zentripetalkraft: <p>F_G = F_z</p>
+---HINT---
+Setzen Sie für die Bahngeschwindigkeit die Formel <p>v = \frac{2\cdot\pi \cdot r}{T}</p> ein, in der die Umlaufdauer gegeben ist.
+---HINT---
+Formen Sie zum Radius um: <p>r = \sqrt[3]{G \cdot \frac{M \cdot T^2}{4\pi^2}}</p> und lösen Sie die Aufgabe anschließend mit den gegebenen Werten.

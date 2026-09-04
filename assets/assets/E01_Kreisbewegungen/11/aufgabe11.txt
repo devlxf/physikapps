@@ -1,0 +1,3 @@
+Eine Kugel mit der Masse <T>m=</T><p>value1 \text{ g}</p> liegt auf einer rotierenden Scheibe und wird durch einen Faden gehalten. Die Scheibe macht <T>n=</T><p>value2 \text{ U/min}</p> und der Radius beträgt <T>r=</T><p>value3 \text{ cm}</p>.
+
+Berechnen Sie, wie groß der Betrag der Fadenkraft <T>F_z</T> sein muss.

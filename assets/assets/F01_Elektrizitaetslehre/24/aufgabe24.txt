@@ -1,0 +1,5 @@
+Die Leerlaufspannung eines Akkus sei <T>U_0=</T><p>value1 \text{ V}</p>, der Innenwiderstand <T>R_i=</T><p>value2 \text{ m}\Omega</p>. Mit dem Akku soll der Anlasser eines Autos mit dem Widerstand <T>R_a=</T><p>value3\ \Omega</p> betrieben werden.
+
+Beim Starten ist fälschlicherweise die Lichtanlage des Autos mit einem Gesamtwiderstand <T>R_L=</T><p>value4\ \Omega</p> eingeschaltet. Lichtanlage und Anlasser sind in einer Parallelschaltung verschaltet.
+
+Berechnen Sie die Klemmenspannung <T>U_{KL}</T>, die die Batterie beim Anlassen des Motors liefert.

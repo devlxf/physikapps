@@ -1,0 +1,9 @@
+Ein Atom besitzt die Energieniveaus
+<T>E_1=</T><p>value1  \text{ eV}</p>,
+<T>E_2=</T><p>value2  \text{ eV}</p>
+und
+<T>E_3=</T><p>value3  \text{ eV}</p>.
+
+Das Atom wird mit Licht der Frequenz <T>f</T> bestrahlt und dadurch in den angeregten Zustand <T>n=3</T> überführt.
+
+Wie groß muss die Frequenz <T>f</T> sein?

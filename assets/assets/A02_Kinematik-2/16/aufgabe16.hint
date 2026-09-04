@@ -1,0 +1,3 @@
+Wählen Sie zwei beliebige Punkte aus dem Bild aus. Je weiter diese voneinander entfernt sind, desto genauer wird das Ergebnis.
+---HINT---
+Nutzen Sie das Zeit-Weg-Gesetz für eine beschleunigte Bewegung und formen Sie nach <p>a</p> um: <p>s(t) = \frac{1}{2} a \cdot t^2 \Rightarrow a = \frac{2s}{t^2}</p>

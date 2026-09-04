@@ -1,0 +1,4 @@
+Ein Körper der Ladung <T>q=</T><p>value1 \text{ nC}</p> befindet sich an einem Ort, an dem sich die Felder
+<T>E_1=</T><p>value2 \text{ kN/C}</p> und <T>E_2=</T><p>value3 \text{ kN/C}</p> orthogonal überlagern.
+
+Bestimmen Sie die Kraft <T>F_\text{res}</T>, die das Teilchen erfährt.
