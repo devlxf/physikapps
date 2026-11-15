@@ -1,3 +1,3 @@
-In einem See beobachten Sie den Wellengang. In einer Minute zählen Sie <T>\,\,n=</T><p>value1\,\,</p> Wellen, die Sie erreichen. Der Abstand von zwei Wellenbergen beträgt etwa <T>\,\,t=</T><p>value2\ \text{s}</p>.
+In einem See beobachten Sie den Wellengang. In einer Minute zählen Sie <T>\,\,n=</T><p>value1\,\,</p> Wellen, die Sie erreichen.
 
 Berechnen Sie die Frequenz <T>\,\,f\,\,</T> der Wellen.

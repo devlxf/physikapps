@@ -2,7 +2,7 @@ Das System der beiden Federn kann so vereinfacht werden, dass beide Federn zu ei
 ---HINT---
 Berechnen Sie dazu die Gesamtfederhärte. 
 ---HINT---
-In einer Reihenschaltung von Federn entspricht der Kehrwert der Gesamtfederhärte der Summe der Einzelkehrwerte jeder Feder. Die Gesamthärte ist dabei geringer als die geringste Einzelfederhärte.
+Wird der Wagen ausgelenkt, wird die eine Feder gedehnt und die andere gestaucht – beide Federkräfte treiben ihn zurück. Die Federhärten addieren sich deshalb: <p>D_{ges} = D_1 + D_2</p>
 ---HINT---
 Die Resonanzfrequenz des Systems mit der Gesamtfederhärte kann nun mit der entsprechenden Formel berechnet werden.
 

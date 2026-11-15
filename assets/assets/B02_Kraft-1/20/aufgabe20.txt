@@ -1,3 +1,3 @@
-Eine Rampe habe einen Rampenwinkel von <T>\alpha=</T><p>value1 \text{ }^\circ</p>. Eine Kiste der Masse <T>m_K=</T><p>value2 \text{ kg}</p> wird über eine Feder (Federkonstante <T>D=</T><p>value3 \text{ N/m}</p>) mit konstanter Kraft <T>F_Z</T> entlang dieser Rampe hinaufgezogen. Dabei verlängert sich die Feder um <T>s=</T><p>value4 \text{ cm}</p>.
+Eine Rampe habe einen Rampenwinkel von <T>\alpha=</T><p>value1 \text{ }^\circ</p>. Eine Kiste der Masse <T>m_K=</T><p>value2 \text{ kg}</p> wird über eine Feder (Federkonstante <T>D=</T><p>value3 \text{ N/m}</p>) mit konstanter Kraft <T>F_Z</T> entlang dieser Rampe hinaufgezogen. Dabei verlängert sich die Feder um <T>s=</T><p>valueR \text{ cm}</p>.
 
 Welcher Reibwert <T>\mu</T> herrscht zwischen Kiste und Unterlage, wenn die Geschwindigkeit <T>v_K</T> der Kiste konstant ist?

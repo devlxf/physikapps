@@ -1,3 +1,3 @@
-In der abgebildeten Schaltung sei <T>|U_0|=</T><p>value1 \text{ V}</p>, <T>R_1=</T><p>value2\ \Omega</p>, <T>R_2=</T><p>value3\ \Omega</p>, <T>R_3=</T><p>value4\ \Omega</p> und über <T>R_3</T> fällt eine Spannung von <T>U_3=</T><p>value5 \text{ V}</p> ab.
+In der abgebildeten Schaltung sei <T>|U_0|=</T><p>value1 \text{ V}</p>, <T>R_1=</T><p>value2\ \Omega</p>, <T>R_2=</T><p>value3\ \Omega</p>, <T>R_3=</T><p>value4\ \Omega</p> und über <T>R_3</T> fällt eine Spannung von <T>U_3=</T><p>valueR \text{ V}</p> ab.
 
 Wie groß ist der Widerstand <T>R_4</T>?
