@@ -1,1 +1,1 @@
-Fred wiegt <p>value1 \text{ kg}</p> und klettert an einem Seil <p>value2 \text{ m}</p> hoch. Paul wiegt <p>value3 \text{ kg}</p> und schafft nur <p>value4 \text{ m}</p>. Wer verrichtet mehr Arbeit? Berechnen Sie!
+Fred wiegt <p>value1 \text{ kg}</p> und klettert an einem Seil <p>value2 \text{ m}</p> hoch. Paul wiegt <p>value3 \text{ kg}</p> und schafft nur <p>value4 \text{ m}</p>. Berechnen Sie die jeweils verrichtete Arbeit und tragen Sie den größeren der beiden Werte ein.
