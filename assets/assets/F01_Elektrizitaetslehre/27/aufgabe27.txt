@@ -1,3 +1,3 @@
-Sie benötigen <T>t=</T><p>value1 	ext{ h}</p>, um Ihre Wäsche zu waschen. Die Waschmaschine benötigt dazu eine Leistung von <T>P=</T><p>value2 	ext{ W}</p>.
+Sie benötigen <T>t=</T><p>value1 \text{ h}</p>, um Ihre Wäsche zu waschen. Die Waschmaschine benötigt dazu eine Leistung von <T>P=</T><p>value2 \text{ W}</p>.
 
-Wie hoch sind Ihre Energiekosten, wenn Sie einen Energiepreis von <T>k=</T><p>value3 	ext{ ct/kWh}</p> haben?
+Wie hoch sind Ihre Energiekosten, wenn Sie einen Energiepreis von <T>k=</T><p>value3 \text{ ct/kWh}</p> haben?
