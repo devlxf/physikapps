@@ -1,1 +1,1 @@
-Eine Kugel der Masse <p>value1 \text{ kg}</p> wird an eine Feder mit der Federkonstanten <p>value2 \text{ N/m}</p> angehängt. Dann wird Sie aus der Ruhelage weitere <p>value3 \text{ cm}</p> ausgelenkt. Berechnen Sie die maximale Federspannenergie.
+Eine Kugel der Masse <p>value1 \text{ kg}</p> wird an eine Feder mit der Federkonstanten <p>value2 \text{ N/m}</p> angehängt. Dann wird sie aus der Ruhelage weitere <p>value3 \text{ cm}</p> ausgelenkt. Berechnen Sie die maximale Federspannenergie.

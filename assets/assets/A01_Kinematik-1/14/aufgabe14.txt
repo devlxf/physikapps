@@ -1,1 +1,7 @@
-Ein Ruderboot möchte einen Fluss der Breite <T>b=</T><p>value1\text{ m}</p> überqueren. Es hat eine Eigengeschwindigkeit von <T>v_{Boot}=</T><p>value2\text{ m/s}</p>. Der Fluss selbst hat eine Strömungsgeschwindigkeit von <T>v_{Fluss}=</T><p>value3\text{ m/s}</p>. Um welchen Winkel wird das Boot abgelenkt?
+Die Fallgeschwindigkeit von Regentropfen ist von ihrer Größe abhängig. Kleinere Regentropfen erfahren eine größere Luftreibung und fallen daher langsamer. Größere sind schneller. Die hier betrachteten Regentropfen haben bei Windstille eine Fallgeschwindigkeit von <T>v=</T><p>value1 \text{ m/s}</p>. Welchen Betrag der Geschwindigkeit <T>v</T> hat ein Zug, an dessen Wagenfenstern die Tropfen Spuren wie oben abgebildet hinterlassen?
+
+
+
+
+
+

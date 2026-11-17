@@ -1,5 +1,7 @@
-Wie schnell ist das Auto im Bezugssystem des LKWs? Berechnen Sie die Relativgeschwindigkeit: <p>v_\text{rel} = v_\text{PKW} - v_\text{LKW}</p>
+Stellen Sie die Bewegungsgleichungen für die beiden LKWs auf. Für LKW A gilt: <p>s_A = v_A \cdot t</p>, für LKW B: <p>s_B = -v_B \cdot t + s_0</p>
 ---HINT---
-Berechnen Sie die Zeitdauer des Überholvorgangs im Bezugssystem des LKWs: <p>t = \frac{s_L}{v_\text{rel}}</p>
+Setzen Sie die beiden Bewegungsgleichungen gleich, um den Zeitpunkt <p>t</p> des Treffens zu berechnen.
 ---HINT---
-Die Wegstrecke auf der linken Spur ergibt sich aus dem Zeit-Weg-Gesetz im Bezugssystem des Beobachters: <p>s_W = v_\text{PKW} \cdot t</p>
+Lösen Sie nach <p>t</p> auf: <p>t = \frac{s_0}{v_A + v_B}</p>
+---HINT---
+Setzen Sie <p>t</p> in eine der Bewegungsgleichungen ein, um den Treffpunkt <p>s_t</p> zu berechnen.

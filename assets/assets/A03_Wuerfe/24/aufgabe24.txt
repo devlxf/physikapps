@@ -1,4 +1,4 @@
-Ein Schneeball soll ein kleines Fenster treffen, dass sich in einem <T>s_{0x}=</T><p>value1\text{ m}</p> entfernten Haus in
+Ein Schneeball soll ein kleines Fenster treffen, das sich in einem <T>s_{0x}=</T><p>value1\text{ m}</p> entfernten Haus in
 einer Höhe von <T>s_{0y}=</T><p>value2\text{ m}</p> über der Abwurfstelle befindet. Die Abwurfgeschwindigkeit beträgt <T>v_{0}=</T><p>valueR\text{ m/s}</p>
 
 Wie groß muss der Abwurfwinkel zum Lot dazu sein?

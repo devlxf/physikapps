@@ -2,6 +2,6 @@ Ein Skilift zieht über eine Schlepplänge von <T>l=</T><p>value1 \text{ m}</p> 
 
 Welche Leistung <T>P</T> muss der Antrieb aufbringen, wenn man mit maximaler Belastung rechnet?
 
-Anmerkung: Die maximale Belastung würde dann vorliegen, wenn an jedem Bügel 2 schwere Erwachsene Personen der Masse <T>m=</T><p>value5 \text{ kg}</p> hängen. Wir gehen zuerst davon aus, dass Reibung vernachlässigt werden kann.
+Anmerkung: Die maximale Belastung würde dann vorliegen, wenn an jedem Bügel 2 schwere erwachsene Personen der Masse <T>m=</T><p>value5 \text{ kg}</p> hängen. Wir gehen zuerst davon aus, dass Reibung vernachlässigt werden kann.
 
 Denken Sie zusätzlich darüber nach, warum das Gewicht der Bügel und des Seils für den Betrieb keine Rolle spielt.

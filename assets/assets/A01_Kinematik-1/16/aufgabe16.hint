@@ -1,7 +1,7 @@
-Die Eigengeschwindigkeit <p>v_\text{Boot}</p> des Bootes und die Strömungsgeschwindigkeit <p>v_\text{Fluss}</p> des Flusses sind bekannt.
+Die Geschwindigkeit senkrecht zum Fluss sei die <p>y</p>-Richtung. Nur diese Komponente ist für die Überquerungszeit relevant.
 ---HINT---
-Der Vorhaltewinkel <p>\alpha</p> muss so gewählt werden, dass die <p>x</p>-Komponente der Bootsgeschwindigkeit genau die Strömung kompensiert.
+Die Projektion des Geschwindigkeitsvektors <p>v_\text{Boot}</p> auf die <p>y</p>-Richtung ergibt: <p>v_y = v_\text{Boot} \cdot \cos(\alpha)</p>
 ---HINT---
-Es gilt: <p>\sin(\alpha) = \frac{v_\text{Fluss}}{v_\text{Boot}}</p>, also <p>\alpha = \arcsin\!\left(\frac{v_\text{Fluss}}{v_\text{Boot}}\right)</p>
+Mit der Quergeschwindigkeit <p>v_y</p> und dem Zeit-Weg-Gesetz folgt die Überquerungszeit: <p>t = \frac{b}{v_y}</p>
 ---HINT---
-<insert>aufgabe16_T1.jpg</insert>
+<insert>aufgabe16_T1.png</insert>

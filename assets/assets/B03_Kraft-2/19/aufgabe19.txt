@@ -1,3 +1,3 @@
-Sie können den Haftreibungskoeffizienten bestimmen, indem Sie den Rampenwinkel <T>\alpha</T> solange erhöhen, bis das auf die Rampe aufgelegte Klotz anfängt zu rutschen.
+Sie können den Haftreibungskoeffizienten bestimmen, indem Sie den Rampenwinkel <T>\alpha</T> solange erhöhen, bis der auf die Rampe aufgelegte Klotz anfängt zu rutschen.
 
 Berechnen Sie den Haftreibungskoeffizienten für einen Winkel von <T>\alpha=</T><p>value1 \text{ °}</p>.

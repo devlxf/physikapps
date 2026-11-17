@@ -1,3 +1,3 @@
-Der nebenstehend skizzierte Nagelzieher hat einen Kopf der Breite <T>b=</T><p>value1 \text{ cm}</p>. Der Stiel ist mittig auf dem Kopf montiert und hat eine Länge von <T>l=</T><p>value2 \text{ cm}</p>.
+Der oben skizzierte Nagelzieher hat einen Kopf der Breite <T>b=</T><p>value1 \text{ cm}</p>. Der Stiel ist mittig auf dem Kopf montiert und hat eine Länge von <T>l=</T><p>value2 \text{ cm}</p>.
 
 Welche Zugkraft <T>F_{Nagel}</T> wirkt auf den Nagel, wenn mit der Kraft <T>F_{Hand}=</T><p>value3 \text{ N}</p> am Stielende senkrecht zum Stiel gezogen wird? Der Anstellwinkel des Hammers ist <T>\alpha=</T><p>value4°</p>.

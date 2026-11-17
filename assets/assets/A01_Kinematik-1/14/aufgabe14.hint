@@ -1,5 +1,4 @@
-Der Ablenkwinkel kann mit dem Tangens berechnet werden. Die Strömungsgeschwindigkeit <p>v_\text{Fluss}</p> bildet die Gegenkathete, die Eigengeschwindigkeit <p>v_\text{Boot}</p> die Ankathete.
+Die Geschwindigkeit des Zuges und des freien Falls des Regentropfens überlagern sich vektoriell.
 ---HINT---
-Es gilt: <p>\tan(\alpha) = \frac{v_\text{Fluss}}{v_\text{Boot}}</p>, also <p>\alpha = \arctan\!\left(\frac{v_\text{Fluss}}{v_\text{Boot}}\right)</p>
----HINT---
+Die Zuggeschwindigkeit bildet dabei die <p>\,\,x</p>-Komponente und der freie Fall die <p>\,\,y</p>-Komponente der resultierenden Tropfenspur.
 <insert>aufgabe14_T1.png</insert>

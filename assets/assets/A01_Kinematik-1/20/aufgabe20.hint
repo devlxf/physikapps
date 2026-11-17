@@ -1,5 +1,7 @@
-Diese Aufgabe baut auf dem Überholvorgang I auf. Berechnen Sie zunächst die Dauer des Überholvorgangs wie in der vorherigen Aufgabe.
+Stellen Sie die Bewegungsgleichungen für die beiden LKWs auf. Für LKW A gilt: <p>s_A = v_A \cdot t</p>, für LKW B mit Zeitverzögerung: <p>s_B = -v_B \cdot (t - t_0) + s_0</p>
 ---HINT---
-Die Relativgeschwindigkeit der beiden PKWs zueinander beträgt: <p>v_\text{rel} = v_A + v_B</p> (da sie sich entgegenkommen).
+Setzen Sie die beiden Bewegungsgleichungen gleich, um den Zeitpunkt <p>t</p> des Treffens zu berechnen.
 ---HINT---
-Der Mindestabstand ergibt sich aus dem Zeit-Weg-Gesetz mit der Relativgeschwindigkeit: <p>s_{AB} = v_\text{rel} \cdot t</p>
+Lösen Sie nach <p>t</p> auf: <p>t = \frac{v_B \cdot t_0 + s_0}{v_A + v_B}</p>
+---HINT---
+Setzen Sie <p>t</p> in eine der Bewegungsgleichungen ein, um den Treffpunkt <p>s_t</p> zu berechnen.

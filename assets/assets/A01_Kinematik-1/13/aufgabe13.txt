@@ -1,7 +1,1 @@
-Die Fallgeschwindigkeit von Regentropfen ist von ihrer Größe abhängig. Kleinere Regentropfen erfahren eine größere Luftreibung und fallen daher langsamer. Größere sind schneller. Die hier betrachteten Regentropfen haben bei Windstille eine Fallgeschwindigkeit von <T>v=</T><p>value1 \text{ m/s}</p>. Welchen Betrag der Geschwindigkeit <T>v</T> hat ein Zug, an dessen Wagenfenstern die Tropfen Spuren wie oben abgebildet hinterlassen?
-
-
-
-
-
-
+Ein Zug fährt mit einer konstanten Geschwindigkeit von <T>v_{Zug}=</T><p>value1\text{ km/h}</p>. Ein Schaffner geht mit der Geschwindigkeit <T>v_{Schaffner}=</T><p>value2\text{ km/h}</p> durch den Zug, um die Fahrkarten zu kontrollieren. Wie schnell ist der Schaffner bezogen auf einen an der Bahnstrecke stehenden Beobachter?

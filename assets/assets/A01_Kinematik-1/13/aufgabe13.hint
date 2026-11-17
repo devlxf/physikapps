@@ -1,4 +1,3 @@
-Die Geschwindigkeit des Zuges und des freien Falls des Regentropfens überlagern sich vektoriell.
+Die Geschwindigkeit von Zug und Schaffner überlagern sich: Die Werte müssen addiert bzw. voneinander subtrahiert werden.
 ---HINT---
-Die Zuggeschwindigkeit bildet dabei die <p>\,\,x</p>-Komponente und der freie Fall die <p>\,\,y</p>-Komponente der resultierenden Tropfenspur.
-<insert>aufgabe13_T1.png</insert>
+Achten Sie darauf, dass die Einheiten übereinstimmen: <p>1\,\frac{\text{km}}{\text{h}} = \frac{1}{3{,}6}\,\frac{\text{m}}{\text{s}}</p>

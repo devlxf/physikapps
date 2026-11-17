@@ -1,7 +1,5 @@
-Stellen Sie die Bewegungsgleichungen für die beiden LKWs auf. Für LKW A gilt: <p>s_A = v_A \cdot t</p>, für LKW B mit Zeitverzögerung: <p>s_B = -v_B \cdot (t - t_0) + s_0</p>
+Addieren Sie die zurückgelegten Strecken abschnittsweise pro Intervall auf. Für jeden Abschnitt gilt: <p>s_i = v_i \cdot \Delta t</p>
 ---HINT---
-Setzen Sie die beiden Bewegungsgleichungen gleich, um den Zeitpunkt <p>t</p> des Treffens zu berechnen.
+Berechnen Sie parallel dazu, welche Strecke der Radfahrer in der gleichen Zeit zurücklegt.
 ---HINT---
-Lösen Sie nach <p>t</p> auf: <p>t = \frac{v_B \cdot t_0 + s_0}{v_A + v_B}</p>
----HINT---
-Setzen Sie <p>t</p> in eine der Bewegungsgleichungen ein, um den Treffpunkt <p>s_t</p> zu berechnen.
+Vergleichen Sie die kumulierten Strecken am Ende jedes Intervalls, um den Punkt zu finden, an dem die Läuferin den Radfahrer wieder einholt.

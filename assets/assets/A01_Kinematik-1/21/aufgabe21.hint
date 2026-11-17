@@ -1,3 +1,5 @@
-Die Geschwindigkeit von Zug und Schaffner überlagern sich: Die Werte müssen addiert bzw. voneinander subtrahiert werden.
+Wie schnell ist das Auto im Bezugssystem des LKWs? Berechnen Sie die Relativgeschwindigkeit: <p>v_\text{rel} = v_\text{PKW} - v_\text{LKW}</p>
 ---HINT---
-Achten Sie darauf, dass die Einheiten übereinstimmen: <p>1\,\frac{\text{km}}{\text{h}} = \frac{1}{3{,}6}\,\frac{\text{m}}{\text{s}}</p>
+Berechnen Sie die Zeitdauer des Überholvorgangs im Bezugssystem des LKWs: <p>t = \frac{s_L}{v_\text{rel}}</p>
+---HINT---
+Die Wegstrecke auf der linken Spur ergibt sich aus dem Zeit-Weg-Gesetz im Bezugssystem des Beobachters: <p>s_W = v_\text{PKW} \cdot t</p>

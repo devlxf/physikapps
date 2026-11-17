@@ -1,3 +1,3 @@
-Der Wagen einer Achterbahn hat keine Motor. Bei einer Besetzung mit zwei Fahrgästen beträgt seine Masse <T>m=</T><p>value1 \text{ kg}</p>. Er durchläuft einen Looping mit dem Radius <T>r=</T><p>value2 \text{ m}</p> ohne Reibung und startet aus der Ruhe.
+Der Wagen einer Achterbahn hat keinen Motor. Bei einer Besetzung mit zwei Fahrgästen beträgt seine Masse <T>m=</T><p>value1 \text{ kg}</p>. Er durchläuft einen Looping mit dem Radius <T>r=</T><p>value2 \text{ m}</p> ohne Reibung und startet aus der Ruhe.
 
 Aus welcher Mindesthöhe <T>h</T> muss er losfahren, damit er nicht herabfällt?
