@@ -9069,165 +9069,166 @@ _.a=a
 _.b=b
 _.c=c
 _.d=d},
-bzd(f0,f1,f2,f3,f4,f5,f6,f7,f8,f9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2="value1",d3="value2",d4="value",d5=u.v,d6="value3",d7="value4",d8="value5",d9="Werte nicht verf\xfcgbar",e0="value1x",e1="value1y",e2="value2x",e3="value2y",e4="Nicht alle Werte verf\xfcgbar",e5="value0",e6="value3x",e7="value3y",e8="Berechnung nicht m\xf6glich: Ung\xfcltige Werte f\xfcr Masse oder Winkel",e9="Berechnung fehlgeschlagen: "
-if(!B.c.aQ(f0,"F03_Elektrostatik/"))return null
+bzd(f1,f2,f3,f4,f5,f6,f7,f8,f9,g0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3="value1",d4="value2",d5="value",d6=u.v,d7="value3",d8="value4",d9="value5",e0="Werte nicht verf\xfcgbar",e1="value1x",e2="value1y",e3="value2x",e4="value2y",e5="Nicht alle Werte verf\xfcgbar",e6="value0",e7="value3x",e8="value3y",e9="Berechnung nicht m\xf6glich: Ung\xfcltige Werte f\xfcr Masse oder Winkel",f0="Berechnung fehlgeschlagen: "
+if(!B.c.aQ(f1,"F03_Elektrostatik/"))return null
 s=new A.dg()
 r=0
 q=""
 p=""
-if(f0==="F03_Elektrostatik/01/aufgabe1")if(f2.i(0,d2)&&f2.i(0,d3)){r=f1.h(0,d2).h(0,d4)/f1.h(0,d3).h(0,d4)
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/02/aufgabe2")if(f2.i(0,d2)&&f2.i(0,d3)){r=f1.h(0,d2).h(0,d4)*f1.h(0,d3).h(0,d4)/16e-20
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/03/aufgabe3")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-a=f1.h(0,d3).h(0,d4)
-r=(f1.h(0,d6).h(0,d4)-b)/(a/b)
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/04/aufgabe4")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-a=f1.h(0,d3).h(0,d4)
-a0=1/(1/f1.h(0,d6).h(0,d4)+1/f1.h(0,d7).h(0,d4)+1/f1.h(0,d8).h(0,d4))
-r=f1.h(0,"value6").h(0,d4)/(b+a+a0)*a0
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/05/aufgabe5")if(f2.i(0,d2)){r=Math.abs(0.08987551786*f1.h(0,d2).h(0,d4)*f1.h(0,d3).h(0,d4)/Math.pow(f1.h(0,d6).h(0,d4),2))
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/06/aufgabe6")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-a=f1.h(0,d3).h(0,d4)
-a1=f1.h(0,d6).h(0,d4)
+if(f1==="F03_Elektrostatik/01/aufgabe1")if(f3.i(0,d3)&&f3.i(0,d4)){r=f2.h(0,d3).h(0,d5)/f2.h(0,d4).h(0,d5)
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/02/aufgabe2")if(f3.i(0,d3)&&f3.i(0,d4)){r=f2.h(0,d3).h(0,d5)*f2.h(0,d4).h(0,d5)/16e-20
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/03/aufgabe3")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+a=f2.h(0,d4).h(0,d5)
+r=(f2.h(0,d7).h(0,d5)-b)/(a/b)
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/04/aufgabe4")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+a=f2.h(0,d4).h(0,d5)
+a0=1/(1/f2.h(0,d7).h(0,d5)+1/f2.h(0,d8).h(0,d5)+1/f2.h(0,d9).h(0,d5))
+r=f2.h(0,"value6").h(0,d5)/(b+a+a0)*a0
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/05/aufgabe5")if(f3.i(0,d3)){r=Math.abs(0.08987551786*f2.h(0,d3).h(0,d5)*f2.h(0,d4).h(0,d5)/Math.pow(f2.h(0,d7).h(0,d5),2))
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/06/aufgabe6")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+a=f2.h(0,d4).h(0,d5)
+a1=f2.h(0,d7).h(0,d5)
 r=330.38*a1*Math.sqrt(0.001*b*Math.tan(Math.asin(a1/(200*a))))
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/07/aufgabe7")if(B.b.cQ(A.a(["value1","value2","value3","value4"],t.s),f2.ghn(f2))){a2=f1.h(0,d2).h(0,d4)
-a3=f1.h(0,d3).h(0,d4)
-a4=f1.h(0,d6).h(0,d4)
-a5=f1.h(0,d7).h(0,d4)
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/07/aufgabe7")if(B.b.cQ(A.a(["value1","value2","value3","value4"],t.s),f3.ghn(f3))){a2=f2.h(0,d3).h(0,d5)
+a3=f2.h(0,d4).h(0,d5)
+a4=f2.h(0,d7).h(0,d5)
+a5=f2.h(0,d8).h(0,d5)
 if(a5<=0)p="r muss > 0 sein"
 else{a6=a5*0.01
 a7=Math.abs(a4*1e-9)
-a8=8987551792.3*Math.abs(a2*1e-9)*a7/(a6*a6)
-a9=a6*Math.sqrt(2)
-b0=8987551792.3*Math.abs(a3*1e-9)*a7/(a9*a9)
-r=1000*Math.sqrt(a8*a8+b0*b0)
-q=s.p(r,f3)}}else p=u.X
-else if(f0==="F03_Elektrostatik/08/aufgabe8")if(B.b.cQ(A.a(["value1","value2"],t.s),f2.ghn(f2))){b1=f1.h(0,d2).h(0,d4)
-b2=f1.h(0,d3).h(0,d4)
-if(b1<=0)p="a muss > 0 sein"
+a8=a6*Math.sqrt(2)
+a9=8987551792.3*Math.abs(a3*1e-9)*a7/(a8*a8)
+b0=8987551792.3*Math.abs(a2*1e-9)*a7/(a6*a6)+a9*Math.cos(0.7853981633974483)
+b1=a9*Math.sin(0.7853981633974483)
+r=1000*Math.sqrt(b0*b0+b1*b1)
+q=s.p(r,f4)}}else p=u.X
+else if(f1==="F03_Elektrostatik/08/aufgabe8")if(B.b.cQ(A.a(["value1","value2"],t.s),f3.ghn(f3))){b2=f2.h(0,d3).h(0,d5)
+b3=f2.h(0,d4).h(0,d5)
+if(b2<=0)p="a muss > 0 sein"
 else{a7={}
-a9=b1*0.01
-b3=b2*1e-9
-b4=-a9
+a8=b2*0.01
+b4=b3*1e-9
+b5=-a8
 a7.a=a7.b=0
-b5=new A.b0q(a7,a9,b4,-2*b3)
-b5.$3(-b3,a9,0)
-b5.$3(2*b3,0,b4)
-b5.$3(b3,0,0)
-b5=a7.b
+b6=new A.b0q(a7,a8,b5,-2*b4)
+b6.$3(-b4,a8,0)
+b6.$3(2*b4,0,b5)
+b6.$3(b4,0,0)
+b6=a7.b
 a7=a7.a
-r=1000*Math.sqrt(b5*b5+a7*a7)
-q=s.p(r,f3)}}else p=u.r
-else if(f0==="F03_Elektrostatik/09/aufgabe9")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-r=1000*f1.h(0,d3).h(0,d4)/b
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/10/aufgabe10"){if(f2.i(0,d2)){r=8935928999999999e-45/(1602e-22*J.bE(f1.h(0,d2).h(0,d4),1000))
-q=s.p(r,f3)}}else if(f0==="F03_Elektrostatik/11/aufgabe11")if(f2.i(0,d2)){r=612292e11*f1.h(0,d2).h(0,d4)/f1.h(0,d3).h(0,d4)
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/12/aufgabe12")if(B.b.cQ(A.a(["value1","value2","value3","value4"],t.s),f2.ghn(f2))){b6=J.bE(f1.h(0,d2).h(0,d4),0.001)
-b7=f1.h(0,d3).h(0,d4)
-b8=J.bE(f1.h(0,d6).h(0,d4),1e-9)
-r=b6*9.81*Math.tan(Math.asin(J.bE(f1.h(0,d7).h(0,d4),0.001)/b7))/b8/1000
-q=s.p(r,f3)}else p=d9
-else if(f0==="F03_Elektrostatik/13/aufgabe13")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-r=25647629e4*Math.pow(f1.h(0,d3).h(0,d4),3)/b
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/14/aufgabe14")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-a=f1.h(0,d3).h(0,d4)
-a1=f1.h(0,d6).h(0,d4)
+r=1000*Math.sqrt(b6*b6+a7*a7)
+q=s.p(r,f4)}}else p=u.r
+else if(f1==="F03_Elektrostatik/09/aufgabe9")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+r=1000*f2.h(0,d4).h(0,d5)/b
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/10/aufgabe10"){if(f3.i(0,d3)){r=8935928999999999e-45/(1602e-22*J.bE(f2.h(0,d3).h(0,d5),1000))
+q=s.p(r,f4)}}else if(f1==="F03_Elektrostatik/11/aufgabe11")if(f3.i(0,d3)){r=612292e11*f2.h(0,d3).h(0,d5)/f2.h(0,d4).h(0,d5)
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/12/aufgabe12")if(B.b.cQ(A.a(["value1","value2","value3","value4"],t.s),f3.ghn(f3))){b7=J.bE(f2.h(0,d3).h(0,d5),0.001)
+b8=f2.h(0,d4).h(0,d5)
+b9=J.bE(f2.h(0,d7).h(0,d5),1e-9)
+r=b7*9.81*Math.tan(Math.asin(J.bE(f2.h(0,d8).h(0,d5),0.001)/b8))/b9/1000
+q=s.p(r,f4)}else p=e0
+else if(f1==="F03_Elektrostatik/13/aufgabe13")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+r=25647629e4*Math.pow(f2.h(0,d4).h(0,d5),3)/b
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/14/aufgabe14")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+a=f2.h(0,d4).h(0,d5)
+a1=f2.h(0,d7).h(0,d5)
 r=b*Math.sqrt(Math.pow(a,2)+Math.pow(a1,2))
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/15/aufgabe15")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-a=f1.h(0,d3).h(0,d4)
-a1=f1.h(0,d6).h(0,d4)
-a7=f1.h(0,d7).h(0,d4)*3.141592653589793/180
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/15/aufgabe15")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+a=f2.h(0,d4).h(0,d5)
+a1=f2.h(0,d7).h(0,d5)
+a7=f2.h(0,d8).h(0,d5)*3.141592653589793/180
 r=b*Math.sqrt(Math.pow(a1*Math.sin(a7),2)+Math.pow(a+a1*Math.cos(a7),2))
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/16/aufgabe16")if(f2.i(0,d2)){r=f1.h(0,d2).h(0,d4)*f1.h(0,d3).h(0,d4)/1000
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/17/aufgabe17")if(f2.i(0,d2)){r=f1.h(0,d2).h(0,d4)*f1.h(0,d3).h(0,d4)/100
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/18/aufgabe18")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-a=f1.h(0,d3).h(0,d4)
-r=b*f1.h(0,d6).h(0,d4)*f1.h(0,d7).h(0,d4)*Math.cos(f1.h(0,d8).h(0,d4)*3.141592653589793/180)/a
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/19/aufgabe19")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-a=f1.h(0,d3).h(0,d4)
-r=1000*b*f1.h(0,d7).h(0,d4)*Math.cos(f1.h(0,d8).h(0,d4)*3.141592653589793/180)/a
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/20/aufgabe20")if(f2.i(0,d2)){b=f1.h(0,d2).h(0,d4)
-a=f1.h(0,d3).h(0,d4)
-r=f1.h(0,d6).h(0,d4)/(1+Math.sqrt(a/b))
-q=s.p(r,f3)}else p=d5
-else if(f0==="F03_Elektrostatik/21/aufgabe21")if(B.b.cQ(A.a(["value1","value2","value1x","value1y","value2x","value2y"],t.s),f2.ghn(f2))){a2=f1.h(0,d2).h(0,d4)
-a3=f1.h(0,d3).h(0,d4)
-b9=J.bE(J.agq(f1.h(0,e0).h(0,d4),f1.h(0,e2).h(0,d4)),0.01)
-c0=J.bE(J.agq(f1.h(0,e1).h(0,d4),f1.h(0,e3).h(0,d4)),0.01)
-a6=Math.sqrt(b9*b9+c0*c0)
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/16/aufgabe16")if(f3.i(0,d3)){r=f2.h(0,d3).h(0,d5)*f2.h(0,d4).h(0,d5)/1000
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/17/aufgabe17")if(f3.i(0,d3)){r=f2.h(0,d3).h(0,d5)*f2.h(0,d4).h(0,d5)/100
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/18/aufgabe18")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+a=f2.h(0,d4).h(0,d5)
+r=b*f2.h(0,d7).h(0,d5)*f2.h(0,d8).h(0,d5)*Math.cos(f2.h(0,d9).h(0,d5)*3.141592653589793/180)/a
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/19/aufgabe19")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+a=f2.h(0,d4).h(0,d5)
+r=1000*b*f2.h(0,d8).h(0,d5)*Math.cos(f2.h(0,d9).h(0,d5)*3.141592653589793/180)/a
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/20/aufgabe20")if(f3.i(0,d3)){b=f2.h(0,d3).h(0,d5)
+a=f2.h(0,d4).h(0,d5)
+r=f2.h(0,d7).h(0,d5)/(1+Math.sqrt(a/b))
+q=s.p(r,f4)}else p=d6
+else if(f1==="F03_Elektrostatik/21/aufgabe21")if(B.b.cQ(A.a(["value1","value2","value1x","value1y","value2x","value2y"],t.s),f3.ghn(f3))){a2=f2.h(0,d3).h(0,d5)
+a3=f2.h(0,d4).h(0,d5)
+c0=J.bE(J.agq(f2.h(0,e1).h(0,d5),f2.h(0,e3).h(0,d5)),0.01)
+c1=J.bE(J.agq(f2.h(0,e2).h(0,d5),f2.h(0,e4).h(0,d5)),0.01)
+a6=Math.sqrt(c0*c0+c1*c1)
 if(a6<1e-10)p="Abstand zwischen Q1 und Q2 ist 0"
 else{r=8987551792.3*Math.abs(a2*0.000001)*Math.abs(a3*1e-9)/(a6*a6)
-q=s.p(r,f3)}}else p=e4
-else if(f0==="F03_Elektrostatik/22/aufgabe22")if(B.b.cQ(A.a(["value0","value1","value2","value3","value1x","value1y","value2x","value2y","value3x","value3y"],t.s),f2.ghn(f2))){c1=J.aE(f1.h(0,e5).h(0,d4))-1
-b8=[J.bE(f1.h(0,d2).h(0,d4),1e-9),J.bE(f1.h(0,d3).h(0,d4),1e-9),J.bE(f1.h(0,d6).h(0,d4),1e-9)]
-c2=[J.bE(f1.h(0,e0).h(0,d4),0.01),J.bE(f1.h(0,e2).h(0,d4),0.01),J.bE(f1.h(0,e6).h(0,d4),0.01)]
-c3=[J.bE(f1.h(0,e1).h(0,d4),0.01),J.bE(f1.h(0,e3).h(0,d4),0.01),J.bE(f1.h(0,e7).h(0,d4),0.01)]
-for(c4=0,c5=0,c6=0;c6<3;++c6){if(c6===c1)continue
-b9=c2[c1]-c2[c6]
-c0=c3[c1]-c3[c6]
-a6=Math.sqrt(b9*b9+c0*c0)
+q=s.p(r,f4)}}else p=e5
+else if(f1==="F03_Elektrostatik/22/aufgabe22")if(B.b.cQ(A.a(["value0","value1","value2","value3","value1x","value1y","value2x","value2y","value3x","value3y"],t.s),f3.ghn(f3))){c2=J.aE(f2.h(0,e6).h(0,d5))-1
+b9=[J.bE(f2.h(0,d3).h(0,d5),1e-9),J.bE(f2.h(0,d4).h(0,d5),1e-9),J.bE(f2.h(0,d7).h(0,d5),1e-9)]
+c3=[J.bE(f2.h(0,e1).h(0,d5),0.01),J.bE(f2.h(0,e3).h(0,d5),0.01),J.bE(f2.h(0,e7).h(0,d5),0.01)]
+c4=[J.bE(f2.h(0,e2).h(0,d5),0.01),J.bE(f2.h(0,e4).h(0,d5),0.01),J.bE(f2.h(0,e8).h(0,d5),0.01)]
+for(c5=0,c6=0,c7=0;c7<3;++c7){if(c7===c2)continue
+c0=c3[c2]-c3[c7]
+c1=c4[c2]-c4[c7]
+a6=Math.sqrt(c0*c0+c1*c1)
 if(a6<1e-10)continue
-c7=8987551792.3*b8[c1]*b8[c6]/(a6*a6)
-c4+=c7*(b9/a6)
-c5+=c7*(c0/a6)}r=1000*Math.sqrt(c4*c4+c5*c5)
-q=s.p(r,f3)}else p=e4
-else if(f0==="F03_Elektrostatik/23/aufgabe23")if(B.b.cQ(A.a(["value0","value1","value2","value3","value1x","value1y","value2x","value2y","value3x","value3y"],t.s),f2.ghn(f2))){c1=J.aE(f1.h(0,e5).h(0,d4))-1
-b8=[J.bE(f1.h(0,d2).h(0,d4),1e-9),J.bE(f1.h(0,d3).h(0,d4),1e-9),J.bE(f1.h(0,d6).h(0,d4),1e-9)]
-c2=[J.bE(f1.h(0,e0).h(0,d4),0.01),J.bE(f1.h(0,e2).h(0,d4),0.01),J.bE(f1.h(0,e6).h(0,d4),0.01)]
-c3=[J.bE(f1.h(0,e1).h(0,d4),0.01),J.bE(f1.h(0,e3).h(0,d4),0.01),J.bE(f1.h(0,e7).h(0,d4),0.01)]
-for(c8=0,c9=0,c6=0;c6<3;++c6){if(c6===c1)continue
-b9=c2[c1]-c2[c6]
-c0=c3[c1]-c3[c6]
-a6=Math.sqrt(b9*b9+c0*c0)
+c8=8987551792.3*b9[c2]*b9[c7]/(a6*a6)
+c5+=c8*(c0/a6)
+c6+=c8*(c1/a6)}r=1000*Math.sqrt(c5*c5+c6*c6)
+q=s.p(r,f4)}else p=e5
+else if(f1==="F03_Elektrostatik/23/aufgabe23")if(B.b.cQ(A.a(["value0","value1","value2","value3","value1x","value1y","value2x","value2y","value3x","value3y"],t.s),f3.ghn(f3))){c2=J.aE(f2.h(0,e6).h(0,d5))-1
+b9=[J.bE(f2.h(0,d3).h(0,d5),1e-9),J.bE(f2.h(0,d4).h(0,d5),1e-9),J.bE(f2.h(0,d7).h(0,d5),1e-9)]
+c3=[J.bE(f2.h(0,e1).h(0,d5),0.01),J.bE(f2.h(0,e3).h(0,d5),0.01),J.bE(f2.h(0,e7).h(0,d5),0.01)]
+c4=[J.bE(f2.h(0,e2).h(0,d5),0.01),J.bE(f2.h(0,e4).h(0,d5),0.01),J.bE(f2.h(0,e8).h(0,d5),0.01)]
+for(c9=0,d0=0,c7=0;c7<3;++c7){if(c7===c2)continue
+c0=c3[c2]-c3[c7]
+c1=c4[c2]-c4[c7]
+a6=Math.sqrt(c0*c0+c1*c1)
 if(a6<1e-10)continue
-d0=8987551792.3*b8[c6]/(a6*a6)
-c8+=d0*(b9/a6)
-c9+=d0*(c0/a6)}r=Math.sqrt(c8*c8+c9*c9)/1000
-q=s.p(r,f3)}else p=e4
-else if(f0==="F03_Elektrostatik/24/aufgabe24")if(B.b.cQ(A.a(["value0","value1","value2","value3","value4","value1x","value1y","value2x","value2y","value3x","value3y","value4x","value4y"],t.s),f2.ghn(f2))){c1=J.aE(f1.h(0,e5).h(0,d4))-1
-b8=[J.bE(f1.h(0,d2).h(0,d4),1e-9),J.bE(f1.h(0,d3).h(0,d4),1e-9),J.bE(f1.h(0,d6).h(0,d4),1e-9),J.bE(f1.h(0,d7).h(0,d4),1e-9)]
-c2=[J.bE(f1.h(0,e0).h(0,d4),0.01),J.bE(f1.h(0,e2).h(0,d4),0.01),J.bE(f1.h(0,e6).h(0,d4),0.01),J.bE(f1.h(0,"value4x").h(0,d4),0.01)]
-c3=[J.bE(f1.h(0,e1).h(0,d4),0.01),J.bE(f1.h(0,e3).h(0,d4),0.01),J.bE(f1.h(0,e7).h(0,d4),0.01),J.bE(f1.h(0,"value4y").h(0,d4),0.01)]
-for(c4=0,c5=0,c6=0;c6<4;++c6){if(c6===c1)continue
-b9=c2[c1]-c2[c6]
-c0=c3[c1]-c3[c6]
-a6=Math.sqrt(b9*b9+c0*c0)
+d1=8987551792.3*b9[c7]/(a6*a6)
+c9+=d1*(c0/a6)
+d0+=d1*(c1/a6)}r=Math.sqrt(c9*c9+d0*d0)/1000
+q=s.p(r,f4)}else p=e5
+else if(f1==="F03_Elektrostatik/24/aufgabe24")if(B.b.cQ(A.a(["value0","value1","value2","value3","value4","value1x","value1y","value2x","value2y","value3x","value3y","value4x","value4y"],t.s),f3.ghn(f3))){c2=J.aE(f2.h(0,e6).h(0,d5))-1
+b9=[J.bE(f2.h(0,d3).h(0,d5),1e-9),J.bE(f2.h(0,d4).h(0,d5),1e-9),J.bE(f2.h(0,d7).h(0,d5),1e-9),J.bE(f2.h(0,d8).h(0,d5),1e-9)]
+c3=[J.bE(f2.h(0,e1).h(0,d5),0.01),J.bE(f2.h(0,e3).h(0,d5),0.01),J.bE(f2.h(0,e7).h(0,d5),0.01),J.bE(f2.h(0,"value4x").h(0,d5),0.01)]
+c4=[J.bE(f2.h(0,e2).h(0,d5),0.01),J.bE(f2.h(0,e4).h(0,d5),0.01),J.bE(f2.h(0,e8).h(0,d5),0.01),J.bE(f2.h(0,"value4y").h(0,d5),0.01)]
+for(c5=0,c6=0,c7=0;c7<4;++c7){if(c7===c2)continue
+c0=c3[c2]-c3[c7]
+c1=c4[c2]-c4[c7]
+a6=Math.sqrt(c0*c0+c1*c1)
 if(a6<1e-10)continue
-c7=8987551792.3*b8[c1]*b8[c6]/(a6*a6)
-c4+=c7*(b9/a6)
-c5+=c7*(c0/a6)}r=1000*Math.sqrt(c4*c4+c5*c5)
-q=s.p(r,f3)}else p=e4
-if(f0==="F03_Elektrostatik/25/aufgabe25")if(f2.i(0,d2)&&f2.i(0,d3))try{o=f1.h(0,d2).h(0,d4)
-n=f1.h(0,d3).h(0,d4)
+c8=8987551792.3*b9[c2]*b9[c7]/(a6*a6)
+c5+=c8*(c0/a6)
+c6+=c8*(c1/a6)}r=1000*Math.sqrt(c5*c5+c6*c6)
+q=s.p(r,f4)}else p=e5
+if(f1==="F03_Elektrostatik/25/aufgabe25")if(f3.i(0,d3)&&f3.i(0,d4))try{o=f2.h(0,d3).h(0,d5)
+n=f2.h(0,d4).h(0,d5)
 if(o>0&&n>0&&n<180){m=o/1000
 l=m*9.81*1000
 k=n/2*0.017453292519943295
 r=l*Math.tan(k)
-q=s.p(r,f3)}else p=e8}catch(d1){j=A.n(d1)
-p=e9+A.f(j)}else p=d9
-if(f0==="F03_Elektrostatik/26/aufgabe26")if(f2.i(0,d2)&&f2.i(0,d3))try{i=f1.h(0,d2).h(0,d4)
-h=f1.h(0,d3).h(0,d4)
+q=s.p(r,f4)}else p=e9}catch(d2){j=A.n(d2)
+p=f0+A.f(j)}else p=e0
+if(f1==="F03_Elektrostatik/26/aufgabe26")if(f3.i(0,d3)&&f3.i(0,d4))try{i=f2.h(0,d3).h(0,d5)
+h=f2.h(0,d4).h(0,d5)
 if(i>0&&h>0&&h<180){g=i/1000
 f=g*9.81*1000
 e=h/2*0.017453292519943295
 d=Math.cos(e)
 if(d>0){r=f/d
-q=s.p(r,f3)}else p="Berechnung nicht m\xf6glich: Ung\xfcltiger Winkel (Kosinus ist Null oder negativ)"}else p=e8}catch(d1){c=A.n(d1)
-p=e9+A.f(c)}else p=d9
+q=s.p(r,f4)}else p="Berechnung nicht m\xf6glich: Ung\xfcltiger Winkel (Kosinus ist Null oder negativ)"}else p=e9}catch(d2){c=A.n(d2)
+p=f0+A.f(c)}else p=e0
 return new A.dP(r,q,p)},
 b0q:function b0q(a,b,c,d){var _=this
 _.a=a
