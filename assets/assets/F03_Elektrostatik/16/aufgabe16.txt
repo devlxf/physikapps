@@ -1,2 +1,4 @@
-An einem Plattenkondensator liegt die Spannung <T>U=</T><p>value1 \text{ V}</p> an.
-Berechnen Sie die Energie <T>W</T>, die erforderlich ist, um die Ladung <T>q=</T><p>value2 \text{ nC}</p> von einer Platte zur anderen zu transportieren.
+Ein Körper der Ladung <T>q=</T><p>value1 \text{ nC}</p> befindet sich an einem Ort, an dem sich die Felder
+<T>E_1=</T><p>value2 \text{ kN/C}</p> und <T>E_2=</T><p>value3 \text{ kN/C}</p> orthogonal überlagern.
+
+Bestimmen Sie die Kraft <T>F_\text{res}</T>, die das Teilchen erfährt.

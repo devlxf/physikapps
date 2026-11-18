@@ -1,6 +1,3 @@
-Drei geladene Kugeln befinden sich ortsfest in der abgebildeten Konfiguration (siehe Bild).
+Zwei Kugeln mit der Ladung <T>q_1=</T><p>value1  \text{ μC}</p> und <T>q_2=</T><p>value2  \text{ μC}</p> befinden sich auf einer Geraden im Abstand <T>r=</T><p>value3  \text{ cm}</p>.
 
-Kugel 1 trägt die Ladung <T>q_1=</T><p>value1  \text{ nC}</p>, Kugel 2 die Ladung <T>q_2=</T><p>value2  \text{ nC}</p> und Kugel 3 die Ladung <T>q_3=</T><p>value3  \text{ nC}</p>.
-
-
-Berechnen Sie den Betrag der Kraft <T>F</T> auf die markierte Kugel.
+Bestimmen Sie (bezogen auf Kugel 1) den Ort, an dem sich die Feldstärken beider Ladungen gegenseitig aufheben (feldfreier Punkt zwischen den Kugeln).

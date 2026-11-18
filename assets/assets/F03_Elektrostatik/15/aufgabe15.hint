@@ -1,10 +1,7 @@
-Die beiden Felder überlagern sich und bilden ein resultierendes Feld.
+Berechnen Sie über das Kugelvolumen des Regentröpfchens seine Masse.
 ---HINT---
-Zerlegen Sie die beiden Felder zuerst in <p>x-</p> und <p>y-</p>.Komponente.
+Stellen Sie mit der Gewichtskraft des Tröpfchens das Kräftegleichgewicht zwischen Gewichtskraft und Coulombkraft auf.
 ---HINT---
-Addieren Sie die Komponenten zu resultierenden <p>x-</p> und <p>y-</p>.Komponenten.
+Berechnen Sie damit die benötigte Ladungsmenge <p>q</p>, um die für den Schwebezustand benötigte Coulombkraft zu erreichen.
 ---HINT---
-Bilden Sie anschließend mit dem Satz von Pythagoras das resultierende elektrische Feld.
----HINT---
-Berechnen Sie abschließend mit resultierendem Feld und gegebener Ladung die elektrische Kraft.
-
+Berechnen Sie mit der Elementarladung <p>1\text{ e} = -1,6\cdot{10}^{-19}\text{ C}</p> des Elektrons die benötigte Anzahl <p>n</p> der Ladungsträger.

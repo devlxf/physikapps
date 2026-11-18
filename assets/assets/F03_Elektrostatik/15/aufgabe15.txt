@@ -1,4 +1,4 @@
-Ein Körper der Ladung <T>q=</T><p>value1 \text{ nC}</p> befindet sich an einem Ort, an dem sich zwei homogene Felder
-<T>E_1=</T><p>value2 \text{ N/C}</p> und <T>E_2=</T><p>value3 \text{ N/C}</p> in einem Winkel von <T>\alpha=</T><p>value4 °</p> überlagern.
+Das elektrische Gewitterfeld (Feldstärke kurz vor dem Blitzeinschlag <T>E=</T><p>value1 \text{ kN/C}</p>) verläuft vertikal nach unten.
+Ein Regentröpfchen von <T>r=</T><p>value2 \text{ mm}</p> Radius sei negativ geladen.
 
-Bestimmen Sie die Kraft <T>F_\text{res}</T>, die das Teilchen erfährt.
+Wie viele Elektronen <T>N</T> muss es an Überschuss tragen, damit an ihm die elektrische Feldkraft der Gewichtskraft das Gleichgewicht hält?

@@ -1,7 +1,7 @@
-Die Bedingung für den Feldfreien Raum ist, dass die Überlagerung beider Felder 0 ergibt.
+Arbeit ist „Kraft mal Weg“.
 ---HINT---
-Setze die Felder von Punktladungen in <p>0 = {E}_{1}+{E}_{2}</p> ein.
+Nur der Weg in Kraftrichtung ist von Bedeutung.
 ---HINT---
-<p>a</p> und <p>b</p> sind jeweils die Abstände der Ladungen vom betrachteten Ort. Sie können Die Relation <p>a+b = r</p> nutzen, um eine Variable zu eliminieren.
+Die Kraft kann durch die Feldstärke ausgedrückt werden.
 ---HINT---
-Nach Umformen erhalten Sie eine quadratische Gleichung f <p>r</p>, die sie lösen können.
+Zwischen Feldstärke und Spannung gibt es ebenfalls eine Beziehung.

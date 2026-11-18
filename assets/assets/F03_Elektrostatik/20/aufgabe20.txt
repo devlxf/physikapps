@@ -1,3 +1,4 @@
-Zwei Kugeln mit der Ladung <T>q_1=</T><p>value1  \text{ μC}</p> und <T>q_2=</T><p>value2  \text{ μC}</p> befinden sich auf einer Geraden im Abstand <T>r=</T><p>value3  \text{ cm}</p>.
+An einen Plattenkondensator wird die Spannung <T>U=</T><p>value1 \text{ kV}</p> gelegt. Eine Platte ist geerdet, der Plattenabstand beträgt <T>d=</T><p>value2 \text{ cm}</p>.
+Die Ladung <T>q=</T><p>value3 \text{ nC}</p> wird im homogenen Feld des Plattenkondensators eine <T>c=</T><p>value4 \text{ cm}</p> lange Strecke unter einem Winkel von <T>\alpha=</T><p>value5 ^\circ</p> gegen die Feldlinie gerichtet transportiert.
 
-Bestimmen Sie (bezogen auf Kugel 1) den Ort, an dem sich die Feldstärken beider Ladungen gegenseitig aufheben (feldfreier Punkt zwischen den Kugeln).
+Berechnen Sie die Änderung der potenziellen Energie <T>\Delta E_\text{pot}</T>.

@@ -1,4 +1,2 @@
-Das elektrische Gewitterfeld (Feldstärke kurz vor dem Blitzeinschlag <T>E=</T><p>value1 \text{ kN/C}</p>) verläuft vertikal nach unten.
-Ein Regentröpfchen von <T>r=</T><p>value2 \text{ mm}</p> Radius sei negativ geladen.
-
-Wie viele Elektronen <T>N</T> muss es an Überschuss tragen, damit an ihm die elektrische Feldkraft der Gewichtskraft das Gleichgewicht hält?
+Eine Münze wiegt <T>m=</T><p>value1 \text{ g}</p> und befindet sich in einem elektrischen Feld der Stärke <T>E=</T><p>value2 \text{ N/C}</p>.
+Bestimmen Sie die Anzahl der Elektronen <T>e</T>, die diese Münze haben müsste, sodass die durch das elektrische Feld bewirkte Kraft die Gravitationskraft ausgleicht.

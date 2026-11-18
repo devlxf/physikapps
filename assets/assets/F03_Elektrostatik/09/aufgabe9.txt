@@ -1,1 +1,3 @@
-Wie groß ist die Feldstärke <T>E</T> in einem Punkt im Raum, wenn dort auf eine elektrische Ladung mit <T>q=</T><p>value1 \text{ μC}</p> eine Kraft von <T>F=</T><p>value2 \text{ N}</p> ausgeübt wird?
+Auf zwei Graphitkugeln befinden sich gleich große negative Ladungen. Jede Kugel hat die Masse <T>m=</T><p>value1\ \text{ g}</p> und ist an einem gut isolierenden Seidenfaden aufgehängt. Aufgrund der elektrischen Kräfte bilden die Seidenfäden einen Winkel von <T>\beta=</T><p>value2\ ^\circ</p>.
+
+Berechnen Sie den Betrag der abstoßenden Kraft <T>F'</T>.

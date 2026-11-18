@@ -1,6 +1,9 @@
-Die beiden Felder überlagern sich und bilden ein resultierendes Feld.
+Zeichnen Sie dann ein Kräfteparallelogramm mit allen an der Ladung angreifenden Kräften.
 ---HINT---
-Ermitteln Sie zuerst die Kräfte, die auf die Ladung wirken separat mit <p>F=q\cdot E</p>.
+Berechnen Sie den Auslenkwinkel <p>\beta</p> über das Kathetenverhältnis.
 ---HINT---
-Die resultierende Kraft berechnen Sie nun mit dem Satz von Pythagoras.
-
+Bestimmen Sie die wirkende elektrische Kraft <p>{F}_{el}</p> aus dem Kräftegleichgewicht zwischen elektrischer Kraft und rückstellender Kraft <p>{F}_{R}</p>.
+---HINT---
+Die Rückstellende Kraft <p>{F}_{R}</p> kann dabei mit Hilfe des Kräfteparallelogramms und der Gewichtskraft <p>{F}_{G}</p> berechnet werden.
+---HINT---
+Die Feldstärke <p>E</p> kann abschließend mit entsprechender Formel aus der elektrischen Kraft <p>{F}_{el}</p> berechnet werden.

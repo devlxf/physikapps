@@ -1,9 +1,9 @@
-Berechnen Sie die Feldstärken für beide Kugeln separat.
+Nutzen Sie das Coulombsche Kraftgesetz.
 ---HINT---
-Die Abstände der beiden Kugeln müssen Sie dabei aus dem Schaubild ermitteln, bzw. berechnen.
+Um den Abstand der beiden Kugeln zu berechnen, müssen Sie zuerst den Abstand in <p>x</p>-Richtung und <p>y</p>-Richtung separat berechnen.
 ---HINT---
-Zerlegen Sie die Feldstärken jeweils in eine <p>x</p>- und eine <p>y</p>-Komponente.
+Mit den Satz von Pythagoras können danach den Abstand der beiden Kugeln bestimmen.
 ---HINT---
-Addieren die jeweils die <p>x</p>-Komponenten und <p>y</p>-Komponenten zu resultierenden Kraftkomponenten.
----HINT---
-Berechnen Sie die Richtung der wirkenden resultierenden Feldstärke mit dem Tangens.
+Es gilt für den AAbstand <p>r</p>
+
+<p>r=\sqrt{x^2+y^2</p>

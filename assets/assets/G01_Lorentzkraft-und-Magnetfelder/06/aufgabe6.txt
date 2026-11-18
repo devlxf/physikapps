@@ -2,4 +2,4 @@ Berechnen Sie die Kraft zwischen zwei parallelen stromdurchflossenen Leitern (<T
 
 Zusatzfragen:
 - Handelt es sich bei der Stromrichtung in der Zeichnung um die technische oder physikalische Stromrichtung?
-- Warum wirken die Stromdurchflossenen Leiter anziehend aufeinander?
+- Warum wirken die stromdurchflossenen Leiter anziehend aufeinander?

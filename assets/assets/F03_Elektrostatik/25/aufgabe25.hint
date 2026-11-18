@@ -1,7 +1,9 @@
-Die senkrecht nach unten wirkende Kraft ist die Gewichtskraft <p>{F}_{G}</p>.
+Berechnen Sie die Feldstärken für beide Kugeln separat.
 ---HINT---
-Die elektrischen Kräfte wirken horizontal und bilden einen rechten Winkel mit der Gewichtskraft.
+Die Abstände der beiden Kugeln müssen Sie dabei aus dem Schaubild ermitteln, bzw. berechnen.
 ---HINT---
-Die Katheten <p>{F}_{G}</p> und <p>F'</p> bilden mit der Kraft im Faden als Hypotenuse ein rechtwinkliges Dreieck.
+Zerlegen Sie die Feldstärken jeweils in eine <p>x</p>- und eine <p>y</p>-Komponente.
 ---HINT---
-Mit dem Winkel <p>\frac{\beta}{2}</p> und der Gewichtskraft <p>{F}_{G}</p> kann die elektrische Kraft <p>F'</p> über den Tangens berechnet werden: <p>F' = {F}_{G} \cdot \tan\!\left(\frac{\beta}{2}\right)</p>
+Addieren die jeweils die <p>x</p>-Komponenten und <p>y</p>-Komponenten zu resultierenden Kraftkomponenten.
+---HINT---
+Berechnen Sie die Richtung der wirkenden resultierenden Feldstärke mit dem Tangens.

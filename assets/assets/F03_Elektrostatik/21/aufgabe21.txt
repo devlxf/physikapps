@@ -1,6 +1,4 @@
-Zwei geladene Kugeln befinden sich ortsfest in der abgebildeten Konfiguration (siehe Bild).
+An einen Plattenkondensator wird die Spannung <T>U=</T><p>value1 \text{ kV}</p> gelegt. Eine Platte ist geerdet, der Plattenabstand beträgt <T>d=</T><p>value2 \text{ cm}</p>.
+Die Ladung <T>q=</T><p>value3 \text{ nC}</p> wird im homogenen Feld des Plattenkondensators eine <T>c=</T><p>value4 \text{ cm}</p> lange Strecke unter einem Winkel von <T>\alpha=</T><p>value5 ^\circ</p> gegen die Feldlinie gerichtet transportiert.
 
-Kugel 1 trägt die Ladung <T>q_1=</T><p>value1  \text{ nC}</p> und Kugel 2 die Ladung <T>q_2=</T><p>value2  \text{ nC}</p>.
-
-
-Berechnen Sie den Betrag der Kraft <T>F</T> zwischen beiden Kugeln.
+Wie groß ist die durchlaufene Potenzialdifferenz <T>\Delta \varphi</T>?

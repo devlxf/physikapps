@@ -1,1 +1,14 @@
-Gehen Sie genauso vor, wie im Fall von 3 Ladungsträgern. In dieser Aufgabe gibt es jeweils eine Kraftkomponente mehr zu berücksichtigen.
+Nutzen Sie das Coulombsche Kraftgesetz.
+---HINT---
+Um den Abstand der beiden Kugeln zu berechnen, müssen Sie zuerst den Abstand in <p>x</p>-Richtung und <p>y</p>-Richtung separat berechnen.
+---HINT---
+Mit den Satz von Pythagoras können danach den Abstand der beiden Kugeln bestimmen.
+---HINT---
+Zerlegen Sie die Kräfte in <p>x</p>-Richtung und <p>y</p>-Richtung mit Sinus und Kosinus. Dabei ist <p>F_x^1=F_{ges}\cdot\cos(\alpha)</p> und <p>F_y^2=F_{ges}\cdot\sin(\alpha)</p> 
+---HINT---
+Addieren Sie komponentenweise mit <p>F^{ges}_x=F_x^1+F_x^2</p> und <p>F^{ges}_y=F_y^1+F_y^2</p>. 
+---HINT---
+Die Gesamtkraft entspricht nach dem Satz von Pythagoras
+
+<p>F^{ges}=\sqrt{F^{ges}_x+F^{ges}_x}</p>
+

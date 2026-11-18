@@ -1,1 +1,10 @@
-Berechnen Sie das Potenzial, indem Sie die gegebene Feldstärke und den Plattenabstand in die entsprechende Formel einsetzen.
+Die beiden Felder überlagern sich und bilden ein resultierendes Feld.
+---HINT---
+Zerlegen Sie die beiden Felder zuerst in <p>x-</p> und <p>y-</p>.Komponente.
+---HINT---
+Addieren Sie die Komponenten zu resultierenden <p>x-</p> und <p>y-</p>.Komponenten.
+---HINT---
+Bilden Sie anschließend mit dem Satz von Pythagoras das resultierende elektrische Feld.
+---HINT---
+Berechnen Sie abschließend mit resultierendem Feld und gegebener Ladung die elektrische Kraft.
+

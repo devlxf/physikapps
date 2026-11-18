@@ -1,5 +1,3 @@
-Zwischen zwei geladenen Platten hängt eine geladene Kugel der Masse <T>m=</T><p>value1 \text{ g}</p>
-an einem <T>l=</T><p>value2 \text{ m}</p> langen Faden. Auf der Kugel befindet sich eine Ladung von <T>q=</T><p>value3 \text{ nC}</p>.
-Die Kugel wird um <T>s=</T><p>value4 \text{ mm}</p> aus der Ruhelage ausgelenkt.
-
-Berechnen Sie die anliegende Feldstärke <T>E</T>.
+Ein Elektron befindet sich in einem elektrischen Feld der Stärke <T>E=</T><p>value1 \text{ kN/C}</p>.
+Berechnen Sie seine Beschleunigung und vergleichen Sie diese mit dem Einfluss der Gravitation.
+Setzen Sie <T>\frac{F_\text{G}}{F_\text{el}}</T> ins Verhältnis und tragen diesen Wert ein.

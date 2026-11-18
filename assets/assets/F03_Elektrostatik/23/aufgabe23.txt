@@ -1,5 +1,6 @@
-Drei geladene Kugeln befinden sich ortsfest in der abgebildeten Konfiguration (siehe Bild).
+Zwei geladene Kugeln befinden sich ortsfest in der abgebildeten Konfiguration (siehe Bild).
 
-Kugel 1 trägt die Ladung <T>q_1=</T><p>value1  \text{ nC}</p>, Kugel 2 die Ladung <T>q_2=</T><p>value2  \text{ nC}</p> und Kugel 3 die Ladung <T>q_3=</T><p>value3  \text{ nC}</p>.
+Kugel 1 trägt die Ladung <T>q_1=</T><p>value1  \text{ nC}</p> und Kugel 2 die Ladung <T>q_2=</T><p>value2  \text{ nC}</p>.
 
-Entfernen Sie die ausgewählte Kugel gedanklich und berechnen Sie die Feldstärke an diesem Ort.
+
+Berechnen Sie den Betrag der Kraft <T>F</T> zwischen beiden Kugeln.

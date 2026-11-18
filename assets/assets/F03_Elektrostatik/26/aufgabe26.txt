@@ -1,3 +1,7 @@
-Auf zwei Graphitkugeln befinden sich gleich große negative Ladungen. Jede Kugel hat die Masse <T>m=</T><p>value1\ \text{ g}</p> und ist an einem gut isolierenden Seidenfaden aufgehängt. Aufgrund der elektrischen Kräfte bilden die Seidenfäden einen Winkel von <T>\beta=</T><p>value2\ ^\circ</p>.
+Vier geladene Kugeln befinden sich ortsfest in der abgebildeten Konfiguration (siehe Bild).
 
-Welche Kraft übt der Seidenfaden auf eine Graphitkugel aus?
+Kugel 1 trägt die Ladung <T>q_1=</T><p>value1  \text{ nC}</p>, Kugel 2 die Ladung <T>q_2=</T><p>value2  \text{ nC}</p>, Kugel 3 die Ladung <T>q_3=</T><p>value3  \text{ nC}</p> und Kugel 4 die Ladung <T>q_4=</T><p>value4  \text{ nC}</p>.
+
+Berechnen Sie den Betrag der Gesamtkraft auf die markierte Kugel.
+
+
