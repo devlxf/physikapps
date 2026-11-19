@@ -1,4 +1,4 @@
-Ein idealer Schwingkreis, der aus der Kapazität  <T>C=</T><p>value1\ \text{pF}\ </p> und einer Induktivität <T>L=</T><p>value2\ \text{µH}\ </p> besteht, schwingt ungedämpft. Zum Zeitpunkt <p>t=0\  \text{s}\ </p> ist der Kondensator vollständig aufgeladen, die Spannung beträgt dann  <T>U=</T><p>value3\ \text{V}\ </p>).
+Ein idealer Schwingkreis, der aus der Kapazität  <T>C=</T><p>value1\ \text{pF}\ </p> und einer Induktivität <T>L=</T><p>value2\ \text{µH}\ </p> besteht, schwingt ungedämpft. Zum Zeitpunkt <p>t=0\  \text{s}\ </p> ist der Kondensator vollständig aufgeladen, die Spannung beträgt dann  <T>U=</T><p>value3\ \text{V}\ </p>.
 
 Ermitteln Sie den Zeitpunkt, zu dem der Kondensator nach <p>t=0\  \text{s}\ </p>  erstmals vollständig entladen ist. 
 

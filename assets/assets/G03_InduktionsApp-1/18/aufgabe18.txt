@@ -1,2 +1,2 @@
-Ein quadratischer Rahmen mit einer Masse von <T>m=</T><p>value3 \text{ g}</p>, hat eine Kantenlänge <T>l=</T><p>value1 \text{ cm}</p> und einen Gesamtwiderstand von <T>R=</T><p>value4 \text{ m}\Omega</p>. Er fällt von oben in ein Magnetfeld hat eine Stärke von <T>B=</T><p>value2 \text{ T}</p>.
+Ein quadratischer Rahmen mit einer Masse von <T>m=</T><p>value3 \text{ g}</p> hat eine Kantenlänge <T>l=</T><p>value1 \text{ cm}</p> und einen Gesamtwiderstand von <T>R=</T><p>value4 \text{ m}\Omega</p>. Er fällt von oben in ein Magnetfeld der Stärke <T>B=</T><p>value2 \text{ T}</p>.
 Bei welcher Geschwindigkeit <T>v</T> ist die Bremskraft <T>F_\text{B}</T> so groß wie seine Gewichtskraft <T>F_\text{G}</T>?

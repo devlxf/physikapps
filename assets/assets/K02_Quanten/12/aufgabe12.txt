@@ -1,1 +1,1 @@
-Berechnen Sie die Geschwindigkeit <T>v</T> eines Elektrons auf der <T>n=</T><p>value1</p> Bahn eines Atoms mit der Kernladungszahl <T>Z=</T><p>value2</p>.
+Berechnen Sie die Geschwindigkeit <T>v</T> eines Elektrons auf der Bahn <T>n=</T><p>value1</p> eines Atoms mit der Kernladungszahl <T>Z=</T><p>value2</p>.

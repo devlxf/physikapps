@@ -1,1 +1,1 @@
-Bestimmen Sie die Umlauffrequenz <T>f_\text{e}</T> des Elektrons auf der <T>n=</T><p>value1</p> Bahn eines Atoms mit der Kernladungszahl <T>Z=</T><p>value2</p>.
+Bestimmen Sie die Umlauffrequenz <T>f_\text{e}</T> des Elektrons auf der Bahn <T>n=</T><p>value1</p> eines Atoms mit der Kernladungszahl <T>Z=</T><p>value2</p>.
